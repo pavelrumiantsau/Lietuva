@@ -36,9 +36,12 @@
   });
   map.fitBounds(LITHUANIA_BOUNDS);
 
-  L.tileLayer("https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png", {
-    attribution:
-      'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, tiles by <a href="https://wikimediafoundation.org/">Wikimedia</a>',
+  // maps.wikimedia.org (used previously) blocks any request that carries a
+  // Referer header from outside wikimedia.org with a 403 — fine for curl
+  // (which sends no Referer) but every browser sends one, so tiles never
+  // loaded. OSM's own tile server has no such restriction.
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     maxZoom: 19,
   }).addTo(map);
 
