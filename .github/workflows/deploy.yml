@@ -31,7 +31,10 @@ jobs:
         run: npm ci
 
       - name: Build site
-        run: npx eleventy
+        run: npm run build:pages
+
+      - name: QA check
+        run: PATH_PREFIX=/Lietuva/ npm run qa-check
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -247,6 +247,7 @@ main {
 }
 
 .place-card img {
+  width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
@@ -351,12 +352,34 @@ main {
 }
 
 .gallery-pagination {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
   gap: 1rem;
   margin-top: 1.5rem;
-  flex-wrap: wrap;
+}
+
+.gallery-pagination a:first-child {
+  justify-self: start;
+}
+
+.gallery-pagination a:last-child {
+  justify-self: end;
+}
+
+.gallery-pagination .page-status {
+  justify-self: center;
+  text-align: center;
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 480px) {
+  .gallery-pagination {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+  }
 }
 
 .gallery-pagination a {
@@ -370,15 +393,104 @@ main {
   align-items: center;
 }
 
-.gallery-pagination .page-status {
-  color: var(--color-text-muted);
-  font-size: 0.9rem;
-}
-
 @media (min-width: 640px) {
   .place-hero__highlight {
     max-height: 560px;
   }
+}
+
+.place-footer-nav {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+}
+
+/* Lightbox */
+
+body.lightbox-open {
+  overflow: hidden;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 12, 9, 0.92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  padding: 3rem 1rem;
+}
+
+.lightbox[hidden] {
+  display: none;
+}
+
+.lightbox__image {
+  max-width: min(90vw, 1100px);
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.lightbox__close,
+.lightbox__prev,
+.lightbox__next {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lightbox__close:hover,
+.lightbox__prev:hover:not(:disabled),
+.lightbox__next:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.lightbox__prev:disabled,
+.lightbox__next:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.lightbox__close {
+  top: 1rem;
+  right: 1rem;
+}
+
+.lightbox__prev {
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.lightbox__next {
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.lightbox__status {
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #fff;
+  font-size: 0.9rem;
+  margin: 0;
 }
 
 /* Map dots */

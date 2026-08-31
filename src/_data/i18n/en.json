@@ -23,7 +23,11 @@
     "page": "Page",
     "nextPage": "Next page",
     "prevPage": "Previous page",
-    "visited": "Visited"
+    "visited": "Visited",
+    "closePhoto": "Close",
+    "prevPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "photoViewer": "Photo viewer"
   },
   "placesList": {
     "title": "All places",

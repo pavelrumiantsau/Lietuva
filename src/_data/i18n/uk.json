@@ -23,7 +23,11 @@
     "page": "Сторінка",
     "nextPage": "Наступна сторінка",
     "prevPage": "Попередня сторінка",
-    "visited": "Відвідано"
+    "visited": "Відвідано",
+    "closePhoto": "Закрити",
+    "prevPhoto": "Попереднє фото",
+    "nextPhoto": "Наступне фото",
+    "photoViewer": "Перегляд фото"
   },
   "placesList": {
     "title": "Усі місця",

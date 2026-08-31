@@ -1,5 +1,6 @@
 const locales = require("./locales.js");
 const getPlaces = require("./places.js");
+const urlSlugs = require("./urlSlugs.js");
 
 const PHOTOS_PER_PAGE = 48;
 
@@ -8,6 +9,7 @@ module.exports = () => {
   const entries = [];
 
   for (const lang of locales) {
+    const slug = urlSlugs[lang] || lang;
     for (const place of places) {
       const photos = place.photos || [];
       const totalPages = Math.max(1, Math.ceil(photos.length / PHOTOS_PER_PAGE));
@@ -17,8 +19,8 @@ module.exports = () => {
         const pagePhotos = photos.slice(start, start + PHOTOS_PER_PAGE);
         const permalink =
           pageNumber === 1
-            ? `/${lang}/places/${place.slug}/`
-            : `/${lang}/places/${place.slug}/photos/${pageNumber}/`;
+            ? `/${slug}/places/${place.slug}/`
+            : `/${slug}/places/${place.slug}/photos/${pageNumber}/`;
 
         entries.push({
           lang,
@@ -31,12 +33,12 @@ module.exports = () => {
             pageNumber === 1
               ? null
               : pageNumber === 2
-              ? `/${lang}/places/${place.slug}/`
-              : `/${lang}/places/${place.slug}/photos/${pageNumber - 1}/`,
+              ? `/${slug}/places/${place.slug}/`
+              : `/${slug}/places/${place.slug}/photos/${pageNumber - 1}/`,
           nextPermalink:
             pageNumber === totalPages
               ? null
-              : `/${lang}/places/${place.slug}/photos/${pageNumber + 1}/`,
+              : `/${slug}/places/${place.slug}/photos/${pageNumber + 1}/`,
         });
       }
     }

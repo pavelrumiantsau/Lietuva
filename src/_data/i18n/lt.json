@@ -23,7 +23,11 @@
     "page": "Puslapis",
     "nextPage": "Kitas puslapis",
     "prevPage": "Ankstesnis puslapis",
-    "visited": "Lankyta"
+    "visited": "Lankyta",
+    "closePhoto": "Uždaryti",
+    "prevPhoto": "Ankstesnė nuotrauka",
+    "nextPhoto": "Kita nuotrauka",
+    "photoViewer": "Nuotraukų peržiūra"
   },
   "placesList": {
     "title": "Visos vietos",

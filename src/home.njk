@@ -11,13 +11,18 @@ eleventyComputed:
   altUrlEn: "{{ 'en' | homeUrl }}"
   altUrlUk: "{{ 'uk' | homeUrl }}"
 pageScripts:
-  - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js
-  - https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js
+  - url: https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js
+    integrity: sha384-cxOPjt7s7Iz04uaHJceBmS+qpjv2JkIHNVcuOrM+YHwZOmJGBXI00mdUXEq65HTH
+  - url: https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js
+    integrity: sha384-eXVCORTRlv4FUUgS/xmOyr66XBVraen8ATNLMESp92FKXLAMiKkerixTiBvXriZr
   - /assets/js/map.js
 pageStyles:
-  - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css
-  - https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css
-  - https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css
+  - url: https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css
+    integrity: sha384-sHL9NAb7lN7rfvG5lfHpm643Xkcjzp4jFvuavGOndn6pjVqS6ny56CAt3nsEVT4H
+  - url: https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css
+    integrity: sha384-pmjIAcz2bAn0xukfxADbZIb3t8oRT9Sv0rvO+BR5Csr6Dhqq+nZs59P0pPKQJkEV
+  - url: https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css
+    integrity: sha384-wgw+aLYNQ7dlhK47ZPK7FRACiq7ROZwgFNg0m04avm4CaXS+Z9Y7nMu8yNjBKYC+
 ---
 <section class="hero">
   <h1>{{ "site.title" | t(lang) }}</h1>

@@ -11,6 +11,8 @@ eleventyComputed:
   altUrlLt: "{{ item.place | placeUrl('lt') }}"
   altUrlEn: "{{ item.place | placeUrl('en') }}"
   altUrlUk: "{{ item.place | placeUrl('uk') }}"
+pageScripts:
+  - /assets/js/gallery.js
 ---
 {% set place = item.place %}
 {% set lang = item.lang %}
@@ -55,7 +57,7 @@ eleventyComputed:
       {% if item.totalPages > 1 %}&mdash; {{ "place.page" | t(lang) }} {{ item.pageNumber }} / {{ item.totalPages }}{% endif %}
     </h2>
 
-    <ul class="gallery-grid">
+    <ul class="gallery-grid" id="gallery-grid">
       {% for photo in item.pagePhotos %}
       {% set photoIndex = (item.pageNumber - 1) * 48 + loop.index %}
       <li>
@@ -68,6 +70,15 @@ eleventyComputed:
       </li>
       {% endfor %}
     </ul>
+
+    <script>
+      window.GALLERY_STRINGS = {
+        close: {{ "place.closePhoto" | t(lang) | json | safe }},
+        prev: {{ "place.prevPhoto" | t(lang) | json | safe }},
+        next: {{ "place.nextPhoto" | t(lang) | json | safe }},
+        viewer: {{ "place.photoViewer" | t(lang) | json | safe }}
+      };
+    </script>
 
     {% if item.totalPages > 1 %}
     <nav class="gallery-pagination" aria-label="{{ 'place.gallery' | t(lang) }}">
@@ -84,5 +95,7 @@ eleventyComputed:
     {% endif %}
   </section>
 
-  <a class="place-hero__back" href="{{ lang | listUrl }}">&larr; {{ "place.backToList" | t(lang) }}</a>
+  <div class="place-footer-nav">
+    <a class="place-hero__back" href="{{ lang | listUrl }}">&larr; {{ "place.backToList" | t(lang) }}</a>
+  </div>
 </article>

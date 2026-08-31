@@ -1,0 +1,32 @@
+---
+permalink: /index.html
+---
+<!doctype html>
+<html lang="lt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lietuvos keliais</title>
+  <meta http-equiv="refresh" content="0; url=/lt/">
+  <link rel="canonical" href="/lt/">
+  <script>
+    (function () {
+      var prefix = {{ '/' | url | json | safe }};
+      var urlSlugs = { lt: "lt", en: "en", uk: "ua" };
+      var langs = (navigator.languages || [navigator.language || "lt"]).map(function (l) {
+        return l.toLowerCase().slice(0, 2);
+      });
+      var match = langs.find(function (l) { return urlSlugs.hasOwnProperty(l); });
+      window.location.replace(prefix + urlSlugs[match || "lt"] + "/");
+    })();
+  </script>
+</head>
+<body>
+  <p>Jei nenukreipiama automatiškai / If you are not redirected automatically / Якщо вас не перенаправлено автоматично:</p>
+  <ul>
+    <li><a href="/lt/">Lietuviškai</a></li>
+    <li><a href="/en/">English</a></li>
+    <li><a href="/ua/">Українською</a></li>
+  </ul>
+</body>
+</html>

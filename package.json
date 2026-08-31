@@ -4,8 +4,10 @@
   "private": true,
   "description": "A map of places visited across Lithuania, with photos and stories.",
   "scripts": {
-    "build": "eleventy",
+    "build": "rm -rf _site && eleventy",
+    "build:pages": "rm -rf _site && eleventy --pathprefix=/Lietuva/",
     "serve": "eleventy --serve",
+    "qa-check": "node tools/qa-check.js",
     "process-photos": "node tools/process-photos.js",
     "validate-coordinates": "node tools/validate-coordinates.js"
   },

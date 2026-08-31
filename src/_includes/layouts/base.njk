@@ -5,14 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ title }} — {{ "site.title" | t(lang) }}</title>
   <meta name="description" content="{{ "site.tagline" | t(lang) }}">
-  <link rel="stylesheet" href="/assets/css/style.css">
   {% if pageStyles %}
-    {% for href in pageStyles %}
-    <link rel="stylesheet" href="{{ href }}">
+    {% for style in pageStyles %}
+    {% if style.url %}
+    <link rel="stylesheet" href="{{ style.url }}" integrity="{{ style.integrity }}" crossorigin="anonymous">
+    {% else %}
+    <link rel="stylesheet" href="{{ style }}">
+    {% endif %}
     {% endfor %}
   {% endif %}
+  <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
+  <script>window.SITE_PATH_PREFIX = {{ '/' | url | json | safe }};</script>
   <a class="skip-link" href="#main">{{ "nav.home" | t(lang) }} — skip to content</a>
 
   <header class="site-header">
@@ -27,7 +32,7 @@
       <nav class="lang-switch" aria-label="{{ 'langSwitch.label' | t(lang) }}">
         {% set altUrls = {"lt": altUrlLt, "en": altUrlEn, "uk": altUrlUk} %}
         {% for l in locales %}
-          <a href="{{ altUrls[l] }}"{% if l == lang %} aria-current="true" class="is-current"{% endif %}>{{ l | upper }}</a>
+          <a href="{{ altUrls[l] }}"{% if l == lang %} aria-current="true" class="is-current"{% endif %}>{{ l | langLabel }}</a>
         {% endfor %}
       </nav>
     </div>
@@ -42,8 +47,12 @@
   </footer>
 
   {% if pageScripts %}
-    {% for src in pageScripts %}
-    <script src="{{ src }}"></script>
+    {% for script in pageScripts %}
+    {% if script.url %}
+    <script src="{{ script.url }}" integrity="{{ script.integrity }}" crossorigin="anonymous"></script>
+    {% else %}
+    <script src="{{ script }}"></script>
+    {% endif %}
     {% endfor %}
   {% endif %}
 </body>
