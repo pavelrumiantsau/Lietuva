@@ -1,0 +1,87 @@
+{
+  "slug": "veisiejai",
+  "coordinates": {
+    "lat": 54.1,
+    "lng": 23.7
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Veisiejai",
+    "en": "Veisiejai",
+    "uk": "Вейсеяй"
+  },
+  "shortDescription": {
+    "lt": "Ežero pakrantėje įsikūręs miestelis, kuriame kadaise gydytoju dirbo esperanto kalbos kūrėjas.",
+    "en": "A lakeside town on Lake Ančia where the creator of Esperanto once practiced medicine.",
+    "uk": "Прибережне озерне містечко, де колись практикував медицину творець есперанто."
+  },
+  "longDescription": {
+    "lt": "Veisiejai įsikūrę Ančios ežero, didžiausio Veisiejų regioninio parko ežero, pusiasalyje, kalvotoje ir ežeringoje Lazdijų rajono pietinėje dalyje. 1885 metais čia trumpai gydytoju dirbo jaunas oftalmologas L. L. Zamenhofas — tas pats žmogus, kuris po kelerių metų išleido pirmąją savo sukurtos esperanto kalbos gramatiką. Šiandien pakrantės parke įrengtas vienintelis Lietuvoje fontanas su sinchronizuota šviesos ir garso instaliacija, o regioninio parko lankytojų centras įsikūręs buvusiame Veisiejų dvare.",
+    "en": "Veisiejai sits on a peninsula of Lake Ančia, the largest lake within the Veisiejai Regional Park, in the hilly, lake-studded south of Lithuania's Lazdijai district. In 1885, a young ophthalmologist named L. L. Zamenhof briefly practiced medicine here — the same man who, a few years later, published the first grammar of Esperanto, the language he invented. Today the lakeside park is home to Lithuania's only fountain fitted with a synchronized light-and-sound installation, and the regional park's visitor center occupies the former Veisiejai manor.",
+    "uk": "Вейсеяй розташовані на півострові озера Анча — найбільшого озера регіонального парку Вейсеяй, у пагорбистій і озерній південній частині Лаздійського району. 1885 року тут недовго практикував молодий офтальмолог Л. Л. Заменгоф — та сама людина, яка через кілька років видала першу граматику вигаданої нею мови есперанто. Сьогодні у прибережному парку встановлений єдиний у Литві фонтан із синхронізованою світло-звуковою інсталяцією, а центр відвідувачів регіонального парку розташований у колишньому маєтку Вейсеяй."
+  },
+  "facts": [
+    {
+      "lt": "1885 metais L. L. Zamenhofas, būsimasis esperanto kalbos kūrėjas, trumpai dirbo Veisiejuose oftalmologu.",
+      "en": "In 1885, L. L. Zamenhof, the future creator of Esperanto, briefly worked in Veisiejai as an ophthalmologist.",
+      "uk": "1885 року Л. Л. Заменгоф, майбутній творець есперанто, недовго працював у Вейсеяй лікарем-офтальмологом."
+    },
+    {
+      "lt": "Miestelis įsikūręs Ančios ežero, didžiausio aplinkinio Veisiejų regioninio parko ežero, pusiasalyje.",
+      "en": "The town sits on a peninsula of Lake Ančia, the largest lake in the surrounding Veisiejai Regional Park.",
+      "uk": "Містечко розташоване на півострові озера Анча — найбільшого озера навколишнього регіонального парку Вейсеяй."
+    },
+    {
+      "lt": "Veisiejų pakrantės parke įrengtas vienintelis Lietuvoje fontanas su sinchronizuota šviesos ir garso instaliacija.",
+      "en": "Veisiejai's lakeside park features the only fountain in Lithuania combined with a synchronized light and sound installation.",
+      "uk": "У прибережному парку Вейсеяй встановлений єдиний у Литві фонтан із синхронізованою світло-звуковою інсталяцією."
+    }
+  ],
+  "highlightPhoto": "2023-09-03-photo-2023-09-03-13-54-58.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Ančios ežeras ir pakrantės parkas Veisiejuose",
+    "en": "Lake Ančia and the shoreline park in Veisiejai",
+    "uk": "Озеро Анча та прибережний парк у Вейсеяй"
+  },
+  "photos": [
+    "2023-09-03-photo-2023-09-03-13-41-35.jpg",
+    "2023-09-03-photo-2023-09-03-13-42-01.jpg",
+    "2023-09-03-photo-2023-09-03-13-42-28.jpg",
+    "2023-09-03-photo-2023-09-03-13-43-18.jpg",
+    "2023-09-03-photo-2023-09-03-13-44-20.jpg",
+    "2023-09-03-photo-2023-09-03-13-44-36.jpg",
+    "2023-09-03-photo-2023-09-03-13-44-50.jpg",
+    "2023-09-03-photo-2023-09-03-13-45-01.jpg",
+    "2023-09-03-photo-2023-09-03-13-45-07.jpg",
+    "2023-09-03-photo-2023-09-03-13-48-01.jpg",
+    "2023-09-03-photo-2023-09-03-13-48-49.jpg",
+    "2023-09-03-photo-2023-09-03-13-49-12.jpg",
+    "2023-09-03-photo-2023-09-03-13-50-03.jpg",
+    "2023-09-03-photo-2023-09-03-13-51-52.jpg",
+    "2023-09-03-photo-2023-09-03-13-53-22.jpg",
+    "2023-09-03-photo-2023-09-03-13-53-38.jpg",
+    "2023-09-03-photo-2023-09-03-13-53-41.jpg",
+    "2023-09-03-photo-2023-09-03-13-54-58.jpg",
+    "2023-09-03-photo-2023-09-03-13-59-58.jpg",
+    "2023-09-03-photo-2023-09-03-14-01-26.jpg",
+    "2023-09-03-photo-2023-09-03-14-01-45.jpg",
+    "2023-09-03-photo-2023-09-03-14-01-50.jpg",
+    "2023-09-03-photo-2023-09-03-14-02-17.jpg",
+    "2023-09-03-photo-2023-09-03-14-03-34.jpg",
+    "2023-09-03-photo-2023-09-03-14-03-36.jpg",
+    "2023-09-03-photo-2023-09-03-14-04-19.jpg",
+    "2023-09-03-photo-2023-09-03-14-05-35.jpg",
+    "2023-09-03-photo-2023-09-03-14-05-51.jpg",
+    "2023-09-03-photo-2023-09-03-14-07-22.jpg",
+    "2023-09-03-photo-2023-09-03-14-07-59.jpg",
+    "2023-09-03-photo-2023-09-03-14-10-09.jpg",
+    "2023-09-03-photo-2023-09-03-14-12-06.jpg",
+    "2023-09-03-photo-2023-09-03-14-16-15.jpg",
+    "2023-09-03-photo-2023-09-03-14-18-52.jpg"
+  ]
+}

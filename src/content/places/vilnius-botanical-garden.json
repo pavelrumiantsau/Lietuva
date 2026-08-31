@@ -1,0 +1,77 @@
+{
+  "slug": "vilnius-botanical-garden",
+  "coordinates": {
+    "lat": 54.7358,
+    "lng": 25.4028
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Vilniaus universiteto botanikos sodas",
+    "en": "Vilnius University Botanical Garden",
+    "uk": "Ботанічний сад Вільнюського університету"
+  },
+  "shortDescription": {
+    "lt": "Didžiausias Lietuvos botanikos sodas, įsikūręs buvusiame dvaro parke į rytus nuo Vilniaus.",
+    "en": "The largest botanical garden in Lithuania, spread across a former manor estate east of Vilnius.",
+    "uk": "Найбільший ботанічний сад Литви, розташований на території колишнього маєтку на схід від Вільнюса."
+  },
+  "longDescription": {
+    "lt": "Vilniaus universiteto botanikos sodo istorija prasidėjo 1781 metais, kai profesorius Jeanas Emmanuelis Gilibertas įkūrė sodą prie universiteto — tai vienas seniausių tokio pobūdžio institutų regione. Uždarytas kartu su universitetu 1832 metais ir vėliau atkurtas Vingio parke 1919-aisiais, sodo pagrindinės kolekcijos 1974 metais persikėlė į naują 148 hektarų sklypą Kairėnuose, apimantį buvusio Kairėnų dvaro teritoriją ir apleistus dvaro rūmus. Šiandien bendra sodo teritorija siekia beveik 200 hektarų, o jame auginama apie 11 000 augalų taksonų iš 220 šeimų — tai gerokai didžiausias botanikos sodas Lietuvoje.",
+    "en": "The Vilnius University Botanical Garden traces its origins to 1781, when professor Jean-Emmanuel Gilibert founded a garden at the university, making it one of the oldest institutions of its kind in the region. Closed along with the university in 1832 and later reestablished in Vingis Park in 1919, the garden's main collections moved in 1974 to a new 148-hectare site in Kairėnai, incorporating the grounds and dilapidated manor house of the former Kairėnai estate. Today the garden's combined territory covers nearly 200 hectares and holds roughly 11,000 plant taxa across 220 families, making it by far the largest botanical garden in Lithuania.",
+    "uk": "Історія Ботанічного саду Вільнюського університету починається 1781 року, коли професор Жан-Емманюель Жилібер заснував сад при університеті — один із найстаріших закладів такого типу в регіоні. Закритий разом з університетом 1832 року і згодом відновлений у парку Вінгіс 1919-го, основні колекції саду 1974 року переїхали на нову ділянку площею 148 гектарів у Кайренай, що включила територію колишнього маєтку Кайренай і занедбаний садибний будинок. Сьогодні загальна територія саду сягає майже 200 гектарів, а в ньому вирощується близько 11 000 таксонів рослин із 220 родин — це найбільший ботанічний сад Литви."
+  },
+  "facts": [
+    {
+      "lt": "Sodą 1781 metais įkūrė profesorius Jeanas Emmanuelis Gilibertas — tai vienas seniausių botanikos sodų regione.",
+      "en": "The garden was founded in 1781 by professor Jean-Emmanuel Gilibert, making it one of the oldest botanical gardens in the region.",
+      "uk": "Сад заснував 1781 року професор Жан-Емманюель Жилібер — це один із найстаріших ботанічних садів регіону."
+    },
+    {
+      "lt": "1974 metais pagrindinė sodo teritorija persikėlė į Kairėnus, perimdama buvusio dvaro sklypą.",
+      "en": "In 1974, the garden's main site moved to Kairėnai, absorbing the grounds of a former manor estate.",
+      "uk": "1974 року основна територія саду переїхала в Кайренай, увібравши в себе територію колишнього маєтку."
+    },
+    {
+      "lt": "Sodo kolekcijose auginama apie 11 000 augalų taksonų iš 220 šeimų — tai didžiausia tokia kolekcija Lietuvoje.",
+      "en": "The garden's collections hold roughly 11,000 plant taxa across 220 families, the largest such collection in Lithuania.",
+      "uk": "У колекціях саду вирощують близько 11 000 таксонів рослин із 220 родин — найбільшу таку колекцію в Литві."
+    }
+  ],
+  "highlightPhoto": "2022-08-21-img-20220821-163706.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Žydintys augalų ploteliai Vilniaus universiteto botanikos sode Kairėnuose",
+    "en": "Flowering plant beds in the Vilnius University Botanical Garden at Kairėnai",
+    "uk": "Квітучі клумби у Ботанічному саду Вільнюського університету в Кайренай"
+  },
+  "photos": [
+    "2022-08-21-img-20220821-161648.jpg",
+    "2022-08-21-img-20220821-161815.jpg",
+    "2022-08-21-img-20220821-161923.jpg",
+    "2022-08-21-img-20220821-161953.jpg",
+    "2022-08-21-img-20220821-162237.jpg",
+    "2022-08-21-img-20220821-162417.jpg",
+    "2022-08-21-img-20220821-162520.jpg",
+    "2022-08-21-img-20220821-162542.jpg",
+    "2022-08-21-img-20220821-162544.jpg",
+    "2022-08-21-img-20220821-162629.jpg",
+    "2022-08-21-img-20220821-163057.jpg",
+    "2022-08-21-img-20220821-163515.jpg",
+    "2022-08-21-img-20220821-163706.jpg",
+    "2022-08-21-img-20220821-163809.jpg",
+    "2022-08-21-img-20220821-164030.jpg",
+    "2022-08-21-img-20220821-164210.jpg",
+    "2022-08-21-img-20220821-164537.jpg",
+    "2022-08-21-img-20220821-164621.jpg",
+    "2022-08-21-img-20220821-164725.jpg",
+    "2022-08-21-img-20220821-164731.jpg",
+    "2022-08-21-img-20220821-164848.jpg",
+    "2022-08-21-img-20220821-164933.jpg",
+    "2022-08-21-img-20220821-164940.jpg",
+    "2022-08-21-img-20220821-165044.jpg"
+  ]
+}

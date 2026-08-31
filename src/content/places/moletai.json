@@ -1,0 +1,99 @@
+{
+  "slug": "moletai",
+  "coordinates": {
+    "lat": 55.2333,
+    "lng": 25.4167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Molėtai",
+    "en": "Molėtai",
+    "uk": "Молетай"
+  },
+  "shortDescription": {
+    "lt": "Lietuvos „astronomijos sostinė“, apsupta šimtų Aukštaitijos ežerų.",
+    "en": "The 'astronomy capital' of Lithuania, ringed by hundreds of Aukštaitija lakes.",
+    "uk": "«Астрономічна столиця» Литви, оточена сотнями озер Аукштайтії."
+  },
+  "longDescription": {
+    "lt": "Molėtai įsikūrę kalvotoje, tankiai mišku apaugusioje rytų Lietuvos Aukštaitijoje — rajone, kuriame yra apie 285 ežerus, o iš vieno apžvalgos taško kartais matyti net šeši iš jų. Nuo 1969 metų mieste veikia Vilniaus universiteto Molėtų astronomijos observatorija, kurios 165 centimetrų skersmens teleskopas yra didžiausias mokslinis prietaisas šiaurės Europoje ir naudojasi ypač tamsiu vietovės dangumi. Šalia observatorijos 1990 metais įkurtas Lietuvos etnokosmologijos muziejus, siejantis liaudies astronomiją ir mitologiją su šiuolaikiniu mokslu — dėl to Molėtai vadinami Lietuvos „astronomijos sostine“.",
+    "en": "Molėtai sits in the hilly, heavily forested Aukštaitija region of eastern Lithuania, a district so dense with lakes — some 285 of them — that six can be seen at once from a single viewpoint. Since 1969 the town has been home to the Molėtai Astronomical Observatory, run by Vilnius University, whose 165-centimeter telescope is the largest scientific instrument in Northern Europe and benefits from the area's unusually dark skies. Next to the observatory stands the Lithuanian Museum of Ethnocosmology, opened in 1990, which links folk astronomy and mythology with modern science, giving the town its nickname as Lithuania's 'astronomy capital.'",
+    "uk": "Молетай розташований у горбистій, густо вкритій лісами Аукштайтії на сході Литви — районі з приблизно 285 озерами, звідки з однієї оглядової точки іноді видно аж шість із них. Із 1969 року в місті працює обсерваторія Вільнюського університету, чий телескоп діаметром 165 сантиметрів є найбільшим науковим приладом Північної Європи і користується незвично темним нічним небом місцевості. Поруч з обсерваторією 1990 року відкрито Литовський музей етнокосмології, що поєднує народну астрономію та міфологію із сучасною наукою — саме тому Молетай називають «астрономічною столицею» Литви."
+  },
+  "facts": [
+    {
+      "lt": "Molėtų rajone yra apie 285 ežerus, o iš observatorijos apžvalgos aikštelės vienu metu galima matyti net šešis iš jų.",
+      "en": "Molėtai district has about 285 lakes, and as many as six of them can be seen at once from the observatory's viewing deck.",
+      "uk": "У Молетайському районі налічується близько 285 озер, а з оглядового майданчика обсерваторії водночас можна побачити аж шість із них."
+    },
+    {
+      "lt": "1969 metais įrengtas observatorijos 165 centimetrų teleskopas yra didžiausias mokslinis prietaisas šiaurės Europoje.",
+      "en": "The observatory's 165-centimeter telescope, installed in 1969, is the largest scientific instrument in Northern Europe.",
+      "uk": "Встановлений 1969 року телескоп обсерваторії діаметром 165 сантиметрів є найбільшим науковим приладом Північної Європи."
+    },
+    {
+      "lt": "Netoliese esantis Lietuvos etnokosmologijos muziejus, atvertas 1990 metais, sieja senovinius liaudies įsitikinimus apie dangų su šiuolaikine astronomija.",
+      "en": "The nearby Lithuanian Museum of Ethnocosmology, opened in 1990, connects ancient folk beliefs about the sky with modern astronomy.",
+      "uk": "Розташований поруч Литовський музей етнокосмології, відкритий 1990 року, поєднує давні народні уявлення про небо із сучасною астрономією."
+    }
+  ],
+  "highlightPhoto": "2024-01-20-photo-20-01-2024-13-06-25.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Molėtų astronomijos observatorijos kupolas prieblandoje",
+    "en": "The dome of the Molėtai Astronomical Observatory at dusk",
+    "uk": "Купол обсерваторії Молетай у сутінках"
+  },
+  "photos": [
+    "2024-01-20-photo-20-01-2024-12-19-21.jpg",
+    "2024-01-20-photo-20-01-2024-12-19-58.jpg",
+    "2024-01-20-photo-20-01-2024-12-22-01.jpg",
+    "2024-01-20-photo-20-01-2024-12-23-08.jpg",
+    "2024-01-20-photo-20-01-2024-12-24-31.jpg",
+    "2024-01-20-photo-20-01-2024-12-25-44.jpg",
+    "2024-01-20-photo-20-01-2024-12-25-48.jpg",
+    "2024-01-20-photo-20-01-2024-12-27-59.jpg",
+    "2024-01-20-photo-20-01-2024-12-28-33.jpg",
+    "2024-01-20-photo-20-01-2024-12-31-36.jpg",
+    "2024-01-20-photo-20-01-2024-12-33-13.jpg",
+    "2024-01-20-photo-20-01-2024-12-34-21.jpg",
+    "2024-01-20-photo-20-01-2024-12-36-35.jpg",
+    "2024-01-20-photo-20-01-2024-12-39-05.jpg",
+    "2024-01-20-photo-20-01-2024-12-40-35.jpg",
+    "2024-01-20-photo-20-01-2024-12-44-38.jpg",
+    "2024-01-20-photo-20-01-2024-12-46-38.jpg",
+    "2024-01-20-photo-20-01-2024-12-47-54.jpg",
+    "2024-01-20-photo-20-01-2024-12-49-41.jpg",
+    "2024-01-20-photo-20-01-2024-12-53-31.jpg",
+    "2024-01-20-photo-20-01-2024-12-58-56.jpg",
+    "2024-01-20-photo-20-01-2024-12-59-31.jpg",
+    "2024-01-20-photo-20-01-2024-12-59-56.jpg",
+    "2024-01-20-photo-20-01-2024-13-06-25.jpg",
+    "2024-01-20-photo-20-01-2024-13-07-32.jpg",
+    "2024-01-20-photo-20-01-2024-13-08-31.jpg",
+    "2024-01-20-photo-20-01-2024-13-10-40.jpg",
+    "2024-01-20-photo-20-01-2024-13-11-19.jpg",
+    "2024-01-20-photo-20-01-2024-13-13-48.jpg",
+    "2024-01-20-photo-20-01-2024-13-13-50.jpg",
+    "2024-01-20-photo-20-01-2024-13-15-44.jpg",
+    "2024-01-20-photo-20-01-2024-13-17-16.jpg",
+    "2024-01-20-photo-20-01-2024-13-17-19.jpg",
+    "2024-01-20-photo-20-01-2024-13-18-30.jpg",
+    "2024-01-20-photo-20-01-2024-13-19-12.jpg",
+    "2024-01-20-photo-20-01-2024-13-19-16.jpg",
+    "2024-01-20-photo-20-01-2024-13-20-28.jpg",
+    "2024-01-20-photo-20-01-2024-13-20-45.jpg",
+    "2024-01-20-photo-20-01-2024-13-21-47.jpg",
+    "2024-01-20-photo-20-01-2024-13-22-25.jpg",
+    "2024-01-20-photo-20-01-2024-13-22-42.jpg",
+    "2024-01-20-photo-20-01-2024-13-24-12.jpg",
+    "2024-01-20-photo-20-01-2024-13-26-44.jpg",
+    "2024-01-20-photo-20-01-2024-13-27-41.jpg",
+    "2024-01-20-photo-20-01-2024-13-28-22.jpg",
+    "2024-01-20-photo-20-01-2024-13-28-44.jpg"
+  ]
+}

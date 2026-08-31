@@ -1,0 +1,86 @@
+{
+  "slug": "pabrade",
+  "coordinates": {
+    "lat": 55.1,
+    "lng": 26.0033
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Pabradė",
+    "en": "Pabradė",
+    "uk": "Пабраде"
+  },
+  "shortDescription": {
+    "lt": "Pasienio miestelis prie Žeimenos upės, visoje Lietuvoje žinomas dėl savo didelio karinio poligono.",
+    "en": "A border-area town on the Žeimena river, known across Lithuania for its major military training ground.",
+    "uk": "Прикордонне містечко на річці Жеймена, відоме на всю Литву своїм великим військовим полігоном."
+  },
+  "longDescription": {
+    "lt": "Pabradė įsikūrusi rytų Lietuvoje, Švenčionių rajone, prie Žeimenos upės, mažiau nei 10 kilometrų nuo sienos su Baltarusija. Miestelis labiausiai žinomas dėl netoliese 1904 metais įkurto didelio karinio poligono, 2014 metais oficialiai pavadinto generolo Silvestro Žukausko poligonu, tačiau visuotinai vis dar vadinamo tiesiog Pabradės poligonu ir užimančio daugiau nei 17 500 hektarų. Po Rusijos invazijos į Ukrainą jis įgavo naują reikšmę kaip viena iš nedaugelio Lietuvos vietų, pritaikytų batalionų lygio NATO ir sąjungininkų pratyboms, kuriose rotuojasi JAV ir Vokietijos kariai.",
+    "en": "Pabradė lies in the Švenčionys district of eastern Lithuania on the Žeimena river, less than 10 kilometers from the border with Belarus. The town is best known for the large military training area established just outside it in 1904, officially renamed the General Silvestras Žukauskas Training Area in 2014 but still universally called simply the Pabradė Training Area, covering over 17,500 hectares. Since Russia's invasion of Ukraine it has taken on new prominence as one of the few Lithuanian sites equipped to host battalion-level NATO and allied exercises, including rotating U.S. and German troops.",
+    "uk": "Пабраде розташоване на сході Литви, у Швянчьонському районі, на річці Жеймена, менш ніж за 10 кілометрів від кордону з Білоруссю. Містечко найбільше відоме завдяки великому військовому полігону, заснованому неподалік 1904 року, офіційно перейменованому 2014 року на полігон генерала Сильвестра Жукаускаса, але й досі всі просто називають його Пабрадським полігоном, який займає понад 17 500 гектарів. Після вторгнення Росії в Україну він набув нового значення як один із небагатьох литовських об'єктів, обладнаних для навчань НАТО та союзників на рівні батальйону."
+  },
+  "facts": [
+    {
+      "lt": "1904 metais įkurtas Pabradės karinis poligonas užima daugiau nei 17 500 hektarų ir yra viena iš dviejų Lietuvos karinių bazių, pritaikytų sąjungininkų pajėgoms.",
+      "en": "The Pabradė military training area, established in 1904, covers over 17,500 hectares and is one of Lithuania's two bases equipped for allied forces.",
+      "uk": "Заснований 1904 року військовий полігон у Пабраде займає понад 17 500 гектарів і є однією з двох литовських баз, обладнаних для союзних сил."
+    },
+    {
+      "lt": "2014 metais poligonas oficialiai pavadintas generolo Silvestro Žukausko vardu, tačiau iki šiol dažniausiai vadinamas tiesiog Pabradės poligonu.",
+      "en": "It was officially renamed the General Silvestras Žukauskas Training Area in 2014, though it is still commonly called simply the Pabradė Training Area.",
+      "uk": "2014 року полігон офіційно назвали ім'ям генерала Сильвестра Жукаускаса, проте досі найчастіше називають просто Пабрадським полігоном."
+    },
+    {
+      "lt": "Miestelis stovi prie Žeimenos upės, mažiau nei už 10 kilometrų nuo sienos su Baltarusija.",
+      "en": "The town lies less than 10 kilometers from the border with Belarus, on the Žeimena river.",
+      "uk": "Містечко розташоване на річці Жеймена, менш ніж за 10 кілометрів від кордону з Білоруссю."
+    }
+  ],
+  "highlightPhoto": "2023-12-16-photo-16-12-2023-14-24-00.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kariniai automobiliai Pabradės poligone prie Žeimenos upės",
+    "en": "Military vehicles at the Pabradė training area near the Žeimena river",
+    "uk": "Військова техніка на полігоні в Пабраде біля річки Жеймена"
+  },
+  "photos": [
+    "2023-12-16-photo-16-12-2023-13-55-43.jpg",
+    "2023-12-16-photo-16-12-2023-13-57-03.jpg",
+    "2023-12-16-photo-16-12-2023-14-00-08.jpg",
+    "2023-12-16-photo-16-12-2023-14-01-46.jpg",
+    "2023-12-16-photo-16-12-2023-14-03-57.jpg",
+    "2023-12-16-photo-16-12-2023-14-04-58.jpg",
+    "2023-12-16-photo-16-12-2023-14-06-19.jpg",
+    "2023-12-16-photo-16-12-2023-14-07-54.jpg",
+    "2023-12-16-photo-16-12-2023-14-08-06.jpg",
+    "2023-12-16-photo-16-12-2023-14-12-49.jpg",
+    "2023-12-16-photo-16-12-2023-14-13-28.jpg",
+    "2023-12-16-photo-16-12-2023-14-15-22.jpg",
+    "2023-12-16-photo-16-12-2023-14-17-02.jpg",
+    "2023-12-16-photo-16-12-2023-14-18-50.jpg",
+    "2023-12-16-photo-16-12-2023-14-20-01.jpg",
+    "2023-12-16-photo-16-12-2023-14-20-27.jpg",
+    "2023-12-16-photo-16-12-2023-14-24-00.jpg",
+    "2023-12-16-photo-16-12-2023-14-25-33.jpg",
+    "2023-12-16-photo-16-12-2023-14-26-18.jpg",
+    "2023-12-16-photo-16-12-2023-14-28-34.jpg",
+    "2023-12-16-photo-16-12-2023-14-29-42.jpg",
+    "2023-12-16-photo-16-12-2023-14-30-22.jpg",
+    "2023-12-16-photo-16-12-2023-14-31-37.jpg",
+    "2023-12-16-photo-16-12-2023-14-31-42.jpg",
+    "2023-12-16-photo-16-12-2023-14-32-45.jpg",
+    "2023-12-16-photo-16-12-2023-14-33-08.jpg",
+    "2023-12-16-photo-16-12-2023-14-35-37.jpg",
+    "2023-12-16-photo-16-12-2023-14-41-41.jpg",
+    "2023-12-16-photo-16-12-2023-14-45-31.jpg",
+    "2023-12-16-photo-16-12-2023-14-52-50.jpg",
+    "2023-12-16-photo-16-12-2023-14-55-19.jpg",
+    "2023-12-16-photo-16-12-2023-15-01-20.jpg",
+    "2023-12-16-photo-16-12-2023-15-01-49.jpg"
+  ]
+}

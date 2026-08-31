@@ -1,0 +1,88 @@
+{
+  "slug": "kelme",
+  "coordinates": {
+    "lat": 55.6294,
+    "lng": 22.9314
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kelmė",
+    "en": "Kelmė",
+    "uk": "Кельме"
+  },
+  "shortDescription": {
+    "lt": "Žemaitijos miestas su baroko stiliaus dvaru, kuriame šiandien įsikūręs krašto muziejus.",
+    "en": "A Samogitian town with a baroque manor that today houses the regional museum.",
+    "uk": "Місто в Жемайтії з бароковим маєтком, у якому сьогодні розміщений краєзнавчий музей."
+  },
+  "longDescription": {
+    "lt": "Kelmė, kurios pirmoji bažnyčia pastatyta 1484 metais, yra Šiaurės vakarų Lietuvoje, istorinėje Žemaitijos žemėje įsikūręs miestas, 1511 metais gavęs teisę rengti turgus. 1591 metais dvarą įsigijusi Gruževskių giminė aktyviai rėmė reformaciją — 1596 metais įsteigė evangelikų reformatų parapiją, 1622 metais pastatė protestantų bažnyčią, o dvaro rūmai dabartiniu, barokiniu pavidalu pastatyti 1780 metais. Šiandien buvusiuose dvaro pastatuose, iš devynių išlikusių trijuose, veikia Kelmės krašto muziejus.",
+    "en": "Kelmė, whose first church was built in 1484, is a town in the historic land of Samogitia in northwestern Lithuania, which received market rights in 1511. In 1591 the manor was acquired by the Gruževskis family, active supporters of the Reformation, who established an Evangelical Reformed parish in 1596 and built a Protestant church in 1622; the manor palace was built in its present baroque form in 1780. Today three of the nine surviving manor buildings house the Kelmė regional museum.",
+    "uk": "Кельме, перший костел якого збудували у 1484 році, — місто на північному заході Литви, в історичній землі Жемайтія, що отримало право на ринки у 1511 році. У 1591 році маєток придбав рід Гружевських, активних прихильників Реформації, які у 1596 році заснували євангелічно-реформатську парафію, а у 1622 році збудували протестантську церкву; палац маєтку в теперішньому бароковому вигляді був зведений у 1780 році. Сьогодні у трьох із дев'яти будівель, що збереглися, розміщений краєзнавчий музей Кельме."
+  },
+  "facts": [
+    {
+      "lt": "Kelmės vardas, manoma, kilęs nuo žodžio „kelmynės“ — vietos, kur kadaise augo miškas.",
+      "en": "The name Kelmė is thought to derive from the word 'kelmynės,' meaning a stubby, stump-covered clearing where a forest once stood.",
+      "uk": "Назва Кельме, як вважається, походить від слова «kelmynės» — місця, порослого пеньками, де колись ріс ліс."
+    },
+    {
+      "lt": "Nuo 1591 metų dvarą valdžiusi Gruževskių giminė aktyviai rėmė reformaciją ir 1622 metais pastatė protestantų bažnyčią.",
+      "en": "The Gruževskis family, who owned the manor from 1591, actively supported the Reformation and built a Protestant church in 1622.",
+      "uk": "Рід Гружевських, який володів маєтком з 1591 року, активно підтримував Реформацію та збудував протестантську церкву у 1622 році."
+    },
+    {
+      "lt": "Dabartinį baroko stiliaus pavidalą dvaro rūmai įgavo 1780 metais, o dabar juose veikia Kelmės krašto muziejus.",
+      "en": "The manor palace took its present baroque form in 1780, and today it houses the Kelmė regional museum.",
+      "uk": "Теперішнього барокового вигляду палац маєтку набув у 1780 році, а нині в ньому розміщений краєзнавчий музей Кельме."
+    }
+  ],
+  "highlightPhoto": "2026-03-11-photo-11-03-2026-15-59-17.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kelmės dvaro rūmai parke",
+    "en": "The Kelmė manor palace in its park",
+    "uk": "Палац маєтку Кельме в парку"
+  },
+  "photos": [
+    "2026-03-11-photo-11-03-2026-15-38-51.jpg",
+    "2026-03-11-photo-11-03-2026-15-38-56.jpg",
+    "2026-03-11-photo-11-03-2026-15-39-27.jpg",
+    "2026-03-11-photo-11-03-2026-15-39-41.jpg",
+    "2026-03-11-photo-11-03-2026-15-40-23.jpg",
+    "2026-03-11-photo-11-03-2026-15-42-59.jpg",
+    "2026-03-11-photo-11-03-2026-15-44-06.jpg",
+    "2026-03-11-photo-11-03-2026-15-47-24.jpg",
+    "2026-03-11-photo-11-03-2026-15-49-26.jpg",
+    "2026-03-11-photo-11-03-2026-15-53-18.jpg",
+    "2026-03-11-photo-11-03-2026-15-54-08.jpg",
+    "2026-03-11-photo-11-03-2026-15-55-13.jpg",
+    "2026-03-11-photo-11-03-2026-15-55-34.jpg",
+    "2026-03-11-photo-11-03-2026-15-58-24.jpg",
+    "2026-03-11-photo-11-03-2026-15-58-25.jpg",
+    "2026-03-11-photo-11-03-2026-15-58-43.jpg",
+    "2026-03-11-photo-11-03-2026-15-58-59.jpg",
+    "2026-03-11-photo-11-03-2026-15-59-17.jpg",
+    "2026-03-11-photo-11-03-2026-16-00-06.jpg",
+    "2026-03-11-photo-11-03-2026-16-01-33.jpg",
+    "2026-03-11-photo-11-03-2026-16-05-03.jpg",
+    "2026-03-11-photo-11-03-2026-16-05-41.jpg",
+    "2026-03-11-photo-11-03-2026-16-05-56.jpg",
+    "2026-03-11-photo-11-03-2026-16-06-21.jpg",
+    "2026-03-11-photo-11-03-2026-16-07-19.jpg",
+    "2026-03-11-photo-11-03-2026-16-07-37.jpg",
+    "2026-03-11-photo-11-03-2026-16-09-13.jpg",
+    "2026-03-11-photo-11-03-2026-16-12-05.jpg",
+    "2026-03-11-photo-11-03-2026-16-17-22.jpg",
+    "2026-03-11-photo-11-03-2026-16-19-49.jpg",
+    "2026-03-11-photo-11-03-2026-16-24-50.jpg",
+    "2026-03-11-photo-11-03-2026-16-33-55.jpg",
+    "2026-03-11-photo-11-03-2026-16-34-57.jpg",
+    "2026-03-11-photo-11-03-2026-16-35-08.jpg",
+    "2026-03-11-photo-11-03-2026-16-35-51.jpg"
+  ]
+}

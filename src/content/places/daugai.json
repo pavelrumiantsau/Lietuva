@@ -1,0 +1,71 @@
+{
+  "slug": "daugai",
+  "coordinates": {
+    "lat": 54.3611,
+    "lng": 24.2864
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Daugai",
+    "en": "Daugai",
+    "uk": "Даугай"
+  },
+  "shortDescription": {
+    "lt": "Pusiasalyje ant ežero įsikūręs miestelis, kadaise mėgtas Vytauto Didžiojo medžioklės vietovė.",
+    "en": "A town on a lake peninsula, once a favourite hunting ground of Vytautas the Great.",
+    "uk": "Містечко на озерному півострові, колись улюблене мисливське угіддя Вітаутаса Великого."
+  },
+  "longDescription": {
+    "lt": "Daugai — vienas seniausių Lietuvos miestelių, pirmą kartą paminėtas Kryžiuočių ordino kronikose 1384 metais, apie 20 kilometrų į rytus nuo Alytaus. Miestelis stūkso pusiasalyje Daugų ežere, o XIV–XV amžiuje čia buvo didžiojo kunigaikščio medžioklės pilis su žvėrynu; Vytautas Didysis mėgo čia lankytis ir yra pasirašęs ne vieną dokumentą būtent Dauguose. Vietovės simboliu tapo legendinė medinė kunigaikščio Daugio skulptūra, saugojanti miestelį, o šiandien Daugus supantys ežerai su gausybe legendų traukia poilsiautojus ir žvejus.",
+    "en": "Daugai is one of the oldest towns in Lithuania, first mentioned in the chronicles of the Teutonic Order in 1384, about 20 kilometres east of Alytus. The town sits on a peninsula in Lake Daugai, and in the 14th-15th centuries it had a Grand Duke's hunting castle with a menagerie; Vytautas the Great was fond of visiting and issued several documents from Daugai itself. A legendary wooden statue of duke Daugis, said to protect the town, became its symbol, and today the lakes surrounding Daugai, rich in local legend, attract holidaymakers and anglers.",
+    "uk": "Даугай — одне з найдавніших містечок Литви, вперше згадане в хроніках Тевтонського ордену 1384 року, приблизно за 20 кілометрів на схід від Алітуса. Містечко розташоване на півострові озера Даугай, а в XIV-XV століттях тут був мисливський замок великого князя зі звіринцем; Вітаутас Великий любив тут бувати і підписав кілька документів саме в Даугаях. Символом місцевості стала легендарна дерев'яна статуя князя Даугіса, яка нібито охороняє містечко, а сьогодні озера навколо Даугаїв, багаті на місцеві легенди, приваблюють відпочивальників і рибалок."
+  },
+  "facts": [
+    {
+      "lt": "Daugai pirmą kartą paminėti Kryžiuočių ordino kronikose 1384 metais.",
+      "en": "Daugai was first mentioned in the chronicles of the Teutonic Order in 1384.",
+      "uk": "Даугай вперше згадується в хроніках Тевтонського ордену 1384 року."
+    },
+    {
+      "lt": "XIV–XV amžiuje čia stovėjo didžiojo kunigaikščio medžioklės pilis su žvėrynu, kurią mėgo lankyti Vytautas Didysis.",
+      "en": "In the 14th-15th centuries a Grand Duke's hunting castle with a menagerie stood here, a favourite of Vytautas the Great.",
+      "uk": "У XIV-XV століттях тут стояв мисливський замок великого князя зі звіринцем, улюблене місце Вітаутаса Великого."
+    },
+    {
+      "lt": "Miestelis įsikūręs pusiasalyje to paties vardo Daugų ežere.",
+      "en": "The town is set on a peninsula in the eponymous Lake Daugai.",
+      "uk": "Містечко розташоване на півострові однойменного озера Даугай."
+    }
+  ],
+  "highlightPhoto": "2026-07-25-photo-25-07-2026-11-58-41.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Vaizdas į Daugų ežerą nuo pusiasalio",
+    "en": "View of Lake Daugai from the peninsula",
+    "uk": "Вид на озеро Даугай з півострова"
+  },
+  "photos": [
+    "2022-08-20-img-20220820-140135.jpg",
+    "2022-08-20-img-20220820-140140.jpg",
+    "2026-07-25-photo-25-07-2026-11-48-58.jpg",
+    "2026-07-25-photo-25-07-2026-11-49-38.jpg",
+    "2026-07-25-photo-25-07-2026-11-52-09.jpg",
+    "2026-07-25-photo-25-07-2026-11-53-36.jpg",
+    "2026-07-25-photo-25-07-2026-11-54-17.jpg",
+    "2026-07-25-photo-25-07-2026-11-55-35.jpg",
+    "2026-07-25-photo-25-07-2026-11-56-49.jpg",
+    "2026-07-25-photo-25-07-2026-11-58-41.jpg",
+    "2026-07-25-photo-25-07-2026-11-59-59.jpg",
+    "2026-07-25-photo-25-07-2026-12-00-27.jpg",
+    "2026-07-25-photo-25-07-2026-12-00-29.jpg",
+    "2026-07-25-photo-25-07-2026-12-02-23.jpg",
+    "2026-07-25-photo-25-07-2026-12-03-42.jpg",
+    "2026-07-25-photo-25-07-2026-12-04-50.jpg",
+    "2026-07-25-photo-25-07-2026-12-05-05.jpg",
+    "2026-07-25-photo-25-07-2026-12-08-17.jpg"
+  ]
+}

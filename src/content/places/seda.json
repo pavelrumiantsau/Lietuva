@@ -1,0 +1,78 @@
+{
+  "slug": "seda",
+  "coordinates": {
+    "lat": 56.1667,
+    "lng": 22.0833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Seda",
+    "en": "Seda",
+    "uk": "Седа"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Žemaitijos miestelis prie Varduvos upės, kurį išplėtojo Sapiegų giminė.",
+    "en": "A small Samogitian town on the Varduva river, developed by the Sapieha family.",
+    "uk": "Невелике жемайтійське містечко на річці Вардува, яке розвинув рід Сапєг."
+  },
+  "longDescription": {
+    "lt": "Seda, esanti Mažeikių rajone prie Varduvos upės, pirmą kartą paminėta XIII amžiuje. 1638 metais miestelio žemes įsigijo Sapiegų giminė, pavertusi jį ekonomikos centru su kassavaitiniu turgumi ir keturiais metiniais prekymečiais. Miesto teises Seda gavo 1780 metais. Netoliese, Sedos seniūnijoje, įsikūręs Renavo dvaras ir parkas – vienas geriausiai išlikusių Žemaitijos dvarų ansamblių.",
+    "en": "Seda, in Mažeikiai district on the Varduva river, was first mentioned in the 13th century. In 1638 the town's lands were purchased by the Sapieha family, who turned it into an economic center with a weekly market and four annual fairs. Seda received city rights in 1780. Nearby, in the Seda eldership, stands the Renavas manor and park, one of the best-preserved manor ensembles in Samogitia.",
+    "uk": "Седа, розташована в Мажейкяйському районі на річці Вардува, вперше згадана у XIII столітті. 1638 року землі містечка придбав рід Сапєг, який перетворив його на економічний центр із щотижневим ринком і чотирма щорічними ярмарками. Міські права Седа отримала 1780 року. Поблизу, у Седській старостві, розташований маєток і парк Ренавас — один із найкраще збережених садибних ансамблів Жемайтії."
+  },
+  "facts": [
+    {
+      "lt": "Seda pirmą kartą paminėta XIII amžiuje, o miesto teises gavo 1780 metais.",
+      "en": "Seda was first mentioned in the 13th century and received city rights in 1780.",
+      "uk": "Седа вперше згадана у XIII столітті, а міські права отримала 1780 року."
+    },
+    {
+      "lt": "Nuo 1638 metų Sedą plėtojo Sapiegų giminė, įsteigusi turgų ir keturis metinius prekymečius.",
+      "en": "From 1638, the Sapieha family developed Seda, establishing a market and four annual fairs.",
+      "uk": "З 1638 року Седу розвивав рід Сапєг, заснувавши ринок і чотири щорічні ярмарки."
+    },
+    {
+      "lt": "Netoliese esantis Renavo dvaro ansamblis laikomas vienu geriausiai išlikusių Žemaitijoje.",
+      "en": "The nearby Renavas manor ensemble is considered one of the best-preserved in Samogitia.",
+      "uk": "Розташований поблизу ансамбль маєтку Ренавас вважається одним із найкраще збережених у Жемайтії."
+    }
+  ],
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-15-50-09.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Sedos miestelio bažnyčia prie Varduvos upės",
+    "en": "The parish church of Seda by the Varduva river",
+    "uk": "Парафіяльний костел Седи біля річки Вардува"
+  },
+  "photos": [
+    "2026-06-20-photo-20-06-2026-15-34-43.jpg",
+    "2026-06-20-photo-20-06-2026-15-35-15.jpg",
+    "2026-06-20-photo-20-06-2026-15-37-32.jpg",
+    "2026-06-20-photo-20-06-2026-15-38-02.jpg",
+    "2026-06-20-photo-20-06-2026-15-38-43.jpg",
+    "2026-06-20-photo-20-06-2026-15-39-30.jpg",
+    "2026-06-20-photo-20-06-2026-15-40-03.jpg",
+    "2026-06-20-photo-20-06-2026-15-41-20.jpg",
+    "2026-06-20-photo-20-06-2026-15-44-20.jpg",
+    "2026-06-20-photo-20-06-2026-15-44-33.jpg",
+    "2026-06-20-photo-20-06-2026-15-44-48.jpg",
+    "2026-06-20-photo-20-06-2026-15-46-51.jpg",
+    "2026-06-20-photo-20-06-2026-15-50-09.jpg",
+    "2026-06-20-photo-20-06-2026-15-52-12.jpg",
+    "2026-06-20-photo-20-06-2026-15-52-46.jpg",
+    "2026-06-20-photo-20-06-2026-15-55-23.jpg",
+    "2026-06-20-photo-20-06-2026-15-55-42.jpg",
+    "2026-06-20-photo-20-06-2026-15-56-55.jpg",
+    "2026-06-20-photo-20-06-2026-15-57-15.jpg",
+    "2026-06-20-photo-20-06-2026-15-58-03.jpg",
+    "2026-06-20-photo-20-06-2026-15-58-52.jpg",
+    "2026-06-20-photo-20-06-2026-16-04-55.jpg",
+    "2026-06-20-photo-20-06-2026-16-05-25.jpg",
+    "2026-06-20-photo-20-06-2026-16-07-08.jpg",
+    "2026-06-20-photo-20-06-2026-16-08-11.jpg"
+  ]
+}

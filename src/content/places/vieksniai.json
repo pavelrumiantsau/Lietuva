@@ -1,0 +1,85 @@
+{
+  "slug": "vieksniai",
+  "coordinates": {
+    "lat": 56.2333,
+    "lng": 22.5167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Viekšniai",
+    "en": "Viekšniai",
+    "uk": "Вєкшняй"
+  },
+  "shortDescription": {
+    "lt": "Buvęs puodžių prekybos miestelis su muziejumi, skirtu lietuvių aviacijos pradininkui.",
+    "en": "A former pottery-trading town with a museum dedicated to a pioneer of Lithuanian aviation.",
+    "uk": "Колишнє гончарне торгове містечко з музеєм, присвяченим піонеру литовської авіації."
+  },
+  "longDescription": {
+    "lt": "Viekšniai, Mažeikių rajone, šiaurės Lietuvoje, kaip kaimas ir dvaras pirmą kartą paminėti XVI amžiuje ir išaugo į svarbų regioninį prekybos centrą, garsėjusį puodžių gaminiais. 1772 metais miestelis gavo Magdeburgo savivaldos teises. Šiandien nedideliame miestelyje veikia du savitos tematikos muziejai: Vaistinės muziejus, pasakojantis apie vaistininkystės istoriją Lietuvoje, ir muziejus, skirtas Aleksandrui Griškevičiui — lietuvių aviacijos pradininkui.",
+    "en": "Viekšniai, in the Mažeikiai district of northern Lithuania, was first recorded as a village and estate in the 16th century and grew into an important regional trading center known for its pottery. It received Magdeburg self-rule rights in 1772. The small town today is home to two niche museums: the Museum of Pharmacy, tracing the history of apothecary practice in Lithuania, and a museum honoring Aleksandras Griškevičius, a pioneering figure in Lithuanian aviation.",
+    "uk": "Вєкшняй у Мажейкяйському районі на півночі Литви вперше згадуються як село й маєток у XVI столітті та виросли у важливий регіональний торговий центр, відомий гончарними виробами. 1772 року містечко отримало магдебурзькі права самоврядування. Сьогодні в невеликому містечку діють два тематичні музеї: Музей аптеки, що розповідає про історію аптечної справи в Литві, та музей, присвячений Александрасу Грішкявічюсу — піонеру литовської авіації."
+  },
+  "facts": [
+    {
+      "lt": "Viekšniai kaip kaimas ir dvaras pirmą kartą paminėti XVI amžiuje ir išgarsėjo kaip puodžių prekybos centras.",
+      "en": "Viekšniai was first recorded as a village and estate in the 16th century and became known as a pottery trading center.",
+      "uk": "Вєкшняй уперше згадуються як село й маєток у XVI столітті та стали відомі як центр гончарної торгівлі."
+    },
+    {
+      "lt": "1772 metais miesteliui suteiktos Magdeburgo savivaldos teisės.",
+      "en": "The town received Magdeburg self-rule rights in 1772.",
+      "uk": "1772 року містечко отримало магдебурзькі права самоврядування."
+    },
+    {
+      "lt": "Viekšnių aviacijos muziejus skirtas Aleksandrui Griškevičiui — lietuvių aviacijos pradininkui.",
+      "en": "Viekšniai's aviation museum is dedicated to Aleksandras Griškevičius, a pioneer of Lithuanian aviation.",
+      "uk": "Авіаційний музей Вєкшняй присвячений Александрасу Грішкявічюсу — піонеру литовської авіації."
+    }
+  ],
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-14-32-50.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Istorinė gatvė Viekšnių miestelyje",
+    "en": "A historic street in the small town of Viekšniai",
+    "uk": "Історична вулиця в містечку Вєкшняй"
+  },
+  "photos": [
+    "2026-06-20-photo-20-06-2026-14-12-30.jpg",
+    "2026-06-20-photo-20-06-2026-14-14-06.jpg",
+    "2026-06-20-photo-20-06-2026-14-14-23.jpg",
+    "2026-06-20-photo-20-06-2026-14-16-44.jpg",
+    "2026-06-20-photo-20-06-2026-14-17-45.jpg",
+    "2026-06-20-photo-20-06-2026-14-20-54.jpg",
+    "2026-06-20-photo-20-06-2026-14-23-00.jpg",
+    "2026-06-20-photo-20-06-2026-14-23-32.jpg",
+    "2026-06-20-photo-20-06-2026-14-24-13.jpg",
+    "2026-06-20-photo-20-06-2026-14-24-40.jpg",
+    "2026-06-20-photo-20-06-2026-14-25-39.jpg",
+    "2026-06-20-photo-20-06-2026-14-25-54.jpg",
+    "2026-06-20-photo-20-06-2026-14-26-23.jpg",
+    "2026-06-20-photo-20-06-2026-14-29-08.jpg",
+    "2026-06-20-photo-20-06-2026-14-29-38.jpg",
+    "2026-06-20-photo-20-06-2026-14-31-46.jpg",
+    "2026-06-20-photo-20-06-2026-14-32-50.jpg",
+    "2026-06-20-photo-20-06-2026-14-32-57.jpg",
+    "2026-06-20-photo-20-06-2026-14-34-58.jpg",
+    "2026-06-20-photo-20-06-2026-14-36-21.jpg",
+    "2026-06-20-photo-20-06-2026-14-36-56.jpg",
+    "2026-06-20-photo-20-06-2026-14-37-00.jpg",
+    "2026-06-20-photo-20-06-2026-14-39-00.jpg",
+    "2026-06-20-photo-20-06-2026-14-41-39.jpg",
+    "2026-06-20-photo-20-06-2026-14-42-05.jpg",
+    "2026-06-20-photo-20-06-2026-14-42-09.jpg",
+    "2026-06-20-photo-20-06-2026-14-42-13.jpg",
+    "2026-06-20-photo-20-06-2026-14-42-19.jpg",
+    "2026-06-20-photo-20-06-2026-14-44-35.jpg",
+    "2026-06-20-photo-20-06-2026-14-45-09.jpg",
+    "2026-06-20-photo-20-06-2026-14-47-11.jpg",
+    "2026-06-20-photo-20-06-2026-14-59-55.jpg"
+  ]
+}

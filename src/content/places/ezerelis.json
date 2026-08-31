@@ -1,0 +1,65 @@
+{
+  "slug": "ezerelis",
+  "coordinates": {
+    "lat": 54.8833,
+    "lng": 23.6167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Ežerėlis",
+    "en": "Ežerėlis",
+    "uk": "Ежерєліс"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis miestelis prie Kauno marių, į vakarus nuo Kauno.",
+    "en": "A small town beside the Kaunas Reservoir, west of Kaunas.",
+    "uk": "Невелике містечко біля Каунаської затоки, на захід від Каунаса."
+  },
+  "longDescription": {
+    "lt": "Ežerėlis — nedidelis Kauno rajono savivaldybės miestelis, esantis apie 15 kilometrų į vakarus nuo Kauno. Vietovė pirmą kartą paminėta 1915 metais ir miestelio teises gavo tik 1956 metais, taigi tai viena jauniausių šio krašto gyvenviečių, pradėjusi sparčiau augti tik XX amžiuje. Miestelis įsikūręs netoli Kauno marių — didžiulio dirbtinio Nemuno vandens telkinio, susiformavusio pastačius Kauno hidroelektrinę, todėl aplinkiniai vandenys ir krantinės traukia žvejus bei poilsiautojus.",
+    "en": "Ežerėlis is a small town in Kaunas District Municipality, about 15 kilometres west of Kaunas. The place was first mentioned in 1915 and was granted town status only in 1956, making it one of the youngest settlements in the area, which only began to grow substantially in the 20th century. The town lies near the Kaunas Reservoir, a vast artificial body of water on the Nemunas formed after the construction of the Kaunas Hydroelectric Power Plant, and its surrounding waters and shoreline draw anglers and holidaymakers.",
+    "uk": "Ежерєліс — невелике містечко Каунаського району, розташоване приблизно за 15 кілометрів на захід від Каунаса. Місцевість вперше згадується у 1915 році та отримала статус містечка лише у 1956 році, що робить його одним з наймолодших поселень краю, яке почало помітно розвиватися лише у XX столітті. Містечко розташоване поблизу Каунаського водосховища — величезної штучної водойми на Нямунасі, утвореної після будівництва Каунаської гідроелектростанції, тож навколишні води й береги приваблюють рибалок і відпочивальників."
+  },
+  "facts": [
+    {
+      "lt": "Ežerėlis pirmą kartą paminėtas 1915 metais, o miestelio teises gavo tik 1956 metais.",
+      "en": "Ežerėlis was first mentioned in 1915 and did not receive town status until 1956.",
+      "uk": "Ежерєліс вперше згадується у 1915 році, а статус містечка отримав лише у 1956 році."
+    },
+    {
+      "lt": "Miestelis įsikūręs apie 15 kilometrų į vakarus nuo Kauno.",
+      "en": "The town lies about 15 kilometres west of Kaunas.",
+      "uk": "Містечко розташоване приблизно за 15 кілометрів на захід від Каунаса."
+    },
+    {
+      "lt": "Netoliese driekiasi Kauno marios — dirbtinis vandens telkinys, susiformavęs pastačius Kauno hidroelektrinę.",
+      "en": "Nearby lies the Kaunas Reservoir, an artificial body of water formed by the construction of the Kaunas Hydroelectric Power Plant.",
+      "uk": "Поблизу розташоване Каунаське водосховище — штучна водойма, утворена після будівництва Каунаської гідроелектростанції."
+    }
+  ],
+  "highlightPhoto": "2025-07-19-photo-19-07-2025-15-58-31.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kauno marių krantinė netoli Ežerėlio",
+    "en": "The shore of the Kaunas Reservoir near Ežerėlis",
+    "uk": "Берег Каунаського водосховища біля Ежерєліса"
+  },
+  "photos": [
+    "2025-07-19-photo-19-07-2025-15-55-07.jpg",
+    "2025-07-19-photo-19-07-2025-15-55-20.jpg",
+    "2025-07-19-photo-19-07-2025-15-55-37.jpg",
+    "2025-07-19-photo-19-07-2025-15-56-56.jpg",
+    "2025-07-19-photo-19-07-2025-15-57-42.jpg",
+    "2025-07-19-photo-19-07-2025-15-58-11.jpg",
+    "2025-07-19-photo-19-07-2025-15-58-31.jpg",
+    "2025-07-19-photo-19-07-2025-15-59-51.jpg",
+    "2025-07-19-photo-19-07-2025-16-02-11.jpg",
+    "2025-07-19-photo-19-07-2025-16-05-39.jpg",
+    "2025-07-19-photo-19-07-2025-16-06-53.jpg",
+    "2025-07-19-photo-19-07-2025-16-15-39.jpg"
+  ]
+}

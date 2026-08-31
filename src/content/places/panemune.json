@@ -1,0 +1,60 @@
+{
+  "slug": "panemune",
+  "coordinates": {
+    "lat": 55.0667,
+    "lng": 23.2167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Panemunė",
+    "en": "Panemunė",
+    "uk": "Панямуне"
+  },
+  "shortDescription": {
+    "lt": "Kauno pušynas prie Nemuno kilpos — mėgstama poilsio vieta nuo tarpukario laikų.",
+    "en": "A Kaunas pine forest by a bend in the Nemunas, a favourite escape since the interwar years.",
+    "uk": "Соснова паркова зона Каунаса на закруті Нямунасу — улюблене місце відпочинку з міжвоєнних часів."
+  },
+  "longDescription": {
+    "lt": "Panemunė — Kauno miesto seniūnija ir šalia jos plytintis pušynas, įsikūręs prie vaizdingos Nemuno kilpos. Nuo 1926 metų ši vietovė tapo populiaria kauniečių poilsiavietė, o 1928 metais pušynas buvo pavadintas gydytojo ir tautos patriarcho Jono Basanavičiaus vardu. Tarpukariu čia veikė sanatorijos ir stovėjo pasiturinčių kauniečių medinės vilos — dalis jų išlikusios iki šiol. Šiandien apie 280 hektarų užimantis Basanavičiaus parkas su pėsčiųjų takais ir paplūdimiu prie Nemuno tebėra viena mėgstamiausių kauniečių poilsio vietų.",
+    "en": "Panemunė is a Kaunas district and the pine forest beside it, set along a picturesque bend of the Nemunas river. Since 1926 the area has been a popular escape for residents of Kaunas, and in 1928 the pinewood was named after the physician and 'patriarch of the nation' Jonas Basanavičius. During the interwar period it had sanatoriums and wooden villas belonging to well-off Kaunas residents, some of which still stand today. Covering roughly 280 hectares, Basanavičius Park, with its walking trails and a beach along the Nemunas, remains one of the most popular recreation spots for people from Kaunas.",
+    "uk": "Панямуне — район Каунаса та прилеглий сосновий ліс, розташований уздовж мальовничого закруту річки Нямунас. З 1926 року ця місцевість стала популярним місцем відпочинку для мешканців Каунаса, а в 1928 році сосновий ліс назвали на честь лікаря та «патріарха нації» Йонаса Басанавічюса. У міжвоєнний період тут діяли санаторії та стояли дерев'яні вілли заможних каунасців, частина з яких збереглася й донині. Парк Басанавічюса площею близько 280 гектарів, з пішохідними стежками та пляжем уздовж Нямунасу, і сьогодні залишається одним із улюблених місць відпочинку каунасців."
+  },
+  "facts": [
+    {
+      "lt": "Basanavičiaus parkas užima apie 280 hektarų — tai panašaus dydžio plotas kaip Niujorko Centrinis parkas.",
+      "en": "Basanavičius Park covers about 280 hectares — comparable in size to New York's Central Park.",
+      "uk": "Парк Басанавічюса займає близько 280 гектарів — приблизно стільки ж, скільки Центральний парк Нью-Йорка."
+    },
+    {
+      "lt": "Pušynas pavadintas Jono Basanavičiaus, gydytojo ir Lietuvos nepriklausomybės akto signataro, vardu 1928 metais.",
+      "en": "The pinewood was named in 1928 after Jonas Basanavičius, a physician and signatory of Lithuania's Act of Independence.",
+      "uk": "Сосновий ліс назвали у 1928 році на честь Йонаса Басанавічюса, лікаря та підписанта Акту незалежності Литви."
+    },
+    {
+      "lt": "Tarpukariu Panemunė buvo laikoma kurortu su sanatorijomis ir vasarnamiais, populiariu tarp kauniečių.",
+      "en": "During the interwar period, Panemunė was regarded as a resort with sanatoriums and summer villas, popular among Kaunas residents.",
+      "uk": "У міжвоєнний період Панямуне вважалося курортом із санаторіями та літніми віллами, популярним серед каунасців."
+    }
+  ],
+  "highlightPhoto": "2026-07-12-photo-12-07-2026-15-33-15.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Pušynas prie Nemuno kilpos Panemunėje",
+    "en": "Pine forest along the bend of the Nemunas in Panemunė",
+    "uk": "Сосновий ліс на закруті Нямунасу в Панямуне"
+  },
+  "photos": [
+    "2026-07-12-photo-12-07-2026-15-30-22.jpg",
+    "2026-07-12-photo-12-07-2026-15-31-08.jpg",
+    "2026-07-12-photo-12-07-2026-15-31-16.jpg",
+    "2026-07-12-photo-12-07-2026-15-33-15.jpg",
+    "2026-07-12-photo-12-07-2026-15-36-23.jpg",
+    "2026-07-12-photo-12-07-2026-15-37-05.jpg",
+    "2026-07-12-photo-12-07-2026-15-38-28.jpg"
+  ]
+}

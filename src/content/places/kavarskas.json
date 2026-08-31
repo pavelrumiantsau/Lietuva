@@ -1,0 +1,79 @@
+{
+  "slug": "kavarskas",
+  "coordinates": {
+    "lat": 55.4333,
+    "lng": 24.9167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kavarskas",
+    "en": "Kavarskas",
+    "uk": "Каварскас"
+  },
+  "shortDescription": {
+    "lt": "Vienas mažiausių Lietuvos miestų, įsikūręs prie Šventosios upės Anykščių rajone.",
+    "en": "One of the smallest towns in Lithuania, sitting on the Šventoji River in Anykščiai district.",
+    "uk": "Одне з найменших міст Литви, розташоване на річці Швянтоя в Анікщяйському районі."
+  },
+  "longDescription": {
+    "lt": "Kavarskas, pirmą kartą paminėtas 1538 metais, yra Anykščių rajono savivaldybės miestas, kurio vardas kilęs iš dvarą valdžiusio bajoro Stanislovo Kovarskio pavardės. Su vos apie 700 gyventojų Kavarskas laikomas ketvirtu mažiausiu Lietuvos miestu, tačiau garsėja gamtos objektais — dešiniajame Šventosios krante trykšta tufo šaltinis, pavadintas Šv. Jono Krikštytojo vardu. XX amžiaus viduryje netoli miesto Šventosios vanduo buvo nukreiptas kanalu į Nevėžio upę siekiant padidinti jos debitą, tačiau ši sistema šiandien nebenaudojama.",
+    "en": "Kavarskas, first mentioned in 1538, is a town in Anykščiai district municipality whose name derives from the surname of the noble Stanisław Kowarski, who owned the local manor. With only about 700 residents, Kavarskas is considered the fourth-smallest town in Lithuania, but it is known for a natural feature — a petrifying tufa spring named after St John the Baptist rises on the right bank of the Šventoji. In the mid-20th century, water from the Šventoji near the town was diverted by canal into the Nevėžis River to boost its flow, though this system is no longer in use today.",
+    "uk": "Каварскас, уперше згаданий у 1538 році, — місто Анікщяйської районної громади, назва якого походить від прізвища шляхтича Станіслава Коварського, власника місцевого маєтку. Маючи лише близько 700 жителів, Каварскас вважається четвертим найменшим містом Литви, проте відоме природною пам'яткою — на правому березі Швянтоі б'є туфовe джерело, назване на честь Івана Хрестителя. У середині XX століття воду Швянтоі поблизу міста каналом спрямовували в річку Невежіс, щоб збільшити її витрату, однак ця система сьогодні вже не використовується."
+  },
+  "facts": [
+    {
+      "lt": "Su vos apie 700 gyventojų Kavarskas laikomas ketvirtu pagal mažumą Lietuvos miestu.",
+      "en": "With only about 700 residents, Kavarskas is considered the fourth-smallest town in Lithuania.",
+      "uk": "Маючи лише близько 700 мешканців, Каварскас вважається четвертим за величиною найменшим містом Литви."
+    },
+    {
+      "lt": "Miesto vardas kilęs iš dvarą valdžiusio bajoro Stanislovo Kovarskio pavardės.",
+      "en": "The town's name comes from the surname of the noble Stanisław Kowarski, who owned the local manor.",
+      "uk": "Назва міста походить від прізвища шляхтича Станіслава Коварського, власника місцевого маєтку."
+    },
+    {
+      "lt": "Dešiniajame Šventosios krante trykšta tufo šaltinis, pavadintas Šv. Jono Krikštytojo vardu.",
+      "en": "On the right bank of the Šventoji rises a petrifying tufa spring named after St John the Baptist.",
+      "uk": "На правому березі Швянтоі б'є туфове джерело, назване на честь Івана Хрестителя."
+    }
+  ],
+  "highlightPhoto": "2023-04-09-photo-2023-04-09-13-49-23.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šventosios upės vaizdas prie Kavarsko",
+    "en": "View of the Šventoji River near Kavarskas",
+    "uk": "Вид на річку Швянтоя поблизу Каварскаса"
+  },
+  "photos": [
+    "2023-04-09-photo-2023-04-09-13-42-58.jpg",
+    "2023-04-09-photo-2023-04-09-13-43-18.jpg",
+    "2023-04-09-photo-2023-04-09-13-43-33.jpg",
+    "2023-04-09-photo-2023-04-09-13-43-37.jpg",
+    "2023-04-09-photo-2023-04-09-13-44-03.jpg",
+    "2023-04-09-photo-2023-04-09-13-44-12.jpg",
+    "2023-04-09-photo-2023-04-09-13-46-12.jpg",
+    "2023-04-09-photo-2023-04-09-13-47-18.jpg",
+    "2023-04-09-photo-2023-04-09-13-47-30.jpg",
+    "2023-04-09-photo-2023-04-09-13-48-10.jpg",
+    "2023-04-09-photo-2023-04-09-13-48-31.jpg",
+    "2023-04-09-photo-2023-04-09-13-49-11.jpg",
+    "2023-04-09-photo-2023-04-09-13-49-15.jpg",
+    "2023-04-09-photo-2023-04-09-13-49-23.jpg",
+    "2023-04-09-photo-2023-04-09-13-50-42.jpg",
+    "2023-04-09-photo-2023-04-09-13-51-34.jpg",
+    "2023-04-09-photo-2023-04-09-13-52-40.jpg",
+    "2023-04-09-photo-2023-04-09-13-53-23.jpg",
+    "2023-04-09-photo-2023-04-09-13-53-40.jpg",
+    "2023-04-09-photo-2023-04-09-13-54-45.jpg",
+    "2023-04-09-photo-2023-04-09-13-55-27.jpg",
+    "2023-04-09-photo-2023-04-09-13-56-19.jpg",
+    "2023-04-09-photo-2023-04-09-13-56-52.jpg",
+    "2023-04-09-photo-2023-04-09-14-03-28.jpg",
+    "2023-04-09-photo-2023-04-09-14-03-35.jpg",
+    "2023-04-09-photo-2023-04-09-14-03-59.jpg"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "vilkaviskis",
+  "coordinates": {
+    "lat": 54.65,
+    "lng": 23.0333
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Vilkaviškis",
+    "en": "Vilkaviškis",
+    "uk": "Вілкавішкіс"
+  },
+  "shortDescription": {
+    "lt": "Pietvakarių apskrities miestas dviejų upių santakoje, kadaise buvęs gausios žydų bendruomenės namai.",
+    "en": "A southwestern county town at the meeting of two rivers, once home to a large Jewish community.",
+    "uk": "Місто на південному заході, на злитті двох річок, колишня домівка численної єврейської громади."
+  },
+  "longDescription": {
+    "lt": "Vilkaviškis, savo rajono administracinis centras Marijampolės apskrityje, stovi Šeimenos ir Vilkaujos upių santakoje ir savo vardą kildina iš pastarosios. Pirmą kartą paminėtas 1561 metais, miesto teises gavo 1660-aisiais ir išaugo į svarbų regioninį centrą su gausia, klestinčia žydų bendruomene nuo XVII amžiaus. Ši bendruomenė, kaip ir dauguma miesto žydų, buvo sunaikinta vokiečių okupacijos metais per Antrąjį pasaulinį karą; šiandien vienas ryškiausių miesto paminklų yra Vilkaviškio katedra.",
+    "en": "Vilkaviškis, administrative center of its own district in Marijampolė County, stands at the confluence of the Šeimena and Vilkauja rivers, from the latter of which it takes its name. First mentioned in 1561 and granted city rights in 1660, it grew into a significant regional center with a large and prosperous Jewish community from the 17th century onward. That community, along with most of the town's Jewish population, was destroyed during the German occupation of World War II; today Vilkaviškis Cathedral remains one of the town's most prominent landmarks.",
+    "uk": "Вілкавішкіс, адміністративний центр однойменного району в Маріямпольському повіті, стоїть на злитті річок Шеймена та Вілкауя, від останньої й походить його назва. Уперше згаданий 1561 року, місто отримало права 1660-го й виросло у значний регіональний центр із численною заможною єврейською громадою з XVII століття. Ця громада, як і більшість єврейського населення міста, була знищена під час німецької окупації в роки Другої світової війни; сьогодні одна з найпомітніших пам'яток міста — Вілкавішкіський кафедральний собор."
+  },
+  "facts": [
+    {
+      "lt": "Vilkaviškis pavadinimą gavo iš Vilkaujos upės, prie kurios santakos su Šeimena stovi miestas.",
+      "en": "Vilkaviškis takes its name from the Vilkauja river, at whose confluence with the Šeimena the town stands.",
+      "uk": "Вілкавішкіс отримав назву від річки Вілкауя, на злитті якої з Шейменою стоїть місто."
+    },
+    {
+      "lt": "Miestas pirmą kartą paminėtas 1561 metais, miesto teises gavo 1660-aisiais.",
+      "en": "The town was first mentioned in 1561 and was granted city rights in 1660.",
+      "uk": "Місто вперше згадується 1561 року, а міські права отримало 1660-го."
+    },
+    {
+      "lt": "Vilkaviškyje gyvavo gausi, klestinti žydų bendruomenė, sunaikinta per Antrojo pasaulinio karo vokiečių okupaciją.",
+      "en": "Vilkaviškis had a large, prosperous Jewish community that was destroyed during the World War II German occupation.",
+      "uk": "У Вілкавішкісі існувала численна заможна єврейська громада, знищена під час німецької окупації в роки Другої світової війни."
+    }
+  ],
+  "highlightPhoto": "2025-12-30-photo-30-12-2025-15-09-31.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Vilkaviškio katedra miesto centre",
+    "en": "Vilkaviškis Cathedral in the town center",
+    "uk": "Вілкавішкіський кафедральний собор у центрі міста"
+  },
+  "photos": [
+    "2025-12-30-photo-30-12-2025-14-48-17.jpg",
+    "2025-12-30-photo-30-12-2025-14-48-45.jpg",
+    "2025-12-30-photo-30-12-2025-14-48-48.jpg",
+    "2025-12-30-photo-30-12-2025-14-49-41.jpg",
+    "2025-12-30-photo-30-12-2025-14-50-35.jpg",
+    "2025-12-30-photo-30-12-2025-14-51-07.jpg",
+    "2025-12-30-photo-30-12-2025-14-55-19.jpg",
+    "2025-12-30-photo-30-12-2025-14-55-21.jpg",
+    "2025-12-30-photo-30-12-2025-14-55-46.jpg",
+    "2025-12-30-photo-30-12-2025-14-56-06.jpg",
+    "2025-12-30-photo-30-12-2025-14-57-27.jpg",
+    "2025-12-30-photo-30-12-2025-14-58-47.jpg",
+    "2025-12-30-photo-30-12-2025-14-58-52.jpg",
+    "2025-12-30-photo-30-12-2025-15-00-15.jpg",
+    "2025-12-30-photo-30-12-2025-15-00-17.jpg",
+    "2025-12-30-photo-30-12-2025-15-03-00.jpg",
+    "2025-12-30-photo-30-12-2025-15-04-44.jpg",
+    "2025-12-30-photo-30-12-2025-15-08-12.jpg",
+    "2025-12-30-photo-30-12-2025-15-09-31.jpg",
+    "2025-12-30-photo-30-12-2025-15-09-39.jpg",
+    "2025-12-30-photo-30-12-2025-15-10-19.jpg",
+    "2025-12-30-photo-30-12-2025-15-12-40.jpg",
+    "2025-12-30-photo-30-12-2025-15-13-58.jpg",
+    "2025-12-30-photo-30-12-2025-15-14-08.jpg",
+    "2025-12-30-photo-30-12-2025-15-14-09.jpg",
+    "2025-12-30-photo-30-12-2025-15-15-38.jpg",
+    "2025-12-30-photo-30-12-2025-15-16-06.jpg",
+    "2025-12-30-photo-30-12-2025-15-17-02.jpg",
+    "2025-12-30-photo-30-12-2025-15-17-52.jpg",
+    "2025-12-30-photo-30-12-2025-15-19-23.jpg",
+    "2025-12-30-photo-30-12-2025-15-21-14.jpg",
+    "2025-12-30-photo-30-12-2025-15-22-30.jpg",
+    "2025-12-30-photo-30-12-2025-15-25-01.jpg",
+    "2025-12-30-photo-30-12-2025-15-25-04.jpg",
+    "2025-12-30-photo-30-12-2025-15-40-31.jpg",
+    "2025-12-30-photo-30-12-2025-15-40-33.jpg"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "seduva",
+  "coordinates": {
+    "lat": 55.7508,
+    "lng": 23.6667
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Šeduva",
+    "en": "Šeduva",
+    "uk": "Шедува"
+  },
+  "shortDescription": {
+    "lt": "Radviliškio rajono miestelis, kuriame naujas Prarastojo štetlo muziejus pasakoja apie dingusią žydų bendruomenę.",
+    "en": "A Radviliškis district town now home to the striking Lost Shtetl Museum, telling the story of its vanished Jewish community.",
+    "uk": "Містечко Радвілішкіського району, де новий музей «Втрачений штетл» розповідає історію зниклої єврейської громади."
+  },
+  "longDescription": {
+    "lt": "Šeduva yra nedidelis miestelis prie Lėvens upės Radviliškio rajone, iki Antrojo pasaulinio karo buvęs vienas iš daugiau nei 200 Lietuvos štetlų su gausia žydų bendruomene. 1941 metų rugpjūtį žydų gyventojai buvo nužudyti netoliese esančiuose miškuose. 2025 metų rudenį miestelyje atidarytas suomių architektų Lahdelma & Mahlamäki suprojektuotas Prarastojo štetlo muziejus, kuris savo devyniose ekspozicijos salėse atkuria tarpukario Šeduvos žydų kasdienybę.",
+    "en": "Šeduva is a small town on the Lėvuo river in Radviliškis district, once home to one of Lithuania's more than 200 Jewish shtetls. Its Jewish community was murdered in nearby forests in August 1941. In autumn 2025 the town opened the Lost Shtetl Museum, designed by the Finnish studio Lahdelma & Mahlamäki, whose nine galleries recreate the everyday life of interwar Jewish Šeduva.",
+    "uk": "Шедува — невелике містечко на річці Лявуо в Радвілішкіському районі, до Другої світової війни одне з понад 200 литовських штетлів із багатою єврейською громадою. Її єврейське населення було вбите в навколишніх лісах у серпні 1941 року. Восени 2025 року в містечку відкрився музей «Втрачений штетл», спроєктований фінською студією Lahdelma & Mahlamäki, чиї дев'ять залів відтворюють повсякденне життя міжвоєнної єврейської Шедуви."
+  },
+  "facts": [
+    {
+      "lt": "Iki karo Šeduvoje gyveno gausi žydų bendruomenė; ji buvo sunaikinta 1941 metų rugpjūtį netoliese esančiuose Liaudiškių ir Pakutenių miškuose.",
+      "en": "Before the war Šeduva had a sizeable Jewish community, murdered in August 1941 in the nearby Liaudiškiai and Pakuteniai forests.",
+      "uk": "До війни в Шедуві проживала численна єврейська громада, знищена у серпні 1941 року в сусідніх лісах Ляудишкяй і Пакутеняй."
+    },
+    {
+      "lt": "Prarastojo štetlo muziejų, atidarytą 2025 metų rugsėjį, suprojektavo suomių architektas Raineris Mahlamäki.",
+      "en": "The Lost Shtetl Museum, opened in September 2025, was designed by Finnish architect Rainer Mahlamäki.",
+      "uk": "Музей «Втрачений штетл», відкритий у вересні 2025 року, спроєктував фінський архітектор Райнер Махламякі."
+    },
+    {
+      "lt": "Šeduva priklauso Radviliškio rajono savivaldybei, Šiaulių apskrityje, ir stovi prie Lėvens upės.",
+      "en": "Šeduva belongs to Radviliškis district municipality in Šiauliai county and stands on the Lėvuo river.",
+      "uk": "Шедува належить до Радвілішкіського районного самоврядування Шяуляйського повіту і стоїть на річці Лявуо."
+    }
+  ],
+  "highlightPhoto": "2025-08-16-photo-16-08-2025-16-05-44.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Prarastojo štetlo muziejaus pastatas Šeduvoje",
+    "en": "The Lost Shtetl Museum building in Šeduva",
+    "uk": "Будівля музею «Втрачений штетл» у Шедуві"
+  },
+  "photos": [
+    "2025-08-16-photo-16-08-2025-15-50-43.jpg",
+    "2025-08-16-photo-16-08-2025-15-50-51.jpg",
+    "2025-08-16-photo-16-08-2025-15-50-54.jpg",
+    "2025-08-16-photo-16-08-2025-15-52-03.jpg",
+    "2025-08-16-photo-16-08-2025-15-53-37.jpg",
+    "2025-08-16-photo-16-08-2025-15-53-55.jpg",
+    "2025-08-16-photo-16-08-2025-15-55-29.jpg",
+    "2025-08-16-photo-16-08-2025-15-55-45.jpg",
+    "2025-08-16-photo-16-08-2025-15-56-33.jpg",
+    "2025-08-16-photo-16-08-2025-15-56-56.jpg",
+    "2025-08-16-photo-16-08-2025-15-57-53.jpg",
+    "2025-08-16-photo-16-08-2025-15-58-22.jpg",
+    "2025-08-16-photo-16-08-2025-15-59-21.jpg",
+    "2025-08-16-photo-16-08-2025-16-01-45.jpg",
+    "2025-08-16-photo-16-08-2025-16-01-47.jpg",
+    "2025-08-16-photo-16-08-2025-16-05-10.jpg",
+    "2025-08-16-photo-16-08-2025-16-05-44.jpg",
+    "2025-08-16-photo-16-08-2025-16-07-37.jpg",
+    "2025-08-16-photo-16-08-2025-16-10-24.jpg",
+    "2025-08-16-photo-16-08-2025-16-11-23.jpg",
+    "2025-08-16-photo-16-08-2025-16-12-23.jpg",
+    "2025-08-16-photo-16-08-2025-16-12-25.jpg",
+    "2025-08-16-photo-16-08-2025-16-13-57.jpg",
+    "2025-08-16-photo-16-08-2025-16-14-40.jpg",
+    "2025-08-16-photo-16-08-2025-16-15-56.jpg",
+    "2025-08-16-photo-16-08-2025-16-17-08.jpg",
+    "2025-08-16-photo-16-08-2025-16-19-26.jpg",
+    "2025-08-16-photo-16-08-2025-16-25-55.jpg",
+    "2025-08-16-photo-16-08-2025-16-26-59.jpg",
+    "2025-08-16-photo-16-08-2025-16-27-17.jpg",
+    "2025-08-16-photo-16-08-2025-16-27-28.jpg",
+    "2025-08-16-photo-16-08-2025-16-27-48.jpg"
+  ]
+}

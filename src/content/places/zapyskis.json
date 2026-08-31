@@ -1,0 +1,58 @@
+{
+  "slug": "zapyskis",
+  "coordinates": {
+    "lat": 54.925,
+    "lng": 23.65
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Zapyškis",
+    "en": "Zapyškis",
+    "uk": "Запишкіс"
+  },
+  "shortDescription": {
+    "lt": "Pakrantės kaimas, kuriame stovi įspūdinga XVI amžiaus gotikinė bažnyčia, vadinama „Lietuvos bažnyčių motina“.",
+    "en": "A riverside village home to a striking 16th-century Gothic church known as the 'Mother of Lithuanian Churches'.",
+    "uk": "Прибережне село з вражаючим готичним костелом XVI століття, який називають «матір'ю литовських костелів»."
+  },
+  "longDescription": {
+    "lt": "Zapyškis — nedidelis kaimas Nemuno kairiajame krante, Kauno rajone, žinomas visų pirma dėl čia stovinčios gotikinės Šv. Jono Krikštytojo bažnyčios, pastatytos XVI amžiaus pabaigoje ir dažnai vadinamos „Lietuvos bažnyčių motina“. Šimtmečius plytinė bažnyčia atlaikė marą, karus ir pasikartojančius Nemuno potvynius, niokojusius presbiteriją, kol potvyniai galiausiai liovėsi pastačius Kauno hidroelektrinės užtvanką 1960 metais. Atskira, naujesnė neogotikinė bažnyčia, kurios statyba netoliese esančioje kalvoje pradėta 1908 metais, buvo susprogdinta besitraukiančios rusų kariuomenės 1915-aisiais ir dabartinę formą įgavo tik 1937–1957 metais atstatyta.",
+    "en": "Zapyškis is a small village on the left bank of the Nemunas river in the Kaunas district, known chiefly for the Gothic Church of St. John the Baptist that stands there, built at the end of the 16th century and often called the 'Mother of Lithuanian Churches.' For centuries the brick church survived plague, war, and repeated Nemunas floods that damaged its presbytery, until the floods finally stopped after the Kaunas Hydroelectric Power Plant's dam was completed in 1960. A separate, newer neo-Gothic church begun on a nearby hill in 1908 was blown up by retreating Russian troops in 1915, and only rebuilt in its present form between 1937 and 1957.",
+    "uk": "Запишкіс — невелике село на лівому березі Немана в Каунаському районі, відоме передусім готичним костелом Святого Івана Хрестителя, збудованим наприкінці XVI століття й часто званим «матір'ю литовських костелів». Впродовж століть цегляний костел витримував чуму, війни та неодноразові повені Немана, що руйнували пресвітерій, поки повені нарешті не припинилися після завершення греблі Каунаської гідроелектростанції 1960 року. Окремий, новіший неоготичний костел, будівництво якого на сусідньому пагорбі почалося 1908 року, підірвали війська росіян, що відступали, 1915-го, і відбудували в нинішньому вигляді лише 1937–1957 років."
+  },
+  "facts": [
+    {
+      "lt": "XVI amžiaus pabaigoje pastatyta gotikinė Zapyškio Šv. Jono Krikštytojo bažnyčia dažnai vadinama „Lietuvos bažnyčių motina“.",
+      "en": "The Gothic Church of St. John the Baptist in Zapyškis, built at the end of the 16th century, is often called the 'Mother of Lithuanian Churches'.",
+      "uk": "Готичний костел Святого Івана Хрестителя в Запишкісі, збудований наприкінці XVI століття, часто називають «матір'ю литовських костелів»."
+    },
+    {
+      "lt": "Pasikartojantys Nemuno potvyniai šimtmečius niokojo bažnyčią, kol liovėsi pastačius Kauno hidroelektrinės užtvanką 1960 metais.",
+      "en": "Repeated Nemunas floods damaged the church for centuries until they stopped after the Kaunas Hydroelectric Power Plant's dam was built in 1960.",
+      "uk": "Повторювані повені Немана століттями руйнували костел, поки не припинилися після будівництва греблі Каунаської ГЕС 1960 року."
+    },
+    {
+      "lt": "1908 metais pradėtos statyti naujesnės neogotikinės bažnyčios statybą 1915 metais susprogdino besitraukianti rusų kariuomenė, o atstatyta ji buvo tik 1937–1957 metais.",
+      "en": "A newer neo-Gothic church begun in 1908 was blown up by retreating Russian troops in 1915 and rebuilt only between 1937 and 1957.",
+      "uk": "Новіший неоготичний костел, будівництво якого почалося 1908 року, підірвали війська росіян, що відступали, 1915-го, а відбудували лише в 1937–1957 роках."
+    }
+  ],
+  "highlightPhoto": "2025-07-19-photo-19-07-2025-15-37-33.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Raudonų plytų gotikinė Zapyškio bažnyčia Nemuno pakrantėje",
+    "en": "The red-brick Gothic church of Zapyškis on the bank of the Nemunas",
+    "uk": "Готичний костел Запишкіса з червоної цегли на березі Немана"
+  },
+  "photos": [
+    "2025-07-19-photo-19-07-2025-15-36-31.jpg",
+    "2025-07-19-photo-19-07-2025-15-36-44.jpg",
+    "2025-07-19-photo-19-07-2025-15-37-33.jpg",
+    "2025-07-19-photo-19-07-2025-15-37-52.jpg",
+    "2025-07-19-photo-19-07-2025-15-39-00.jpg"
+  ]
+}

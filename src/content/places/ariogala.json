@@ -1,0 +1,93 @@
+{
+  "slug": "ariogala",
+  "coordinates": {
+    "lat": 55.2611,
+    "lng": 23.4886
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Ariogala",
+    "en": "Ariogala",
+    "uk": "Аріогала"
+  },
+  "shortDescription": {
+    "lt": "Vienas seniausių Lietuvos miestelių prie vingiuotos Dubysos upės.",
+    "en": "One of the oldest towns in Lithuania, on the winding Dubysa river.",
+    "uk": "Одне з найдавніших містечок Литви на звивистій річці Дубисі."
+  },
+  "longDescription": {
+    "lt": "Ariogala yra viena seniausiai žinomų Lietuvos vietovių, minima jau 1252–1253 metais karaliaus Mindaugo dovanojimo raštuose. XIV amžiuje čia stovėjo medinė pilis, kurią 1382 metais sudegino kryžiuočiai, o po Žalgirio mūšio miestelis ėmė sparčiau augti — apie 1416 metus buvo pastatyta pirmoji bažnyčia. Šiandien Raseinių rajone, prie Dubysos upės, stūksantis miestelis puikuojasi 1939 metais pastatyta Šv. Arkangelo Mykolo bažnyčia, primenančia jo ilgą krikščionišką istoriją.",
+    "en": "Ariogala is one of the oldest recorded places in Lithuania, mentioned as early as 1252-1253 in the donation charters of King Mindaugas. A wooden castle stood here in the 14th century until it was burned down by the Teutonic Knights in 1382, and after the Battle of Grunwald the town grew more prosperous, with its first church built around 1416. Today the town, in Raseiniai district on the banks of the Dubysa river, is marked by the Church of St. Michael the Archangel, built in 1939, a reminder of its long Christian history.",
+    "uk": "Аріогала — одне з найдавніших відомих поселень Литви, згадане ще у 1252-1253 роках у дарчих грамотах короля Міндовга. У XIV столітті тут стояв дерев'яний замок, спалений хрестоносцями у 1382 році, а після Грюнвальдської битви містечко почало швидше розвиватися — близько 1416 року було збудовано першу церкву. Сьогодні містечко в Расейнському районі на березі річки Дубиси прикрашає церква Святого Архангела Михаїла, збудована 1939 року, що нагадує про його довгу християнську історію."
+  },
+  "facts": [
+    {
+      "lt": "Ariogala minima jau 1252–1253 metų karaliaus Mindaugo donaciniuose raštuose.",
+      "en": "Ariogala is mentioned as early as 1252-1253 in the donation charters of King Mindaugas.",
+      "uk": "Аріогала згадується ще у дарчих грамотах короля Міндовга 1252-1253 років."
+    },
+    {
+      "lt": "XIV amžiaus medinę Ariogalos pilį 1382 metais sudegino kryžiuočiai.",
+      "en": "The town's 14th-century wooden castle was burned down by the Teutonic Knights in 1382.",
+      "uk": "Дерев'яний замок XIV століття хрестоносці спалили у 1382 році."
+    },
+    {
+      "lt": "1944 metų rugpjūčio 3 dieną miestelis buvo sudegintas ir okupuotas sovietų armijos.",
+      "en": "On 3 August 1944 the town was burned down and occupied by the Soviet army.",
+      "uk": "3 серпня 1944 року містечко було спалене та окуповане радянською армією."
+    }
+  ],
+  "highlightPhoto": "2025-09-13-photo-13-09-2025-15-28-14.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šv. Arkangelo Mykolo bažnyčia Ariogaloje",
+    "en": "The Church of St. Michael the Archangel in Ariogala",
+    "uk": "Церква Святого Архангела Михаїла в Аріогалі"
+  },
+  "photos": [
+    "2025-09-13-photo-13-09-2025-14-57-09.jpg",
+    "2025-09-13-photo-13-09-2025-15-00-44.jpg",
+    "2025-09-13-photo-13-09-2025-15-01-30.jpg",
+    "2025-09-13-photo-13-09-2025-15-02-16.jpg",
+    "2025-09-13-photo-13-09-2025-15-03-37.jpg",
+    "2025-09-13-photo-13-09-2025-15-04-15.jpg",
+    "2025-09-13-photo-13-09-2025-15-05-53.jpg",
+    "2025-09-13-photo-13-09-2025-15-07-00.jpg",
+    "2025-09-13-photo-13-09-2025-15-11-15.jpg",
+    "2025-09-13-photo-13-09-2025-15-12-05.jpg",
+    "2025-09-13-photo-13-09-2025-15-12-41.jpg",
+    "2025-09-13-photo-13-09-2025-15-13-00.jpg",
+    "2025-09-13-photo-13-09-2025-15-16-32.jpg",
+    "2025-09-13-photo-13-09-2025-15-18-06.jpg",
+    "2025-09-13-photo-13-09-2025-15-19-59.jpg",
+    "2025-09-13-photo-13-09-2025-15-20-29.jpg",
+    "2025-09-13-photo-13-09-2025-15-24-41.jpg",
+    "2025-09-13-photo-13-09-2025-15-26-33.jpg",
+    "2025-09-13-photo-13-09-2025-15-26-42.jpg",
+    "2025-09-13-photo-13-09-2025-15-27-39.jpg",
+    "2025-09-13-photo-13-09-2025-15-28-14.jpg",
+    "2025-09-13-photo-13-09-2025-15-28-33.jpg",
+    "2025-09-13-photo-13-09-2025-15-29-41.jpg",
+    "2025-09-13-photo-13-09-2025-15-31-24.jpg",
+    "2025-09-13-photo-13-09-2025-15-35-19.jpg",
+    "2025-09-13-photo-13-09-2025-15-36-04.jpg",
+    "2025-09-13-photo-13-09-2025-15-37-17.jpg",
+    "2025-09-13-photo-13-09-2025-15-38-18.jpg",
+    "2025-09-13-photo-13-09-2025-15-38-31.jpg",
+    "2025-09-13-photo-13-09-2025-15-41-22.jpg",
+    "2025-09-13-photo-13-09-2025-15-42-05.jpg",
+    "2025-09-13-photo-13-09-2025-15-42-08.jpg",
+    "2025-09-13-photo-13-09-2025-15-42-24.jpg",
+    "2025-09-13-photo-13-09-2025-15-42-25.jpg",
+    "2025-09-13-photo-13-09-2025-15-43-16.jpg",
+    "2025-09-13-photo-13-09-2025-15-43-48.jpg",
+    "2025-09-13-photo-13-09-2025-15-45-01.jpg",
+    "2025-09-13-photo-13-09-2025-15-46-51.jpg",
+    "2025-09-13-photo-13-09-2025-15-47-35.jpg",
+    "2025-09-13-photo-13-09-2025-15-48-37.jpg"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "taurage",
+  "coordinates": {
+    "lat": 55.25,
+    "lng": 22.2833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Tauragė",
+    "en": "Tauragė",
+    "uk": "Таураге"
+  },
+  "shortDescription": {
+    "lt": "Apskrities centras prie Jūros upės, istoriškai žinomas dėl 1812 metų Taurogės konvencijos.",
+    "en": "A county capital on the Jūra river, historically known for the 1812 Convention of Tauroggen.",
+    "uk": "Центр повіту на річці Юра, історично відомий Тауроггенською конвенцією 1812 року."
+  },
+  "longDescription": {
+    "lt": "Tauragė davė vardą 1812 metų Taurogės konvencijai, kuria Prūsijos generolas Liudvikas Jorkas per Napoleono traukimąsi iš Rusijos sutiko su Rusijos kariuomenės paliaubomis, nepaklusdamas savo karaliaus įsakymams. Miestas stovi prie Jūros upės vakarų Lietuvoje ir yra Tauragės apskrities centras. Senamiestį ir XIX amžiaus dvaro bei pilies kompleksą menantys pastatai primena ilgą Tauragės, kaip pasienio ir prekybos miesto netoli buvusios Prūsijos sienos, istoriją.",
+    "en": "Tauragė gave its name to the 1812 Convention of Tauroggen, in which Prussian general Ludwig Yorck agreed to a truce with Russian forces during Napoleon's retreat from Russia, defying his king's orders. The city stands on the Jūra river in western Lithuania and is the capital of Tauragė County. Its old town and 19th-century manor-and-castle complex reflect its long history as a border and trading town near the former Prussian frontier.",
+    "uk": "Таураге дало назву Тауроггенській конвенції 1812 року, за якою прусський генерал Людвіг Йорк погодився на перемир'я з російськими військами під час відступу Наполеона з Росії, порушивши накази свого короля. Місто стоїть на річці Юра в західній Литві і є центром Таурагського повіту. Старе місто та садибно-замковий комплекс XIX століття відображають довгу історію Таураге як прикордонного й торгового міста поблизу колишнього прусського кордону."
+  },
+  "facts": [
+    {
+      "lt": "Tauragė davė vardą 1812 metų Taurogės konvencijai tarp Prūsijos generolo Liudviko Jorko ir Rusijos kariuomenės.",
+      "en": "Tauragė gave its name to the 1812 Convention of Tauroggen between Prussian general Ludwig Yorck and Russian forces.",
+      "uk": "Таураге дало назву Тауроггенській конвенції 1812 року між прусським генералом Людвігом Йорком і російськими військами."
+    },
+    {
+      "lt": "Miestas stovi prie Jūros upės vakarų Lietuvoje ir yra Tauragės apskrities centras.",
+      "en": "The city stands on the Jūra river in western Lithuania and is the capital of Tauragė County.",
+      "uk": "Місто стоїть на річці Юра в західній Литві і є центром Таурагського повіту."
+    },
+    {
+      "lt": "Tauragės dvaro ir pilies kompleksas menamas iki šiol ir primena miesto, kaip pasienio prekybos centro, istoriją.",
+      "en": "The Tauragė manor and castle complex still stands and recalls the city's history as a border trading centre.",
+      "uk": "Садибно-замковий комплекс Таураге зберігся донині і нагадує про історію міста як прикордонного торгового центру."
+    }
+  ],
+  "highlightPhoto": "2025-05-31-photo-31-05-2025-14-45-13.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Tauragės pilies ir dvaro kompleksas",
+    "en": "The Tauragė castle and manor complex",
+    "uk": "Замково-садибний комплекс Таураге"
+  },
+  "photos": [
+    "2025-05-31-photo-31-05-2025-13-59-16.jpg",
+    "2025-05-31-photo-31-05-2025-14-00-07.jpg",
+    "2025-05-31-photo-31-05-2025-14-02-44.jpg",
+    "2025-05-31-photo-31-05-2025-14-03-57.jpg",
+    "2025-05-31-photo-31-05-2025-14-09-12.jpg",
+    "2025-05-31-photo-31-05-2025-14-09-51.jpg",
+    "2025-05-31-photo-31-05-2025-14-09-59.jpg",
+    "2025-05-31-photo-31-05-2025-14-13-07.jpg",
+    "2025-05-31-photo-31-05-2025-14-20-55.jpg",
+    "2025-05-31-photo-31-05-2025-14-22-01.jpg",
+    "2025-05-31-photo-31-05-2025-14-23-15.jpg",
+    "2025-05-31-photo-31-05-2025-14-23-49.jpg",
+    "2025-05-31-photo-31-05-2025-14-29-50.jpg",
+    "2025-05-31-photo-31-05-2025-14-30-17.jpg",
+    "2025-05-31-photo-31-05-2025-14-31-35.jpg",
+    "2025-05-31-photo-31-05-2025-14-32-09.jpg",
+    "2025-05-31-photo-31-05-2025-14-41-08.jpg",
+    "2025-05-31-photo-31-05-2025-14-41-37.jpg",
+    "2025-05-31-photo-31-05-2025-14-42-26.jpg",
+    "2025-05-31-photo-31-05-2025-14-43-24.jpg",
+    "2025-05-31-photo-31-05-2025-14-44-03.jpg",
+    "2025-05-31-photo-31-05-2025-14-45-13.jpg",
+    "2025-05-31-photo-31-05-2025-14-46-14.jpg",
+    "2025-05-31-photo-31-05-2025-14-48-14.jpg",
+    "2025-05-31-photo-31-05-2025-14-48-58.jpg",
+    "2025-05-31-photo-31-05-2025-14-50-51.jpg",
+    "2025-05-31-photo-31-05-2025-14-51-47.jpg",
+    "2025-05-31-photo-31-05-2025-14-53-52.jpg",
+    "2025-05-31-photo-31-05-2025-14-53-55.jpg",
+    "2025-05-31-photo-31-05-2025-14-56-12.jpg",
+    "2025-05-31-photo-31-05-2025-14-56-49.jpg",
+    "2025-05-31-photo-31-05-2025-14-58-33.jpg",
+    "2025-05-31-photo-31-05-2025-15-06-03.jpg",
+    "2025-05-31-photo-31-05-2025-15-11-02.jpg",
+    "2025-05-31-photo-31-05-2025-15-12-03.jpg",
+    "2025-05-31-photo-31-05-2025-15-13-32.jpg",
+    "2025-05-31-photo-31-05-2025-15-15-19.jpg",
+    "2025-05-31-photo-31-05-2025-15-16-40.jpg",
+    "2025-05-31-photo-31-05-2025-15-18-33.jpg",
+    "2025-05-31-photo-31-05-2025-15-19-16.jpg",
+    "2025-05-31-photo-31-05-2025-15-21-58.jpg",
+    "2025-05-31-photo-31-05-2025-15-24-01.jpg",
+    "2025-05-31-photo-31-05-2025-15-24-31.jpg"
+  ]
+}

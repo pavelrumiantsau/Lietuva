@@ -1,0 +1,71 @@
+{
+  "slug": "rudiskes",
+  "coordinates": {
+    "lat": 54.5167,
+    "lng": 24.8333
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Rūdiškės",
+    "en": "Rūdiškės",
+    "uk": "Рудішкес"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Dzūkijos miestelis į pietus nuo Trakų, pirmą kartą paminėtas 1774 metais.",
+    "en": "A small Dzūkija town south of Trakai, first mentioned in 1774.",
+    "uk": "Невелике містечко Дзукії на південь від Тракая, вперше згадане 1774 року."
+  },
+  "longDescription": {
+    "lt": "Rūdiškės įsikūrusios apie 15 km į pietus nuo Trakų, Dzūkijos etnografiniame regione, Trakų rajono savivaldybėje. Vietovė pirmą kartą paminėta 1774 metais, o tarpukariu priklausė Lenkijai. Miesto teises Rūdiškės gavo 1958 metais. Šiandien tai ramus, miškais apsuptas miestelis, kuriame gyvena mažiau nei du tūkstančiai žmonių.",
+    "en": "Rūdiškės lies about 15 km south of Trakai, in the Dzūkija ethnographic region, within Trakai district municipality. The settlement was first mentioned in 1774 and was part of interwar Poland. It received official town rights in 1958. Today it is a quiet, forest-surrounded town with a population under two thousand.",
+    "uk": "Рудішкес розташоване приблизно за 15 км на південь від Тракая, в етнографічному регіоні Дзукія, у складі Тракайського районного самоврядування. Поселення вперше згадане 1774 року і за міжвоєнних часів входило до складу Польщі. Офіційний статус міста Рудішкес отримало 1958 року. Сьогодні це тихе, оточене лісами містечко з населенням менше двох тисяч осіб."
+  },
+  "facts": [
+    {
+      "lt": "Rūdiškės pirmą kartą paminėtos raštuose 1774 metais.",
+      "en": "Rūdiškės was first mentioned in written sources in 1774.",
+      "uk": "Рудішкес вперше згадане у писемних джерелах 1774 року."
+    },
+    {
+      "lt": "Miestelis įsikūręs Dzūkijos etnografiniame regione, apie 15 km į pietus nuo Trakų.",
+      "en": "It lies in the Dzūkija ethnographic region, about 15 km south of Trakai.",
+      "uk": "Містечко розташоване в етнографічному регіоні Дзукія, приблизно за 15 км на південь від Тракая."
+    },
+    {
+      "lt": "Oficialų miesto statusą Rūdiškės gavo 1958 metais.",
+      "en": "Rūdiškės received official town rights in 1958.",
+      "uk": "Офіційний статус міста Рудішкес отримало 1958 року."
+    }
+  ],
+  "highlightPhoto": "2023-11-18-photo-18-11-2023-14-11-30.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Rūdiškių miestelio gatvė tarp pušynų",
+    "en": "A street in Rūdiškės surrounded by pine forest",
+    "uk": "Вулиця містечка Рудішкес серед соснових лісів"
+  },
+  "photos": [
+    "2023-11-18-photo-18-11-2023-13-50-46.jpg",
+    "2023-11-18-photo-18-11-2023-13-51-32.jpg",
+    "2023-11-18-photo-18-11-2023-13-51-37.jpg",
+    "2023-11-18-photo-18-11-2023-13-54-01.jpg",
+    "2023-11-18-photo-18-11-2023-13-54-31.jpg",
+    "2023-11-18-photo-18-11-2023-13-57-51.jpg",
+    "2023-11-18-photo-18-11-2023-14-01-54.jpg",
+    "2023-11-18-photo-18-11-2023-14-07-05.jpg",
+    "2023-11-18-photo-18-11-2023-14-08-08.jpg",
+    "2023-11-18-photo-18-11-2023-14-11-30.jpg",
+    "2023-11-18-photo-18-11-2023-14-12-19.jpg",
+    "2023-11-18-photo-18-11-2023-14-17-15.jpg",
+    "2023-11-18-photo-18-11-2023-14-18-37.jpg",
+    "2023-11-18-photo-18-11-2023-14-21-54.jpg",
+    "2023-11-18-photo-18-11-2023-14-26-17.jpg",
+    "2023-11-18-photo-18-11-2023-14-28-06.jpg",
+    "2023-11-18-photo-18-11-2023-14-31-00.jpg",
+    "2023-11-18-photo-18-11-2023-14-36-07.jpg"
+  ]
+}

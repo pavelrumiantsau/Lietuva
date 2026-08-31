@@ -1,0 +1,85 @@
+{
+  "slug": "linkuva",
+  "coordinates": {
+    "lat": 56.0009,
+    "lng": 23.9689
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Linkuva",
+    "en": "Linkuva",
+    "uk": "Лінкува"
+  },
+  "shortDescription": {
+    "lt": "Penkis šimtmečius menantis Pakruojo rajono miestelis, išaugęs aplink prabangiai puoštą karmelitų bažnyčią.",
+    "en": "A 500-year-old town in the Pakruojis district, built around a richly decorated Carmelite church.",
+    "uk": "П'ятсотлітнє містечко в Пакруойському районі, що виросло навколо пишно оздобленої кармелітської церкви."
+  },
+  "longDescription": {
+    "lt": "Linkuva, esanti Pakruojo rajone, šiaurės Lietuvoje, pirmą kartą paminėta jau 1371 metais Hermano fon Vartbergės Livonijos kronikose, o istorinis miestelio branduolys šiandien yra valstybės saugomas urbanistikos paminklas. Apie 1500 metus dvaro savininkė pastatė medinę bažnyčią, vėliau perėjusią kalvinistams, o 1635 metais ji atiteko karmelitams, kurie iki 1661 metų ją perstatė su dviem bokštais ir septyniais altoriais, o 1689 metais pristatė vienuolyną. 1745 metais pašventinta perstatyta bažnyčia laikoma viena turtingiausių Lietuvos meno šventovių dėl puošnių barokinių altorių ir puošybos.",
+    "en": "Linkuva, in the Pakruojis district of northern Lithuania, is first mentioned as early as 1371 in the Livonian chronicles of Hermann von Wartberge, and the town's historic core is now a state-protected urbanistic monument. A wooden church was founded here around 1500 by the manor's owner, later passed to Calvinists, and in 1635 was given to the Carmelite order, who by 1661 had rebuilt it with twin towers and seven altars and, in 1689, added a monastery. The rebuilt church, consecrated in 1745, is counted among Lithuania's richest art sanctuaries for its ornate Baroque altars and decoration.",
+    "uk": "Лінкува, що в Пакруойському районі на півночі Литви, вперше згадується ще 1371 року в лівонських хроніках Германа фон Вартберге, а історичне ядро містечка сьогодні є державним урбаністичним пам'ятником. Близько 1500 року власниця маєтку заснувала дерев'яну церкву, яка згодом перейшла до кальвіністів, а 1635 року її передали ордену кармелітів, які до 1661 року перебудували її з двома вежами й сімома вівтарями, а 1689 року добудували монастир. Перебудована церква, освячена 1745 року, вважається однією з найбагатших мистецьких святинь Литви завдяки пишним барокковим вівтарям і оздобленню."
+  },
+  "facts": [
+    {
+      "lt": "Linkuva pirmą kartą paminėta 1371 metais Hermano fon Vartbergės Livonijos kronikose — miesteliui daugiau nei 500 metų.",
+      "en": "Linkuva is first mentioned in 1371 in the Livonian chronicles of Hermann von Wartberge, making it over 500 years old.",
+      "uk": "Лінкува вперше згадується 1371 року в лівонських хроніках Германа фон Вартберге — містечку понад 500 років."
+    },
+    {
+      "lt": "1635 metais bažnyčią gavęs karmelitų ordinas ją perstatė su dviem bokštais ir septyniais altoriais, o 1689 metais pristatė vienuolyną.",
+      "en": "The Carmelite order, who received the church in 1635, rebuilt it with twin towers and seven altars and added a monastery in 1689.",
+      "uk": "Орден кармелітів, який отримав церкву 1635 року, перебудував її з двома вежами й сімома вівтарями, а 1689 року добудував монастир."
+    },
+    {
+      "lt": "Linkuvos istorinis centras yra valstybės saugomas urbanistikos paminklas, o jos bažnyčia laikoma viena turtingiausių Lietuvos meno šventovių.",
+      "en": "Linkuva's historic center is a state-protected urbanistic monument, and its church is considered one of Lithuania's richest art sanctuaries.",
+      "uk": "Історичний центр Лінкуви є державним урбаністичним пам'ятником, а її церква вважається однією з найбагатших мистецьких святинь Литви."
+    }
+  ],
+  "highlightPhoto": "2024-05-18-photo-18-05-2024-15-24-59.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Dvibokštė Linkuvos karmelitų bažnyčia",
+    "en": "The twin-towered Carmelite church in Linkuva",
+    "uk": "Двовежова кармелітська церква в Лінкуві"
+  },
+  "photos": [
+    "2024-05-18-photo-18-05-2024-15-08-09.jpg",
+    "2024-05-18-photo-18-05-2024-15-12-43.jpg",
+    "2024-05-18-photo-18-05-2024-15-12-55.jpg",
+    "2024-05-18-photo-18-05-2024-15-13-44.jpg",
+    "2024-05-18-photo-18-05-2024-15-14-56.jpg",
+    "2024-05-18-photo-18-05-2024-15-16-33.jpg",
+    "2024-05-18-photo-18-05-2024-15-17-15.jpg",
+    "2024-05-18-photo-18-05-2024-15-17-34.jpg",
+    "2024-05-18-photo-18-05-2024-15-18-43.jpg",
+    "2024-05-18-photo-18-05-2024-15-20-23.jpg",
+    "2024-05-18-photo-18-05-2024-15-20-36.jpg",
+    "2024-05-18-photo-18-05-2024-15-21-03.jpg",
+    "2024-05-18-photo-18-05-2024-15-21-07.jpg",
+    "2024-05-18-photo-18-05-2024-15-21-36.jpg",
+    "2024-05-18-photo-18-05-2024-15-22-38.jpg",
+    "2024-05-18-photo-18-05-2024-15-23-26.jpg",
+    "2024-05-18-photo-18-05-2024-15-24-59.jpg",
+    "2024-05-18-photo-18-05-2024-15-26-45.jpg",
+    "2024-05-18-photo-18-05-2024-15-28-00.jpg",
+    "2024-05-18-photo-18-05-2024-15-28-46.jpg",
+    "2024-05-18-photo-18-05-2024-15-33-14.jpg",
+    "2024-05-18-photo-18-05-2024-15-34-40.jpg",
+    "2024-05-18-photo-18-05-2024-15-35-24.jpg",
+    "2024-05-18-photo-18-05-2024-15-36-26.jpg",
+    "2024-05-18-photo-18-05-2024-15-38-50.jpg",
+    "2024-05-18-photo-18-05-2024-15-45-36.jpg",
+    "2024-05-18-photo-18-05-2024-15-45-59.jpg",
+    "2024-05-18-photo-18-05-2024-15-46-02.jpg",
+    "2024-05-18-photo-18-05-2024-15-46-53.jpg",
+    "2024-05-18-photo-18-05-2024-15-51-34.jpg",
+    "2024-05-18-photo-18-05-2024-15-51-47.jpg",
+    "2024-05-18-photo-18-05-2024-15-52-20.jpg"
+  ]
+}

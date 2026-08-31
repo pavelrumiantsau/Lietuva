@@ -1,0 +1,83 @@
+{
+  "slug": "eisiskes",
+  "coordinates": {
+    "lat": 54.1667,
+    "lng": 25
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Eišiškės",
+    "en": "Eišiškės",
+    "uk": "Ейшишкес"
+  },
+  "shortDescription": {
+    "lt": "Pietryčių Lietuvos miestelis, šimtmečius buvęs vienos seniausių žydų bendruomenių namais.",
+    "en": "A town in south-eastern Lithuania that was home for centuries to one of the region's oldest Jewish communities.",
+    "uk": "Містечко південно-східної Литви, яке століттями було домівкою для однієї з найдавніших єврейських громад."
+  },
+  "longDescription": {
+    "lt": "Eišiškės — miestelis Šalčininkų rajone, apie 70 kilometrų į pietus nuo Vilniaus, kurio istorija glaudžiai susijusi su čia gyvenusia žydų bendruomene, laikoma viena seniausių Rytų Europoje. Iki Antrojo pasaulinio karo žydai sudarė didžiąją miestelio gyventojų dalį, dominavo prekyboje ir amatuose, čia veikė žymi ješiva. 1941 metų rugsėjo 25–26 dienomis nacių mobilioji naikinimo grupė kartu su vietiniais talkininkais nužudė apie 3446 Eišiškių žydus ir dar apie 1500 iš aplinkinių miestelių — šią tragediją ir prieškario bendruomenės gyvenimą išsamiai aprašė išgyvenusi Jafa Eliach knygoje „There Once Was a World“.",
+    "en": "Eišiškės is a town in Šalčininkai district, about 70 kilometres south of Vilnius, whose history is inseparable from the Jewish community that lived there and is considered one of the oldest in Eastern Europe. Before the Second World War, Jews made up the majority of the town's population and dominated its trade and crafts, and the town had a notable yeshiva. On 25-26 September 1941, a Nazi mobile killing squad, together with local collaborators, murdered around 3,446 Jews from Eišiškės and about 1,500 more from surrounding towns — a tragedy, and the prewar community's life, chronicled in detail by survivor Yaffa Eliach in her book 'There Once Was a World'.",
+    "uk": "Ейшишкес — містечко Шальчининкайського району, приблизно за 70 кілометрів на південь від Вільнюса, чия історія нерозривно пов'язана з єврейською громадою, яка тут жила і вважається однією з найдавніших у Східній Європі. До Другої світової війни євреї становили більшість населення містечка та домінували в торгівлі й ремеслах, тут діяла відома єшива. 25-26 вересня 1941 року нацистська айнзацгрупа разом з місцевими колаборантами вбила близько 3446 євреїв Ейшишкеса та ще близько 1500 з навколишніх містечок — цю трагедію та довоєнне життя громади детально описала в книзі «There Once Was a World» пережила Яффа Еліах."
+  },
+  "facts": [
+    {
+      "lt": "Iki Antrojo pasaulinio karo žydai sudarė iki 80 proc. Eišiškių gyventojų.",
+      "en": "Before the Second World War, Jews made up as much as 80 percent of the population of Eišiškės.",
+      "uk": "До Другої світової війни євреї становили до 80 відсотків населення Ейшишкеса."
+    },
+    {
+      "lt": "1941 metų rugsėjį naciai ir vietiniai talkininkai nužudė apie 3446 Eišiškių žydus.",
+      "en": "In September 1941, Nazis and local collaborators murdered around 3,446 Jews from Eišiškės.",
+      "uk": "У вересні 1941 року нацисти та місцеві колаборанти вбили близько 3446 євреїв Ейшишкеса."
+    },
+    {
+      "lt": "Miestelio žydų bendruomenės istoriją aprašė iš čia kilusi rašytoja Jafa Eliach knygoje „There Once Was a World“.",
+      "en": "The history of the town's Jewish community was chronicled by native writer Yaffa Eliach in her book 'There Once Was a World'.",
+      "uk": "Історію єврейської громади містечка описала у книзі «There Once Was a World» уродженка Ейшишкеса письменниця Яффа Еліах."
+    }
+  ],
+  "highlightPhoto": "2024-04-27-photo-27-04-2024-14-31-45.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Eišiškių miestelio senosios gatvės vaizdas",
+    "en": "A view of an old street in the town of Eišiškės",
+    "uk": "Вид на стару вулицю містечка Ейшишкес"
+  },
+  "photos": [
+    "2024-04-27-photo-27-04-2024-14-06-18.jpg",
+    "2024-04-27-photo-27-04-2024-14-07-12.jpg",
+    "2024-04-27-photo-27-04-2024-14-08-03.jpg",
+    "2024-04-27-photo-27-04-2024-14-08-10.jpg",
+    "2024-04-27-photo-27-04-2024-14-09-05.jpg",
+    "2024-04-27-photo-27-04-2024-14-12-29.jpg",
+    "2024-04-27-photo-27-04-2024-14-13-24.jpg",
+    "2024-04-27-photo-27-04-2024-14-16-13.jpg",
+    "2024-04-27-photo-27-04-2024-14-16-48.jpg",
+    "2024-04-27-photo-27-04-2024-14-17-53.jpg",
+    "2024-04-27-photo-27-04-2024-14-20-12.jpg",
+    "2024-04-27-photo-27-04-2024-14-21-19.jpg",
+    "2024-04-27-photo-27-04-2024-14-28-30.jpg",
+    "2024-04-27-photo-27-04-2024-14-28-37.jpg",
+    "2024-04-27-photo-27-04-2024-14-29-06.jpg",
+    "2024-04-27-photo-27-04-2024-14-31-45.jpg",
+    "2024-04-27-photo-27-04-2024-14-35-08.jpg",
+    "2024-04-27-photo-27-04-2024-14-35-48.jpg",
+    "2024-04-27-photo-27-04-2024-14-36-52.jpg",
+    "2024-04-27-photo-27-04-2024-14-41-28.jpg",
+    "2024-04-27-photo-27-04-2024-14-42-15.jpg",
+    "2024-04-27-photo-27-04-2024-14-42-42.jpg",
+    "2024-04-27-photo-27-04-2024-14-43-26.jpg",
+    "2024-04-27-photo-27-04-2024-14-43-52.jpg",
+    "2024-04-27-photo-27-04-2024-14-49-02.jpg",
+    "2024-04-27-photo-27-04-2024-14-49-48.jpg",
+    "2024-04-27-photo-27-04-2024-14-50-02.jpg",
+    "2024-04-27-photo-27-04-2024-14-50-05.jpg",
+    "2024-04-27-photo-27-04-2024-14-50-53.jpg",
+    "2024-04-27-photo-27-04-2024-14-50-54.jpg"
+  ]
+}

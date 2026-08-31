@@ -1,0 +1,76 @@
+{
+  "slug": "akmene",
+  "coordinates": {
+    "lat": 56.317,
+    "lng": 22.9
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Akmenė",
+    "en": "Akmenė",
+    "uk": "Акмяне"
+  },
+  "shortDescription": {
+    "lt": "Senas miestelis prie Dabikinės upės, davęs vardą visam rajonui.",
+    "en": "An old town on the Dabikinė river that gave its name to the whole district.",
+    "uk": "Старе містечко на річці Дабікіне, яке дало назву цілому району."
+  },
+  "longDescription": {
+    "lt": "Akmenė yra viena seniausių šiaurės Lietuvos gyvenviečių, pirmą kartą paminėta 1511 metais ir gavusi miesto teises 1592 metais; iki XVII amžiaus vietovė buvo vadinama Dabikine pagal tuo pačiu vardu tekančią upę. Šiandien tai nedidelis Akmenės rajono savivaldybės miestelis, kurio vardu pavadintas visas regionas, žinomas dėl netoliese, Naujojoje Akmenėje, XX amžiaus viduryje išaugusios stambios cemento pramonės. Miestelyje išlikusi kukli senamiesčio dalis ir bažnyčia primena ramesnę, ikipramoninę praeitį.",
+    "en": "Akmenė is one of the oldest settlements in northern Lithuania, first mentioned in 1511 and granted town rights in 1592; until the 17th century the place was known as Dabikinė, after the river running through it. Today it is a small town in Akmenė District Municipality, which takes its name from it, though the region's large-scale cement industry that grew up in the mid-20th century is centred in nearby Naujoji Akmenė rather than here. The old town retains a modest historic core and church recalling a quieter, pre-industrial past.",
+    "uk": "Акмяне — одне з найдавніших поселень північної Литви, вперше згадане у 1511 році та отримало міські права у 1592 році; до XVII століття місцевість називалася Дабікіне за назвою річки, що протікає тут. Сьогодні це невелике містечко Акменського району, яке дало назву всьому регіону, хоча велика цементна промисловість, що розвинулася в середині XX століття, зосереджена в сусідній Науйойї Акмяне, а не тут. У старому містечку збереглися скромний історичний центр і церква, що нагадують про спокійніше, доіндустріальне минуле."
+  },
+  "facts": [
+    {
+      "lt": "Akmenė pirmą kartą paminėta rašytiniuose šaltiniuose 1511 metais.",
+      "en": "Akmenė was first mentioned in written sources in 1511.",
+      "uk": "Акмяне вперше згадується у писемних джерелах у 1511 році."
+    },
+    {
+      "lt": "Iki XVII amžiaus miestelis vadinosi Dabikine, pagal tą pačią upę, prie kurios jis stovi.",
+      "en": "Until the 17th century the town was called Dabikinė, after the same river on whose banks it stands.",
+      "uk": "До XVII століття містечко називалося Дабікіне — за назвою тієї ж річки, на березі якої воно стоїть."
+    },
+    {
+      "lt": "Akmenės rajono savivaldybė, pavadinta miestelio vardu, apima ir gerokai didesnę pramoninę Naujosios Akmenės gyvenvietę.",
+      "en": "Akmenė District Municipality, named after the town, also includes the far larger industrial settlement of Naujoji Akmenė.",
+      "uk": "Акменський район, названий на честь містечка, охоплює також значно більше промислове поселення Науйойї Акмяне."
+    }
+  ],
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-13-37-26.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Senamiesčio gatvė ir bažnyčia Akmenėje",
+    "en": "An old-town street and church in Akmenė",
+    "uk": "Вулиця старого міста та церква в Акмяне"
+  },
+  "photos": [
+    "2026-06-20-photo-20-06-2026-13-29-51.jpg",
+    "2026-06-20-photo-20-06-2026-13-30-11.jpg",
+    "2026-06-20-photo-20-06-2026-13-31-07.jpg",
+    "2026-06-20-photo-20-06-2026-13-31-37.jpg",
+    "2026-06-20-photo-20-06-2026-13-32-19.jpg",
+    "2026-06-20-photo-20-06-2026-13-32-20.jpg",
+    "2026-06-20-photo-20-06-2026-13-33-28.jpg",
+    "2026-06-20-photo-20-06-2026-13-33-35.jpg",
+    "2026-06-20-photo-20-06-2026-13-34-15.jpg",
+    "2026-06-20-photo-20-06-2026-13-34-35.jpg",
+    "2026-06-20-photo-20-06-2026-13-36-55.jpg",
+    "2026-06-20-photo-20-06-2026-13-37-26.jpg",
+    "2026-06-20-photo-20-06-2026-13-40-18.jpg",
+    "2026-06-20-photo-20-06-2026-13-43-11.jpg",
+    "2026-06-20-photo-20-06-2026-13-44-33.jpg",
+    "2026-06-20-photo-20-06-2026-13-45-15.jpg",
+    "2026-06-20-photo-20-06-2026-13-45-49.jpg",
+    "2026-06-20-photo-20-06-2026-13-45-51.jpg",
+    "2026-06-20-photo-20-06-2026-13-46-31.jpg",
+    "2026-06-20-photo-20-06-2026-13-47-31.jpg",
+    "2026-06-20-photo-20-06-2026-13-48-56.jpg",
+    "2026-06-20-photo-20-06-2026-13-51-16.jpg",
+    "2026-06-20-photo-20-06-2026-13-51-56.jpg"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "gargzdai",
+  "coordinates": {
+    "lat": 55.7089,
+    "lng": 21.3903
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Gargždai",
+    "en": "Gargždai",
+    "uk": "Гаргждай"
+  },
+  "shortDescription": {
+    "lt": "Klaipėdos rajono administracinis centras prie Minijos upės, buvęs svarbus prekybos miestas.",
+    "en": "The administrative centre of Klaipėda district on the Minija river, a former key trading town.",
+    "uk": "Адміністративний центр Клайпедського району на річці Мінія, колишнє важливе торгове місто."
+  },
+  "longDescription": {
+    "lt": "Gargždai — miestas prie Minijos upės, pirmą kartą paminėtas 1253 metais ir gavęs miesto teises 1792 metais; ilgą laiką jis buvo svarbiausias prekybos taškas kelyje į Klaipėdą. 1639 metais karalius Vladislovas Vaza leido čia įsikurti žydams, kurie kartu su vietiniais amatininkais plėtojo prekybą, tačiau XVII–XVIII amžių karai ir 1786 metų gaisras, sunaikinęs beveik visą miestą, sustabdė jo augimą. Nuo 1950 metų Gargždai yra Klaipėdos rajono savivaldybės administracinis centras, o mieste stovinti postmodernistinė Šv. Arkangelo Mykolo bažnyčia, pastatyta 1989–1990 metais, primena ir senesnę, iš 1534–1540 metų siekiančią bažnytinę tradiciją.",
+    "en": "Gargždai is a town on the Minija river, first mentioned in 1253 and granted town rights in 1792; for a long time it was the most important trading point on the route to Klaipėda. In 1639 King Władysław IV Vasa permitted Jews to settle there, and together with local craftsmen they built up the town's trade, though the wars of the 17th-18th centuries and an 1786 fire that destroyed almost the entire town halted its growth. Since 1950 Gargždai has been the administrative centre of Klaipėda District Municipality, and its postmodern Church of St. Michael the Archangel, built in 1989-1990, recalls a church tradition in the town dating back to 1534-1540.",
+    "uk": "Гаргждай — місто на річці Мінія, вперше згадане 1253 року та отримало міські права 1792 року; довгий час воно було найважливішим торговим пунктом на шляху до Клайпеди. У 1639 році король Владислав IV Ваза дозволив тут оселитися євреям, які разом з місцевими ремісниками розвивали торгівлю, проте війни XVII-XVIII століть та пожежа 1786 року, що знищила майже все місто, зупинили його розвиток. З 1950 року Гаргждай є адміністративним центром Клайпедського району, а постмодерна церква Святого Архангела Михаїла, збудована у 1989-1990 роках, нагадує про давнішу церковну традицію міста, що сягає 1534-1540 років."
+  },
+  "facts": [
+    {
+      "lt": "Gargždai pirmą kartą paminėti 1253 metais.",
+      "en": "Gargždai was first mentioned in 1253.",
+      "uk": "Гаргждай вперше згадується у 1253 році."
+    },
+    {
+      "lt": "1786 metais didžioji dalis miesto sudegė per gaisrą.",
+      "en": "In 1786 most of the town burned down in a fire.",
+      "uk": "У 1786 році більша частина міста згоріла під час пожежі."
+    },
+    {
+      "lt": "Nuo 1950 metų Gargždai yra Klaipėdos rajono savivaldybės administracinis centras.",
+      "en": "Since 1950 Gargždai has been the administrative centre of Klaipėda District Municipality.",
+      "uk": "З 1950 року Гаргждай є адміністративним центром Клайпедського району."
+    }
+  ],
+  "highlightPhoto": "2026-08-08-photo-08-08-2026-16-29-56.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šv. Arkangelo Mykolo bažnyčia Gargžduose",
+    "en": "The Church of St. Michael the Archangel in Gargždai",
+    "uk": "Церква Святого Архангела Михаїла в Гаргждай"
+  },
+  "photos": [
+    "2026-08-08-photo-08-08-2026-15-57-36.jpg",
+    "2026-08-08-photo-08-08-2026-15-57-40.jpg",
+    "2026-08-08-photo-08-08-2026-16-00-33.jpg",
+    "2026-08-08-photo-08-08-2026-16-01-49.jpg",
+    "2026-08-08-photo-08-08-2026-16-02-01.jpg",
+    "2026-08-08-photo-08-08-2026-16-02-04.jpg",
+    "2026-08-08-photo-08-08-2026-16-02-51.jpg",
+    "2026-08-08-photo-08-08-2026-16-03-04.jpg",
+    "2026-08-08-photo-08-08-2026-16-03-18.jpg",
+    "2026-08-08-photo-08-08-2026-16-04-14.jpg",
+    "2026-08-08-photo-08-08-2026-16-04-46.jpg",
+    "2026-08-08-photo-08-08-2026-16-06-20.jpg",
+    "2026-08-08-photo-08-08-2026-16-08-55.jpg",
+    "2026-08-08-photo-08-08-2026-16-11-53.jpg",
+    "2026-08-08-photo-08-08-2026-16-12-15.jpg",
+    "2026-08-08-photo-08-08-2026-16-26-21.jpg",
+    "2026-08-08-photo-08-08-2026-16-26-25.jpg",
+    "2026-08-08-photo-08-08-2026-16-27-56.jpg",
+    "2026-08-08-photo-08-08-2026-16-29-56.jpg",
+    "2026-08-08-photo-08-08-2026-16-31-20.jpg",
+    "2026-08-08-photo-08-08-2026-16-33-25.jpg",
+    "2026-08-08-photo-08-08-2026-16-36-52.jpg",
+    "2026-08-08-photo-08-08-2026-16-36-56.jpg",
+    "2026-08-08-photo-08-08-2026-16-40-07.jpg",
+    "2026-08-08-photo-08-08-2026-16-46-05.jpg",
+    "2026-08-08-photo-08-08-2026-16-49-53.jpg",
+    "2026-08-08-photo-08-08-2026-17-01-59.jpg",
+    "2026-08-08-photo-08-08-2026-17-03-51.jpg",
+    "2026-08-08-photo-08-08-2026-17-04-44.jpg",
+    "2026-08-08-photo-08-08-2026-17-09-17.jpg",
+    "2026-08-08-photo-08-08-2026-17-09-42.jpg",
+    "2026-08-08-photo-08-08-2026-17-11-06.jpg",
+    "2026-08-08-photo-08-08-2026-17-12-48.jpg",
+    "2026-08-08-photo-08-08-2026-17-16-12.jpg",
+    "2026-08-08-photo-08-08-2026-17-18-59.jpg",
+    "2026-08-08-photo-08-08-2026-17-19-57.jpg"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "prienai",
+  "coordinates": {
+    "lat": 54.6333,
+    "lng": 23.9417
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Prienai",
+    "en": "Prienai",
+    "uk": "Прієнай"
+  },
+  "shortDescription": {
+    "lt": "Miestas prie Nemuno, garsėjantis medine bažnyčia ir aukščiausiais Lietuvos pušynais.",
+    "en": "A town on the Nemunas river, known for its wooden church and the tallest pines in Lithuania.",
+    "uk": "Місто на річці Нямунас, відоме дерев'яним костелом і найвищими соснами Литви."
+  },
+  "longDescription": {
+    "lt": "Prienai stūkso ant dešiniojo Nemuno kranto, dviejų etnografinių regionų sandūroje, ir žinomi nuo XVI amžiaus. Mieste stovi didelė medinė kryžminio plano bažnyčia su dviem bokštais, perstatyta 1750 metais ir išplėsta 1875 metais. Miestą supantis Prienų šilas garsėja aukščiausiais Lietuvos medžiais – čia auga apie 42 metrų aukščio pušis.",
+    "en": "Prienai stands on the right bank of the Nemunas, at the meeting point of two ethnographic regions, and has been known since the 16th century. The town's large wooden cruciform church, with twin towers, was rebuilt in 1750 and enlarged in 1875. The surrounding Prienai pine forest is home to Lithuania's tallest trees, including a pine reaching about 42 meters.",
+    "uk": "Прієнай стоїть на правому березі Нямунасу, на межі двох етнографічних регіонів, і відоме з XVI століття. Великий дерев'яний костел хрестоподібного плану з двома вежами перебудували 1750 року, а 1875 року розширили. Навколишній Прієнайський сосновий ліс славиться найвищими деревами Литви — тут росте сосна заввишки близько 42 метрів."
+  },
+  "facts": [
+    {
+      "lt": "Prienai žinomi nuo XVI amžiaus ir stovi ant Nemuno kranto, dviejų etnografinių regionų riboje.",
+      "en": "Prienai has been known since the 16th century and sits on the Nemunas, at the border of two ethnographic regions.",
+      "uk": "Прієнай відоме з XVI століття і стоїть на Нямунасі, на межі двох етнографічних регіонів."
+    },
+    {
+      "lt": "Miesto didelė medinė kryžminio plano bažnyčia perstatyta 1750 metais, o 1875 metais išplėsta ir gavo neobarokinius bokštus.",
+      "en": "Its large wooden cruciform church was rebuilt in 1750 and enlarged with neo-Baroque towers in 1875.",
+      "uk": "Великий дерев'яний хрестоподібний костел перебудували 1750 року, а 1875 року розширили та додали необарокові вежі."
+    },
+    {
+      "lt": "Prienų šile auga aukščiausia Lietuvoje pušis, siekianti apie 42 metrus.",
+      "en": "The nearby Prienai pine forest contains Lithuania's tallest pine tree, at about 42 meters.",
+      "uk": "У сусідньому Прієнайському сосновому лісі росте найвища сосна Литви — близько 42 метрів."
+    }
+  ],
+  "highlightPhoto": "2024-06-15-photo-15-06-2024-14-48-33.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Prienų medinė bažnyčia su dviem bokštais",
+    "en": "The twin-towered wooden church of Prienai",
+    "uk": "Дерев'яний костел Прієнай з двома вежами"
+  },
+  "photos": [
+    "2024-06-15-photo-15-06-2024-14-04-00.jpg",
+    "2024-06-15-photo-15-06-2024-14-04-01.jpg",
+    "2024-06-15-photo-15-06-2024-14-04-09.jpg",
+    "2024-06-15-photo-15-06-2024-14-08-05.jpg",
+    "2024-06-15-photo-15-06-2024-14-09-09.jpg",
+    "2024-06-15-photo-15-06-2024-14-10-14.jpg",
+    "2024-06-15-photo-15-06-2024-14-10-37.jpg",
+    "2024-06-15-photo-15-06-2024-14-12-04.jpg",
+    "2024-06-15-photo-15-06-2024-14-12-06.jpg",
+    "2024-06-15-photo-15-06-2024-14-13-05.jpg",
+    "2024-06-15-photo-15-06-2024-14-14-45.jpg",
+    "2024-06-15-photo-15-06-2024-14-16-07.jpg",
+    "2024-06-15-photo-15-06-2024-14-19-55.jpg",
+    "2024-06-15-photo-15-06-2024-14-20-45.jpg",
+    "2024-06-15-photo-15-06-2024-14-28-13.jpg",
+    "2024-06-15-photo-15-06-2024-14-28-17.jpg",
+    "2024-06-15-photo-15-06-2024-14-30-04.jpg",
+    "2024-06-15-photo-15-06-2024-14-33-59.jpg",
+    "2024-06-15-photo-15-06-2024-14-35-08.jpg",
+    "2024-06-15-photo-15-06-2024-14-35-26.jpg",
+    "2024-06-15-photo-15-06-2024-14-39-08.jpg",
+    "2024-06-15-photo-15-06-2024-14-44-36.jpg",
+    "2024-06-15-photo-15-06-2024-14-48-33.jpg",
+    "2024-06-15-photo-15-06-2024-14-49-28.jpg",
+    "2024-06-15-photo-15-06-2024-14-50-14.jpg",
+    "2024-06-15-photo-15-06-2024-14-51-27.jpg",
+    "2024-06-15-photo-15-06-2024-14-53-20.jpg",
+    "2024-06-15-photo-15-06-2024-14-57-46.jpg",
+    "2024-06-15-photo-15-06-2024-14-58-45.jpg",
+    "2024-06-15-photo-15-06-2024-15-00-07.jpg",
+    "2024-06-15-photo-15-06-2024-15-00-11.jpg",
+    "2024-06-15-photo-15-06-2024-15-03-30.jpg",
+    "2024-06-15-photo-15-06-2024-15-03-36.jpg",
+    "2024-06-15-photo-15-06-2024-15-05-22.jpg",
+    "2024-06-15-photo-15-06-2024-15-09-26.jpg",
+    "2024-06-15-photo-15-06-2024-15-11-45.jpg",
+    "2024-06-15-photo-15-06-2024-15-11-47.jpg",
+    "2024-06-15-photo-15-06-2024-15-13-23.jpg",
+    "2024-06-15-photo-15-06-2024-15-15-48.jpg",
+    "2024-06-15-photo-15-06-2024-15-19-21.jpg",
+    "2024-06-15-photo-15-06-2024-15-21-22.jpg",
+    "2024-06-15-photo-15-06-2024-15-28-26.jpg",
+    "2024-06-15-photo-15-06-2024-15-30-43.jpg",
+    "2024-06-15-photo-15-06-2024-15-31-20.jpg"
+  ]
+}

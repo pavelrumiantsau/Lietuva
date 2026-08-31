@@ -1,0 +1,100 @@
+{
+  "slug": "alytus",
+  "coordinates": {
+    "lat": 54.4023,
+    "lng": 24.0511
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Alytus",
+    "en": "Alytus",
+    "uk": "Алітус"
+  },
+  "shortDescription": {
+    "lt": "Didžiausias Dzūkijos miestas ant Nemuno upės krantų.",
+    "en": "The largest city of the Dzūkija region, spread along the banks of the Nemunas.",
+    "uk": "Найбільше місто Дзукії, що розкинулося на берегах Нямунасу."
+  },
+  "longDescription": {
+    "lt": "Alytus yra šeštas pagal dydį Lietuvos miestas ir didžiausias Dzūkijos regiono centras, išsidėstęs abipus Nemuno upės. Miesto teisės suteiktos 1581 metais, tačiau sparčiausiai jis augo XX amžiuje, tapdamas svarbiu tekstilės ir kitos pramonės centru. Šiandien Alytus žinomas kaip kasmetinio oro balionų festivalio miestas — vasarą virš Nemuno slėnio pakyla dešimtys spalvingų balionų, o miesto parkuose ir pakrantėse gausu vietai poilsiui skirtų erdvių.",
+    "en": "Alytus is the sixth-largest city in Lithuania and the main centre of the Dzūkija region, straddling both banks of the Nemunas river. It received town rights in 1581 but grew fastest in the 20th century, becoming a significant hub of the textile and other industries. Today Alytus is known for its annual hot-air balloon festival, when dozens of colourful balloons rise over the Nemunas valley each summer, and for its riverside parks and recreational areas.",
+    "uk": "Алітус — шосте за величиною місто Литви та головний центр регіону Дзукія, розташоване на обох берегах річки Нямунас. Місто отримало міські права у 1581 році, але найшвидше розвивалося у XX столітті, ставши значним центром текстильної та іншої промисловості. Сьогодні Алітус відомий щорічним фестивалем повітряних куль — влітку над долиною Нямунасу здіймаються десятки барвистих куль, а прибережні парки міста пропонують багато місць для відпочинку."
+  },
+  "facts": [
+    {
+      "lt": "Alytus yra šeštas pagal gyventojų skaičių Lietuvos miestas.",
+      "en": "Alytus is the sixth most populous city in Lithuania.",
+      "uk": "Алітус — шосте за населенням місто Литви."
+    },
+    {
+      "lt": "Miestas kasmet vasarą rengia tarptautinį oro balionų festivalį virš Nemuno slėnio.",
+      "en": "Every summer the city hosts an international hot-air balloon festival over the Nemunas valley.",
+      "uk": "Щоліта місто проводить міжнародний фестиваль повітряних куль над долиною Нямунасу."
+    },
+    {
+      "lt": "Miestas driekiasi abipus Nemuno, todėl jį sujungia keli tiltai.",
+      "en": "The city spans both banks of the Nemunas, connected by several bridges.",
+      "uk": "Місто розташоване на обох берегах Нямунасу, з'єднаних кількома мостами."
+    }
+  ],
+  "highlightPhoto": "2022-08-20-img-20220820-124857.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Oro balionai virš Nemuno Alytuje",
+    "en": "Hot-air balloons rising over the Nemunas in Alytus",
+    "uk": "Повітряні кулі над Нямунасом в Алітусі"
+  },
+  "photos": [
+    "2022-08-20-img-20220820-121454.jpg",
+    "2022-08-20-img-20220820-121534.jpg",
+    "2022-08-20-img-20220820-121910.jpg",
+    "2022-08-20-img-20220820-122018.jpg",
+    "2022-08-20-img-20220820-122129.jpg",
+    "2022-08-20-img-20220820-122423.jpg",
+    "2022-08-20-img-20220820-122625.jpg",
+    "2022-08-20-img-20220820-122835.jpg",
+    "2022-08-20-img-20220820-123058.jpg",
+    "2022-08-20-img-20220820-123145.jpg",
+    "2022-08-20-img-20220820-123221.jpg",
+    "2022-08-20-img-20220820-123354.jpg",
+    "2022-08-20-img-20220820-123626.jpg",
+    "2022-08-20-img-20220820-123750.jpg",
+    "2022-08-20-img-20220820-123759.jpg",
+    "2022-08-20-img-20220820-124002.jpg",
+    "2022-08-20-img-20220820-124212.jpg",
+    "2022-08-20-img-20220820-124410.jpg",
+    "2022-08-20-img-20220820-124533.jpg",
+    "2022-08-20-img-20220820-124703.jpg",
+    "2022-08-20-img-20220820-124716.jpg",
+    "2022-08-20-img-20220820-124804.jpg",
+    "2022-08-20-img-20220820-124848.jpg",
+    "2022-08-20-img-20220820-124857.jpg",
+    "2022-08-20-img-20220820-124949.jpg",
+    "2022-08-20-img-20220820-125104.jpg",
+    "2022-08-20-img-20220820-125116.jpg",
+    "2022-08-20-img-20220820-125149.jpg",
+    "2022-08-20-img-20220820-125244.jpg",
+    "2022-08-20-img-20220820-125322.jpg",
+    "2022-08-20-img-20220820-125521.jpg",
+    "2022-08-20-img-20220820-125910.jpg",
+    "2022-08-20-img-20220820-130231.jpg",
+    "2022-08-20-img-20220820-130628.jpg",
+    "2022-08-20-img-20220820-130746.jpg",
+    "2022-08-20-img-20220820-130951.jpg",
+    "2022-08-20-img-20220820-131300.jpg",
+    "2022-08-20-img-20220820-131653.jpg",
+    "2022-08-20-img-20220820-131657.jpg",
+    "2022-08-20-img-20220820-131828.jpg",
+    "2022-08-20-img-20220820-131958.jpg",
+    "2022-08-20-img-20220820-132259.jpg",
+    "2022-08-20-img-20220820-132434.jpg",
+    "2022-08-20-img-20220820-132855.jpg",
+    "2022-08-20-img-20220820-133103.jpg",
+    "2022-08-20-img-20220820-133222.jpg",
+    "2022-08-20-img-20220820-133510.jpg"
+  ]
+}

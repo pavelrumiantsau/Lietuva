@@ -1,0 +1,107 @@
+{
+  "slug": "zagare",
+  "coordinates": {
+    "lat": 56.3667,
+    "lng": 23.25
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Žagarė",
+    "en": "Žagarė",
+    "uk": "Жагаре"
+  },
+  "shortDescription": {
+    "lt": "Šiaurinis pasienio miestelis, garsėjantis savita vyšnių veisle ir smagia vasaros švente.",
+    "en": "A northern border town famed for its own variety of cherry and a lively summer festival.",
+    "uk": "Прикордонне північне містечко, відоме особливим сортом вишень і жвавим літнім фестивалем."
+  },
+  "longDescription": {
+    "lt": "Žagarė yra Joniškio rajone, šiaurės Lietuvoje, prie pat sienos su Latvija. Miestelis nuo XIX amžiaus pabaigos, kai iš pietų buvo atvežta savita vietinė vyšnių veislė „Žagarvyšnė“, ją puoselėja iki šiol, o 1962 metais ji oficialiai įtraukta į Lietuvos nacionalinį augalų veislių sąrašą. Nuo 2005 metų miestelis kasmet liepos viduryje švenčia savo vyšnių paveldą kelias dienas trunkančia Žagarės vyšnių švente, sutraukiančia tiek lankytojus, tiek žinomus Lietuvos muzikantus; istoriniame Žagarės dvare dabar veikia aplinkinio Žagarės regioninio parko lankytojų centras.",
+    "en": "Žagarė lies in the Joniškis district in northern Lithuania, right against the border with Latvia. The town has been cultivating a distinctive local cherry variety, the 'Žagarvyšnė,' since it was introduced from the south in the late 19th century, and the fruit was formally added to Lithuania's National List of Plant Varieties in 1962. Since 2005, the town has celebrated its cherry heritage every mid-July with the multi-day Žagarė Cherry Festival, which draws visitors and well-known Lithuanian musicians alike; the historic Žagarė manor now houses the visitor center of the surrounding Žagarė Regional Park.",
+    "uk": "Жагаре розташоване в Йонішкіському районі на півночі Литви, прямо біля кордону з Латвією. Із кінця XIX століття, коли з півдня привезли особливий місцевий сорт вишень «Жагарвіш'ня», містечко плекає його й донині, а 1962 року сорт офіційно внесли до Національного переліку сортів рослин Литви. З 2005 року містечко щороку в середині липня святкує свою вишневу спадщину багатоденним Фестивалем вишень Жагаре, який приваблює як гостей, так і відомих литовських музикантів; в історичному маєтку Жагаре нині розташований центр відвідувачів навколишнього регіонального парку Жагаре."
+  },
+  "facts": [
+    {
+      "lt": "Vietinė vyšnių veislė „Žagarvyšnė“, atvežta iš pietų XIX amžiaus pabaigoje, į Lietuvos nacionalinį augalų veislių sąrašą įtraukta 1962 metais.",
+      "en": "The local 'Žagarvyšnė' cherry variety, introduced from the south in the late 19th century, was added to Lithuania's National List of Plant Varieties in 1962.",
+      "uk": "Місцевий сорт вишень «Жагарвіш'ня», привезений із півдня наприкінці XIX століття, внесли до Національного переліку сортів рослин Литви 1962 року."
+    },
+    {
+      "lt": "Nuo 2005 metų Žagarėje kasmet liepos viduryje vyksta kelias dienas trunkanti Vyšnių šventė.",
+      "en": "Since 2005, Žagarė has held an annual multi-day Cherry Festival every mid-July.",
+      "uk": "З 2005 року в Жагаре щороку в середині липня проходить багатоденний Фестиваль вишень."
+    },
+    {
+      "lt": "Žagarės regioninio parko lankytojų centras įsikūręs istoriniame Žagarės dvare.",
+      "en": "The visitor center of Žagarė Regional Park is housed in the historic Žagarė manor.",
+      "uk": "Центр відвідувачів регіонального парку Жагаре розташований в історичному маєтку Жагаре."
+    }
+  ],
+  "highlightPhoto": "2026-06-07-photo-07-06-2026-14-15-35.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Žydinčios vyšnios Žagarės miestelyje",
+    "en": "Cherry blossoms in the town of Žagarė",
+    "uk": "Квітучі вишні в містечку Жагаре"
+  },
+  "photos": [
+    "2026-06-07-photo-07-06-2026-13-45-02.jpg",
+    "2026-06-07-photo-07-06-2026-13-45-43.jpg",
+    "2026-06-07-photo-07-06-2026-13-49-41.jpg",
+    "2026-06-07-photo-07-06-2026-13-51-41.jpg",
+    "2026-06-07-photo-07-06-2026-13-51-43.jpg",
+    "2026-06-07-photo-07-06-2026-13-52-02.jpg",
+    "2026-06-07-photo-07-06-2026-13-52-33.jpg",
+    "2026-06-07-photo-07-06-2026-13-54-17.jpg",
+    "2026-06-07-photo-07-06-2026-13-55-49.jpg",
+    "2026-06-07-photo-07-06-2026-13-58-18.jpg",
+    "2026-06-07-photo-07-06-2026-13-58-31.jpg",
+    "2026-06-07-photo-07-06-2026-13-58-58.jpg",
+    "2026-06-07-photo-07-06-2026-13-59-05.jpg",
+    "2026-06-07-photo-07-06-2026-13-59-26.jpg",
+    "2026-06-07-photo-07-06-2026-14-00-06.jpg",
+    "2026-06-07-photo-07-06-2026-14-06-24.jpg",
+    "2026-06-07-photo-07-06-2026-14-06-26.jpg",
+    "2026-06-07-photo-07-06-2026-14-09-57.jpg",
+    "2026-06-07-photo-07-06-2026-14-10-05.jpg",
+    "2026-06-07-photo-07-06-2026-14-10-27.jpg",
+    "2026-06-07-photo-07-06-2026-14-11-15.jpg",
+    "2026-06-07-photo-07-06-2026-14-13-01.jpg",
+    "2026-06-07-photo-07-06-2026-14-13-03.jpg",
+    "2026-06-07-photo-07-06-2026-14-13-56.jpg",
+    "2026-06-07-photo-07-06-2026-14-14-06.jpg",
+    "2026-06-07-photo-07-06-2026-14-14-55.jpg",
+    "2026-06-07-photo-07-06-2026-14-15-28.jpg",
+    "2026-06-07-photo-07-06-2026-14-15-35.jpg",
+    "2026-06-07-photo-07-06-2026-14-16-54.jpg",
+    "2026-06-07-photo-07-06-2026-14-19-04.jpg",
+    "2026-06-07-photo-07-06-2026-14-19-07.jpg",
+    "2026-06-07-photo-07-06-2026-14-20-59.jpg",
+    "2026-06-07-photo-07-06-2026-14-28-32.jpg",
+    "2026-06-07-photo-07-06-2026-14-28-34.jpg",
+    "2026-06-07-photo-07-06-2026-14-37-21.jpg",
+    "2026-06-07-photo-07-06-2026-14-38-08.jpg",
+    "2026-06-07-photo-07-06-2026-14-38-32.jpg",
+    "2026-06-07-photo-07-06-2026-14-40-10.jpg",
+    "2026-06-07-photo-07-06-2026-14-40-34.jpg",
+    "2026-06-07-photo-07-06-2026-14-40-51.jpg",
+    "2026-06-07-photo-07-06-2026-14-40-59.jpg",
+    "2026-06-07-photo-07-06-2026-14-43-13.jpg",
+    "2026-06-07-photo-07-06-2026-14-45-11.jpg",
+    "2026-06-07-photo-07-06-2026-14-46-47.jpg",
+    "2026-06-07-photo-07-06-2026-14-46-52.jpg",
+    "2026-06-07-photo-07-06-2026-14-47-46.jpg",
+    "2026-06-07-photo-07-06-2026-14-47-57.jpg",
+    "2026-06-07-photo-07-06-2026-14-48-17.jpg",
+    "2026-06-07-photo-07-06-2026-14-48-44.jpg",
+    "2026-06-07-photo-07-06-2026-14-49-11.jpg",
+    "2026-06-07-photo-07-06-2026-14-55-54.jpg",
+    "2026-06-07-photo-07-06-2026-14-57-04.jpg",
+    "2026-06-07-photo-07-06-2026-14-57-46.jpg",
+    "2026-06-07-photo-07-06-2026-14-59-16.jpg"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "vievis",
+  "coordinates": {
+    "lat": 54.775,
+    "lng": 24.8083
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Vievis",
+    "en": "Vievis",
+    "uk": "Вєвіс"
+  },
+  "shortDescription": {
+    "lt": "Ežero pakrantėje įsikūręs miestelis, kurio dvaras kadaise priklausė kunigaikščių Oginskių giminei.",
+    "en": "A lakeside town whose manor once belonged to the noble Ogiński family.",
+    "uk": "Прибережне озерне містечко, маєток якого колись належав княжому роду Огінських."
+  },
+  "longDescription": {
+    "lt": "Vievis įsikūręs prie Vievio ežero kranto, dabartinėje Elektrėnų savivaldybėje, Vilniaus apskrityje. Jo dvaras pirmą kartą paminėtas 1522 metais, o pati gyvenvietė, priklausiusi galingai kunigaikščių Oginskių giminei, minima nuo 1539-ųjų; apie 1600 metus giminė čia pastatė unitų bažnyčią ir įkūrė Šventosios Dvasios vienuolyną. Nepaisant šimtmečius siekiančios dvaro istorijos, Vievis oficialų miesto statusą gavo tik 1950 metais, o šiandien jame gyvena šiek tiek daugiau nei 4000 žmonių.",
+    "en": "Vievis lies on the shore of Lake Vievis in what is now Elektrėnai municipality, part of Vilnius County. Its manor was first recorded in 1522, and the settlement itself, belonging to the powerful Ogiński family, is mentioned from 1539; the family later built a Uniate church and founded a Holy Spirit monastery here around 1600. Despite this centuries-deep manorial history, Vievis was only granted formal town status in 1950, and today it is home to just over 4,000 people.",
+    "uk": "Вєвіс розташований на березі однойменного озера в нинішній громаді Електренай, Вільнюський повіт. Його маєток уперше згадується 1522 року, а саме поселення, що належало впливовому роду Огінських, згадується з 1539-го; близько 1600 року рід збудував тут уніатську церкву та заснував монастир Святого Духа. Попри багатовікову історію маєтку, офіційний статус міста Вєвіс отримав лише 1950 року, а сьогодні тут проживає трохи більше 4000 людей."
+  },
+  "facts": [
+    {
+      "lt": "Vievio dvaras pirmą kartą paminėtas 1522 metais, o pati gyvenvietė kaip Oginskių giminės nuosavybė minima nuo 1539-ųjų.",
+      "en": "Vievis manor was first recorded in 1522, and the settlement itself is mentioned from 1539 as property of the Ogiński family.",
+      "uk": "Маєток Вєвіс уперше згадується 1522 року, а саме поселення як власність роду Огінських — з 1539-го."
+    },
+    {
+      "lt": "Apie 1600 metus Oginskių giminė Vievyje pastatė unitų bažnyčią ir įkūrė Šventosios Dvasios vienuolyną.",
+      "en": "Around 1600, the Ogiński family built a Uniate church and founded a Holy Spirit monastery in Vievis.",
+      "uk": "Близько 1600 року рід Огінських збудував у Вєвісі уніатську церкву та заснував монастир Святого Духа."
+    },
+    {
+      "lt": "Nepaisant ilgos dvaro istorijos, Vievis oficialų miesto statusą gavo tik 1950 metais.",
+      "en": "Despite its long manorial history, Vievis only received official town status in 1950.",
+      "uk": "Попри давню історію маєтку, офіційний статус міста Вєвіс отримав лише 1950 року."
+    }
+  ],
+  "highlightPhoto": "2023-01-28-photo-2023-01-28-14-53-08.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Vievio ežeras su miesteliu palei krantą",
+    "en": "Lake Vievis with the town along its shore",
+    "uk": "Озеро Вєвіс із містечком уздовж берега"
+  },
+  "photos": [
+    "2023-01-28-photo-2023-01-28-14-11-38.jpg",
+    "2023-01-28-photo-2023-01-28-14-12-23.jpg",
+    "2023-01-28-photo-2023-01-28-14-34-12.jpg",
+    "2023-01-28-photo-2023-01-28-14-34-34.jpg",
+    "2023-01-28-photo-2023-01-28-14-35-16.jpg",
+    "2023-01-28-photo-2023-01-28-14-35-29.jpg",
+    "2023-01-28-photo-2023-01-28-14-35-47.jpg",
+    "2023-01-28-photo-2023-01-28-14-36-40.jpg",
+    "2023-01-28-photo-2023-01-28-14-36-45.jpg",
+    "2023-01-28-photo-2023-01-28-14-37-56.jpg",
+    "2023-01-28-photo-2023-01-28-14-39-33.jpg",
+    "2023-01-28-photo-2023-01-28-14-40-18.jpg",
+    "2023-01-28-photo-2023-01-28-14-40-20.jpg",
+    "2023-01-28-photo-2023-01-28-14-41-52.jpg",
+    "2023-01-28-photo-2023-01-28-14-46-40.jpg",
+    "2023-01-28-photo-2023-01-28-14-49-13.jpg",
+    "2023-01-28-photo-2023-01-28-14-53-08.jpg",
+    "2023-01-28-photo-2023-01-28-14-56-41.jpg",
+    "2023-01-28-photo-2023-01-28-14-59-14.jpg",
+    "2023-01-28-photo-2023-01-28-14-59-16.jpg",
+    "2023-01-28-photo-2023-01-28-14-59-45.jpg",
+    "2023-01-28-photo-2023-01-28-15-02-41.jpg",
+    "2023-01-28-photo-2023-01-28-15-08-45.jpg",
+    "2023-01-28-photo-2023-01-28-15-10-09.jpg",
+    "2023-01-28-photo-2023-01-28-15-11-18.jpg",
+    "2023-01-28-photo-2023-01-28-15-12-25.jpg",
+    "2023-01-28-photo-2023-01-28-15-14-05.jpg",
+    "2023-01-28-photo-2023-01-28-15-15-47.jpg",
+    "2023-01-28-photo-2023-01-28-15-17-29.jpg",
+    "2023-01-28-photo-2023-01-28-15-17-39.jpg",
+    "2023-01-28-photo-2023-01-28-15-22-00.jpg",
+    "2023-01-28-photo-2023-01-28-15-25-03.jpg",
+    "2023-01-28-photo-2023-01-28-15-26-02.jpg"
+  ]
+}

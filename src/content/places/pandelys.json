@@ -1,0 +1,90 @@
+{
+  "slug": "pandelys",
+  "coordinates": {
+    "lat": 56.0167,
+    "lng": 25.2167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Pandėlys",
+    "en": "Pandėlys",
+    "uk": "Пандельс"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis prekybos kryžkelėse išaugęs miestelis Rokiškio rajone.",
+    "en": "A small town near the Latvian border that grew up as a trading crossroads.",
+    "uk": "Невелике містечко біля латвійського кордону, що виросло на торговому перехресті."
+  },
+  "longDescription": {
+    "lt": "Pandėlys, pirmą kartą paminėtas 1591 metais, yra Rokiškio rajono miestelis, nutolęs apie 26 km į vakarus nuo Rokiškio, kelyje į Biržus. Vietovė kadaise buvo prekybos taškas, kuriame susitikdavo pirkliai iš Vilniaus ir Rygos — iš čia kilusi ir viena miestelio pavadinimo kilmės versija, siejama su žodžiu „podėlis“ (sandėlis). Miestelio dvaras XVIII amžiuje priklausė Rajeckių, vėliau — Kościałkowskių giminei, kurios atstovas Ignacas Kościałkowskis 1801 metais pastatydino mūrinę bažnyčią. Miesto teisės Pandėliui suteiktos 1956 metais.",
+    "en": "Pandėlys, first mentioned in 1591, is a small town in Rokiškis district municipality, about 26 km west of Rokiškis on the road to Biržai. The area was once a trading post where merchants from Vilnius and Riga would meet — one theory traces the town's name to the word 'podėlis,' meaning a storehouse. Its manor belonged to the Rajecki family in the 18th century and later passed to the Kościałkowski family, whose Ignacy Kościałkowski built the town's brick church in 1801. Pandėlys was granted city rights in 1956.",
+    "uk": "Пандельс, вперше згаданий у 1591 році, — невелике містечко в Рокішкіському районі, приблизно за 26 км на захід від Рокішкіса, на дорозі до Біржая. Колись тут був торговий пункт, де зустрічалися купці з Вільнюса та Риги — за однією з версій, назва містечка походить від слова «подельіс», що означає склад. У XVIII столітті маєток належав родині Раєцьких, а пізніше перейшов до родини Косцялковських, представник якої Ігнацій Косцялковський збудував цегляну церкву у 1801 році. Міські права Пандельс отримав у 1956 році."
+  },
+  "facts": [
+    {
+      "lt": "Miestelio pavadinimas galimai kilęs iš žodžio „podėlis“ — sandėlio, kuriame prekiaudavo pirkliai iš Vilniaus ir Rygos.",
+      "en": "The town's name may derive from 'podėlis,' a storehouse where merchants from Vilnius and Riga once traded goods.",
+      "uk": "Назва містечка, ймовірно, походить від слова «подельіс» — складу, де торгували купці з Вільнюса та Риги."
+    },
+    {
+      "lt": "Vietinė mūrinė bažnyčia pastatyta 1801 metais dvarininko Ignaco Kościałkowskio iniciatyva.",
+      "en": "The local brick church was built in 1801 on the initiative of the manor owner, Ignacy Kościałkowski.",
+      "uk": "Місцеву цегляну церкву збудовано у 1801 році з ініціативи власника маєтку Ігнація Косцялковського."
+    },
+    {
+      "lt": "Miesto teises Pandėlys gavo tik 1956 metais, jau sovietmečiu.",
+      "en": "Pandėlys only received official city rights in 1956, during the Soviet era.",
+      "uk": "Офіційні міські права Пандельс отримав лише у 1956 році, вже за радянських часів."
+    }
+  ],
+  "highlightPhoto": "2025-08-30-photo-30-08-2025-14-26-43.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Pandėlio miestelio bažnyčia ir centrinė gatvė",
+    "en": "Pandėlys town church and main street",
+    "uk": "Церква містечка Пандельс і головна вулиця"
+  },
+  "photos": [
+    "2025-08-30-photo-30-08-2025-14-08-22.jpg",
+    "2025-08-30-photo-30-08-2025-14-08-44.jpg",
+    "2025-08-30-photo-30-08-2025-14-08-48.jpg",
+    "2025-08-30-photo-30-08-2025-14-10-32.jpg",
+    "2025-08-30-photo-30-08-2025-14-12-21.jpg",
+    "2025-08-30-photo-30-08-2025-14-12-33.jpg",
+    "2025-08-30-photo-30-08-2025-14-12-54.jpg",
+    "2025-08-30-photo-30-08-2025-14-13-30.jpg",
+    "2025-08-30-photo-30-08-2025-14-13-43.jpg",
+    "2025-08-30-photo-30-08-2025-14-15-22.jpg",
+    "2025-08-30-photo-30-08-2025-14-16-25.jpg",
+    "2025-08-30-photo-30-08-2025-14-17-46.jpg",
+    "2025-08-30-photo-30-08-2025-14-19-31.jpg",
+    "2025-08-30-photo-30-08-2025-14-20-20.jpg",
+    "2025-08-30-photo-30-08-2025-14-20-54.jpg",
+    "2025-08-30-photo-30-08-2025-14-21-18.jpg",
+    "2025-08-30-photo-30-08-2025-14-21-42.jpg",
+    "2025-08-30-photo-30-08-2025-14-23-47.jpg",
+    "2025-08-30-photo-30-08-2025-14-26-43.jpg",
+    "2025-08-30-photo-30-08-2025-14-26-56.jpg",
+    "2025-08-30-photo-30-08-2025-14-28-05.jpg",
+    "2025-08-30-photo-30-08-2025-14-30-30.jpg",
+    "2025-08-30-photo-30-08-2025-14-30-46.jpg",
+    "2025-08-30-photo-30-08-2025-14-31-53.jpg",
+    "2025-08-30-photo-30-08-2025-14-33-23.jpg",
+    "2025-08-30-photo-30-08-2025-14-33-51.jpg",
+    "2025-08-30-photo-30-08-2025-14-34-39.jpg",
+    "2025-08-30-photo-30-08-2025-14-36-21.jpg",
+    "2025-08-30-photo-30-08-2025-14-37-25.jpg",
+    "2025-08-30-photo-30-08-2025-14-37-31.jpg",
+    "2025-08-30-photo-30-08-2025-14-37-49.jpg",
+    "2025-08-30-photo-30-08-2025-14-39-10.jpg",
+    "2025-08-30-photo-30-08-2025-14-41-52.jpg",
+    "2025-08-30-photo-30-08-2025-14-42-02.jpg",
+    "2025-08-30-photo-30-08-2025-14-43-57.jpg",
+    "2025-08-30-photo-30-08-2025-14-44-59.jpg",
+    "2025-08-30-photo-30-08-2025-14-47-52.jpg"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "radviliskis",
+  "coordinates": {
+    "lat": 55.8,
+    "lng": 23.55
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Radviliškis",
+    "en": "Radviliškis",
+    "uk": "Радвілішкіс"
+  },
+  "shortDescription": {
+    "lt": "Vidurio Lietuvos miestas – svarbiausias geležinkelių mazgas ir 1919 metų lemiamo mūšio vieta.",
+    "en": "A central Lithuanian town known as a major railway junction and the site of a decisive 1919 battle.",
+    "uk": "Місто в центральній Литві — головний залізничний вузол і місце вирішальної битви 1919 року."
+  },
+  "longDescription": {
+    "lt": "Radviliškis, esantis apie 20 km į pietryčius nuo Šiaulių, yra vienas svarbiausių Lietuvos geležinkelių mazgų, strategiškai reikšmingas dar Pirmojo pasaulinio karo metais. 1919 metų lapkričio 21–22 dienomis čia įvyko Radviliškio mūšis, kuriame Lietuvos kariuomenė ryžtingai nugalėjo prieš vokiečius kovojusią bermontininkų armiją, taip apsaugodama nepriklausomybę centrinėje Lietuvoje. Šiandien miestas tebėra svarbus geležinkelių centras.",
+    "en": "Radviliškis, about 20 km southeast of Šiauliai, is one of Lithuania's most important railway junctions, strategically significant since World War I. On 21-22 November 1919 the Battle of Radviliškis took place here, in which Lithuanian forces decisively defeated the pro-German Bermontian army, helping to secure independence in central Lithuania. Today the town remains a key railway hub.",
+    "uk": "Радвілішкіс, розташований приблизно за 20 км на південний схід від Шяуляя, є одним із найважливіших залізничних вузлів Литви, стратегічно важливим ще з часів Першої світової війни. 21–22 листопада 1919 року тут відбулася Радвілішкіська битва, у якій литовське військо остаточно розгромило пронімецьку армію бермонтівців, зберігши незалежність у центральній Литві. Сьогодні місто залишається важливим залізничним вузлом."
+  },
+  "facts": [
+    {
+      "lt": "Radviliškis – vienas svarbiausių Lietuvos geležinkelių mazgų.",
+      "en": "Radviliškis is one of Lithuania's most important railway junctions.",
+      "uk": "Радвілішкіс — один із найважливіших залізничних вузлів Литви."
+    },
+    {
+      "lt": "1919 metų lapkričio 21–22 dienomis vykusiame Radviliškio mūšyje Lietuvos kariuomenė nugalėjo bermontininkų armiją.",
+      "en": "In the Battle of Radviliškis (21-22 November 1919), Lithuanian forces defeated the Bermontian army.",
+      "uk": "У Радвілішкіській битві (21–22 листопада 1919 року) литовське військо розгромило армію бермонтівців."
+    },
+    {
+      "lt": "Ši pergalė padėjo apginti centrinę Lietuvą Nepriklausomybės kovų metu.",
+      "en": "The victory helped secure central Lithuania during the Wars of Independence.",
+      "uk": "Ця перемога допомогла захистити центральну Литву під час Воєн за незалежність."
+    }
+  ],
+  "highlightPhoto": "2025-08-16-photo-16-08-2025-14-07-51.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Radviliškio geležinkelio stotis ir bėgių mazgas",
+    "en": "The railway station and track junction at Radviliškis",
+    "uk": "Залізнична станція та вузол колій у Радвілішкісі"
+  },
+  "photos": [
+    "2025-08-16-photo-16-08-2025-13-41-12.jpg",
+    "2025-08-16-photo-16-08-2025-13-41-26.jpg",
+    "2025-08-16-photo-16-08-2025-13-42-43.jpg",
+    "2025-08-16-photo-16-08-2025-13-43-11.jpg",
+    "2025-08-16-photo-16-08-2025-13-43-45.jpg",
+    "2025-08-16-photo-16-08-2025-13-46-04.jpg",
+    "2025-08-16-photo-16-08-2025-13-46-47.jpg",
+    "2025-08-16-photo-16-08-2025-13-47-49.jpg",
+    "2025-08-16-photo-16-08-2025-13-48-46.jpg",
+    "2025-08-16-photo-16-08-2025-13-49-50.jpg",
+    "2025-08-16-photo-16-08-2025-13-50-32.jpg",
+    "2025-08-16-photo-16-08-2025-13-51-36.jpg",
+    "2025-08-16-photo-16-08-2025-13-51-39.jpg",
+    "2025-08-16-photo-16-08-2025-13-52-06.jpg",
+    "2025-08-16-photo-16-08-2025-13-55-19.jpg",
+    "2025-08-16-photo-16-08-2025-13-55-33.jpg",
+    "2025-08-16-photo-16-08-2025-13-59-14.jpg",
+    "2025-08-16-photo-16-08-2025-14-00-37.jpg",
+    "2025-08-16-photo-16-08-2025-14-02-29.jpg",
+    "2025-08-16-photo-16-08-2025-14-03-33.jpg",
+    "2025-08-16-photo-16-08-2025-14-03-56.jpg",
+    "2025-08-16-photo-16-08-2025-14-04-27.jpg",
+    "2025-08-16-photo-16-08-2025-14-06-00.jpg",
+    "2025-08-16-photo-16-08-2025-14-06-58.jpg",
+    "2025-08-16-photo-16-08-2025-14-07-05.jpg",
+    "2025-08-16-photo-16-08-2025-14-07-51.jpg",
+    "2025-08-16-photo-16-08-2025-14-10-05.jpg",
+    "2025-08-16-photo-16-08-2025-14-11-09.jpg",
+    "2025-08-16-photo-16-08-2025-14-11-16.jpg",
+    "2025-08-16-photo-16-08-2025-14-12-30.jpg",
+    "2025-08-16-photo-16-08-2025-14-13-04.jpg",
+    "2025-08-16-photo-16-08-2025-14-14-40.jpg",
+    "2025-08-16-photo-16-08-2025-14-16-02.jpg",
+    "2025-08-16-photo-16-08-2025-14-18-47.jpg",
+    "2025-08-16-photo-16-08-2025-14-18-57.jpg",
+    "2025-08-16-photo-16-08-2025-14-26-42.jpg",
+    "2025-08-16-photo-16-08-2025-14-34-44.jpg",
+    "2025-08-16-photo-16-08-2025-14-37-18.jpg",
+    "2025-08-16-photo-16-08-2025-14-38-04.jpg",
+    "2025-08-16-photo-16-08-2025-14-39-02.jpg",
+    "2025-08-16-photo-16-08-2025-14-39-16.jpg",
+    "2025-08-16-photo-16-08-2025-14-39-28.jpg",
+    "2025-08-16-photo-16-08-2025-14-40-31.jpg",
+    "2025-08-16-photo-16-08-2025-14-41-12.jpg",
+    "2025-08-16-photo-16-08-2025-14-43-52.jpg",
+    "2025-08-16-photo-16-08-2025-14-43-57.jpg",
+    "2025-08-16-photo-16-08-2025-14-53-30.jpg",
+    "2025-08-16-photo-16-08-2025-14-56-16.jpg",
+    "2025-08-16-photo-16-08-2025-14-56-23.jpg",
+    "2025-08-16-photo-16-08-2025-14-58-56.jpg",
+    "2025-08-16-photo-16-08-2025-15-00-35.jpg"
+  ]
+}

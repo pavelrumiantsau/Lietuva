@@ -1,0 +1,132 @@
+{
+  "slug": "kaunas",
+  "coordinates": {
+    "lat": 54.8985,
+    "lng": 23.9036
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kaunas",
+    "en": "Kaunas",
+    "uk": "Каунас"
+  },
+  "shortDescription": {
+    "lt": "Tarpukario laikinoji sostinė prie dviejų upių santakos, garsi ryškiu art deco paveldu.",
+    "en": "The interwar temporary capital at the meeting of two rivers, known for its striking Art Deco heritage.",
+    "uk": "Тимчасова столиця міжвоєнного періоду на злитті двох річок, відома яскравою спадщиною ар-деко."
+  },
+  "longDescription": {
+    "lt": "Kaunas, antras pagal dydį Lietuvos miestas, stovi ties Nemuno ir Neries santaka. 1920–1939 metais, kai Vilnių buvo užėmusi Lenkija, Kaunas tapo laikinąja Lietuvos sostine — šis dviejų dešimtmečių laikotarpis paliko miestui gausų ir savitą modernistinį bei art deco architektūros palikimą, 2023 metais pripažintą UNESCO dizaino miestu. Šalia tarpukario paveldo Kaunas garsėja ir sudėtinga XX amžiaus istorija — sovietų bei nacių okupacijų laikais kalėjimu ir žudynių vieta tapęs IX fortas šiandien yra memorialas ir muziejus.",
+    "en": "Kaunas, Lithuania's second-largest city, sits at the confluence of the Nemunas and Neris rivers. Between 1920 and 1939, while Vilnius was under Polish control, Kaunas served as Lithuania's temporary capital — those two decades left the city a rich and distinctive legacy of modernist and Art Deco architecture, recognised by UNESCO as a City of Design in 2023. Alongside its interwar heritage, Kaunas also carries a difficult 20th-century history: the Ninth Fort, used as a prison and site of mass killings during the Soviet and Nazi occupations, is today a memorial and museum.",
+    "uk": "Каунас, друге за величиною місто Литви, розташований на злитті річок Нямунас і Няріс. У 1920–1939 роках, коли Вільнюс перебував під польським контролем, Каунас був тимчасовою столицею Литви — ці два десятиліття залишили місту багату та самобутню спадщину модерністської архітектури та ар-деко, визнану ЮНЕСКО Містом дизайну у 2023 році. Поряд із міжвоєнною спадщиною Каунас несе й важку історію XX століття: Дев'ятий форт, який використовувався як в'язниця та місце масових вбивств за радянської та нацистської окупацій, сьогодні є меморіалом і музеєм."
+  },
+  "facts": [
+    {
+      "lt": "1920–1939 metais Kaunas buvo vienintelis miestas pasaulyje, tapęs laikinąja sostine daugiau nei dešimtmečiui.",
+      "en": "Between 1920 and 1939, Kaunas was a temporary capital for nearly two decades — an unusually long span for such an arrangement.",
+      "uk": "У 1920–1939 роках Каунас майже два десятиліття був тимчасовою столицею — незвично тривалий термін для такого статусу."
+    },
+    {
+      "lt": "2023 metais Kaunas buvo Europos kultūros sostinė.",
+      "en": "Kaunas was a European Capital of Culture in 2023.",
+      "uk": "У 2023 році Каунас був культурною столицею Європи."
+    },
+    {
+      "lt": "Kauno senamiestyje, prie pat Nemuno ir Neries santakos, stovi viena seniausių Lietuvos mūrinių pilių.",
+      "en": "Kaunas Castle, right at the meeting point of the Nemunas and Neris rivers, is one of Lithuania's oldest brick castles.",
+      "uk": "Каунаський замок, розташований прямо на злитті Нямунасу та Няріса, є одним з найстаріших цегляних замків Литви."
+    }
+  ],
+  "highlightPhoto": "2023-10-28-photo-28-10-2023-15-13-44.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kauno senamiesčio gatvė su art deco laikotarpio pastatais",
+    "en": "A Kaunas Old Town street lined with Art Deco-era buildings",
+    "uk": "Вулиця Старого міста Каунаса з будівлями епохи ар-деко"
+  },
+  "photos": [
+    "2023-10-28-photo-28-10-2023-13-53-10.jpg",
+    "2023-10-28-photo-28-10-2023-13-58-24.jpg",
+    "2023-10-28-photo-28-10-2023-14-04-48.jpg",
+    "2023-10-28-photo-28-10-2023-14-06-22.jpg",
+    "2023-10-28-photo-28-10-2023-14-10-52.jpg",
+    "2023-10-28-photo-28-10-2023-14-11-21.jpg",
+    "2023-10-28-photo-28-10-2023-14-13-29.jpg",
+    "2023-10-28-photo-28-10-2023-14-15-53.jpg",
+    "2023-10-28-photo-28-10-2023-14-16-02.jpg",
+    "2023-10-28-photo-28-10-2023-14-21-34.jpg",
+    "2023-10-28-photo-28-10-2023-14-22-22.jpg",
+    "2023-10-28-photo-28-10-2023-14-22-28.jpg",
+    "2023-10-28-photo-28-10-2023-14-24-43.jpg",
+    "2023-10-28-photo-28-10-2023-14-35-18.jpg",
+    "2023-10-28-photo-28-10-2023-14-37-48.jpg",
+    "2023-10-28-photo-28-10-2023-14-40-27.jpg",
+    "2023-10-28-photo-28-10-2023-14-43-20.jpg",
+    "2023-10-28-photo-28-10-2023-14-43-42.jpg",
+    "2023-10-28-photo-28-10-2023-14-45-58.jpg",
+    "2023-10-28-photo-28-10-2023-14-47-16.jpg",
+    "2023-10-28-photo-28-10-2023-14-47-17.jpg",
+    "2023-10-28-photo-28-10-2023-14-50-29.jpg",
+    "2023-10-28-photo-28-10-2023-14-50-33.jpg",
+    "2023-10-28-photo-28-10-2023-14-50-43.jpg",
+    "2023-10-28-photo-28-10-2023-14-52-42.jpg",
+    "2023-10-28-photo-28-10-2023-14-54-14.jpg",
+    "2023-10-28-photo-28-10-2023-14-56-41.jpg",
+    "2023-10-28-photo-28-10-2023-14-58-09.jpg",
+    "2023-10-28-photo-28-10-2023-14-58-46.jpg",
+    "2023-10-28-photo-28-10-2023-14-59-13.jpg",
+    "2023-10-28-photo-28-10-2023-14-59-16.jpg",
+    "2023-10-28-photo-28-10-2023-15-02-30.jpg",
+    "2023-10-28-photo-28-10-2023-15-03-37.jpg",
+    "2023-10-28-photo-28-10-2023-15-05-06.jpg",
+    "2023-10-28-photo-28-10-2023-15-06-50.jpg",
+    "2023-10-28-photo-28-10-2023-15-09-25.jpg",
+    "2023-10-28-photo-28-10-2023-15-10-18.jpg",
+    "2023-10-28-photo-28-10-2023-15-11-45.jpg",
+    "2023-10-28-photo-28-10-2023-15-11-47.jpg",
+    "2023-10-28-photo-28-10-2023-15-13-44.jpg",
+    "2023-10-28-photo-28-10-2023-15-19-22.jpg",
+    "2023-10-28-photo-28-10-2023-15-20-13.jpg",
+    "2023-10-28-photo-28-10-2023-15-20-15.jpg",
+    "2023-10-28-photo-28-10-2023-15-21-05.jpg",
+    "2023-10-28-photo-28-10-2023-15-21-27.jpg",
+    "2023-10-28-photo-28-10-2023-15-24-57.jpg",
+    "2023-10-28-photo-28-10-2023-15-26-14.jpg",
+    "2023-10-28-photo-28-10-2023-15-30-00.jpg",
+    "2023-10-28-photo-28-10-2023-15-31-11.jpg",
+    "2023-10-28-photo-28-10-2023-15-36-10.jpg",
+    "2023-10-28-photo-28-10-2023-15-36-19.jpg",
+    "2023-10-28-photo-28-10-2023-15-37-32.jpg",
+    "2023-10-28-photo-28-10-2023-15-37-33.jpg",
+    "2023-10-28-photo-28-10-2023-15-37-38.jpg",
+    "2023-10-28-photo-28-10-2023-15-51-09.jpg",
+    "2023-10-28-photo-28-10-2023-15-51-14.jpg",
+    "2023-10-28-photo-28-10-2023-15-54-30.jpg",
+    "2023-10-28-photo-28-10-2023-15-54-38.jpg",
+    "2023-10-28-photo-28-10-2023-15-58-58.jpg",
+    "2023-10-28-photo-28-10-2023-15-59-54.jpg",
+    "2023-10-28-photo-28-10-2023-16-02-52.jpg",
+    "2023-10-28-photo-28-10-2023-16-06-29.jpg",
+    "2023-10-28-photo-28-10-2023-16-09-49.jpg",
+    "2023-10-28-photo-28-10-2023-16-13-36.jpg",
+    "2023-10-28-photo-28-10-2023-16-13-37.jpg",
+    "2023-10-28-photo-28-10-2023-16-14-16.jpg",
+    "2023-10-28-photo-28-10-2023-16-15-19.jpg",
+    "2023-10-28-photo-28-10-2023-16-20-02.jpg",
+    "2023-10-28-photo-28-10-2023-16-21-16.jpg",
+    "2023-10-28-photo-28-10-2023-16-21-35.jpg",
+    "2023-10-28-photo-28-10-2023-16-25-02.jpg",
+    "2023-10-28-photo-28-10-2023-16-27-12.jpg",
+    "2023-10-28-photo-28-10-2023-16-28-07.jpg",
+    "2023-10-28-photo-28-10-2023-16-29-52.jpg",
+    "2023-10-28-photo-28-10-2023-16-29-57.jpg",
+    "2023-10-28-photo-28-10-2023-16-32-58.jpg",
+    "2023-10-28-photo-28-10-2023-16-35-17.jpg",
+    "2023-10-28-photo-28-10-2023-16-43-37.jpg",
+    "2024-08-10-photo-10-08-2024-14-20-27.jpg"
+  ]
+}

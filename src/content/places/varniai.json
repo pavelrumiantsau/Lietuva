@@ -1,0 +1,78 @@
+{
+  "slug": "varniai",
+  "coordinates": {
+    "lat": 55.751,
+    "lng": 22.3833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Varniai",
+    "en": "Varniai",
+    "uk": "Варняй"
+  },
+  "shortDescription": {
+    "lt": "Istorinė Žemaičių vyskupystės sostinė, tokia buvusi daugiau nei keturis šimtmečius.",
+    "en": "The historic seat of the Samogitian bishopric for over four centuries.",
+    "uk": "Історична резиденція Жемайтійського єпископства понад чотири століття."
+  },
+  "longDescription": {
+    "lt": "Varniai Telšių rajone tapo Žemaičių vyskupystės centru 1417 metais, iškart po oficialaus Žemaitijos krikšto — paskutinio pagoniško regiono krikšto Europoje. Daugiau nei keturis šimtmečius miestelis buvo visos Žemaitijos religinė sostinė, čia veikė 1623 metais vyskupo Stanislovo Kiškos įkurta kunigų seminarija. Vyskupystė į Kauną perkelta tik XIX amžiaus viduryje, kai carinė valdžia nubaudė miestelį po 1863 metų sukilimo; šiandien buvusios seminarijos pastate veikia Žemaičių vyskupystės muziejus.",
+    "en": "Varniai in the Telšiai district became the seat of the Samogitian bishopric in 1417, immediately after Samogitia's official conversion to Christianity — the last pagan region in Europe to do so. For more than four centuries it functioned as the religious capital of the entire Samogitian region, hosting a priest seminary founded in 1623 by Bishop Stanisław Kiszka. The bishopric was only relocated to Kaunas in the mid-19th century, after Tsarist authorities punished the town following the 1863 January Uprising; today the former seminary building houses the Samogitian Diocese Museum.",
+    "uk": "Варняй у Тельшяйському районі стали центром Жемайтійського єпископства 1417 року, одразу після офіційного хрещення Жемайтії — останнього язичницького регіону Європи. Понад чотири століття містечко було релігійною столицею всієї Жемайтії, тут діяла духовна семінарія, заснована 1623 року єпископом Станіславом Кішкою. Єпископство перенесли до Каунаса лише в середині XIX століття, коли царська влада покарала містечко після повстання 1863 року; нині у колишній будівлі семінарії розміщується Музей Жемайтійської єпархії."
+  },
+  "facts": [
+    {
+      "lt": "Varniai tapo Žemaičių vyskupystės centru 1417 metais, iškart po Žemaitijos krikšto — paskutinio Europoje.",
+      "en": "Varniai became the seat of the Samogitian bishopric in 1417, right after Samogitia's Christianization — the last in Europe.",
+      "uk": "Варняй стали центром Жемайтійського єпископства 1417 року, одразу після хрещення Жемайтії — останнього в Європі."
+    },
+    {
+      "lt": "Varnių kunigų seminariją 1623 metais įkūrė vyskupas Stanislovas Kiška.",
+      "en": "The Varniai priest seminary was founded in 1623 by Bishop Stanisław Kiszka.",
+      "uk": "Духовну семінарію у Варняй заснував 1623 року єпископ Станіслав Кішка."
+    },
+    {
+      "lt": "Po 1863 metų sukilimo carinė valdžia perkėlė vyskupystės centrą į Kauną; buvusiame seminarijos pastate dabar veikia Žemaičių vyskupystės muziejus.",
+      "en": "After the 1863 uprising, Tsarist authorities moved the bishopric's seat to Kaunas; the former seminary now houses the Samogitian Diocese Museum.",
+      "uk": "Після повстання 1863 року царська влада перенесла центр єпархії до Каунаса; у колишній будівлі семінарії тепер розташований Музей Жемайтійської єпархії."
+    }
+  ],
+  "highlightPhoto": "2026-05-23-photo-23-05-2026-16-02-10.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šv. Aleksandro bažnyčia Varniuose",
+    "en": "The Church of St. Alexander in Varniai",
+    "uk": "Костел святого Олександра у Варняй"
+  },
+  "photos": [
+    "2026-05-23-photo-23-05-2026-15-47-01.jpg",
+    "2026-05-23-photo-23-05-2026-15-48-11.jpg",
+    "2026-05-23-photo-23-05-2026-15-48-14.jpg",
+    "2026-05-23-photo-23-05-2026-15-48-17.jpg",
+    "2026-05-23-photo-23-05-2026-15-49-16.jpg",
+    "2026-05-23-photo-23-05-2026-15-51-46.jpg",
+    "2026-05-23-photo-23-05-2026-15-52-53.jpg",
+    "2026-05-23-photo-23-05-2026-15-54-08.jpg",
+    "2026-05-23-photo-23-05-2026-15-54-50.jpg",
+    "2026-05-23-photo-23-05-2026-15-56-03.jpg",
+    "2026-05-23-photo-23-05-2026-15-59-37.jpg",
+    "2026-05-23-photo-23-05-2026-16-00-31.jpg",
+    "2026-05-23-photo-23-05-2026-16-02-10.jpg",
+    "2026-05-23-photo-23-05-2026-16-03-28.jpg",
+    "2026-05-23-photo-23-05-2026-16-03-29.jpg",
+    "2026-05-23-photo-23-05-2026-16-07-14.jpg",
+    "2026-05-23-photo-23-05-2026-16-07-16.jpg",
+    "2026-05-23-photo-23-05-2026-16-07-48.jpg",
+    "2026-05-23-photo-23-05-2026-16-08-17.jpg",
+    "2026-05-23-photo-23-05-2026-16-08-59.jpg",
+    "2026-05-23-photo-23-05-2026-16-09-01.jpg",
+    "2026-05-23-photo-23-05-2026-16-09-24.jpg",
+    "2026-05-23-photo-23-05-2026-16-09-59.jpg",
+    "2026-05-23-photo-23-05-2026-16-21-26.jpg",
+    "2026-05-23-photo-23-05-2026-16-21-28.jpg"
+  ]
+}

@@ -1,0 +1,35 @@
+---
+pagination:
+  data: locales
+  size: 1
+  alias: lang
+permalink: "{{ lang | homeUrl }}"
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{ 'nav.home' | t(lang) }}"
+  altUrlLt: "{{ 'lt' | homeUrl }}"
+  altUrlEn: "{{ 'en' | homeUrl }}"
+  altUrlUk: "{{ 'uk' | homeUrl }}"
+pageScripts:
+  - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js
+  - https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js
+  - /assets/js/map.js
+pageStyles:
+  - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css
+  - https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css
+  - https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css
+---
+<section class="hero">
+  <h1>{{ "site.title" | t(lang) }}</h1>
+  <p>{{ "home.intro" | t(lang) }}</p>
+  <a class="browse-all-link" href="{{ lang | listUrl }}">{{ "home.browseAll" | t(lang) }}</a>
+</section>
+
+<div id="map" role="application" aria-label="{{ 'nav.map' | t(lang) }}"></div>
+<p class="map-note">{{ "home.mapUnavailable" | t(lang) }}</p>
+
+<script type="application/json" id="places-data">{{ places | mapData(lang) | json | safe }}</script>
+<script>
+  window.SITE_LANG = {{ lang | json | safe }};
+  window.SITE_STRINGS = { explore: {{ "place.explore" | t(lang) | json | safe }} };
+</script>

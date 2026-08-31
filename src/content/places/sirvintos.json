@@ -1,0 +1,91 @@
+{
+  "slug": "sirvintos",
+  "coordinates": {
+    "lat": 55.05,
+    "lng": 24.95
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Širvintos",
+    "en": "Širvintos",
+    "uk": "Ширвінтос"
+  },
+  "shortDescription": {
+    "lt": "Vilniaus apskrities miestas prie Širvintos upės, pirmą kartą paminėtas 1475 metais.",
+    "en": "A Vilnius county town on the Širvinta river, first recorded in written sources in 1475.",
+    "uk": "Місто Вільнюського повіту на річці Ширвінта, вперше згадане у писемних джерелах 1475 року."
+  },
+  "longDescription": {
+    "lt": "Širvintos, Vilniaus apskrities miestas ir rajono savivaldybės centras, pirmą kartą paminėtos rašytiniuose šaltiniuose 1475 metais. Miesto vardas kilęs nuo per jį tekančios Širvintos upės — ilgiausio Šventosios intako, nutįsusio 129 kilometrus. Miesto teises Širvintos gavo 1951 metais, tapusios rajono centru. XX amžiaus septintajame dešimtmetyje miesto centre įrengtas 40 hektarų tvenkinys, o 1981 metais jo pakrantėje pastatyta skulptoriaus Vilimo Ketvirčio skulptūra „Širvinta“.",
+    "en": "Širvintos, a Vilnius county town and the seat of its district municipality, is first mentioned in written sources in 1475. The town takes its name from the Širvinta river flowing through it, the longest tributary of the Šventoji at 129 km. Širvintos received official city rights in 1951, after becoming a district centre. In the 1960s a 40-hectare pond was created on the river in the town centre, later graced by sculptor Vilimas Ketvirtis's sculpture 'Širvinta' (1981).",
+    "uk": "Ширвінтос, місто Вільнюського повіту та центр однойменного районного самоврядування, вперше згадується у писемних джерелах 1475 року. Назва міста походить від річки Ширвінта, що протікає через нього, — найдовшої притоки Швянтойї завдовжки 129 км. Ширвінтос отримало офіційні міські права у 1951 році, ставши районним центром. У 1960-х роках у центрі міста на річці створили ставок площею 40 гектарів, а у 1981 році на його березі встановили скульптуру «Ширвінта» роботи скульптора Вілімаса Кятвіртіса."
+  },
+  "facts": [
+    {
+      "lt": "Širvintos pirmą kartą paminėtos rašytiniuose šaltiniuose 1475 metais.",
+      "en": "Širvintos is first mentioned in written sources in 1475.",
+      "uk": "Ширвінтос вперше згадане у писемних джерелах 1475 року."
+    },
+    {
+      "lt": "Miesto vardas kilęs nuo Širvintos upės — ilgiausio Šventosios intako, tekančio 129 kilometrus.",
+      "en": "The town takes its name from the Širvinta river, the longest tributary of the Šventoji at 129 km.",
+      "uk": "Назва міста походить від річки Ширвінта — найдовшої притоки Швянтойї завдовжки 129 км."
+    },
+    {
+      "lt": "1960-aisiais miesto centre ant upės buvo įrengtas 40 hektarų tvenkinys, papuoštas 1981 metų skulptūra „Širvinta“.",
+      "en": "In the 1960s a 40-hectare pond was created on the river in the town centre, later adorned with the 1981 sculpture 'Širvinta'.",
+      "uk": "У 1960-х у центрі міста на річці створили ставок площею 40 гектарів, прикрашений скульптурою «Ширвінта» 1981 року."
+    }
+  ],
+  "highlightPhoto": "2022-10-02-img-20221002-162714.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Širvintos upės tvenkinys miesto centre",
+    "en": "The Širvinta river pond in the town centre",
+    "uk": "Ставок на річці Ширвінта в центрі міста"
+  },
+  "photos": [
+    "2022-10-02-img-20221002-160627.jpg",
+    "2022-10-02-img-20221002-160658.jpg",
+    "2022-10-02-img-20221002-160733.jpg",
+    "2022-10-02-img-20221002-160920.jpg",
+    "2022-10-02-img-20221002-160945.jpg",
+    "2022-10-02-img-20221002-161018.jpg",
+    "2022-10-02-img-20221002-161040.jpg",
+    "2022-10-02-img-20221002-161106.jpg",
+    "2022-10-02-img-20221002-161119.jpg",
+    "2022-10-02-img-20221002-161253.jpg",
+    "2022-10-02-img-20221002-161338.jpg",
+    "2022-10-02-img-20221002-161340.jpg",
+    "2022-10-02-img-20221002-161346.jpg",
+    "2022-10-02-img-20221002-161449.jpg",
+    "2022-10-02-img-20221002-161731.jpg",
+    "2022-10-02-img-20221002-161845.jpg",
+    "2022-10-02-img-20221002-162000.jpg",
+    "2022-10-02-img-20221002-162226.jpg",
+    "2022-10-02-img-20221002-162509.jpg",
+    "2022-10-02-img-20221002-162714.jpg",
+    "2022-10-02-img-20221002-162806.jpg",
+    "2022-10-02-img-20221002-162927.jpg",
+    "2022-10-02-img-20221002-163151.jpg",
+    "2022-10-02-img-20221002-163655.jpg",
+    "2022-10-02-img-20221002-163702.jpg",
+    "2022-10-02-img-20221002-163739.jpg",
+    "2022-10-02-img-20221002-164614.jpg",
+    "2022-10-02-img-20221002-165010.jpg",
+    "2022-10-02-img-20221002-165144.jpg",
+    "2022-10-02-img-20221002-165238.jpg",
+    "2022-10-02-img-20221002-165310.jpg",
+    "2022-10-02-img-20221002-165427.jpg",
+    "2022-10-02-img-20221002-165714.jpg",
+    "2022-10-02-img-20221002-170613.jpg",
+    "2022-10-02-img-20221002-170631.jpg",
+    "2022-10-02-img-20221002-170835.jpg",
+    "2022-10-02-img-20221002-171108.jpg",
+    "2022-10-02-img-20221002-171919.jpg"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "zarasu-rajonas",
+  "coordinates": {
+    "lat": 55.75,
+    "lng": 25.85
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Zarasų rajonas",
+    "en": "Zarasai District",
+    "uk": "Зарасайський район"
+  },
+  "shortDescription": {
+    "lt": "Kaimiškas ežerų kraštas aplink Zarasus, nusėtas beveik 300 ledyninių ežerų.",
+    "en": "The rural lake country around Zarasai, dotted with nearly 300 glacial lakes.",
+    "uk": "Сільська озерна місцевість навколо Зарасая, вкрита майже 300 льодовиковими озерами."
+  },
+  "longDescription": {
+    "lt": "Už paties Zarasų miestelio ribų driekiasi Zarasų rajonas — vienas ežeringiausių Lietuvos kraštų, kuriame beveik 300 ežerų užima daugiau nei 13 000 hektarų banguotos, miškingos apylinkės. Jo centre — Sartų ežeras, penktas pagal dydį Lietuvoje ir turintis ilgiausią pakrantę iš visų šalies ežerų, siekiančią apie 79 kilometrus; jo šakotą, medžio formos siluetą suformavo susikertantys ledyninio kilmės ruožai netoli nedidelio Dusetų miestelio. Žiemą Sartai nuo seno buvo tradicinė žirgų lenktynių ant užšalusio ežero vieta — šis paprotys šiandien tęsiamas hipodrome ežero pakrantėje, o vasarą jo vandenys ir aplinkinės sodybos vilioja lankytojus, ieškančius Lietuvos kaimo ramybės.",
+    "en": "Beyond the town of Zarasai itself, the surrounding Zarasai district is one of the most lake-dense parts of Lithuania, with nearly 300 lakes covering more than 13,000 hectares across its rolling, forested countryside. Its centerpiece is Sartai, the fifth-largest lake in Lithuania and the one with the longest shoreline of any lake in the country at roughly 79 kilometers, its branching, tree-like shape carved by intersecting glacial troughs near the small town of Dusetos. In winter, Sartai has long been the traditional site of horse races held directly on the frozen lake, a custom now continued at a hippodrome on its shore, while in summer its waters and surrounding cabins draw visitors seeking the quiet of the Lithuanian countryside.",
+    "uk": "За межами самого містечка Зарасай розкинувся Зарасайський район — один із найозерніших куточків Литви, де майже 300 озер займають понад 13 000 гектарів пагорбистої, лісистої місцевості. Його осердя — озеро Сартай, п'яте за величиною в Литві та таке, що має найдовшу берегову лінію серед усіх литовських озер — близько 79 кілометрів; його розгалужену, деревоподібну форму вирізали льодовикові улоговини, що перетинаються, поблизу невеликого містечка Дусятос. Взимку Сартай здавна був традиційним місцем кінних перегонів прямо на замерзлому озері — цей звичай нині триває на іподромі на березі, а влітку його води та навколишні садиби приваблюють гостей, які шукають тиші литовського села."
+  },
+  "facts": [
+    {
+      "lt": "Zarasų rajone yra beveik 300 ežerų, užimančių daugiau nei 13 000 hektarų — tai vienas ežeringiausių Lietuvos kraštų.",
+      "en": "The district around Zarasai contains nearly 300 lakes spread across more than 13,000 hectares, making it one of the lake-densest regions of Lithuania.",
+      "uk": "У Зарасайському районі налічується майже 300 озер площею понад 13 000 гектарів — це один із найозерніших регіонів Литви."
+    },
+    {
+      "lt": "Sartų ežeras netoli Dusetų yra penktas pagal dydį Lietuvoje ir turi ilgiausią šalies ežero pakrantę — apie 79 kilometrus.",
+      "en": "Lake Sartai, near Dusetos, is Lithuania's fifth-largest lake and has the country's longest lake shoreline, at about 79 kilometers.",
+      "uk": "Озеро Сартай поблизу Дусятоса — п'яте за розміром у Литві і має найдовшу берегову лінію серед озер країни — близько 79 кілометрів."
+    },
+    {
+      "lt": "Sartų ežeras tradiciškai buvo žiemos žirgų lenktynių ant užšalusio vandens vieta — ši tradicija šiandien tęsiama netoliese esančiame hipodrome.",
+      "en": "Sartai lake was traditionally the site of horse races held on its frozen surface in winter, a tradition now carried on at a hippodrome nearby.",
+      "uk": "Озеро Сартай традиційно було місцем зимових кінних перегонів на замерзлій поверхні — ця традиція нині триває на сусідньому іподромі."
+    }
+  ],
+  "highlightPhoto": "2026-07-18-photo-18-07-2026-16-22-00.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Ramus ežeras kaimiškoje Zarasų rajono apylinkėje",
+    "en": "A quiet lake in the rural Zarasai district countryside",
+    "uk": "Тихе озеро в сільській місцевості Зарасайського району"
+  },
+  "photos": [
+    "2026-07-18-photo-18-07-2026-15-55-56.jpg",
+    "2026-07-18-photo-18-07-2026-15-56-33.jpg",
+    "2026-07-18-photo-18-07-2026-15-57-44.jpg",
+    "2026-07-18-photo-18-07-2026-16-04-39.jpg",
+    "2026-07-18-photo-18-07-2026-16-06-24.jpg",
+    "2026-07-18-photo-18-07-2026-16-07-46.jpg",
+    "2026-07-18-photo-18-07-2026-16-08-22.jpg",
+    "2026-07-18-photo-18-07-2026-16-22-00.jpg",
+    "2026-07-18-photo-18-07-2026-16-22-04.jpg",
+    "2026-07-18-photo-18-07-2026-16-22-07.jpg",
+    "2026-07-18-photo-18-07-2026-16-49-28.jpg",
+    "2026-07-18-photo-18-07-2026-16-51-09.jpg",
+    "2026-07-18-photo-18-07-2026-16-51-12.jpg",
+    "2026-07-18-photo-18-07-2026-16-59-34.jpg",
+    "2026-07-18-photo-18-07-2026-17-01-10.jpg"
+  ]
+}

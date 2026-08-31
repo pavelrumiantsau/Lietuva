@@ -1,0 +1,72 @@
+{
+  "slug": "jieznas",
+  "coordinates": {
+    "lat": 54.6,
+    "lng": 24.1667
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Jieznas",
+    "en": "Jieznas",
+    "uk": "Єзнас"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Prienų rajono miestelis prie ežero, garsėjantis baroko stiliaus Pacų giminės pastatyta bažnyčia.",
+    "en": "A small town in Prienai district on a lake shore, known for its baroque church built by the Pac noble family.",
+    "uk": "Невелике містечко Пренайського району на березі озера, відоме бароковою церквою, збудованою родом Паців."
+  },
+  "longDescription": {
+    "lt": "Jieznas pirmą kartą paminėtas 1492 metais kaip Lietuvos didžiojo kunigaikščio valda, o nuo 1633 metų priklausė įtakingai Pacų giminei. Pacai miestelyje pastatė bažnyčią, XVIII amžiuje perstatytą baroko stiliumi, taip pat 1747 metais ir prabangius rūmus, kurie, giminei skolininkaujant, buvo prarasti 1807 metais ir sudegė per gaisrą 1837 metais. Miestelis įsikūręs ant Jiezno ežero šiaurinio kranto, apie 16 kilometrų į rytus nuo Prienų.",
+    "en": "Jieznas was first recorded in 1492 as a possession of the Grand Duke of Lithuania, and from 1633 it belonged to the influential Pac noble family. The Pacs built the town's church, rebuilt in baroque style in the 18th century, and in 1747 also a lavish palace, which was lost to the family's debts in 1807 and burned down in an 1837 fire. The town sits on the northern shore of Lake Jieznas, about 16 kilometres east of Prienai.",
+    "uk": "Єзнас уперше згадується у 1492 році як володіння великого князя литовського, а з 1633 року належав впливовому роду Паців. Пацi збудували в містечку церкву, перебудовану в бароковому стилі у XVIII столітті, а також розкішний палац у 1747 році, який родина втратила через борги у 1807 році, а сам він згорів під час пожежі 1837 року. Містечко розташоване на північному березі озера Єзнас, приблизно за 16 кілометрів на схід від Пренай."
+  },
+  "facts": [
+    {
+      "lt": "Jieznas pirmą kartą rašytiniuose šaltiniuose paminėtas 1492 metais kaip didžiojo kunigaikščio valda.",
+      "en": "Jieznas is first mentioned in written sources in 1492 as a possession of the Grand Duke of Lithuania.",
+      "uk": "Єзнас уперше згадується в письмових джерелах у 1492 році як володіння великого князя литовського."
+    },
+    {
+      "lt": "Nuo 1633 metų miestelis priklausė Pacų giminei, kurios užsakymu 1768–1772 metais bažnyčia perstatyta baroko stiliumi.",
+      "en": "From 1633 the town belonged to the Pac family, who commissioned the church's baroque reconstruction in 1768–1772.",
+      "uk": "З 1633 року містечко належало роду Пацiв, за замовленням яких у 1768–1772 роках церкву перебудували в бароковому стилі."
+    },
+    {
+      "lt": "1747 metais Pacų pastatyti prabangūs rūmai neišliko — juos prarado įsiskolinusi giminė, o 1837 metais likučius sunaikino gaisras.",
+      "en": "The lavish palace built by the Pacs in 1747 did not survive — it was lost by the indebted family, and a fire destroyed its remains in 1837.",
+      "uk": "Розкішний палац, збудований Пацами у 1747 році, не зберігся — його втратила родина через борги, а рештки знищила пожежа 1837 року."
+    }
+  ],
+  "highlightPhoto": "2022-09-24-img-20220924-132610.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Baroko stiliaus bažnyčia Jiezne prie ežero",
+    "en": "The baroque church in Jieznas beside the lake",
+    "uk": "Барокова церква в Єзнасі біля озера"
+  },
+  "photos": [
+    "2022-09-24-img-20220924-131410.jpg",
+    "2022-09-24-img-20220924-131452.jpg",
+    "2022-09-24-img-20220924-131631.jpg",
+    "2022-09-24-img-20220924-131753.jpg",
+    "2022-09-24-img-20220924-131921.jpg",
+    "2022-09-24-img-20220924-132336.jpg",
+    "2022-09-24-img-20220924-132408.jpg",
+    "2022-09-24-img-20220924-132411.jpg",
+    "2022-09-24-img-20220924-132544.jpg",
+    "2022-09-24-img-20220924-132610.jpg",
+    "2022-09-24-img-20220924-132632.jpg",
+    "2022-09-24-img-20220924-132700.jpg",
+    "2022-09-24-img-20220924-132724.jpg",
+    "2022-09-24-img-20220924-132751.jpg",
+    "2022-09-24-img-20220924-132836.jpg",
+    "2022-09-24-img-20220924-132936.jpg",
+    "2022-09-24-img-20220924-133139.jpg",
+    "2022-09-24-img-20220924-133216.jpg",
+    "2022-09-24-img-20220924-133315.jpg"
+  ]
+}

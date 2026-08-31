@@ -1,0 +1,90 @@
+{
+  "slug": "visaginas",
+  "coordinates": {
+    "lat": 55.598,
+    "lng": 26.438
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Visaginas",
+    "en": "Visaginas",
+    "uk": "Вісагінас"
+  },
+  "shortDescription": {
+    "lt": "Jauniausias Lietuvos miestas — sovietmečiu atominės elektrinės darbuotojams pastatyta gyvenvietė su rusakalbe dauguma.",
+    "en": "Lithuania's youngest town, a Soviet-built settlement for nuclear plant workers with a Russian-speaking majority.",
+    "uk": "Наймолодше місто Литви — радянське поселення для працівників атомної електростанції з російськомовною більшістю."
+  },
+  "longDescription": {
+    "lt": "Visaginas — jauniausias Lietuvos miestas, nuo 1975 metų statytas kaip specialiai suprojektuota sovietinė gyvenvietė netoliese esančios Ignalinos atominės elektrinės darbuotojams apgyvendinti, pagal tą patį planinio miesto modelį, kuris naudotas ir Černobylio Pripetei. Sovietmečiu vadintas Sniečkumi — ilgamečio Lietuvos komunistų partijos vadovo garbei, dabartinį pavadinimą jis gavo tik Lietuvai atkūrus nepriklausomybę 1991 metais. Inžinieriai ir technikai atvyko iš visos SSRS, ir iki 1983 metų čia apsigyveno 43 skirtingų tautybių žmonių, statę tuo metu galingiausią pasaulyje atominę elektrinę; dėl to Visaginas išlieka vieninteliu Lietuvos miestu, kuriame dauguma gyventojų rusų kalbą laiko gimtąja. Pati Ignalinos elektrinė, kadaise tiekusi 70 procentų Lietuvos elektros energijos, galutinai sustabdyta 2009 metų gruodžio 31 dieną — tai buvo viena šalies stojimo į ES sąlygų.",
+    "en": "Visaginas is Lithuania's youngest town, built from 1975 as a purpose-designed Soviet settlement to house the workforce of the nearby Ignalina Nuclear Power Plant, following the same planned-city model used for Pripyat near Chernobyl. Known under Soviet rule as Sniečkus, after the longtime head of the Lithuanian Communist Party, it took its current name only after Lithuania regained independence in 1991. Engineers and technicians arrived from across the USSR, and by 1983 people of 43 different nationalities had settled here to build what was then the world's most powerful nuclear plant; as a result, Visaginas remains the only town in Lithuania where a majority of residents speak Russian as their first language. The Ignalina plant itself, once supplying 70 percent of Lithuania's electricity, was permanently shut down on 31 December 2009 as a condition of the country's EU accession.",
+    "uk": "Вісагінас — наймолодше місто Литви, яке з 1975 року будувалося як спеціально спроєктоване радянське поселення для розміщення персоналу сусідньої Ігналінської атомної електростанції, за тією ж моделлю планового міста, що й Прип'ять поблизу Чорнобиля. За радянської влади місто називалося Снячкус — на честь багаторічного керівника Компартії Литви, а нинішню назву отримало лише після відновлення незалежності Литви 1991 року. Інженери й техніки прибували з усього СРСР, і до 1983 року тут оселилися люди 43 різних національностей, які будували на той час найпотужнішу у світі атомну станцію; через це Вісагінас залишається єдиним містом Литви, де більшість мешканців вважають рідною мовою російську. Саму Ігналінську станцію, яка колись забезпечувала 70 відсотків електроенергії Литви, остаточно зупинили 31 грудня 2009 року — це була одна з умов вступу країни до ЄС."
+  },
+  "facts": [
+    {
+      "lt": "Visaginas nuo 1975 metų statytas kaip sovietinis planinis miestas Ignalinos atominės elektrinės darbuotojams, pagal tą patį modelį kaip Černobylio Pripetė.",
+      "en": "Visaginas was built from 1975 as a Soviet planned town to house workers of the Ignalina Nuclear Power Plant, following the same model as Pripyat near Chernobyl.",
+      "uk": "Вісагінас із 1975 року будувався як радянське планове місто для працівників Ігналінської АЕС, за тією ж моделлю, що й Прип'ять поблизу Чорнобиля."
+    },
+    {
+      "lt": "Tai vienintelis Lietuvos miestas, kuriame dauguma gyventojų rusų kalbą laiko gimtąja.",
+      "en": "It is the only town in Lithuania where the majority of residents speak Russian as their first language.",
+      "uk": "Це єдине місто Литви, де більшість мешканців вважають рідною мовою російську."
+    },
+    {
+      "lt": "Netoliese esanti Ignalinos atominė elektrinė, kadaise tiekusi 70 procentų Lietuvos elektros energijos, sustabdyta 2009 metų gruodžio 31 dieną kaip viena stojimo į ES sąlygų.",
+      "en": "The nearby Ignalina Nuclear Power Plant, once providing 70 percent of Lithuania's electricity, was shut down on 31 December 2009 as an EU accession condition.",
+      "uk": "Сусідню Ігналінську АЕС, яка колись забезпечувала 70 відсотків електроенергії Литви, зупинили 31 грудня 2009 року як умову вступу до ЄС."
+    }
+  ],
+  "highlightPhoto": "2022-09-17-img-20220917-150121.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Sovietinio modernizmo gyvenamieji namai Visagine",
+    "en": "Soviet-era modernist apartment blocks in Visaginas",
+    "uk": "Житлові будинки радянського модернізму у Вісагінасі"
+  },
+  "photos": [
+    "2022-09-17-img-20220917-143442.jpg",
+    "2022-09-17-img-20220917-143447.jpg",
+    "2022-09-17-img-20220917-143538.jpg",
+    "2022-09-17-img-20220917-143700.jpg",
+    "2022-09-17-img-20220917-143705.jpg",
+    "2022-09-17-img-20220917-143745.jpg",
+    "2022-09-17-img-20220917-143825.jpg",
+    "2022-09-17-img-20220917-144056.jpg",
+    "2022-09-17-img-20220917-144125.jpg",
+    "2022-09-17-img-20220917-144500.jpg",
+    "2022-09-17-img-20220917-145353.jpg",
+    "2022-09-17-img-20220917-145357.jpg",
+    "2022-09-17-img-20220917-145439.jpg",
+    "2022-09-17-img-20220917-145447.jpg",
+    "2022-09-17-img-20220917-145514.jpg",
+    "2022-09-17-img-20220917-145619.jpg",
+    "2022-09-17-img-20220917-145954.jpg",
+    "2022-09-17-img-20220917-150031.jpg",
+    "2022-09-17-img-20220917-150121.jpg",
+    "2022-09-17-img-20220917-150249.jpg",
+    "2022-09-17-img-20220917-150457.jpg",
+    "2022-09-17-img-20220917-150740.jpg",
+    "2022-09-17-img-20220917-150854.jpg",
+    "2022-09-17-img-20220917-150925.jpg",
+    "2022-09-17-img-20220917-151221.jpg",
+    "2022-09-17-img-20220917-151249.jpg",
+    "2022-09-17-img-20220917-151440.jpg",
+    "2022-09-17-img-20220917-151643.jpg",
+    "2022-09-17-img-20220917-152022.jpg",
+    "2022-09-17-img-20220917-152131.jpg",
+    "2022-09-17-img-20220917-152627.jpg",
+    "2022-09-17-img-20220917-152800.jpg",
+    "2022-09-17-img-20220917-153017.jpg",
+    "2022-09-17-img-20220917-154211.jpg",
+    "2022-09-17-img-20220917-154422.jpg",
+    "2022-09-17-img-20220917-154612.jpg",
+    "2022-09-17-img-20220917-155323.jpg"
+  ]
+}

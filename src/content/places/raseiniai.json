@@ -1,0 +1,91 @@
+{
+  "slug": "raseiniai",
+  "coordinates": {
+    "lat": 55.3667,
+    "lng": 23.1167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Raseiniai",
+    "en": "Raseiniai",
+    "uk": "Расейняй"
+  },
+  "shortDescription": {
+    "lt": "Vienas seniausių Žemaitijos miestų, pirmą kartą paminėtas 1253 metais, susijęs su legendine Magde.",
+    "en": "One of Samogitia's oldest towns, first mentioned in 1253, associated with the legendary Magdė.",
+    "uk": "Одне з найстаріших міст Жемайтії, вперше згадане 1253 року, пов'язане з легендарною Магде."
+  },
+  "longDescription": {
+    "lt": "Raseiniai pirmą kartą paminėti 1253 metais – tai vienas seniausiai raštuose fiksuotų Lietuvos vietovardžių. XIV–XVIII amžiais miestas buvo vienas svarbiausių Žemaitijos centrų, o legenda jo įkūrimą sieja su Palemonu. Raseinius išgarsino Maironio poema „Raseinių Magdė“, o miesto centre pastatytas Magdės paminklas, kurio nosį lankytojai tradiciškai pabučiuoja sėkmei.",
+    "en": "Raseiniai was first mentioned in 1253, one of the oldest recorded place names in Lithuania. Between the 14th and 18th centuries the town was one of the most important centers of Samogitia, and legend credits its founding to Palemonas. Raseiniai was made famous by Maironis's narrative poem 'Raseinių Magdė', and a statue of Magdė now stands in the town center, whose nose visitors traditionally kiss for luck.",
+    "uk": "Расейняй вперше згадані 1253 року — це одна з найдавніших писемно зафіксованих назв населених пунктів Литви. У XIV–XVIII століттях місто було одним із найважливіших центрів Жемайтії, а легенда пов'язує його заснування з Палемоном. Расейняй прославила поема Майроніса «Расейнюська Магде», і сьогодні в центрі міста стоїть пам'ятник Магде, ніс якого відвідувачі за традицією цілують на удачу."
+  },
+  "facts": [
+    {
+      "lt": "Raseiniai pirmą kartą paminėti 1253 metais – tai vienas seniausių Lietuvos vietovardžių raštuose.",
+      "en": "Raseiniai was first mentioned in 1253, one of the oldest recorded place names in Lithuania.",
+      "uk": "Расейняй вперше згадані 1253 року — одна з найдавніших писемно зафіксованих назв населених пунктів Литви."
+    },
+    {
+      "lt": "XIV–XVIII amžiais Raseiniai buvo vienas svarbiausių Žemaitijos miestų.",
+      "en": "Between the 14th and 18th centuries, Raseiniai was one of the most important towns of Samogitia.",
+      "uk": "У XIV–XVIII століттях Расейняй були одним із найважливіших міст Жемайтії."
+    },
+    {
+      "lt": "Miesto centre stovi Maironio poemos „Raseinių Magdė“ personažo paminklas, kurio nosį lankytojai pabučiuoja sėkmei.",
+      "en": "A statue of Magdė, the heroine of Maironis's poem 'Raseinių Magdė', stands in the town center; visitors traditionally kiss its nose for luck.",
+      "uk": "У центрі міста стоїть пам'ятник Магде, героїні поеми Майроніса «Расейнюська Магде», ніс якого відвідувачі цілують на удачу."
+    }
+  ],
+  "highlightPhoto": "2025-12-26-photo-26-12-2025-13-54-39.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Raseinių miesto centras su Magdės paminklu",
+    "en": "The Magdė statue in the center of Raseiniai",
+    "uk": "Пам'ятник Магде в центрі Расейняй"
+  },
+  "photos": [
+    "2025-12-26-photo-26-12-2025-13-25-26.jpg",
+    "2025-12-26-photo-26-12-2025-13-26-04.jpg",
+    "2025-12-26-photo-26-12-2025-13-28-19.jpg",
+    "2025-12-26-photo-26-12-2025-13-29-20.jpg",
+    "2025-12-26-photo-26-12-2025-13-30-14.jpg",
+    "2025-12-26-photo-26-12-2025-13-32-04.jpg",
+    "2025-12-26-photo-26-12-2025-13-32-59.jpg",
+    "2025-12-26-photo-26-12-2025-13-33-52.jpg",
+    "2025-12-26-photo-26-12-2025-13-36-36.jpg",
+    "2025-12-26-photo-26-12-2025-13-38-19.jpg",
+    "2025-12-26-photo-26-12-2025-13-39-10.jpg",
+    "2025-12-26-photo-26-12-2025-13-39-30.jpg",
+    "2025-12-26-photo-26-12-2025-13-40-46.jpg",
+    "2025-12-26-photo-26-12-2025-13-43-32.jpg",
+    "2025-12-26-photo-26-12-2025-13-44-39.jpg",
+    "2025-12-26-photo-26-12-2025-13-46-39.jpg",
+    "2025-12-26-photo-26-12-2025-13-48-01.jpg",
+    "2025-12-26-photo-26-12-2025-13-48-58.jpg",
+    "2025-12-26-photo-26-12-2025-13-54-30.jpg",
+    "2025-12-26-photo-26-12-2025-13-54-39.jpg",
+    "2025-12-26-photo-26-12-2025-13-55-36.jpg",
+    "2025-12-26-photo-26-12-2025-13-58-03.jpg",
+    "2025-12-26-photo-26-12-2025-13-58-30.jpg",
+    "2025-12-26-photo-26-12-2025-14-05-38.jpg",
+    "2025-12-26-photo-26-12-2025-14-18-37.jpg",
+    "2025-12-26-photo-26-12-2025-14-18-45.jpg",
+    "2025-12-26-photo-26-12-2025-14-26-26.jpg",
+    "2025-12-26-photo-26-12-2025-14-36-28.jpg",
+    "2025-12-26-photo-26-12-2025-14-36-30.jpg",
+    "2025-12-26-photo-26-12-2025-14-43-02.jpg",
+    "2025-12-26-photo-26-12-2025-14-47-42.jpg",
+    "2025-12-26-photo-26-12-2025-14-48-31.jpg",
+    "2025-12-26-photo-26-12-2025-14-49-05.jpg",
+    "2025-12-26-photo-26-12-2025-14-49-32.jpg",
+    "2025-12-26-photo-26-12-2025-14-51-15.jpg",
+    "2025-12-26-photo-26-12-2025-14-53-01.jpg",
+    "2025-12-26-photo-26-12-2025-14-56-13.jpg",
+    "2025-12-26-photo-26-12-2025-14-56-28.jpg"
+  ]
+}

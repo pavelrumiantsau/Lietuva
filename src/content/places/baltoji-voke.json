@@ -1,0 +1,73 @@
+{
+  "slug": "baltoji-voke",
+  "coordinates": {
+    "lat": 54.45,
+    "lng": 25.1333
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Baltoji Vokė",
+    "en": "Baltoji Vokė",
+    "uk": "Балтої Воке"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis miestas Šalčininkų rajone, iki 1958 metų vadintas Naujoji Žagarinė.",
+    "en": "A small town in Šalčininkai district, known as Naujoji Žagarinė until 1958.",
+    "uk": "Невелике місто в Шальчининкайському районі, яке до 1958 року називалося Науйойї Жагаріне."
+  },
+  "longDescription": {
+    "lt": "Baltoji Vokė yra nedidelis Šalčininkų rajono savivaldybės miestas, esantis apie 30 kilometrų į vakarus nuo Šalčininkų, netoli Vokės upės, pagal kurią pavadinta. Iki 1958 metų, kai gyvenvietei buvo suteiktos miesto teisės ir dabartinis pavadinimas, ji buvo vadinama Naujosios Žagarinės vardu. Šiandien tai kuklus, ramus miestelis su keliais tūkstančiais gyventojų, tipiškas Vilniaus krašto kaimyninių rajonų pavyzdys.",
+    "en": "Baltoji Vokė is a small town in Šalčininkai District Municipality, about 30 kilometres west of Šalčininkai, near the Vokė river from which it takes its name. Until 1958, when the settlement was granted town rights and its current name, it was known as Naujoji Žagarinė. Today it is a modest, quiet town of a few thousand residents, typical of the smaller settlements scattered across the Vilnius region's border districts.",
+    "uk": "Балтої Воке — невелике місто Шальчининкайського району, розташоване приблизно за 30 кілометрів на захід від Шальчининкая, поблизу річки Воке, від якої й отримало свою назву. До 1958 року, коли поселенню надали міські права та сучасну назву, воно називалося Науйойї Жагаріне. Сьогодні це скромне, тихе містечко з кількома тисячами мешканців, типове для менших поселень прикордонних районів Віленського краю."
+  },
+  "facts": [
+    {
+      "lt": "Iki 1958 metų Baltoji Vokė buvo vadinama Naujosios Žagarinės vardu.",
+      "en": "Until 1958 Baltoji Vokė was known by the name Naujoji Žagarinė.",
+      "uk": "До 1958 року Балтої Воке носило назву Науйойї Жагаріне."
+    },
+    {
+      "lt": "Miesto pavadinimas kilęs iš netoliese tekančios Vokės upės.",
+      "en": "The town's name comes from the nearby Vokė river.",
+      "uk": "Назва міста походить від найближчої річки Воке."
+    },
+    {
+      "lt": "Miestas priklauso Šalčininkų rajono savivaldybei, esančiai Vilniaus apskrityje.",
+      "en": "The town belongs to Šalčininkai District Municipality, in Vilnius County.",
+      "uk": "Місто належить до Шальчининкайського району Віленського повіту."
+    }
+  ],
+  "highlightPhoto": "2023-03-24-photo-2023-03-24-10-22-13.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Vokės upės pakrantė netoli Baltosios Vokės",
+    "en": "The bank of the Vokė river near Baltoji Vokė",
+    "uk": "Берег річки Воке поблизу Балтої Воке"
+  },
+  "photos": [
+    "2023-03-24-photo-2023-03-24-10-13-56.jpg",
+    "2023-03-24-photo-2023-03-24-10-15-17.jpg",
+    "2023-03-24-photo-2023-03-24-10-15-20.jpg",
+    "2023-03-24-photo-2023-03-24-10-16-22.jpg",
+    "2023-03-24-photo-2023-03-24-10-16-24.jpg",
+    "2023-03-24-photo-2023-03-24-10-17-44.jpg",
+    "2023-03-24-photo-2023-03-24-10-18-26.jpg",
+    "2023-03-24-photo-2023-03-24-10-19-02.jpg",
+    "2023-03-24-photo-2023-03-24-10-20-11.jpg",
+    "2023-03-24-photo-2023-03-24-10-21-35.jpg",
+    "2023-03-24-photo-2023-03-24-10-22-13.jpg",
+    "2023-03-24-photo-2023-03-24-10-22-46.jpg",
+    "2023-03-24-photo-2023-03-24-10-23-36.jpg",
+    "2023-03-24-photo-2023-03-24-10-26-20.jpg",
+    "2023-03-24-photo-2023-03-24-10-26-55.jpg",
+    "2023-03-24-photo-2023-03-24-10-29-03.jpg",
+    "2023-03-24-photo-2023-03-24-10-29-59.jpg",
+    "2023-03-24-photo-2023-03-24-10-32-11.jpg",
+    "2023-03-24-photo-2023-03-24-10-34-35.jpg",
+    "2023-03-24-photo-2023-03-24-10-35-50.jpg"
+  ]
+}

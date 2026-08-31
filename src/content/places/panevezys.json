@@ -1,0 +1,116 @@
+{
+  "slug": "panevezys",
+  "coordinates": {
+    "lat": 55.7333,
+    "lng": 24.35
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Panevėžys",
+    "en": "Panevėžys",
+    "uk": "Паневежис"
+  },
+  "shortDescription": {
+    "lt": "Penktas pagal dydį Lietuvos miestas prie Nevėžio upės, neoficiali Aukštaitijos sostinė.",
+    "en": "Lithuania's fifth-largest city on the Nevėžis river, the unofficial capital of the Aukštaitija region.",
+    "uk": "П'яте за величиною місто Литви на річці Нявежис, неофіційна столиця Аукштайтії."
+  },
+  "longDescription": {
+    "lt": "Panevėžys pirmą kartą paminėtas 1503 metais ir įsikūrė tarp Nevėžio ir Lėvens upių, o jo pavadinimas kilęs iš junginio „pane Nevėžio“ – prie Nevėžio. XX amžiuje miestas išgarsėjo kaip svarbus pramonės ir kultūros centras, ypač dėl 1940 metais įkurto Juozo Miltinio dramos teatro, kurio spektakliai sovietmečiu buvo žinomi visoje SSRS. Šiandien Panevėžys laikomas neoficialia Aukštaitijos sostine su barokinėmis bažnyčiomis ir gyva kultūrine scena.",
+    "en": "Panevėžys was first mentioned in 1503 and grew up between the Nevėžis and Lėvuo rivers; its name derives from the phrase 'pane Nevėžio', meaning 'by the Nevėžis'. In the 20th century the city became an important industrial and cultural center, especially through the Juozas Miltinis Drama Theatre, founded in 1940, whose Soviet-era productions were celebrated across the USSR. Today Panevėžys is regarded as the unofficial capital of Aukštaitija, with Baroque churches and a lively cultural scene.",
+    "uk": "Паневежис вперше згадано 1503 року і виріс між річками Нявежис і Ляовуо; його назва походить від виразу «pane Nevėžio» — «біля Нявежису». У XX столітті місто стало важливим промисловим і культурним центром, зокрема завдяки Драматичному театру Юозаса Мільтініса, заснованому 1940 року, вистави якого за радянських часів були відомі по всьому СРСР. Сьогодні Паневежис вважається неофіційною столицею Аукштайтії з бароковими костелами та жвавим культурним життям."
+  },
+  "facts": [
+    {
+      "lt": "Panevėžys pirmą kartą paminėtas raštuose 1503 metais.",
+      "en": "Panevėžys was first documented in written sources in 1503.",
+      "uk": "Паневежис вперше згадується у писемних джерелах 1503 року."
+    },
+    {
+      "lt": "Miesto pavadinimas kilęs iš junginio „pane Nevėžio“, reiškiančio „prie Nevėžio upės“.",
+      "en": "The city's name comes from the phrase 'pane Nevėžio', meaning 'by the Nevėžis river'.",
+      "uk": "Назва міста походить від виразу «pane Nevėžio» — «біля річки Нявежис»."
+    },
+    {
+      "lt": "1968 metais atidarytas Juozo Miltinio dramos teatro pastatas buvo pirmasis specialiai teatrui pastatytas pastatas sovietinėje Lietuvoje.",
+      "en": "The Juozas Miltinis Drama Theatre building, opened in 1968, was the first purpose-built theatre in Soviet-era Lithuania.",
+      "uk": "Будівля Драматичного театру Юозаса Мільтініса, відкрита 1968 року, стала першою спеціально збудованою театральною спорудою в радянській Литві."
+    }
+  ],
+  "highlightPhoto": "2022-04-26-img-20220426-161551.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Panevėžio senamiesčio bažnyčių bokštai prie Nevėžio upės",
+    "en": "Church towers of Panevėžys old town beside the Nevėžis river",
+    "uk": "Вежі костелів старого міста Паневежис біля річки Нявежис"
+  },
+  "photos": [
+    "2022-04-26-img-20220426-214022-760.jpg",
+    "2022-04-26-img-20220426-214022-767.jpg",
+    "2022-04-26-img-20220426-214022-787.jpg",
+    "2022-04-26-img-20220426-214022-791.jpg",
+    "2022-04-26-img-20220426-214022-795.jpg",
+    "2022-04-26-img-20220426-214022-797.jpg",
+    "2022-04-26-img-20220426-214022-799.jpg",
+    "2022-04-26-img-20220426-214022-802.jpg",
+    "2022-04-26-img-20220426-214022-804.jpg",
+    "2022-04-26-img-20220426-214022-852.jpg",
+    "2022-04-26-img-20220426-150114.jpg",
+    "2022-04-26-img-20220426-152337.jpg",
+    "2022-04-26-img-20220426-152706.jpg",
+    "2022-04-26-img-20220426-152732.jpg",
+    "2022-04-26-img-20220426-152818.jpg",
+    "2022-04-26-img-20220426-152838.jpg",
+    "2022-04-26-img-20220426-152940.jpg",
+    "2022-04-26-img-20220426-153339.jpg",
+    "2022-04-26-img-20220426-155154.jpg",
+    "2022-04-26-img-20220426-155201.jpg",
+    "2022-04-26-img-20220426-155345.jpg",
+    "2022-04-26-img-20220426-155714.jpg",
+    "2022-04-26-img-20220426-155756.jpg",
+    "2022-04-26-img-20220426-155930.jpg",
+    "2022-04-26-img-20220426-160043.jpg",
+    "2022-04-26-img-20220426-160226.jpg",
+    "2022-04-26-img-20220426-160611.jpg",
+    "2022-04-26-img-20220426-160719.jpg",
+    "2022-04-26-img-20220426-160900.jpg",
+    "2022-04-26-img-20220426-161039.jpg",
+    "2022-04-26-img-20220426-161258.jpg",
+    "2022-04-26-img-20220426-161551.jpg",
+    "2022-04-26-img-20220426-161629.jpg",
+    "2022-04-26-img-20220426-161946.jpg",
+    "2022-04-26-img-20220426-162419.jpg",
+    "2022-04-26-img-20220426-162420.jpg",
+    "2022-04-26-img-20220426-162649.jpg",
+    "2022-04-26-img-20220426-162719.jpg",
+    "2022-04-26-img-20220426-162721.jpg",
+    "2022-04-26-img-20220426-162804.jpg",
+    "2022-04-26-img-20220426-163025.jpg",
+    "2022-04-26-img-20220426-163206.jpg",
+    "2022-04-26-img-20220426-163336.jpg",
+    "2022-04-26-img-20220426-163354.jpg",
+    "2022-04-26-img-20220426-163537.jpg",
+    "2022-04-26-img-20220426-163812.jpg",
+    "2022-04-26-img-20220426-163904.jpg",
+    "2022-04-26-img-20220426-164038.jpg",
+    "2022-04-26-img-20220426-164509.jpg",
+    "2022-04-26-img-20220426-164754.jpg",
+    "2022-04-26-img-20220426-164921.jpg",
+    "2022-04-26-img-20220426-164950.jpg",
+    "2022-04-26-img-20220426-165105.jpg",
+    "2022-04-26-img-20220426-165139.jpg",
+    "2022-04-26-img-20220426-165142.jpg",
+    "2022-04-26-img-20220426-165242.jpg",
+    "2022-04-26-img-20220426-165541.jpg",
+    "2022-04-26-img-20220426-165705.jpg",
+    "2022-04-26-img-20220426-165825.jpg",
+    "2022-04-26-img-20220426-170139.jpg",
+    "2022-04-26-img-20220426-171330.jpg",
+    "2022-04-26-img-20220426-171403.jpg",
+    "2022-04-26-img-20220426-172718.jpg"
+  ]
+}

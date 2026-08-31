@@ -1,0 +1,82 @@
+{
+  "slug": "vilkija",
+  "coordinates": {
+    "lat": 55.05,
+    "lng": 23.5833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Vilkija",
+    "en": "Vilkija",
+    "uk": "Вількія"
+  },
+  "shortDescription": {
+    "lt": "Prie Nemuno įsikūręs miestelis, kuriame gimė džiazo legendos Louiso Armstrongo įtėviai.",
+    "en": "A Nemunas riverside town where jazz legend Louis Armstrong's adoptive parents were born.",
+    "uk": "Прибережне на Немані містечко, де народилися прийомні батьки джазової легенди Луї Армстронга."
+  },
+  "longDescription": {
+    "lt": "Vilkija stovi ant Nemuno šiaurinio kranto, 21 km į šiaurės vakarus nuo Kauno, vaizdingoje vietoje, kur upė vingiuoja per meandrų virtinę. Kronikose pirmą kartą paminėta 1364 metais, gyvenvietė išaugo į muitinės ir prekybos postą — Gdansko pirklių dokumentuose 1450 metais minima pirmoji lietuviška muitinė prie Nemuno būtent čia — kai prekės keliavo sausumos ir vandens keliais tarp Vilniaus ir Karaliaučiaus. Nuo XVIII amžiaus pabaigos čia įsikūrė žydų bendruomenė, XX amžiaus pradžioje sudariusi apie 80 procentų gyventojų; šiandien Vilkija taip pat žinoma dėl istorinio muziejaus, skirto folkloristams broliams Juškoms, Louiso Armstrongo aikštės, pagerbiančios džiazo muziko įtėvius, kilusius iš miestelio, ir vienos iš nedaugelio Lietuvoje išlikusių keltų per Nemuną.",
+    "en": "Vilkija sits on the north bank of the Nemunas river, 21 km northwest of Kaunas, at a scenic point where the river winds through a series of meanders. First mentioned in chronicles in 1364, it grew into a customs and trading post — Gdańsk merchant records note the first Lithuanian customs house on the Nemunas here in 1450 — as goods moved along the land and water routes between Vilnius and Königsberg. A Jewish community settled from the late 18th century and came to make up roughly 80 percent of the population by the early 20th century; today Vilkija is also known for its historical museum devoted to the folklorist Juška brothers, a Louis Armstrong Square honoring the jazz musician's adoptive parents who hailed from the town, and one of Lithuania's few remaining car ferries across the Nemunas.",
+    "uk": "Вількія стоїть на північному березі Немана, за 21 км на північний захід від Каунаса, у мальовничому місці, де річка звивається серією меандрів. Уперше згадана в хроніках 1364 року, поселення виросло у митний і торговий пункт — у документах гданських купців 1450 року згадується перша литовська митниця на Немані саме тут — коли товари рухалися сухопутними й водними шляхами між Вільнюсом і Кенігсбергом. З кінця XVIII століття тут оселилася єврейська громада, яка на початку XX століття становила близько 80 відсотків населення; сьогодні Вількія відома також історичним музеєм, присвяченим фольклористам братам Юшкам, площею Луї Армстронга на честь прийомних батьків джазового музиканта, які походили з містечка, та одним з небагатьох литовських поромів через Неман, що досі діють."
+  },
+  "facts": [
+    {
+      "lt": "Pirmoji lietuviška muitinė prie Nemuno dokumentuose fiksuojama netoli Vilkijos 1450 metais.",
+      "en": "The first Lithuanian customs house on the Nemunas is documented near Vilkija in 1450.",
+      "uk": "Перша литовська митниця на Немані задокументована поблизу Вількії 1450 року."
+    },
+    {
+      "lt": "XX amžiaus pradžioje Vilkijos žydų bendruomenė sudarė apie 80 procentų miestelio gyventojų.",
+      "en": "By the early 20th century, Vilkija's Jewish community made up around 80 percent of the town's population.",
+      "uk": "На початку XX століття єврейська громада Вількії становила близько 80 відсотків населення містечка."
+    },
+    {
+      "lt": "Vilkijoje yra Louiso Armstrongo aikštė, pagerbianti džiazo muziko įtėvius, kilusius iš šio miestelio.",
+      "en": "Vilkija has a square dedicated to Louis Armstrong, honoring the jazz musician's adoptive parents, who were from the town.",
+      "uk": "У Вількії є площа Луї Армстронга на честь прийомних батьків джазового музиканта, які походили з цього містечка."
+    }
+  ],
+  "highlightPhoto": "2025-07-19-photo-19-07-2025-14-27-20.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Nemuno vingis netoli Vilkijos",
+    "en": "The Nemunas river bend near Vilkija",
+    "uk": "Вигин Немана поблизу Вількії"
+  },
+  "photos": [
+    "2025-07-19-photo-19-07-2025-14-02-02.jpg",
+    "2025-07-19-photo-19-07-2025-14-04-31.jpg",
+    "2025-07-19-photo-19-07-2025-14-04-38.jpg",
+    "2025-07-19-photo-19-07-2025-14-05-31.jpg",
+    "2025-07-19-photo-19-07-2025-14-06-06.jpg",
+    "2025-07-19-photo-19-07-2025-14-13-53.jpg",
+    "2025-07-19-photo-19-07-2025-14-14-42.jpg",
+    "2025-07-19-photo-19-07-2025-14-16-22.jpg",
+    "2025-07-19-photo-19-07-2025-14-19-19.jpg",
+    "2025-07-19-photo-19-07-2025-14-19-35.jpg",
+    "2025-07-19-photo-19-07-2025-14-22-29.jpg",
+    "2025-07-19-photo-19-07-2025-14-23-23.jpg",
+    "2025-07-19-photo-19-07-2025-14-24-35.jpg",
+    "2025-07-19-photo-19-07-2025-14-25-30.jpg",
+    "2025-07-19-photo-19-07-2025-14-27-20.jpg",
+    "2025-07-19-photo-19-07-2025-14-27-23.jpg",
+    "2025-07-19-photo-19-07-2025-14-28-21.jpg",
+    "2025-07-19-photo-19-07-2025-14-29-25.jpg",
+    "2025-07-19-photo-19-07-2025-14-30-32.jpg",
+    "2025-07-19-photo-19-07-2025-14-30-52.jpg",
+    "2025-07-19-photo-19-07-2025-14-32-12.jpg",
+    "2025-07-19-photo-19-07-2025-14-33-08.jpg",
+    "2025-07-19-photo-19-07-2025-14-33-12.jpg",
+    "2025-07-19-photo-19-07-2025-14-36-44.jpg",
+    "2025-07-19-photo-19-07-2025-14-38-29.jpg",
+    "2025-07-19-photo-19-07-2025-15-15-47.jpg",
+    "2025-07-19-photo-19-07-2025-15-15-52.jpg",
+    "2025-07-19-photo-19-07-2025-15-17-45.jpg",
+    "2025-07-19-photo-19-07-2025-15-34-30.jpg"
+  ]
+}

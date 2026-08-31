@@ -1,0 +1,72 @@
+{
+  "slug": "kybartai",
+  "coordinates": {
+    "lat": 54.6394,
+    "lng": 22.7561
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kybartai",
+    "en": "Kybartai",
+    "uk": "Кибартай"
+  },
+  "shortDescription": {
+    "lt": "Vakariausias Lietuvos pasienio miestas, garsus savo geležinkelio stotimi prie Rusijos sienos.",
+    "en": "Lithuania's westernmost border town, long known for its railway station on the frontier with Russia.",
+    "uk": "Найзахідніше прикордонне місто Литви, відоме залізничною станцією на кордоні з Росією."
+  },
+  "longDescription": {
+    "lt": "Kybartai įsikūrę Vilkaviškio rajone, pačiame Lietuvos pasienyje su Rusijos Kaliningrado sritimi, ir ši padėtis visada lėmė miesto istoriją. Miestelis įkurtas Žygimanto Senojo valdymo metais, karalienei Bonai Sforzai vykdant kolonizaciją, o 1561 metais jau minimas Jurbarko ir Virbalio žemės registre. 1861 metais atidaryta geležinkelio stotis, priklausiusi Sankt Peterburgo–Karaliaučiaus–Berlyno linijai, tapo judriu vėžės pločio keitimo tašku tarp Rusijos ir Vokietijos imperijų, o Kybartai iki šiol išlieka svarbiu visą parą veikiančiu pasienio kontrolės punktu.",
+    "en": "Kybartai lies in Vilkaviškis district right on the border with Russia's Kaliningrad Oblast, and its history has always been shaped by that location. The town was founded during the reign of Sigismund I the Old through the colonization efforts of Queen Bona Sforza and was already recorded in the 1561 land register of Jurbarkas and Virbalis. Its railway station, opened in 1861 as part of the St. Petersburg–Königsberg–Berlin line, became a busy break-of-gauge crossing point between the Russian and German empires, and Kybartai remains an important 24-hour border crossing to this day.",
+    "uk": "Кибартай розташований у Вілкавішкському районі, просто на кордоні з Калінінградською областю Росії, і саме це розташування завжди визначало історію міста. Містечко засноване за правління Сигізмунда I Старого завдяки колонізаційним зусиллям королеви Бони Сфорци, а вже 1561 року згадується в земельному реєстрі Юрбаркаса та Вірбаліса. Залізнична станція, відкрита 1861 року як частина лінії Санкт-Петербург–Кенігсберг–Берлін, стала жвавим пунктом зміни колії між Російською та Німецькою імперіями, і Кибартай досі залишається важливим цілодобовим прикордонним пунктом."
+  },
+  "facts": [
+    {
+      "lt": "Miestelis įkurtas XVI amžiuje karalienei Bonai Sforzai vykdant kolonizaciją ir minimas 1561 metų Jurbarko bei Virbalio žemės registre.",
+      "en": "The town was founded through the 16th-century colonization efforts of Queen Bona Sforza and appears in the 1561 land register of Jurbarkas and Virbalis.",
+      "uk": "Містечко засноване у XVI столітті завдяки колонізаційним зусиллям королеви Бони Сфорци і згадується в земельному реєстрі Юрбаркаса та Вірбаліса 1561 року."
+    },
+    {
+      "lt": "Kybartų geležinkelio stotis atidaryta 1861 metais Sankt Peterburgo–Karaliaučiaus–Berlyno linijoje ir tapo svarbiu vėžės pločio keitimo punktu keliaujantiems tarp Rusijos ir Vokietijos imperijų.",
+      "en": "Kybartai's railway station opened in 1861 on the St. Petersburg–Königsberg–Berlin line and became a key break-of-gauge crossing for travelers between the Russian and German empires.",
+      "uk": "Залізнична станція Кибартай відкрита 1861 року на лінії Санкт-Петербург–Кенігсберг–Берлін і стала важливим пунктом зміни колії для мандрівників між Російською та Німецькою імперіями."
+    },
+    {
+      "lt": "Šiandien Kybartuose veikia visą parą dirbantis kelio ir geležinkelio pasienio kontrolės punktas į Černyševskojė Kaliningrado srityje, Rusijoje.",
+      "en": "Today Kybartai hosts a 24-hour road and rail border crossing to Chernyshevskoye in Russia's Kaliningrad Oblast.",
+      "uk": "Сьогодні в Кибартаї діє цілодобовий автомобільний і залізничний прикордонний пункт до Чернишевського в Калінінградській області Росії."
+    }
+  ],
+  "highlightPhoto": "2026-03-07-photo-07-03-2026-14-04-27.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kybartų geležinkelio stoties pastatas prie Rusijos sienos",
+    "en": "Kybartai railway station building near the Russian border",
+    "uk": "Будівля залізничної станції Кибартай біля російського кордону"
+  },
+  "photos": [
+    "2026-03-07-photo-07-03-2026-13-49-05.jpg",
+    "2026-03-07-photo-07-03-2026-13-56-50.jpg",
+    "2026-03-07-photo-07-03-2026-13-58-07.jpg",
+    "2026-03-07-photo-07-03-2026-14-00-06.jpg",
+    "2026-03-07-photo-07-03-2026-14-01-50.jpg",
+    "2026-03-07-photo-07-03-2026-14-02-31.jpg",
+    "2026-03-07-photo-07-03-2026-14-02-32.jpg",
+    "2026-03-07-photo-07-03-2026-14-03-45.jpg",
+    "2026-03-07-photo-07-03-2026-14-03-54.jpg",
+    "2026-03-07-photo-07-03-2026-14-04-27.jpg",
+    "2026-03-07-photo-07-03-2026-14-06-52.jpg",
+    "2026-03-07-photo-07-03-2026-14-07-11.jpg",
+    "2026-03-07-photo-07-03-2026-14-09-23.jpg",
+    "2026-03-07-photo-07-03-2026-14-10-27.jpg",
+    "2026-03-07-photo-07-03-2026-14-11-31.jpg",
+    "2026-03-07-photo-07-03-2026-14-13-57.jpg",
+    "2026-03-07-photo-07-03-2026-14-15-43.jpg",
+    "2026-03-07-photo-07-03-2026-14-18-20.jpg",
+    "2026-03-07-photo-07-03-2026-14-23-10.jpg"
+  ]
+}

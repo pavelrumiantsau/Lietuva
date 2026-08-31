@@ -1,0 +1,63 @@
+{
+  "slug": "papile",
+  "coordinates": {
+    "lat": 56.1528,
+    "lng": 22.7842
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Papilė",
+    "en": "Papilė",
+    "uk": "Папіле"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Žemaitijos miestelis prie Ventos upės, pirmą kartą paminėtas 1339 metais, su dviem piliakalniais.",
+    "en": "A small Samogitian town on the Venta river, first mentioned in 1339, with two ancient hillforts.",
+    "uk": "Невелике жемайтійське містечко на річці Вянта, вперше згадане 1339 року, з двома давніми городищами."
+  },
+  "longDescription": {
+    "lt": "Papilė pirmą kartą paminėta 1339 metais, kai vietovę nusiaubė Livonijos ordino kariuomenė; iki šiol ant Ventos upės krantų išlikę du senoviniai piliakalniai. Sukrikščioninus Žemaitiją, vietovė priklausė Žemaičių vyskupui, o 1493 metais čia pastatyta pirmoji bažnyčia. Nuo 1600 metų Papilė žinoma kaip miestelis, o 1703 metais gavo privilegiją rengti prekymečius.",
+    "en": "Papilė was first mentioned in 1339, when the area was raided by the Livonian Order; two ancient hillforts still stand on the banks of the Venta river. After the Christianization of Samogitia the settlement belonged to the Samogitian bishop, and its first church was built in 1493. Papilė has been known as a town since 1600, and in 1703 it was granted the right to hold market fairs.",
+    "uk": "Папіле вперше згадане 1339 року, коли місцевість зазнала нападу Лівонського ордену; на берегах річки Вянта й донині збереглися два давні городища. Після християнізації Жемайтії поселення належало жемайтійському єпископу, а перший костел тут збудували 1493 року. З 1600 року Папіле відоме як містечко, а 1703 року отримало право проводити ярмарки."
+  },
+  "facts": [
+    {
+      "lt": "Papilė pirmą kartą paminėta 1339 metais po Livonijos ordino antpuolio.",
+      "en": "Papilė was first mentioned in 1339, following a raid by the Livonian Order.",
+      "uk": "Папіле вперше згадане 1339 року після нападу Лівонського ордену."
+    },
+    {
+      "lt": "Ant Ventos upės krantų išlikę du senoviniai piliakalniai.",
+      "en": "Two ancient hillforts still stand on the banks of the Venta river.",
+      "uk": "На берегах річки Вянта збереглися два давні городища."
+    },
+    {
+      "lt": "Pirmoji bažnyčia Papilėje pastatyta 1493 metais, o 1703 metais miestelis gavo teisę rengti prekymečius.",
+      "en": "The first church was built in Papilė in 1493, and the town gained market fair privileges in 1703.",
+      "uk": "Перший костел у Папіле збудували 1493 року, а 1703 року містечко отримало право проводити ярмарки."
+    }
+  ],
+  "highlightPhoto": "2026-08-01-photo-01-08-2026-15-33-12.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Ventos upės slėnis prie Papilės piliakalnių",
+    "en": "The Venta river valley by the Papilė hillforts",
+    "uk": "Долина річки Вянта біля городищ Папіле"
+  },
+  "photos": [
+    "2026-08-01-photo-01-08-2026-15-21-51.jpg",
+    "2026-08-01-photo-01-08-2026-15-21-53.jpg",
+    "2026-08-01-photo-01-08-2026-15-22-23.jpg",
+    "2026-08-01-photo-01-08-2026-15-22-59.jpg",
+    "2026-08-01-photo-01-08-2026-15-23-14.jpg",
+    "2026-08-01-photo-01-08-2026-15-33-12.jpg",
+    "2026-08-01-photo-01-08-2026-15-33-50.jpg",
+    "2026-08-01-photo-01-08-2026-15-35-02.jpg",
+    "2026-08-01-photo-01-08-2026-15-44-38.jpg",
+    "2026-08-01-photo-01-08-2026-15-50-35.jpg"
+  ]
+}

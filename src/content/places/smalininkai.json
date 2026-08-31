@@ -1,0 +1,81 @@
+{
+  "slug": "smalininkai",
+  "coordinates": {
+    "lat": 55.0833,
+    "lng": 22.5667
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Smalininkai",
+    "en": "Smalininkai",
+    "uk": "Смалінінкай"
+  },
+  "shortDescription": {
+    "lt": "Buvęs Prūsijos ir Lietuvos pasienio miestelis prie Nemuno, garsėjęs muitine ir laivų statykla.",
+    "en": "A former Prussian-Lithuanian border town on the Nemunas river, once known for its customs post and shipyard.",
+    "uk": "Колишнє прикордонне містечко Пруссії та Литви на Німані, відоме своєю митницею та корабельнею."
+  },
+  "longDescription": {
+    "lt": "Smalininkai, esantys ant dešiniojo Nemuno kranto, apie 12 kilometrų į vakarus nuo Jurbarko, Mažosios Lietuvos regione, greičiausiai susiformavo XV amžiaus pabaigoje kaip pasienio gyvenvietė. Iki 1795 metų Trečiojo Abiejų Tautų Respublikos padalijimo miestelis stovėjo ant Prūsijos ir Lietuvos sienos ir turėjo Prūsijos karalystės vandens bei sausumos muitines. XIX amžiaus viduryje čia buvo įrengtas žieminis uostas, o netoliese veikusi laivų statykla statė iki 30 metrų ilgio laivus.",
+    "en": "Smalininkai, on the right bank of the Nemunas about 12 km west of Jurbarkas in the Lithuania Minor region, most likely formed in the late 15th century as a border settlement. Until the Third Partition of 1795, the town straddled the Prussian-Lithuanian border and hosted the Kingdom of Prussia's water and land customs offices. A winter port was built here in the mid-19th century, and a nearby shipyard produced vessels up to 30 metres long.",
+    "uk": "Смалінінкай на правому березі Німану, приблизно за 12 км на захід від Юрбаркаса, у регіоні Малої Литви, найімовірніше, сформувалося наприкінці XV століття як прикордонне поселення. До Третього поділу 1795 року містечко лежало на кордоні Пруссії та Литви й мало водну та сухопутну митниці Прусського королівства. У середині XIX століття тут збудували зимовий порт, а поблизу діяла корабельня, що виробляла судна завдовжки до 30 метрів."
+  },
+  "facts": [
+    {
+      "lt": "Smalininkai greičiausiai susiformavo XV amžiaus pabaigoje kaip pasienio perėjimo gyvenvietė prie Nemuno.",
+      "en": "Smalininkai most likely emerged in the late 15th century as a border-crossing settlement on the Nemunas.",
+      "uk": "Смалінінкай, найімовірніше, виникло наприкінці XV століття як прикордонне поселення на Німані."
+    },
+    {
+      "lt": "Iki 1795 metų padalijimo miestelis stovėjo ant Prūsijos ir Lietuvos sienos ir turėjo Prūsijos muitinę.",
+      "en": "Until the 1795 partition, the town straddled the Prussian-Lithuanian border and hosted a Prussian customs office.",
+      "uk": "До поділу 1795 року містечко лежало на кордоні Пруссії та Литви й мало прусську митницю."
+    },
+    {
+      "lt": "XIX amžiaus viduryje įrengtas žieminis uostas ir laivų statykla gamino iki 30 metrų ilgio laivus.",
+      "en": "A mid-19th-century winter port and shipyard here once produced river vessels up to 30 metres long.",
+      "uk": "Зимовий порт і корабельня, збудовані у середині XIX століття, виробляли річкові судна завдовжки до 30 метрів."
+    }
+  ],
+  "highlightPhoto": "2024-10-19-photo-19-10-2024-15-35-40.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Nemuno upės vaizdas prie Smalininkų",
+    "en": "The Nemunas river at Smalininkai",
+    "uk": "Річка Німан біля Смалінінкая"
+  },
+  "photos": [
+    "2024-10-19-photo-19-10-2024-15-15-47.jpg",
+    "2024-10-19-photo-19-10-2024-15-16-57.jpg",
+    "2024-10-19-photo-19-10-2024-15-18-13.jpg",
+    "2024-10-19-photo-19-10-2024-15-18-43.jpg",
+    "2024-10-19-photo-19-10-2024-15-19-50.jpg",
+    "2024-10-19-photo-19-10-2024-15-21-13.jpg",
+    "2024-10-19-photo-19-10-2024-15-21-52.jpg",
+    "2024-10-19-photo-19-10-2024-15-23-36.jpg",
+    "2024-10-19-photo-19-10-2024-15-28-06.jpg",
+    "2024-10-19-photo-19-10-2024-15-31-53.jpg",
+    "2024-10-19-photo-19-10-2024-15-33-08.jpg",
+    "2024-10-19-photo-19-10-2024-15-33-39.jpg",
+    "2024-10-19-photo-19-10-2024-15-34-54.jpg",
+    "2024-10-19-photo-19-10-2024-15-35-37.jpg",
+    "2024-10-19-photo-19-10-2024-15-35-40.jpg",
+    "2024-10-19-photo-19-10-2024-15-36-12.jpg",
+    "2024-10-19-photo-19-10-2024-15-37-32.jpg",
+    "2024-10-19-photo-19-10-2024-15-39-29.jpg",
+    "2024-10-19-photo-19-10-2024-15-43-20.jpg",
+    "2024-10-19-photo-19-10-2024-15-46-08.jpg",
+    "2024-10-19-photo-19-10-2024-15-47-13.jpg",
+    "2024-10-19-photo-19-10-2024-15-48-51.jpg",
+    "2024-10-19-photo-19-10-2024-15-49-23.jpg",
+    "2024-10-19-photo-19-10-2024-15-55-54.jpg",
+    "2024-10-19-photo-19-10-2024-15-57-19.jpg",
+    "2024-10-19-photo-19-10-2024-15-58-54.jpg",
+    "2024-10-19-photo-19-10-2024-15-59-24.jpg",
+    "2024-10-19-photo-19-10-2024-16-00-01.jpg"
+  ]
+}

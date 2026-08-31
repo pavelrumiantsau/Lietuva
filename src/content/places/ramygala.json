@@ -1,0 +1,80 @@
+{
+  "slug": "ramygala",
+  "coordinates": {
+    "lat": 55.5111,
+    "lng": 24.3028
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Ramygala",
+    "en": "Ramygala",
+    "uk": "Рамигала"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Aukštaitijos miestelis prie Upytės upės, viena seniausių regiono parapijų.",
+    "en": "A small Aukštaitija town on the Upytė river, home to one of the region's oldest parishes.",
+    "uk": "Невелике містечко Аукштайтії на річці Упіте, одна з найстаріших парафій регіону."
+  },
+  "longDescription": {
+    "lt": "Ramygala įsikūrusi 24 km į pietus nuo Panevėžio, ant Upytės upės, įtekančios į Nevėžį, kranto. Vietovė pirmą kartą paminėta 1503 metais, o jos parapija, įkurta 1431 metais, XIX amžiaus pabaigoje buvo viena didžiausių Aukštaitijoje. Kitaip nei dauguma Lietuvos miestelių, Ramygala niekada nepriklausė bajorų giminei – ji buvo Vilniaus katedros, o vėliau Vilniaus universiteto valda.",
+    "en": "Ramygala lies 24 km south of Panevėžys, on the banks of the Upytė, a tributary of the Nevėžis. The settlement was first mentioned in 1503, and its parish, founded in 1431, was among the largest in Aukštaitija by the late 19th century. Unlike most Lithuanian towns, Ramygala never belonged to a noble family — it was held by Vilnius Cathedral and later by Vilnius University.",
+    "uk": "Рамигала розташована за 24 км на південь від Паневежиса, на березі річки Упіте, притоки Нявежису. Поселення вперше згадане 1503 року, а його парафія, заснована 1431 року, наприкінці XIX століття була однією з найбільших в Аукштайтії. На відміну від більшості литовських містечок, Рамигала ніколи не належала шляхетському роду — нею володіли Вільнюська кафедра, а згодом Вільнюський університет."
+  },
+  "facts": [
+    {
+      "lt": "Ramygala pirmą kartą paminėta raštuose 1503 metais.",
+      "en": "Ramygala was first mentioned in written sources in 1503.",
+      "uk": "Рамигала вперше згадується у писемних джерелах 1503 року."
+    },
+    {
+      "lt": "Jos parapija, įkurta 1431 metais, yra viena seniausių Aukštaitijoje.",
+      "en": "Its parish, founded in 1431, is one of the oldest in Aukštaitija.",
+      "uk": "Її парафія, заснована 1431 року, — одна з найстаріших в Аукштайтії."
+    },
+    {
+      "lt": "Skirtingai nei daugelis Lietuvos miestelių, Ramygala priklausė ne bajorų giminei, o Vilniaus katedrai ir vėliau Vilniaus universitetui.",
+      "en": "Unlike most Lithuanian towns, Ramygala belonged not to a noble family but to Vilnius Cathedral, and later to Vilnius University.",
+      "uk": "На відміну від більшості литовських містечок, Рамигала належала не шляхетському роду, а Вільнюській кафедрі, а згодом Вільнюському університету."
+    }
+  ],
+  "highlightPhoto": "2025-05-25-photo-25-05-2025-14-48-06.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Ramygalos bažnyčia prie Upytės upės",
+    "en": "The church of Ramygala on the banks of the Upytė river",
+    "uk": "Костел Рамигали на березі річки Упіте"
+  },
+  "photos": [
+    "2025-05-25-photo-25-05-2025-14-29-33.jpg",
+    "2025-05-25-photo-25-05-2025-14-30-20.jpg",
+    "2025-05-25-photo-25-05-2025-14-31-11.jpg",
+    "2025-05-25-photo-25-05-2025-14-32-06.jpg",
+    "2025-05-25-photo-25-05-2025-14-32-25.jpg",
+    "2025-05-25-photo-25-05-2025-14-34-05.jpg",
+    "2025-05-25-photo-25-05-2025-14-35-03.jpg",
+    "2025-05-25-photo-25-05-2025-14-35-59.jpg",
+    "2025-05-25-photo-25-05-2025-14-36-03.jpg",
+    "2025-05-25-photo-25-05-2025-14-36-59.jpg",
+    "2025-05-25-photo-25-05-2025-14-37-56.jpg",
+    "2025-05-25-photo-25-05-2025-14-39-14.jpg",
+    "2025-05-25-photo-25-05-2025-14-43-23.jpg",
+    "2025-05-25-photo-25-05-2025-14-48-06.jpg",
+    "2025-05-25-photo-25-05-2025-14-51-06.jpg",
+    "2025-05-25-photo-25-05-2025-14-51-54.jpg",
+    "2025-05-25-photo-25-05-2025-14-58-02.jpg",
+    "2025-05-25-photo-25-05-2025-14-58-10.jpg",
+    "2025-05-25-photo-25-05-2025-14-59-49.jpg",
+    "2025-05-25-photo-25-05-2025-15-06-00-1.jpg",
+    "2025-05-25-photo-25-05-2025-15-06-00.jpg",
+    "2025-05-25-photo-25-05-2025-15-06-35.jpg",
+    "2025-05-25-photo-25-05-2025-15-07-33.jpg",
+    "2025-05-25-photo-25-05-2025-15-07-47.jpg",
+    "2025-05-25-photo-25-05-2025-15-08-13.jpg",
+    "2025-05-25-photo-25-05-2025-15-10-19.jpg",
+    "2025-05-25-photo-25-05-2025-15-10-40.jpg"
+  ]
+}

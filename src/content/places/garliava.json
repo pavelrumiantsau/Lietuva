@@ -1,0 +1,67 @@
+{
+  "slug": "garliava",
+  "coordinates": {
+    "lat": 54.8261,
+    "lng": 23.8683
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Garliava",
+    "en": "Garliava",
+    "uk": "Гарлява"
+  },
+  "shortDescription": {
+    "lt": "Kauno priemiestinis miestas, kadaise turėjęs gyvą žydų bendruomenę.",
+    "en": "A satellite town of Kaunas that was once home to a vibrant Jewish community.",
+    "uk": "Місто-супутник Каунаса, яке колись мало жваву єврейську громаду."
+  },
+  "longDescription": {
+    "lt": "Garliava yra Kauno rajono savivaldybės miestas, esantis vos 10 kilometrų į pietus nuo Kauno centro, pirmą kartą paminėtas 1809 metais ir miesto teises gavęs 1958 metais. Iki Pirmojo pasaulinio karo mieste gyveno gausi žydų bendruomenė — apie 400 žmonių, veikė sinagoga ir jidiš mokykla — tačiau 1941 metų rugpjūčio 28 dieną nacių ir vietinių talkininkų buvo nužudyta 247 žydų vaikų, moterų ir vyrų. Šiandien Garliava, augdama kartu su besiplečiančiu Kaunu, tapo viena patraukliausių priemiestinių gyvenamųjų vietovių šalyje.",
+    "en": "Garliava is a town in Kaunas District Municipality, just 10 kilometres south of central Kaunas, first mentioned in 1809 and granted town rights in 1958. Before the First World War the town had a sizeable Jewish community of around 400 people, with a synagogue and a Yiddish school, but on 28 August 1941 Nazis and local collaborators murdered 247 Jewish children, women and men. Today, growing alongside an expanding Kaunas, Garliava has become one of the most attractive suburban residential areas in the country.",
+    "uk": "Гарлява — місто Каунаського району, всього за 10 кілометрів на південь від центру Каунаса, вперше згадане у 1809 році та отримало міські права у 1958 році. До Першої світової війни в місті проживала численна єврейська громада — близько 400 осіб, діяли синагога та їдиш-школа, — але 28 серпня 1941 року нацисти та місцеві колаборанти вбили 247 єврейських дітей, жінок і чоловіків. Сьогодні Гарлява, розвиваючись разом із розширенням Каунаса, стала одним з найпривабливіших приміських житлових районів країни."
+  },
+  "facts": [
+    {
+      "lt": "Garliava pirmą kartą paminėta 1809 metais, miesto teises gavo 1958 metais.",
+      "en": "Garliava was first mentioned in 1809 and was granted town rights in 1958.",
+      "uk": "Гарлява вперше згадується у 1809 році, а міські права отримала у 1958 році."
+    },
+    {
+      "lt": "Iki Pirmojo pasaulinio karo mieste gyveno apie 400 žydų, veikė sinagoga ir jidiš mokykla.",
+      "en": "Before the First World War around 400 Jews lived in the town, with a synagogue and a Yiddish school.",
+      "uk": "До Першої світової війни в місті проживало близько 400 євреїв, діяли синагога та їдиш-школа."
+    },
+    {
+      "lt": "Miestas įsikūręs vos 10 kilometrų į pietus nuo Kauno centro.",
+      "en": "The town lies just 10 kilometres south of central Kaunas.",
+      "uk": "Місто розташоване лише за 10 кілометрів на південь від центру Каунаса."
+    }
+  ],
+  "highlightPhoto": "2024-01-27-photo-27-01-2024-16-00-24.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Garliavos miesto centro vaizdas",
+    "en": "A view of the centre of Garliava",
+    "uk": "Вид на центр міста Гарлява"
+  },
+  "photos": [
+    "2024-01-27-photo-27-01-2024-15-42-57.jpg",
+    "2024-01-27-photo-27-01-2024-15-43-42.jpg",
+    "2024-01-27-photo-27-01-2024-15-44-11.jpg",
+    "2024-01-27-photo-27-01-2024-15-44-16.jpg",
+    "2024-01-27-photo-27-01-2024-15-50-25.jpg",
+    "2024-01-27-photo-27-01-2024-15-51-11.jpg",
+    "2024-01-27-photo-27-01-2024-15-58-51.jpg",
+    "2024-01-27-photo-27-01-2024-16-00-24.jpg",
+    "2024-01-27-photo-27-01-2024-16-03-36.jpg",
+    "2024-01-27-photo-27-01-2024-16-05-38.jpg",
+    "2024-01-27-photo-27-01-2024-16-07-32.jpg",
+    "2024-01-27-photo-27-01-2024-16-19-05.jpg",
+    "2024-01-27-photo-27-01-2024-16-21-47.jpg",
+    "2024-01-27-photo-27-01-2024-16-22-05.jpg"
+  ]
+}

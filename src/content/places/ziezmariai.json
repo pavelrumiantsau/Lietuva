@@ -1,0 +1,74 @@
+{
+  "slug": "ziezmariai",
+  "coordinates": {
+    "lat": 54.8,
+    "lng": 24.45
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Žiežmariai",
+    "en": "Žiežmariai",
+    "uk": "Жежмаряй"
+  },
+  "shortDescription": {
+    "lt": "Turgaus miestelis, kuriame vyko viduramžių mūšis ir tebestovi medinė sinagoga.",
+    "en": "A market town where a medieval battle was fought and a wooden synagogue still stands.",
+    "uk": "Торгове містечко, де відбулася середньовічна битва і досі стоїть дерев'яна синагога."
+  },
+  "longDescription": {
+    "lt": "Žiežmariai, Kaišiadorių rajone, XIV amžiaus vokiškuose šaltiniuose minimi kaip Sysmare arba Sisemare, o miesto teises gavo 1501 metais. Netoliese, prie Strėvos upės, 1348 metais Lietuvos Didžiosios Kunigaikštystės kariuomenė kovėsi su kryžiuočiais Strėvos mūšyje. Nuo XVIII amžiaus vidurio miestelyje susikūrė gausi žydų bendruomenė, prieš Pirmąjį pasaulinį karą siekusi apie 700 žmonių; istorinė medinė sinagoga, pastebima savo moterų galerija, buvo restauruota ir šiandien joje vyksta kultūriniai renginiai.",
+    "en": "Žiežmariai, in the Kaišiadorys district, appears in 14th-century German records under the names Sysmare and Sisemare, and gained formal town status in 1501. Nearby, on the banks of the Strėva river in 1348, the Grand Duchy of Lithuania's army fought the Teutonic Knights in the Battle of Strėva. From the mid-18th century the town developed a substantial Jewish community, numbering around 700 people before World War I; its historic wooden synagogue, notable for its women's balcony, has been restored and today hosts cultural events.",
+    "uk": "Жежмаряй у Кайшядоріському районі згадуються в німецьких джерелах XIV століття під назвами Сисмаре та Сисемаре, а офіційний статус міста отримали 1501 року. Поблизу, на берегах річки Стрева, 1348 року військо Великого князівства Литовського билося з хрестоносцями у битві на Стреві. З середини XVIII століття в містечку сформувалася чимала єврейська громада, яка перед Першою світовою війною налічувала близько 700 людей; історична дерев'яна синагога, помітна своїм жіночим балконом, була відреставрована і сьогодні приймає культурні заходи."
+  },
+  "facts": [
+    {
+      "lt": "Žiežmariai XIV amžiaus vokiškuose šaltiniuose minimi kaip Sysmare arba Sisemare, o miesto teises gavo 1501 metais.",
+      "en": "Žiežmariai appears in 14th-century German records as Sysmare or Sisemare and received formal town status in 1501.",
+      "uk": "Жежмаряй згадуються в німецьких джерелах XIV століття як Сисмаре чи Сисемаре, а офіційний статус міста отримали 1501 року."
+    },
+    {
+      "lt": "1348 metais netoliese Lietuvos Didžiosios Kunigaikštystės kariuomenė kovėsi su kryžiuočiais Strėvos mūšyje.",
+      "en": "In 1348, the Grand Duchy of Lithuania's army fought the Teutonic Knights nearby in the Battle of Strėva.",
+      "uk": "1348 року поблизу військо Великого князівства Литовського билося з хрестоносцями у битві на Стреві."
+    },
+    {
+      "lt": "Istorinė miestelio medinė sinagoga, žinoma savo moterų galerija, buvo restauruota ir šiandien joje vyksta kultūriniai renginiai.",
+      "en": "The town's historic wooden synagogue, known for its women's balcony, has been restored and now hosts cultural events.",
+      "uk": "Історична дерев'яна синагога містечка, відома своїм жіночим балконом, була відреставрована і сьогодні приймає культурні заходи."
+    }
+  ],
+  "highlightPhoto": "2024-01-27-photo-27-01-2024-14-22-10.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Restauruota medinė sinagoga Žiežmariuose",
+    "en": "The restored wooden synagogue in Žiežmariai",
+    "uk": "Відреставрована дерев'яна синагога у Жежмаряй"
+  },
+  "photos": [
+    "2024-01-27-photo-27-01-2024-14-08-15.jpg",
+    "2024-01-27-photo-27-01-2024-14-08-22.jpg",
+    "2024-01-27-photo-27-01-2024-14-08-26.jpg",
+    "2024-01-27-photo-27-01-2024-14-09-31.jpg",
+    "2024-01-27-photo-27-01-2024-14-10-17.jpg",
+    "2024-01-27-photo-27-01-2024-14-11-21.jpg",
+    "2024-01-27-photo-27-01-2024-14-12-10.jpg",
+    "2024-01-27-photo-27-01-2024-14-14-49.jpg",
+    "2024-01-27-photo-27-01-2024-14-17-44.jpg",
+    "2024-01-27-photo-27-01-2024-14-19-23.jpg",
+    "2024-01-27-photo-27-01-2024-14-22-10.jpg",
+    "2024-01-27-photo-27-01-2024-14-22-51.jpg",
+    "2024-01-27-photo-27-01-2024-14-24-06.jpg",
+    "2024-01-27-photo-27-01-2024-14-26-13.jpg",
+    "2024-01-27-photo-27-01-2024-14-28-34.jpg",
+    "2024-01-27-photo-27-01-2024-14-29-21.jpg",
+    "2024-01-27-photo-27-01-2024-14-30-27.jpg",
+    "2024-01-27-photo-27-01-2024-14-34-18.jpg",
+    "2024-01-27-photo-27-01-2024-14-35-05.jpg",
+    "2024-01-27-photo-27-01-2024-14-36-13.jpg",
+    "2024-01-27-photo-27-01-2024-14-37-52.jpg"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "mazeikiai",
+  "coordinates": {
+    "lat": 56.3097,
+    "lng": 22.335
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Mažeikiai",
+    "en": "Mažeikiai",
+    "uk": "Мажейкяй"
+  },
+  "shortDescription": {
+    "lt": "Šiaurės Lietuvos miestas, išaugęs aplink vienintelę Baltijos šalyse naftos perdirbimo gamyklą.",
+    "en": "A northern Lithuanian city built up around the Baltic states' only oil refinery.",
+    "uk": "Місто на півночі Литви, що виросло навколо єдиного нафтопереробного заводу в країнах Балтії."
+  },
+  "longDescription": {
+    "lt": "Iki septintojo dešimtmečio pradžios Mažeikiai buvo kuklus, apie 13 500 gyventojų turintis miestelis, kol sovietų planuotojai čia nusprendė statyti pirmąją ir vienintelę Baltijos šalyse naftos perdirbimo gamyklą, maitinamą Polocko–Biržų–Mažeikių naftotiekiu, vėliau prijungtu prie „Družbos“ vamzdynų sistemos. 1972 metais prasidėjusi statyba, gamyklą paleidus 1980 metais, per kelerius metus beveik padvigubino miesto gyventojų skaičių. Po Lietuvos nepriklausomybės atkūrimo gamykla, šiandien vadinama „Orlen Lietuva“ ir priklausanti Lenkijos kapitalui, išliko strategiškai svarbi šalies energetikos infrastruktūros dalis, o Mažeikių siluetą iki šiol formuoja pramoniniai bokštai.",
+    "en": "Mažeikiai was a modest town of around 13,500 people until the early 1970s, when Soviet planners chose the area to build the Baltic states' first and only oil refinery, fed by the Polotsk–Biržai–Mažeikiai pipeline and later linked to the Druzhba pipeline system. Construction, which began in 1972 and brought the refinery online in 1980, nearly doubled the town's population within a few years. Since Lithuanian independence the plant, now known as Orlen Lietuva under Polish ownership, has remained a strategically important piece of the country's energy infrastructure, and Mažeikiai today is still defined by its industrial skyline.",
+    "uk": "До початку 1970-х Мажейкяй було скромним містечком із приблизно 13 500 мешканців, поки радянські планувальники не вирішили побудувати тут перший і єдиний у країнах Балтії нафтопереробний завод, який живив нафтопровід Полоцьк–Біржай–Мажейкяй, згодом приєднаний до системи «Дружба». Будівництво, розпочате 1972 року, а завод запущено 1980-го, за кілька років майже подвоїло населення міста. Після відновлення незалежності Литви завод, нині відомий як Orlen Lietuva під польським власником, залишається стратегічно важливою частиною енергетичної інфраструктури країни, а силует Мажейкяй і донині визначають промислові вежі."
+  },
+  "facts": [
+    {
+      "lt": "1972–1980 metais pastatyta Mažeikių naftos perdirbimo gamykla yra vienintelė tokia gamykla Baltijos šalyse.",
+      "en": "The Mažeikiai oil refinery, built between 1972 and 1980, is the only oil refinery in the Baltic states.",
+      "uk": "Побудований у 1972–1980 роках нафтопереробний завод у Мажейкяй — єдиний такий завод у країнах Балтії."
+    },
+    {
+      "lt": "Statant gamyklą miesto gyventojų skaičius beveik padvigubėjo, palyginti su apie 13 500 gyventojų 1970 metais.",
+      "en": "The town's population nearly doubled during the refinery's construction, up from about 13,500 residents around 1970.",
+      "uk": "Під час будівництва заводу населення міста майже подвоїлося порівняно з приблизно 13 500 мешканцями станом на 1970 рік."
+    },
+    {
+      "lt": "Gamykla, šiandien vadinama „Orlen Lietuva“, priklauso Lenkijos koncernui PKN Orlen, kuris tapo vieninteliu jos savininku 2009 metais.",
+      "en": "The refinery, now called Orlen Lietuva, is owned by Poland's PKN Orlen, which became its sole owner in 2009.",
+      "uk": "Завод, який нині зветься Orlen Lietuva, належить польському концерну PKN Orlen, що став його одноосібним власником 2009 року."
+    }
+  ],
+  "highlightPhoto": "2024-03-16-photo-16-03-2024-15-02-53.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Mažeikių naftos perdirbimo gamyklos pramoniniai bokštai",
+    "en": "The industrial towers of the Mažeikiai oil refinery",
+    "uk": "Промислові вежі нафтопереробного заводу в Мажейкяй"
+  },
+  "photos": [
+    "2024-03-16-photo-16-03-2024-14-23-13.jpg",
+    "2024-03-16-photo-16-03-2024-14-23-16.jpg",
+    "2024-03-16-photo-16-03-2024-14-23-45.jpg",
+    "2024-03-16-photo-16-03-2024-14-24-38.jpg",
+    "2024-03-16-photo-16-03-2024-14-25-12.jpg",
+    "2024-03-16-photo-16-03-2024-14-27-07.jpg",
+    "2024-03-16-photo-16-03-2024-14-30-36.jpg",
+    "2024-03-16-photo-16-03-2024-14-32-30.jpg",
+    "2024-03-16-photo-16-03-2024-14-37-28.jpg",
+    "2024-03-16-photo-16-03-2024-14-42-19.jpg",
+    "2024-03-16-photo-16-03-2024-14-44-17.jpg",
+    "2024-03-16-photo-16-03-2024-14-45-27.jpg",
+    "2024-03-16-photo-16-03-2024-14-46-29.jpg",
+    "2024-03-16-photo-16-03-2024-14-47-44.jpg",
+    "2024-03-16-photo-16-03-2024-14-47-47.jpg",
+    "2024-03-16-photo-16-03-2024-14-49-49.jpg",
+    "2024-03-16-photo-16-03-2024-14-51-32.jpg",
+    "2024-03-16-photo-16-03-2024-14-52-45.jpg",
+    "2024-03-16-photo-16-03-2024-14-53-36.jpg",
+    "2024-03-16-photo-16-03-2024-14-54-49.jpg",
+    "2024-03-16-photo-16-03-2024-14-55-14.jpg",
+    "2024-03-16-photo-16-03-2024-14-55-22.jpg",
+    "2024-03-16-photo-16-03-2024-14-56-43.jpg",
+    "2024-03-16-photo-16-03-2024-14-56-45.jpg",
+    "2024-03-16-photo-16-03-2024-14-59-36.jpg",
+    "2024-03-16-photo-16-03-2024-15-00-30.jpg",
+    "2024-03-16-photo-16-03-2024-15-01-39.jpg",
+    "2024-03-16-photo-16-03-2024-15-01-48.jpg",
+    "2024-03-16-photo-16-03-2024-15-02-53.jpg",
+    "2024-03-16-photo-16-03-2024-15-03-15.jpg",
+    "2024-03-16-photo-16-03-2024-15-09-00.jpg",
+    "2024-03-16-photo-16-03-2024-15-09-57.jpg",
+    "2024-03-16-photo-16-03-2024-15-13-00.jpg",
+    "2024-03-16-photo-16-03-2024-15-15-29.jpg",
+    "2024-03-16-photo-16-03-2024-15-15-45.jpg",
+    "2024-03-16-photo-16-03-2024-15-16-49.jpg",
+    "2024-03-16-photo-16-03-2024-15-17-47.jpg",
+    "2024-03-16-photo-16-03-2024-15-18-10.jpg",
+    "2024-03-16-photo-16-03-2024-15-20-12.jpg",
+    "2024-03-16-photo-16-03-2024-15-20-30.jpg",
+    "2024-03-16-photo-16-03-2024-15-21-02.jpg",
+    "2024-03-16-photo-16-03-2024-15-25-34.jpg",
+    "2024-03-16-photo-16-03-2024-15-40-23.jpg",
+    "2024-03-16-photo-16-03-2024-15-40-32.jpg",
+    "2024-03-16-photo-16-03-2024-15-41-49.jpg",
+    "2024-03-16-photo-16-03-2024-15-43-00.jpg",
+    "2024-03-16-photo-16-03-2024-15-44-31.jpg",
+    "2024-03-16-photo-16-03-2024-15-45-22.jpg",
+    "2024-03-16-photo-16-03-2024-15-45-47.jpg",
+    "2024-03-16-photo-16-03-2024-15-46-43.jpg",
+    "2024-03-16-photo-16-03-2024-15-49-11.jpg",
+    "2024-03-16-photo-16-03-2024-15-59-40.jpg",
+    "2024-03-16-photo-16-03-2024-16-02-18.jpg",
+    "2024-03-16-photo-16-03-2024-16-02-22.jpg",
+    "2024-03-16-photo-16-03-2024-16-03-49.jpg",
+    "2024-03-16-photo-16-03-2024-16-05-39.jpg"
+  ]
+}

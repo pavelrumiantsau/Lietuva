@@ -1,0 +1,89 @@
+{
+  "slug": "salantai",
+  "coordinates": {
+    "lat": 56.0667,
+    "lng": 21.5667
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Salantai",
+    "en": "Salantai",
+    "uk": "Салантай"
+  },
+  "shortDescription": {
+    "lt": "Žemaitijos miestelis prie Salanto upės, apgyvendintas dar bronzos amžiuje.",
+    "en": "A Samogitian town on the Salantas river, inhabited since the Bronze Age.",
+    "uk": "Жемайтійське містечко на річці Салантас, заселене ще з бронзової доби."
+  },
+  "longDescription": {
+    "lt": "Salantų vardas kilęs iš Salanto upės, o vietovė apgyvendinta jau bronzos amžiuje. Nuo 1556 metų minimas Skilandžių dvaras ir miestelis, kuris nuo 1638 metų imtas vadinti Salantais. Pirmoji bažnyčia pastatyta 1630 metais. XIX amžiaus devintajame dešimtmetyje miestelio žemes įsigijo grafas Bogdanas Oginskis.",
+    "en": "Salantai takes its name from the Salantas river, and the area has been inhabited since the Bronze Age. From 1556 the manor and settlement were known as Skilandžiai, renamed Salantai from 1638 onward. The first church was built in 1630. In the early 1880s the town's lands were purchased by Count Bogdan Oginski.",
+    "uk": "Назва Салантай походить від річки Салантас, а місцевість заселена ще з бронзової доби. З 1556 року згадується маєток і поселення Скіланджяй, яке з 1638 року стали називати Салантай. Перший костел збудували 1630 року. На початку 1880-х років землі містечка придбав граф Богдан Огінський."
+  },
+  "facts": [
+    {
+      "lt": "Salantų apylinkės apgyvendintos dar bronzos amžiuje.",
+      "en": "The Salantai area has been inhabited since the Bronze Age.",
+      "uk": "Околиці Салантая заселені ще з бронзової доби."
+    },
+    {
+      "lt": "Iki 1638 metų vietovė vadinosi Skilandžiais, o vėliau gavo Salantų vardą.",
+      "en": "The settlement was originally called Skilandžiai, and was renamed Salantai from 1638.",
+      "uk": "Поселення спочатку називалося Скіланджяй, а з 1638 року отримало назву Салантай."
+    },
+    {
+      "lt": "XIX amžiaus devintajame dešimtmetyje miestelio žemes nupirko grafas Bogdanas Oginskis.",
+      "en": "Count Bogdan Oginski purchased the town's lands in the early 1880s.",
+      "uk": "На початку 1880-х років землі містечка придбав граф Богдан Огінський."
+    }
+  ],
+  "highlightPhoto": "2023-05-20-photo-2023-05-20-14-29-59.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Salantų miestelio bažnyčia prie Salanto upės",
+    "en": "The parish church of Salantai on the banks of the Salantas river",
+    "uk": "Парафіяльний костел Салантая на березі річки Салантас"
+  },
+  "photos": [
+    "2023-05-20-photo-2023-05-20-14-11-03.jpg",
+    "2023-05-20-photo-2023-05-20-14-11-37.jpg",
+    "2023-05-20-photo-2023-05-20-14-12-08.jpg",
+    "2023-05-20-photo-2023-05-20-14-12-57.jpg",
+    "2023-05-20-photo-2023-05-20-14-13-57.jpg",
+    "2023-05-20-photo-2023-05-20-14-15-01.jpg",
+    "2023-05-20-photo-2023-05-20-14-15-06.jpg",
+    "2023-05-20-photo-2023-05-20-14-16-12.jpg",
+    "2023-05-20-photo-2023-05-20-14-17-55.jpg",
+    "2023-05-20-photo-2023-05-20-14-18-46.jpg",
+    "2023-05-20-photo-2023-05-20-14-18-47.jpg",
+    "2023-05-20-photo-2023-05-20-14-19-54.jpg",
+    "2023-05-20-photo-2023-05-20-14-20-41.jpg",
+    "2023-05-20-photo-2023-05-20-14-21-49.jpg",
+    "2023-05-20-photo-2023-05-20-14-23-57.jpg",
+    "2023-05-20-photo-2023-05-20-14-24-40.jpg",
+    "2023-05-20-photo-2023-05-20-14-26-19.jpg",
+    "2023-05-20-photo-2023-05-20-14-28-24.jpg",
+    "2023-05-20-photo-2023-05-20-14-29-59.jpg",
+    "2023-05-20-photo-2023-05-20-14-31-49.jpg",
+    "2023-05-20-photo-2023-05-20-14-37-26.jpg",
+    "2023-05-20-photo-2023-05-20-14-38-19.jpg",
+    "2023-05-20-photo-2023-05-20-14-39-40.jpg",
+    "2023-05-20-photo-2023-05-20-14-39-43.jpg",
+    "2023-05-20-photo-2023-05-20-14-41-15.jpg",
+    "2023-05-20-photo-2023-05-20-14-46-23.jpg",
+    "2023-05-20-photo-2023-05-20-14-46-27.jpg",
+    "2023-05-20-photo-2023-05-20-14-48-37.jpg",
+    "2023-05-20-photo-2023-05-20-14-49-08.jpg",
+    "2023-05-20-photo-2023-05-20-14-52-53.jpg",
+    "2023-05-20-photo-2023-05-20-14-54-03.jpg",
+    "2023-05-20-photo-2023-05-20-15-07-02.jpg",
+    "2023-05-20-photo-2023-05-20-15-07-31.jpg",
+    "2023-05-20-photo-2023-05-20-15-07-56.jpg",
+    "2023-05-20-photo-2023-05-20-15-09-15.jpg",
+    "2023-05-20-photo-2023-05-20-15-09-22.jpg"
+  ]
+}

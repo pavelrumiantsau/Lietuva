@@ -1,0 +1,104 @@
+{
+  "slug": "birstonas",
+  "coordinates": {
+    "lat": 54.6167,
+    "lng": 24.0333
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Birštonas",
+    "en": "Birštonas",
+    "uk": "Бірштонас"
+  },
+  "shortDescription": {
+    "lt": "Kurortinis miestas ant vieno gražiausių Nemuno vingių, garsus mineraliniu vandeniu.",
+    "en": "A spa town on one of the most striking bends of the Nemunas, famous for its mineral water.",
+    "uk": "Курортне місто на одному з найкрасивіших вигинів Нямунасу, відоме мінеральною водою."
+  },
+  "longDescription": {
+    "lt": "Birštonas įsikūręs ant įspūdingo Nemuno kilpos, kuri apjuosia miestą beveik iš visų pusių, todėl vietovė garsėja nuostabiais gamtos vaizdais. Nuo XIX amžiaus tai vienas žinomiausių Lietuvos kurortų, kur gydomasi mineraliniu vandeniu iš vietinių šaltinių — Vytauto ir Birutės — bei purvo procedūromis. Šiandien Birštonas išlieka populiaria poilsio ir sveikatingumo vieta su sanatorijomis, pasivaikščiojimo takais palei Nemuną ir apžvalgos aikštelėmis, iš kurių atsiveria vaizdas į garsųjį upės vingį.",
+    "en": "Birštonas sits on a dramatic loop of the Nemunas river that curls around the town on almost every side, giving it some of the most striking river scenery in Lithuania. Since the 19th century it has been one of the country's best-known spa resorts, where visitors take the waters from local mineral springs, such as Vytautas and Birutė, and undergo mud treatments. Today Birštonas remains a popular health and recreation destination, with sanatoriums, riverside walking paths, and viewpoints overlooking the famous bend of the Nemunas.",
+    "uk": "Бірштонас розташований на драматичній петлі річки Нямунас, яка огинає місто майже з усіх боків, завдяки чому тут одні з найкрасивіших річкових краєвидів Литви. З XIX століття це один з найвідоміших курортів країни, де відвідувачі приймають воду з місцевих мінеральних джерел, таких як Вітаутас і Бірутя, та проходять грязьові процедури. Сьогодні Бірштонас залишається популярним місцем відпочинку та оздоровлення із санаторіями, прогулянковими стежками вздовж Нямунасу та оглядовими майданчиками з видом на знаменитий вигин річки."
+  },
+  "facts": [
+    {
+      "lt": "Nemunas apjuosia Birštoną beveik pilnu ratu, sudarydamas vieną vaizdingiausių upės vingių Lietuvoje.",
+      "en": "The Nemunas almost fully encircles Birštonas, forming one of the most picturesque river bends in Lithuania.",
+      "uk": "Нямунас майже повністю оточує Бірштонас, утворюючи один з наймальовничіших річкових вигинів Литви."
+    },
+    {
+      "lt": "Miestas kurortu tapo XIX amžiuje, kai buvo atrasti gydomieji mineraliniai šaltiniai.",
+      "en": "The town became a spa resort in the 19th century, after its therapeutic mineral springs were discovered.",
+      "uk": "Місто стало курортом у XIX столітті після відкриття цілющих мінеральних джерел."
+    },
+    {
+      "lt": "Birštono mineralinis vanduo ir purvas iki šiol naudojami sanatorijų gydomosiose procedūrose.",
+      "en": "Birštonas mineral water and mud are still used in treatments at the town's sanatoriums today.",
+      "uk": "Мінеральна вода та грязі Бірштонаса й досі використовуються в лікувальних процедурах санаторіїв."
+    }
+  ],
+  "highlightPhoto": "2023-10-15-photo-15-10-2023-13-23-57.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Vaizdas į Nemuno vingį iš Birštono apžvalgos aikštelės",
+    "en": "View of the Nemunas bend from a Birštonas viewpoint",
+    "uk": "Вид на вигин Нямунасу з оглядового майданчика Бірштонаса"
+  },
+  "photos": [
+    "2023-10-15-photo-15-10-2023-12-49-49.jpg",
+    "2023-10-15-photo-15-10-2023-12-52-42.jpg",
+    "2023-10-15-photo-15-10-2023-12-55-46.jpg",
+    "2023-10-15-photo-15-10-2023-12-55-47.jpg",
+    "2023-10-15-photo-15-10-2023-12-57-58.jpg",
+    "2023-10-15-photo-15-10-2023-13-05-30.jpg",
+    "2023-10-15-photo-15-10-2023-13-06-56.jpg",
+    "2023-10-15-photo-15-10-2023-13-08-43.jpg",
+    "2023-10-15-photo-15-10-2023-13-09-54.jpg",
+    "2023-10-15-photo-15-10-2023-13-09-58.jpg",
+    "2023-10-15-photo-15-10-2023-13-10-49-1.jpg",
+    "2023-10-15-photo-15-10-2023-13-12-58.jpg",
+    "2023-10-15-photo-15-10-2023-13-13-42.jpg",
+    "2023-10-15-photo-15-10-2023-13-15-10.jpg",
+    "2023-10-15-photo-15-10-2023-13-15-15.jpg",
+    "2023-10-15-photo-15-10-2023-13-15-44.jpg",
+    "2023-10-15-photo-15-10-2023-13-16-21.jpg",
+    "2023-10-15-photo-15-10-2023-13-16-24.jpg",
+    "2023-10-15-photo-15-10-2023-13-17-47.jpg",
+    "2023-10-15-photo-15-10-2023-13-19-29.jpg",
+    "2023-10-15-photo-15-10-2023-13-20-04.jpg",
+    "2023-10-15-photo-15-10-2023-13-21-22-1.jpg",
+    "2023-10-15-photo-15-10-2023-13-22-12.jpg",
+    "2023-10-15-photo-15-10-2023-13-22-27.jpg",
+    "2023-10-15-photo-15-10-2023-13-23-51.jpg",
+    "2023-10-15-photo-15-10-2023-13-23-57.jpg",
+    "2023-10-15-photo-15-10-2023-13-25-28.jpg",
+    "2023-10-15-photo-15-10-2023-13-26-13.jpg",
+    "2023-10-15-photo-15-10-2023-13-27-35.jpg",
+    "2023-10-15-photo-15-10-2023-13-28-06.jpg",
+    "2023-10-15-photo-15-10-2023-13-29-48.jpg",
+    "2023-10-15-photo-15-10-2023-13-30-12.jpg",
+    "2023-10-15-photo-15-10-2023-13-30-42.jpg",
+    "2023-10-15-photo-15-10-2023-13-30-43.jpg",
+    "2023-10-15-photo-15-10-2023-13-31-48.jpg",
+    "2023-10-15-photo-15-10-2023-13-32-50.jpg",
+    "2023-10-15-photo-15-10-2023-13-33-42.jpg",
+    "2023-10-15-photo-15-10-2023-13-37-01.jpg",
+    "2023-10-15-photo-15-10-2023-13-37-34.jpg",
+    "2023-10-15-photo-15-10-2023-13-41-33.jpg",
+    "2023-10-15-photo-15-10-2023-13-43-04.jpg",
+    "2023-10-15-photo-15-10-2023-13-43-56.jpg",
+    "2023-10-15-photo-15-10-2023-13-45-19.jpg",
+    "2023-10-15-photo-15-10-2023-13-46-12.jpg",
+    "2023-10-15-photo-15-10-2023-13-52-50.jpg",
+    "2023-10-15-photo-15-10-2023-13-54-37.jpg",
+    "2023-10-15-photo-15-10-2023-13-58-56.jpg",
+    "2023-10-15-photo-15-10-2023-14-05-09.jpg",
+    "2023-10-15-photo-15-10-2023-14-17-22.jpg",
+    "2023-10-15-photo-15-10-2023-14-17-23.jpg",
+    "2023-10-15-photo-15-10-2023-14-22-32.jpg"
+  ]
+}

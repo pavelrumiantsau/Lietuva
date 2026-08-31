@@ -1,0 +1,128 @@
+{
+  "slug": "plunge",
+  "coordinates": {
+    "lat": 55.9167,
+    "lng": 21.85
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Plungė",
+    "en": "Plungė",
+    "uk": "Плунге"
+  },
+  "shortDescription": {
+    "lt": "Žemaitijos miestas, kurio centre – Oginskių giminės neorenesansinis rūmų ansamblis ir parkas.",
+    "en": "A Samogitian town centered on the Neo-Renaissance palace and park of the Oginski noble family.",
+    "uk": "Жемайтійське місто з неоренесансним палацово-парковим ансамблем роду Огінських у центрі."
+  },
+  "longDescription": {
+    "lt": "Plungė ilgai siejama su Oginskių bajorų gimine, kuri 1873 metais dvare įsteigė muzikos (orkestro) mokyklą. Joje 1889–1893 metais fleita grojo ir pirmuosius kūrinius kūrė jaunasis Mikalojus Konstantinas Čiurlionis, vėliau tapęs žymiausiu lietuvių dailininku ir kompozitoriumi. Šiandien buvusiuose Oginskių rūmuose įsikūręs Žemaičių dailės muziejus, saugantis ir su Čiurlioniu susijusius eksponatus.",
+    "en": "Plungė has long been associated with the Oginski noble family, who established a music (orchestra) school at their manor in 1873. There, between 1889 and 1893, the young Mikalojus Konstantinas Čiurlionis played the flute and composed his first works, before becoming Lithuania's most celebrated painter and composer. Today the former Oginski Palace houses the Samogitian Art Museum, which preserves exhibits related to Čiurlionis.",
+    "uk": "Плунге здавна пов'язане з шляхетським родом Огінських, які 1873 року заснували при маєтку музичну (оркестрову) школу. Саме там у 1889–1893 роках грав на флейті й писав перші твори юний Мікалоюс Костянтинас Чюрльоніс, згодом найвідоміший литовський художник і композитор. Сьогодні в колишньому палаці Огінських розташований Жемайтійський художній музей, що зберігає й експонати, пов'язані з Чюрльонісом."
+  },
+  "facts": [
+    {
+      "lt": "1873 metais Oginskiai Plungės dvare įsteigė muzikos (orkestro) mokyklą.",
+      "en": "The Oginski family founded a music (orchestra) school at their Plungė manor in 1873.",
+      "uk": "1873 року Огінські заснували при маєтку в Плунге музичну (оркестрову) школу."
+    },
+    {
+      "lt": "1889–1893 metais joje fleita grojo ir pirmuosius kūrinius kūrė M. K. Čiurlionis.",
+      "en": "M. K. Čiurlionis played flute and composed his first works there between 1889 and 1893.",
+      "uk": "У 1889–1893 роках там грав на флейті й писав перші твори М. К. Чюрльоніс."
+    },
+    {
+      "lt": "Oginskių rūmuose dabar veikia Žemaičių dailės muziejus.",
+      "en": "The Oginski Palace now houses the Samogitian Art Museum.",
+      "uk": "У палаці Огінських тепер розташований Жемайтійський художній музей."
+    }
+  ],
+  "highlightPhoto": "2026-03-28-photo-28-03-2026-11-48-54.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Oginskių rūmų fasadas ir parkas Plungėje",
+    "en": "The facade and park of the Oginski Palace in Plungė",
+    "uk": "Фасад і парк палацу Огінських у Плунге"
+  },
+  "photos": [
+    "2026-03-28-photo-28-03-2026-10-37-59.jpg",
+    "2026-03-28-photo-28-03-2026-10-38-42.jpg",
+    "2026-03-28-photo-28-03-2026-10-45-02.jpg",
+    "2026-03-28-photo-28-03-2026-10-45-09.jpg",
+    "2026-03-28-photo-28-03-2026-10-45-47.jpg",
+    "2026-03-28-photo-28-03-2026-10-47-37.jpg",
+    "2026-03-28-photo-28-03-2026-10-47-41.jpg",
+    "2026-03-28-photo-28-03-2026-10-47-43.jpg",
+    "2026-03-28-photo-28-03-2026-10-51-25.jpg",
+    "2026-03-28-photo-28-03-2026-10-51-29.jpg",
+    "2026-03-28-photo-28-03-2026-10-56-11.jpg",
+    "2026-03-28-photo-28-03-2026-10-56-14.jpg",
+    "2026-03-28-photo-28-03-2026-10-57-26.jpg",
+    "2026-03-28-photo-28-03-2026-10-58-37.jpg",
+    "2026-03-28-photo-28-03-2026-10-59-07.jpg",
+    "2026-03-28-photo-28-03-2026-10-59-12.jpg",
+    "2026-03-28-photo-28-03-2026-11-00-09.jpg",
+    "2026-03-28-photo-28-03-2026-11-02-58.jpg",
+    "2026-03-28-photo-28-03-2026-11-03-06.jpg",
+    "2026-03-28-photo-28-03-2026-11-14-33.jpg",
+    "2026-03-28-photo-28-03-2026-11-26-18.jpg",
+    "2026-03-28-photo-28-03-2026-11-27-09.jpg",
+    "2026-03-28-photo-28-03-2026-11-27-52.jpg",
+    "2026-03-28-photo-28-03-2026-11-28-20.jpg",
+    "2026-03-28-photo-28-03-2026-11-30-18.jpg",
+    "2026-03-28-photo-28-03-2026-11-30-28.jpg",
+    "2026-03-28-photo-28-03-2026-11-34-48.jpg",
+    "2026-03-28-photo-28-03-2026-11-34-51.jpg",
+    "2026-03-28-photo-28-03-2026-11-35-53.jpg",
+    "2026-03-28-photo-28-03-2026-11-38-48.jpg",
+    "2026-03-28-photo-28-03-2026-11-40-25.jpg",
+    "2026-03-28-photo-28-03-2026-11-40-57.jpg",
+    "2026-03-28-photo-28-03-2026-11-43-26.jpg",
+    "2026-03-28-photo-28-03-2026-11-44-30.jpg",
+    "2026-03-28-photo-28-03-2026-11-45-43.jpg",
+    "2026-03-28-photo-28-03-2026-11-48-00.jpg",
+    "2026-03-28-photo-28-03-2026-11-48-52.jpg",
+    "2026-03-28-photo-28-03-2026-11-48-54.jpg",
+    "2026-03-28-photo-28-03-2026-11-50-54.jpg",
+    "2026-03-28-photo-28-03-2026-11-51-26.jpg",
+    "2026-03-28-photo-28-03-2026-11-52-18.jpg",
+    "2026-03-28-photo-28-03-2026-11-52-27.jpg",
+    "2026-03-28-photo-28-03-2026-11-52-35.jpg",
+    "2026-03-28-photo-28-03-2026-11-53-25.jpg",
+    "2026-03-28-photo-28-03-2026-11-54-34.jpg",
+    "2026-03-28-photo-28-03-2026-11-56-46.jpg",
+    "2026-03-28-photo-28-03-2026-11-59-23.jpg",
+    "2026-03-28-photo-28-03-2026-11-59-27.jpg",
+    "2026-03-28-photo-28-03-2026-12-04-00.jpg",
+    "2026-03-28-photo-28-03-2026-12-05-18.jpg",
+    "2026-03-28-photo-28-03-2026-12-05-33.jpg",
+    "2026-03-28-photo-28-03-2026-12-12-26.jpg",
+    "2026-03-28-photo-28-03-2026-12-14-40.jpg",
+    "2026-03-28-photo-28-03-2026-12-16-51.jpg",
+    "2026-03-28-photo-28-03-2026-12-18-12.jpg",
+    "2026-03-28-photo-28-03-2026-12-20-25.jpg",
+    "2026-03-28-photo-28-03-2026-12-22-31.jpg",
+    "2026-03-28-photo-28-03-2026-12-27-28.jpg",
+    "2026-03-28-photo-28-03-2026-12-27-34.jpg",
+    "2026-03-28-photo-28-03-2026-12-29-43.jpg",
+    "2026-03-28-photo-28-03-2026-12-40-18.jpg",
+    "2026-03-28-photo-28-03-2026-12-42-34.jpg",
+    "2026-03-28-photo-28-03-2026-12-45-15.jpg",
+    "2026-03-28-photo-28-03-2026-12-48-33.jpg",
+    "2026-03-28-photo-28-03-2026-12-51-52.jpg",
+    "2026-03-28-photo-28-03-2026-12-53-35.jpg",
+    "2026-03-28-photo-28-03-2026-12-57-26.jpg",
+    "2026-03-28-photo-28-03-2026-12-58-18.jpg",
+    "2026-03-28-photo-28-03-2026-13-02-36.jpg",
+    "2026-03-28-photo-28-03-2026-13-02-38.jpg",
+    "2026-03-28-photo-28-03-2026-13-03-29.jpg",
+    "2026-03-28-photo-28-03-2026-13-03-33.jpg",
+    "2026-03-28-photo-28-03-2026-13-07-37.jpg",
+    "2026-03-28-photo-28-03-2026-13-07-45.jpg",
+    "2026-03-28-photo-28-03-2026-13-10-16.jpg"
+  ]
+}

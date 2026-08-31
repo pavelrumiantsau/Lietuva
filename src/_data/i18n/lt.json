@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "Lietuvos keliais",
+    "tagline": "Vietos, kuriose lankiausi po Lietuvą"
+  },
+  "nav": {
+    "map": "Žemėlapis",
+    "places": "Visos vietos",
+    "home": "Pradžia"
+  },
+  "home": {
+    "intro": "Interaktyvus žemėlapis su vietomis, kuriose lankiausi po Lietuvą. Spustelėkite tašką, kad pamatytumėte nuotrauką ir trumpą aprašymą.",
+    "browseAll": "Peržiūrėti visų vietų sąrašą",
+    "mapUnavailable": "Jei žemėlapis nepasikrauna, žemiau rasite visų vietų sąrašą."
+  },
+  "place": {
+    "explore": "Sužinoti daugiau",
+    "backToMap": "Grįžti į žemėlapį",
+    "backToList": "Grįžti į sąrašą",
+    "facts": "Įdomūs faktai",
+    "gallery": "Nuotraukų galerija",
+    "photoCount": "nuotraukų",
+    "page": "Puslapis",
+    "nextPage": "Kitas puslapis",
+    "prevPage": "Ankstesnis puslapis",
+    "visited": "Lankyta"
+  },
+  "placesList": {
+    "title": "Visos vietos",
+    "count": "vietų"
+  },
+  "footer": {
+    "text": "Asmeninis kelionių po Lietuvą žemėlapis."
+  },
+  "langSwitch": {
+    "label": "Kalba"
+  }
+}

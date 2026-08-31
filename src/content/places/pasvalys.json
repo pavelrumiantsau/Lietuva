@@ -1,0 +1,101 @@
+{
+  "slug": "pasvalys",
+  "coordinates": {
+    "lat": 56.0594,
+    "lng": 24.4036
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Pasvalys",
+    "en": "Pasvalys",
+    "uk": "Пасвалис"
+  },
+  "shortDescription": {
+    "lt": "Šiaurės Lietuvos miestas prie Svalios upės, pirmą kartą paminėtas 1497 metais.",
+    "en": "A northern Lithuanian town on the Svalia river, first mentioned in 1497.",
+    "uk": "Місто на півночі Литви на річці Свалія, вперше згадане 1497 року."
+  },
+  "longDescription": {
+    "lt": "Pasvalys įsikūręs prie Svalios upės, o jo pavadinimas reiškia „miestas prie Svalios“. Vietovė pirmą kartą paminėta 1497 metais ir augo aplink dvarą bei bažnyčią; miesto teises gavo 1946 metais. Šiandien tai Panevėžio apskrities Pasvalio rajono administracinis centras, apsuptas Mūšos upės slėnio derlingų laukų.",
+    "en": "Pasvalys grew up on the banks of the Svalia river, and its name means 'the town by the Svalia'. The settlement was first mentioned in 1497 and developed around a manor and church, later receiving official city status in 1946. Today it is the administrative center of Pasvalys district in Panevėžys county, surrounded by the fertile fields of the Mūša river valley.",
+    "uk": "Пасвалис виріс на берегах річки Свалія, і його назва означає «місто біля Свалії». Поселення вперше згадане 1497 року і розвивалося навколо маєтку та костелу, а офіційний статус міста отримало 1946 року. Сьогодні це адміністративний центр Пасваліського району Паневезького повіту, оточений родючими полями долини річки Муша."
+  },
+  "facts": [
+    {
+      "lt": "Pasvalio pavadinimas kilęs iš junginio „miestas prie Svalios“ upės.",
+      "en": "The name Pasvalys means 'the town by the Svalia' river.",
+      "uk": "Назва Пасвалис означає «місто біля річки Свалія»."
+    },
+    {
+      "lt": "Vietovė pirmą kartą paminėta 1497 metais.",
+      "en": "The settlement was first documented in 1497.",
+      "uk": "Поселення вперше задокументоване 1497 року."
+    },
+    {
+      "lt": "Oficialų miesto statusą Pasvalys gavo 1946 metais.",
+      "en": "Pasvalys received official city status in 1946.",
+      "uk": "Офіційний статус міста Пасвалис отримав 1946 року."
+    }
+  ],
+  "highlightPhoto": "2023-05-13-photo-2023-05-13-15-24-46.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Pasvalio miesto centras prie Svalios upės",
+    "en": "The center of Pasvalys on the banks of the Svalia river",
+    "uk": "Центр міста Пасвалис на березі річки Свалія"
+  },
+  "photos": [
+    "2023-05-13-photo-2023-05-13-14-50-53.jpg",
+    "2023-05-13-photo-2023-05-13-14-51-44.jpg",
+    "2023-05-13-photo-2023-05-13-14-52-39.jpg",
+    "2023-05-13-photo-2023-05-13-14-54-02.jpg",
+    "2023-05-13-photo-2023-05-13-14-56-20.jpg",
+    "2023-05-13-photo-2023-05-13-14-57-41.jpg",
+    "2023-05-13-photo-2023-05-13-14-59-50.jpg",
+    "2023-05-13-photo-2023-05-13-15-00-59.jpg",
+    "2023-05-13-photo-2023-05-13-15-01-35.jpg",
+    "2023-05-13-photo-2023-05-13-15-02-23.jpg",
+    "2023-05-13-photo-2023-05-13-15-02-32.jpg",
+    "2023-05-13-photo-2023-05-13-15-05-24.jpg",
+    "2023-05-13-photo-2023-05-13-15-06-16.jpg",
+    "2023-05-13-photo-2023-05-13-15-07-06.jpg",
+    "2023-05-13-photo-2023-05-13-15-08-48.jpg",
+    "2023-05-13-photo-2023-05-13-15-11-14.jpg",
+    "2023-05-13-photo-2023-05-13-15-11-29.jpg",
+    "2023-05-13-photo-2023-05-13-15-13-12.jpg",
+    "2023-05-13-photo-2023-05-13-15-14-13.jpg",
+    "2023-05-13-photo-2023-05-13-15-14-41.jpg",
+    "2023-05-13-photo-2023-05-13-15-14-49.jpg",
+    "2023-05-13-photo-2023-05-13-15-15-19.jpg",
+    "2023-05-13-photo-2023-05-13-15-19-39.jpg",
+    "2023-05-13-photo-2023-05-13-15-24-44.jpg",
+    "2023-05-13-photo-2023-05-13-15-24-46.jpg",
+    "2023-05-13-photo-2023-05-13-15-26-32.jpg",
+    "2023-05-13-photo-2023-05-13-15-30-04.jpg",
+    "2023-05-13-photo-2023-05-13-15-30-31.jpg",
+    "2023-05-13-photo-2023-05-13-15-31-29.jpg",
+    "2023-05-13-photo-2023-05-13-15-32-20.jpg",
+    "2023-05-13-photo-2023-05-13-15-32-43.jpg",
+    "2023-05-13-photo-2023-05-13-15-34-48.jpg",
+    "2023-05-13-photo-2023-05-13-15-35-26.jpg",
+    "2023-05-13-photo-2023-05-13-15-36-32.jpg",
+    "2023-05-13-photo-2023-05-13-15-39-47.jpg",
+    "2023-05-13-photo-2023-05-13-15-40-31.jpg",
+    "2023-05-13-photo-2023-05-13-15-41-04.jpg",
+    "2023-05-13-photo-2023-05-13-15-43-45.jpg",
+    "2023-05-13-photo-2023-05-13-15-44-48.jpg",
+    "2023-05-13-photo-2023-05-13-15-44-50.jpg",
+    "2023-05-13-photo-2023-05-13-15-45-52.jpg",
+    "2023-05-13-photo-2023-05-13-15-49-13.jpg",
+    "2023-05-13-photo-2023-05-13-15-54-25.jpg",
+    "2023-05-13-photo-2023-05-13-15-57-01.jpg",
+    "2023-05-13-photo-2023-05-13-15-57-05.jpg",
+    "2023-05-13-photo-2023-05-13-15-59-47.jpg",
+    "2023-05-13-photo-2023-05-13-16-02-12.jpg",
+    "2023-05-13-photo-2023-05-13-16-03-43.jpg"
+  ]
+}

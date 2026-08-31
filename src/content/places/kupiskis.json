@@ -1,0 +1,98 @@
+{
+  "slug": "kupiskis",
+  "coordinates": {
+    "lat": 55.8347,
+    "lng": 24.9714
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kupiškis",
+    "en": "Kupiškis",
+    "uk": "Купішкіс"
+  },
+  "shortDescription": {
+    "lt": "Aukštaitijos miestas prie Kupos ir Lėvens santakos, garsėjantis vienu didžiausių neogotikinių bažnyčių Lietuvoje.",
+    "en": "An Aukštaitija town at the confluence of the Kupa and Lėvuo rivers, known for one of the largest neo-Gothic churches in Lithuania.",
+    "uk": "Місто в Аукштайтії при злитті річок Купа та Левуо, відоме однією з найбільших неоготичних церков Литви."
+  },
+  "longDescription": {
+    "lt": "Kupiškis, kurio vardas kilęs nuo per jį tekančios Kupos upės, pirmą kartą netiesiogiai paminėtas 1480 metais, o kaip valdovo miestas — 1529 metais, kai buvo įpareigotas mokėti karo mokesčius. Per amžius miestą ne kartą naikino gaisrai, karai ir maro epidemijos, tačiau jis atsistatydavo ir suklestėjo XX amžiaus pradžioje, kai 1900–1914 metais pastatyta viena didžiausių neogotikinių bažnyčių Lietuvoje. Legenda pasakoja, kad kasant bažnyčios pamatus rastas ąžuolinis skrynios fragmentas su žmogaus kaulais, rūdijusiu kalaviju ir senovinėmis monetomis — tai leidžia manyti, jog šioje vietoje anksčiau būta senovės lietuvių kulto vietos ar kapinyno.",
+    "en": "Kupiškis, whose name comes from the Kupa River that flows through it, is first indirectly mentioned in 1480 and appears as a ruler's town in 1529, when it was obligated to pay war taxes. Over the centuries the town was repeatedly destroyed by fires, wars and plague, but it recovered each time and flourished in the early 20th century, when one of the largest neo-Gothic churches in Lithuania was built between 1900 and 1914. According to local tradition, when the foundations were dug, workers found an oak box fragment containing human bones, a rusted sword and ancient coins, suggesting the site may once have held an ancient Lithuanian cult place or burial ground.",
+    "uk": "Купішкіс, назва якого походить від річки Купа, що протікає через нього, уперше опосередковано згадується у 1480 році, а як володарське місто — у 1529 році, коли його зобов'язали сплачувати військовий податок. Протягом століть місто неодноразово руйнували пожежі, війни та епідемії чуми, але воно відновлювалося щоразу, а на початку XX століття розквітло, коли у 1900–1914 роках збудували одну з найбільших неоготичних церков Литви. За переказами, під час копання фундаменту знайшли фрагмент дубової скрині з людськими кістками, іржавим мечем і старовинними монетами, що дозволяє припустити, що на цьому місці колись було давнє литовське культове місце або поховання."
+  },
+  "facts": [
+    {
+      "lt": "Kupiškis įsikūręs prie Kupos ir Lėvens upių santakos, o miesto vardas kilęs nuo Kupos upės.",
+      "en": "Kupiškis stands at the confluence of the Kupa and Lėvuo rivers, and the town's name comes from the Kupa.",
+      "uk": "Купішкіс розташований при злитті річок Купа та Левуо, а назва міста походить від річки Купа."
+    },
+    {
+      "lt": "1900–1914 metais pastatyta neogotikinė bažnyčia yra viena didžiausių tokio stiliaus bažnyčių Lietuvoje.",
+      "en": "The neo-Gothic church built between 1900 and 1914 is one of the largest churches of its style in Lithuania.",
+      "uk": "Неоготична церква, зведена у 1900–1914 роках, є однією з найбільших церков цього стилю в Литві."
+    },
+    {
+      "lt": "Kasant bažnyčios pamatus rasti žmogaus kaulai, kalavijas ir senovinės monetos leido spėti, jog čia būta senovės kulto vietos.",
+      "en": "Human bones, a sword and ancient coins found while digging the church's foundations suggested the site once held an ancient cult place.",
+      "uk": "Людські кістки, меч і давні монети, знайдені під час копання фундаменту церкви, дали підстави припустити, що тут було давнє культове місце."
+    }
+  ],
+  "highlightPhoto": "2024-10-05-photo-05-10-2024-13-54-16.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Neogotikinė bažnyčia Kupiškio centre",
+    "en": "The neo-Gothic church in the centre of Kupiškis",
+    "uk": "Неоготична церква в центрі Купішкіса"
+  },
+  "photos": [
+    "2024-10-05-photo-05-10-2024-13-30-25.jpg",
+    "2024-10-05-photo-05-10-2024-13-30-26.jpg",
+    "2024-10-05-photo-05-10-2024-13-31-19.jpg",
+    "2024-10-05-photo-05-10-2024-13-32-17.jpg",
+    "2024-10-05-photo-05-10-2024-13-32-48.jpg",
+    "2024-10-05-photo-05-10-2024-13-36-13.jpg",
+    "2024-10-05-photo-05-10-2024-13-37-14.jpg",
+    "2024-10-05-photo-05-10-2024-13-37-23.jpg",
+    "2024-10-05-photo-05-10-2024-13-38-41.jpg",
+    "2024-10-05-photo-05-10-2024-13-39-30.jpg",
+    "2024-10-05-photo-05-10-2024-13-39-33.jpg",
+    "2024-10-05-photo-05-10-2024-13-40-05.jpg",
+    "2024-10-05-photo-05-10-2024-13-40-51.jpg",
+    "2024-10-05-photo-05-10-2024-13-41-04.jpg",
+    "2024-10-05-photo-05-10-2024-13-42-22.jpg",
+    "2024-10-05-photo-05-10-2024-13-46-39.jpg",
+    "2024-10-05-photo-05-10-2024-13-46-50.jpg",
+    "2024-10-05-photo-05-10-2024-13-49-09.jpg",
+    "2024-10-05-photo-05-10-2024-13-50-37.jpg",
+    "2024-10-05-photo-05-10-2024-13-52-01.jpg",
+    "2024-10-05-photo-05-10-2024-13-53-46.jpg",
+    "2024-10-05-photo-05-10-2024-13-54-08.jpg",
+    "2024-10-05-photo-05-10-2024-13-54-16.jpg",
+    "2024-10-05-photo-05-10-2024-13-54-51.jpg",
+    "2024-10-05-photo-05-10-2024-13-56-56.jpg",
+    "2024-10-05-photo-05-10-2024-13-58-06.jpg",
+    "2024-10-05-photo-05-10-2024-14-02-25.jpg",
+    "2024-10-05-photo-05-10-2024-14-02-38.jpg",
+    "2024-10-05-photo-05-10-2024-14-18-48.jpg",
+    "2024-10-05-photo-05-10-2024-14-19-28.jpg",
+    "2024-10-05-photo-05-10-2024-14-20-39.jpg",
+    "2024-10-05-photo-05-10-2024-14-21-25.jpg",
+    "2024-10-05-photo-05-10-2024-14-22-32.jpg",
+    "2024-10-05-photo-05-10-2024-14-23-56.jpg",
+    "2024-10-05-photo-05-10-2024-14-25-11.jpg",
+    "2024-10-05-photo-05-10-2024-14-29-21.jpg",
+    "2024-10-05-photo-05-10-2024-14-32-19.jpg",
+    "2024-10-05-photo-05-10-2024-14-33-41.jpg",
+    "2024-10-05-photo-05-10-2024-14-35-34.jpg",
+    "2024-10-05-photo-05-10-2024-14-37-12.jpg",
+    "2024-10-05-photo-05-10-2024-14-41-20.jpg",
+    "2024-10-05-photo-05-10-2024-14-42-25.jpg",
+    "2024-10-05-photo-05-10-2024-15-04-15.jpg",
+    "2024-10-05-photo-05-10-2024-15-06-44.jpg",
+    "2024-10-05-photo-05-10-2024-15-07-17.jpg"
+  ]
+}

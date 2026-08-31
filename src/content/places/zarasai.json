@@ -1,0 +1,92 @@
+{
+  "slug": "zarasai",
+  "coordinates": {
+    "lat": 55.7333,
+    "lng": 26.25
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Zarasai",
+    "en": "Zarasai",
+    "uk": "Зарасай"
+  },
+  "shortDescription": {
+    "lt": "Kurortinis miestelis, vadinamas „Lietuvos Šveicarija“, apsuptas daugiau nei 300 ežerų.",
+    "en": "A resort town nicknamed 'Lithuania's little Switzerland,' set among more than 300 lakes.",
+    "uk": "Курортне містечко, зване «литовською Швейцарією», оточене понад 300 озерами."
+  },
+  "longDescription": {
+    "lt": "Zarasai, tolimiausiame Lietuvos šiaurės rytų kampe, žinomi nuo XIV amžiaus pabaigos, o oficialiu įkūrimo laikotarpiu laikomi apie 1506 metus, kai Zarasų ežero saloje jau stovėjo dvaras, vienuolynas ir bažnyčia prie svarbaus prekybos kelio, jungusio Rygą su Pskovu. Apsuptas daugiau nei 300 ežerų — tarp jų kelių didžiausių šalyje, tokių kaip Drūkšiai, Sartai ir Luodis — ir įsikūręs banguotose kalvose, miestelis pelnė „Lietuvos Šveicarijos“ pravardę. Jo pavadinimas istorijoje keitėsi ne kartą: Rusijos imperijos laikais — Novoaleksandrovskas, nuo 1919-ųjų — Ežerėnai, o galiausiai nuo 1929-ųjų — Zarasai; 1932 metais suteiktas oficialus kurorto statusas paskatino pakrančių vilų statybą, kuri iki šiol formuoja miestelio veidą.",
+    "en": "Zarasai, in the far northeast of Lithuania, has been known since the late 14th century and traces its official founding to around 1506, when a manor, monastery, and church already stood on an island in Lake Zarasas along a major trade route linking Riga and Pskov. Surrounded by more than 300 lakes — including some of the country's largest, such as Drūkšiai, Sartai, and Luodis — and set among rolling hills, the town has earned the nickname 'Lithuania's little Switzerland.' Its name changed repeatedly through history: Novoaleksandrovsk under the Russian Empire, Ežerėnai ('lake town') from 1919, and finally Zarasai from 1929, with official resort status granted in 1932 spurring the growth of lakeside villas that still define the town today.",
+    "uk": "Зарасай, у найдальшому північно-східному куточку Литви, відомий з кінця XIV століття, а офіційним роком заснування вважається приблизно 1506-й, коли на острові озера Зарасас уже стояли маєток, монастир і церква поблизу важливого торгового шляху, що з'єднував Ригу з Псковом. Оточене понад 300 озерами — серед них кілька найбільших у країні, як-от Друкшяй, Сартай і Люодіс — і розташоване серед пагорбистого рельєфу, містечко здобуло прізвисько «литовська Швейцарія». Його назва в історії неодноразово змінювалася: за часів Російської імперії — Новоалександровськ, з 1919 року — Ежеренай («озерне місто»), а з 1929-го — остаточно Зарасай; офіційний курортний статус, наданий 1932 року, стимулював будівництво прибережних вілл, які й донині визначають обличчя містечка."
+  },
+  "facts": [
+    {
+      "lt": "Oficialia Zarasų įkūrimo data laikomi maždaug 1506 metai, kai Zarasų ežero saloje jau stovėjo dvaras, vienuolynas ir bažnyčia.",
+      "en": "Zarasai's official founding date is around 1506, when a manor, monastery, and church stood on an island in Lake Zarasas.",
+      "uk": "Офіційною датою заснування Зарасая вважається приблизно 1506 рік, коли на острові озера Зарасас стояли маєток, монастир і церква."
+    },
+    {
+      "lt": "Miestelį supa daugiau nei 300 ežerų, tarp jų — vieni didžiausių Lietuvoje, todėl jis pramintas „Lietuvos Šveicarija“.",
+      "en": "The town is surrounded by more than 300 lakes, including some of Lithuania's largest, earning it the nickname 'Lithuania's little Switzerland'.",
+      "uk": "Містечко оточене понад 300 озерами, серед яких одні з найбільших у Литві, тому воно отримало прізвисько «литовська Швейцарія»."
+    },
+    {
+      "lt": "Miestelio pavadinimas istorijoje keitėsi kelis kartus: Novoaleksandrovskas Rusijos valdymo metu, Ežerėnai nuo 1919-ųjų ir Zarasai nuo 1929-ųjų.",
+      "en": "The town's name changed several times: Novoaleksandrovsk under Russian rule, Ežerėnai from 1919, and Zarasai from 1929.",
+      "uk": "Назва містечка змінювалася кілька разів: Новоалександровськ за російського панування, Ежеренай з 1919 року і Зарасай з 1929-го."
+    }
+  ],
+  "highlightPhoto": "2026-07-18-photo-18-07-2026-14-20-35.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Zarasų ežeras su miesteliu pakrantėje",
+    "en": "Lake Zarasas with the town of Zarasai on its shore",
+    "uk": "Озеро Зарасас із містечком Зарасай на березі"
+  },
+  "photos": [
+    "2026-07-18-photo-18-07-2026-13-36-49.jpg",
+    "2026-07-18-photo-18-07-2026-13-37-14.jpg",
+    "2026-07-18-photo-18-07-2026-13-37-43.jpg",
+    "2026-07-18-photo-18-07-2026-13-38-40.jpg",
+    "2026-07-18-photo-18-07-2026-13-40-16.jpg",
+    "2026-07-18-photo-18-07-2026-13-41-19.jpg",
+    "2026-07-18-photo-18-07-2026-13-42-31.jpg",
+    "2026-07-18-photo-18-07-2026-13-42-33.jpg",
+    "2026-07-18-photo-18-07-2026-13-43-59.jpg",
+    "2026-07-18-photo-18-07-2026-13-44-02.jpg",
+    "2026-07-18-photo-18-07-2026-13-45-19.jpg",
+    "2026-07-18-photo-18-07-2026-13-52-27.jpg",
+    "2026-07-18-photo-18-07-2026-13-55-05.jpg",
+    "2026-07-18-photo-18-07-2026-13-59-04.jpg",
+    "2026-07-18-photo-18-07-2026-14-00-32.jpg",
+    "2026-07-18-photo-18-07-2026-14-01-28.jpg",
+    "2026-07-18-photo-18-07-2026-14-08-50.jpg",
+    "2026-07-18-photo-18-07-2026-14-11-02.jpg",
+    "2026-07-18-photo-18-07-2026-14-20-21.jpg",
+    "2026-07-18-photo-18-07-2026-14-20-35.jpg",
+    "2026-07-18-photo-18-07-2026-14-21-44.jpg",
+    "2026-07-18-photo-18-07-2026-14-25-26.jpg",
+    "2026-07-18-photo-18-07-2026-14-25-46.jpg",
+    "2026-07-18-photo-18-07-2026-14-46-06.jpg",
+    "2026-07-18-photo-18-07-2026-14-46-32.jpg",
+    "2026-07-18-photo-18-07-2026-14-46-35.jpg",
+    "2026-07-18-photo-18-07-2026-14-47-25.jpg",
+    "2026-07-18-photo-18-07-2026-14-48-15.jpg",
+    "2026-07-18-photo-18-07-2026-14-49-12.jpg",
+    "2026-07-18-photo-18-07-2026-14-50-51.jpg",
+    "2026-07-18-photo-18-07-2026-15-00-33.jpg",
+    "2026-07-18-photo-18-07-2026-15-00-37.jpg",
+    "2026-07-18-photo-18-07-2026-15-03-01.jpg",
+    "2026-07-18-photo-18-07-2026-15-03-03.jpg",
+    "2026-07-18-photo-18-07-2026-15-03-06.jpg",
+    "2026-07-18-photo-18-07-2026-15-07-59.jpg",
+    "2026-07-18-photo-18-07-2026-15-14-05.jpg",
+    "2026-07-18-photo-18-07-2026-15-14-17.jpg",
+    "2026-07-18-photo-18-07-2026-15-14-49.jpg"
+  ]
+}

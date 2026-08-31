@@ -1,0 +1,120 @@
+{
+  "slug": "europos-parkas",
+  "coordinates": {
+    "lat": 54.8309,
+    "lng": 25.3513
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Europos parkas",
+    "en": "Europos Parkas",
+    "uk": "Європос Паркас"
+  },
+  "shortDescription": {
+    "lt": "Skulptūrų parkas prie geografinio Europos centro netoli Vilniaus.",
+    "en": "An open-air sculpture park at the geographic centre of Europe, near Vilnius.",
+    "uk": "Парк скульптур на географічному центрі Європи поблизу Вільнюса."
+  },
+  "longDescription": {
+    "lt": "Europos parkas yra apie 55 hektarų ploto meno po atviru dangumi muziejus Joneikiškių kaime, maždaug 17 kilometrų nuo Vilniaus, įkurtas 1991 metais tuometinio 23 metų skulptoriaus Gintaro Karoso. Vietovė pasirinkta neatsitiktinai — 1989 metais Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad būtent čia yra geografinis Europos žemyno centras, kurį šiandien žymi granito plokščių memorialas su Europos sostinių pavadinimais ir atstumais. Parke išsibarstę per 90 šiuolaikinio meno kūrinių iš daugiau nei 27 šalių, tarp jų — pasaulinį Gineso rekordą pelnęs „LNK Infomedis“, sukonstruotas iš senų televizorių.",
+    "en": "Europos Parkas is a roughly 55-hectare open-air art museum in the village of Joneikiškės, about 17 kilometres from Vilnius, founded in 1991 by then-23-year-old sculptor Gintaras Karosas. The location was no accident: in 1989 the French National Geographic Institute calculated that the geographic centre of the European continent lies here, a spot now marked by a monument of granite slabs bearing the names of European capitals and their distances from the centre. The park scatters more than 90 works of contemporary art from over 27 countries across its grounds, including 'LNK Infomedis', a Guinness World Record holder built from old television sets.",
+    "uk": "Європос Паркас — музей мистецтва просто неба площею близько 55 гектарів у селі Йонейкішкес, приблизно за 17 кілометрів від Вільнюса, заснований у 1991 році тодішнім 23-річним скульптором Гінтарасом Каросасом. Місце обрали не випадково: у 1989 році Французький національний географічний інститут визначив, що саме тут розташований географічний центр європейського континенту, який сьогодні позначає меморіал із гранітних плит з назвами європейських столиць і відстанями від центру. У парку розташовано понад 90 творів сучасного мистецтва з понад 27 країн, серед них — «LNK Інфомедіс», рекордсмен Книги рекордів Гіннеса, збудований зі старих телевізорів."
+  },
+  "facts": [
+    {
+      "lt": "1989 metais Prancūzijos nacionalinis geografijos institutas nustatė, kad geografinis Europos centras yra būtent šioje vietoje.",
+      "en": "In 1989 the French National Geographic Institute determined that the geographic centre of Europe lies at this exact spot.",
+      "uk": "У 1989 році Французький національний географічний інститут визначив, що географічний центр Європи розташований саме тут."
+    },
+    {
+      "lt": "Parką 1991 metais įkūrė tuomet vos 23 metų skulptorius Gintaras Karosas.",
+      "en": "The park was founded in 1991 by sculptor Gintaras Karosas, who was only 23 years old at the time.",
+      "uk": "Парк заснував у 1991 році скульптор Гінтарас Каросас, якому тоді було лише 23 роки."
+    },
+    {
+      "lt": "Skulptūra „LNK Infomedis“, sukurta iš senų televizorių, įtraukta į Gineso rekordų knygą kaip didžiausias tokio tipo objektas.",
+      "en": "The sculpture 'LNK Infomedis', made from old television sets, is recorded in the Guinness Book of Records as the largest object of its kind.",
+      "uk": "Скульптура «LNK Інфомедіс», зроблена зі старих телевізорів, занесена до Книги рекордів Гіннеса як найбільший об'єкт такого типу."
+    }
+  ],
+  "highlightPhoto": "2023-07-16-photo-2023-07-16-16-33-16.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Skulptūros Europos parko pievoje",
+    "en": "Sculptures on the open lawn of Europos Parkas",
+    "uk": "Скульптури на відкритому газоні Європос Паркас"
+  },
+  "photos": [
+    "2023-07-16-photo-2023-07-16-15-49-06.jpg",
+    "2023-07-16-photo-2023-07-16-15-50-47.jpg",
+    "2023-07-16-photo-2023-07-16-15-54-44.jpg",
+    "2023-07-16-photo-2023-07-16-15-57-55.jpg",
+    "2023-07-16-photo-2023-07-16-15-58-13.jpg",
+    "2023-07-16-photo-2023-07-16-15-59-59.jpg",
+    "2023-07-16-photo-2023-07-16-16-01-23.jpg",
+    "2023-07-16-photo-2023-07-16-16-02-48.jpg",
+    "2023-07-16-photo-2023-07-16-16-02-53.jpg",
+    "2023-07-16-photo-2023-07-16-16-03-25.jpg",
+    "2023-07-16-photo-2023-07-16-16-03-48.jpg",
+    "2023-07-16-photo-2023-07-16-16-05-01.jpg",
+    "2023-07-16-photo-2023-07-16-16-06-02.jpg",
+    "2023-07-16-photo-2023-07-16-16-06-49.jpg",
+    "2023-07-16-photo-2023-07-16-16-07-28.jpg",
+    "2023-07-16-photo-2023-07-16-16-08-22.jpg",
+    "2023-07-16-photo-2023-07-16-16-12-00.jpg",
+    "2023-07-16-photo-2023-07-16-16-13-43.jpg",
+    "2023-07-16-photo-2023-07-16-16-22-20.jpg",
+    "2023-07-16-photo-2023-07-16-16-23-01.jpg",
+    "2023-07-16-photo-2023-07-16-16-23-03.jpg",
+    "2023-07-16-photo-2023-07-16-16-24-21.jpg",
+    "2023-07-16-photo-2023-07-16-16-24-25.jpg",
+    "2023-07-16-photo-2023-07-16-16-25-42.jpg",
+    "2023-07-16-photo-2023-07-16-16-26-54.jpg",
+    "2023-07-16-photo-2023-07-16-16-27-11.jpg",
+    "2023-07-16-photo-2023-07-16-16-28-36.jpg",
+    "2023-07-16-photo-2023-07-16-16-28-37.jpg",
+    "2023-07-16-photo-2023-07-16-16-30-10.jpg",
+    "2023-07-16-photo-2023-07-16-16-31-39.jpg",
+    "2023-07-16-photo-2023-07-16-16-32-00.jpg",
+    "2023-07-16-photo-2023-07-16-16-32-16.jpg",
+    "2023-07-16-photo-2023-07-16-16-32-46.jpg",
+    "2023-07-16-photo-2023-07-16-16-33-16.jpg",
+    "2023-07-16-photo-2023-07-16-16-34-30.jpg",
+    "2023-07-16-photo-2023-07-16-16-37-08.jpg",
+    "2023-07-16-photo-2023-07-16-16-37-50.jpg",
+    "2023-07-16-photo-2023-07-16-16-40-33.jpg",
+    "2023-07-16-photo-2023-07-16-16-41-39.jpg",
+    "2023-07-16-photo-2023-07-16-16-42-55.jpg",
+    "2023-07-16-photo-2023-07-16-16-43-01.jpg",
+    "2023-07-16-photo-2023-07-16-16-47-35.jpg",
+    "2023-07-16-photo-2023-07-16-16-50-53.jpg",
+    "2023-07-16-photo-2023-07-16-16-53-23.jpg",
+    "2023-07-16-photo-2023-07-16-16-56-03.jpg",
+    "2023-07-16-photo-2023-07-16-17-00-13.jpg",
+    "2023-07-16-photo-2023-07-16-17-00-33.jpg",
+    "2023-07-16-photo-2023-07-16-17-02-30.jpg",
+    "2023-07-16-photo-2023-07-16-17-04-11.jpg",
+    "2023-07-16-photo-2023-07-16-17-05-13.jpg",
+    "2023-07-16-photo-2023-07-16-17-06-02.jpg",
+    "2023-07-16-photo-2023-07-16-17-06-48.jpg",
+    "2023-07-16-photo-2023-07-16-17-08-02.jpg",
+    "2023-07-16-photo-2023-07-16-17-11-00.jpg",
+    "2023-07-16-photo-2023-07-16-17-12-47.jpg",
+    "2023-07-16-photo-2023-07-16-17-14-40.jpg",
+    "2023-07-16-photo-2023-07-16-17-15-48.jpg",
+    "2023-07-16-photo-2023-07-16-17-17-08.jpg",
+    "2023-07-16-photo-2023-07-16-17-19-37.jpg",
+    "2023-07-16-photo-2023-07-16-17-20-23.jpg",
+    "2023-07-16-photo-2023-07-16-17-22-12.jpg",
+    "2023-07-16-photo-2023-07-16-17-23-05.jpg",
+    "2023-07-16-photo-2023-07-16-17-24-51.jpg",
+    "2023-07-16-photo-2023-07-16-17-25-52.jpg",
+    "2023-07-16-photo-2023-07-16-17-28-25.jpg",
+    "2023-07-16-photo-2023-07-16-17-29-15.jpg",
+    "2023-07-16-photo-2023-07-16-17-29-19.jpg"
+  ]
+}

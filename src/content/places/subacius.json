@@ -1,0 +1,72 @@
+{
+  "slug": "subacius",
+  "coordinates": {
+    "lat": 55.7333,
+    "lng": 24.95
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Subačius",
+    "en": "Subačius",
+    "uk": "Субачюс"
+  },
+  "shortDescription": {
+    "lt": "Kupiškio rajono miestelis prie Viešintos upės su XIX amžiaus akmenine sandėlio bažnyčia ir Švč. Trejybės bažnyčia.",
+    "en": "A Kupiškis district town on the Viešinta river, with a 19th-century stone warehouse and Holy Trinity church.",
+    "uk": "Містечко Купіського району на річці Вєшінта, з кам'яним складом і церквою Пресвятої Трійці XIX століття."
+  },
+  "longDescription": {
+    "lt": "Senasis Subačius pirmą kartą paminėtas dar XVI amžiuje, o dabartinis miestelis, stovintis prie Viešintos upės apie 14 kilometrų į vakarus nuo Kupiškio, datuojamas 1837 metais. Miesto teises jis gavo 1958 metais. Iki Pirmojo pasaulinio karo Subačius buvo svarbus punktas kelyje tarp Panevėžio ir Kupiškio. Iki šių dienų išliko apie 1856 metus statytas akmeninis sandėlis „Magazinas“ ir 1884 metais romantizmo bei baroko stiliais statyta Švč. Trejybės bažnyčia.",
+    "en": "Old Subačius was first mentioned back in the 16th century, while the present town, standing on the Viešinta river about 14 km west of Kupiškis, dates its founding to 1837. It received city rights in 1958. Before World War I, Subačius was an important stop on the road between Panevėžys and Kupiškis. A stone warehouse known as 'Magazinas,' built around 1856, and the Holy Trinity church, built in 1884 in a Romanticist and Baroque style, survive to this day.",
+    "uk": "Старий Субачюс вперше згадується ще у XVI столітті, а нинішнє містечко, розташоване на річці Вєшінта приблизно за 14 км на захід від Купішкіса, веде свою історію з 1837 року. Міські права воно отримало у 1958 році. До Першої світової війни Субачюс був важливим пунктом на шляху між Панєвєжісом і Купішкісом. До наших днів збереглися кам'яний склад «Магазинас», збудований близько 1856 року, та церква Пресвятої Трійці 1884 року в стилі романтизму та бароко."
+  },
+  "facts": [
+    {
+      "lt": "Senasis Subačius minimas jau XVI amžiuje, o dabartinis miestelis kildinamas iš 1837 metų.",
+      "en": "Old Subačius is mentioned as early as the 16th century, while the present town dates its founding to 1837.",
+      "uk": "Старий Субачюс згадується ще у XVI столітті, а нинішнє містечко веде свою історію з 1837 року."
+    },
+    {
+      "lt": "Miestelis stovi prie Viešintos upės, apie 14 kilometrų į vakarus nuo Kupiškio.",
+      "en": "The town sits on the Viešinta river, about 14 km west of Kupiškis.",
+      "uk": "Містечко стоїть на річці Вєшінта, приблизно за 14 км на захід від Купішкіса."
+    },
+    {
+      "lt": "Iki šių dienų išliko 1884 metais statyta Švč. Trejybės bažnyčia ir apie 1856 metus pastatytas akmeninis sandėlis.",
+      "en": "The 1884 Holy Trinity church and a stone warehouse from around 1856 survive as local landmarks.",
+      "uk": "До наших днів збереглися церква Пресвятої Трійці 1884 року та кам'яний склад, збудований близько 1856 року."
+    }
+  ],
+  "highlightPhoto": "2025-05-25-photo-25-05-2025-13-09-41.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Švč. Trejybės bažnyčia Subačiuje",
+    "en": "The Holy Trinity church in Subačius",
+    "uk": "Церква Пресвятої Трійці в Субачюсі"
+  },
+  "photos": [
+    "2025-05-25-photo-25-05-2025-12-58-00.jpg",
+    "2025-05-25-photo-25-05-2025-12-58-02.jpg",
+    "2025-05-25-photo-25-05-2025-13-00-45.jpg",
+    "2025-05-25-photo-25-05-2025-13-01-42.jpg",
+    "2025-05-25-photo-25-05-2025-13-02-36.jpg",
+    "2025-05-25-photo-25-05-2025-13-03-40.jpg",
+    "2025-05-25-photo-25-05-2025-13-05-13.jpg",
+    "2025-05-25-photo-25-05-2025-13-07-00.jpg",
+    "2025-05-25-photo-25-05-2025-13-09-06.jpg",
+    "2025-05-25-photo-25-05-2025-13-09-41.jpg",
+    "2025-05-25-photo-25-05-2025-13-10-44.jpg",
+    "2025-05-25-photo-25-05-2025-13-17-14.jpg",
+    "2025-05-25-photo-25-05-2025-13-18-19.jpg",
+    "2025-05-25-photo-25-05-2025-13-21-44.jpg",
+    "2025-05-25-photo-25-05-2025-13-22-42.jpg",
+    "2025-05-25-photo-25-05-2025-13-27-14.jpg",
+    "2025-05-25-photo-25-05-2025-13-28-02.jpg",
+    "2025-05-25-photo-25-05-2025-13-30-12.jpg",
+    "2025-05-25-photo-25-05-2025-13-34-51.jpg"
+  ]
+}

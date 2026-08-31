@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "Lithuania Travels",
+    "tagline": "Places I've visited around Lithuania"
+  },
+  "nav": {
+    "map": "Map",
+    "places": "All places",
+    "home": "Home"
+  },
+  "home": {
+    "intro": "An interactive map of places I've visited around Lithuania. Click a dot to see a photo and a short description.",
+    "browseAll": "Browse the full list of places",
+    "mapUnavailable": "If the map doesn't load, you'll find a full list of places below."
+  },
+  "place": {
+    "explore": "Learn more",
+    "backToMap": "Back to map",
+    "backToList": "Back to list",
+    "facts": "Interesting facts",
+    "gallery": "Photo gallery",
+    "photoCount": "photos",
+    "page": "Page",
+    "nextPage": "Next page",
+    "prevPage": "Previous page",
+    "visited": "Visited"
+  },
+  "placesList": {
+    "title": "All places",
+    "count": "places"
+  },
+  "footer": {
+    "text": "A personal travel map of Lithuania."
+  },
+  "langSwitch": {
+    "label": "Language"
+  }
+}

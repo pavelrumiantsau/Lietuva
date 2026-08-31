@@ -1,0 +1,85 @@
+{
+  "slug": "svencionys",
+  "coordinates": {
+    "lat": 55.1333,
+    "lng": 26.1667
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Švenčionys",
+    "en": "Švenčionys",
+    "uk": "Швенчьоніс"
+  },
+  "shortDescription": {
+    "lt": "Senas pasienio miestas prie Baltarusijos sienos, kurio ištakos siekia XIII amžių.",
+    "en": "An old town near the Belarusian border, with roots reaching back to the 13th century.",
+    "uk": "Старе прикордонне місто біля кордону з Білоруссю, чиї корені сягають XIII століття."
+  },
+  "longDescription": {
+    "lt": "Švenčionys yra senas miestas, kurio ištakos siejamos su XIII amžiumi, nors rašytiniuose šaltiniuose jis pirmą kartą paminėtas tik XV amžiuje. Miesto teises Švenčionys gavo 1800 metais, o 1837 metais mieste jau stovėjo 223 namų valdos, katalikų ir stačiatikių bažnyčios, dvi sinagogos, 30 parduotuvių ir 34 smuklės — tai liudija greitą miesto, kaip administracinio, ekonominio ir kultūrinio centro, augimą. Miestas yra Švenčionių rajono savivaldybės centras, Vilniaus apskrityje, netoli Baltarusijos sienos, ir yra atskiras nuo netoliese esančio geležinkelio miesto Švenčionėlių.",
+    "en": "Švenčionys is an old town whose origins are traced to the 13th century, though it is first named in written sources only in the 15th century. It received city rights in 1800, and by 1837 the town already had 223 households, a Catholic church, an Orthodox church, two synagogues, 30 shops and 34 taverns — evidence of its rapid growth as an administrative, economic and cultural centre. Švenčionys is the seat of Švenčionys district municipality in Vilnius county, near the border with Belarus, and is a separate town from the nearby railway town of Švenčionėliai.",
+    "uk": "Швенчьоніс — старе місто, чиї витоки простежуються до XIII століття, хоча у писемних джерелах воно вперше згадується лише у XV столітті. Місто отримало міські права у 1800 році, а вже у 1837 році нараховувало 223 садиби, католицький та православний храми, дві синагоги, 30 крамниць і 34 корчми — свідчення швидкого зростання як адміністративного, економічного та культурного центру. Швенчьоніс — центр Швенчьоніського районного самоврядування Вільнюського повіту, поблизу кордону з Білоруссю, і є окремим містом від сусіднього залізничного Швенчьонеляй."
+  },
+  "facts": [
+    {
+      "lt": "Švenčionių ištakos siejamos su XIII amžiumi, tačiau rašytiniuose šaltiniuose jie pirmą kartą minimi XV amžiuje.",
+      "en": "Švenčionys traces its origins to the 13th century, though it is first named in written sources in the 15th century.",
+      "uk": "Витоки Швенчьоніса сягають XIII століття, хоча у писемних джерелах він вперше згадується у XV столітті."
+    },
+    {
+      "lt": "1800 metais gavęs miesto teises, 1837 metais Švenčionys jau turėjo katalikų ir stačiatikių bažnyčias, dvi sinagogas, 30 parduotuvių ir 34 smukles.",
+      "en": "After receiving city rights in 1800, by 1837 Švenčionys had a Catholic church, an Orthodox church, two synagogues, 30 shops and 34 taverns.",
+      "uk": "Отримавши міські права у 1800 році, вже у 1837 році Швенчьоніс мав католицьку і православну церкви, дві синагоги, 30 крамниць і 34 корчми."
+    },
+    {
+      "lt": "Miestas yra Švenčionių rajono savivaldybės centras netoli Baltarusijos sienos ir skiriasi nuo netoli esančių Švenčionėlių.",
+      "en": "The town is the seat of Švenčionys district municipality near the Belarusian border, and is distinct from the nearby town of Švenčionėliai.",
+      "uk": "Місто є центром Швенчьоніського районного самоврядування поблизу кордону з Білоруссю і відрізняється від сусіднього Швенчьонеляй."
+    }
+  ],
+  "highlightPhoto": "2024-03-31-photo-31-03-2024-15-38-04.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Švenčionių senamiesčio gatvė ir bažnyčia",
+    "en": "A street in the Švenčionys old town, with its church",
+    "uk": "Вулиця старого міста Швенчьоніс із церквою"
+  },
+  "photos": [
+    "2024-03-31-photo-31-03-2024-15-17-18.jpg",
+    "2024-03-31-photo-31-03-2024-15-17-20.jpg",
+    "2024-03-31-photo-31-03-2024-15-17-31.jpg",
+    "2024-03-31-photo-31-03-2024-15-18-09.jpg",
+    "2024-03-31-photo-31-03-2024-15-19-02.jpg",
+    "2024-03-31-photo-31-03-2024-15-19-14.jpg",
+    "2024-03-31-photo-31-03-2024-15-20-01.jpg",
+    "2024-03-31-photo-31-03-2024-15-22-02.jpg",
+    "2024-03-31-photo-31-03-2024-15-23-03.jpg",
+    "2024-03-31-photo-31-03-2024-15-23-04.jpg",
+    "2024-03-31-photo-31-03-2024-15-23-21.jpg",
+    "2024-03-31-photo-31-03-2024-15-26-13.jpg",
+    "2024-03-31-photo-31-03-2024-15-30-46.jpg",
+    "2024-03-31-photo-31-03-2024-15-30-48.jpg",
+    "2024-03-31-photo-31-03-2024-15-32-06.jpg",
+    "2024-03-31-photo-31-03-2024-15-34-24.jpg",
+    "2024-03-31-photo-31-03-2024-15-38-04.jpg",
+    "2024-03-31-photo-31-03-2024-15-42-03.jpg",
+    "2024-03-31-photo-31-03-2024-15-42-44.jpg",
+    "2024-03-31-photo-31-03-2024-15-43-16.jpg",
+    "2024-03-31-photo-31-03-2024-15-45-32.jpg",
+    "2024-03-31-photo-31-03-2024-15-48-26.jpg",
+    "2024-03-31-photo-31-03-2024-15-54-22.jpg",
+    "2024-03-31-photo-31-03-2024-15-55-25.jpg",
+    "2024-03-31-photo-31-03-2024-15-56-03.jpg",
+    "2024-03-31-photo-31-03-2024-15-56-08.jpg",
+    "2024-03-31-photo-31-03-2024-15-56-11.jpg",
+    "2024-03-31-photo-31-03-2024-15-59-13.jpg",
+    "2024-03-31-photo-31-03-2024-16-01-26.jpg",
+    "2024-03-31-photo-31-03-2024-16-01-58.jpg",
+    "2024-03-31-photo-31-03-2024-16-03-10.jpg",
+    "2024-03-31-photo-31-03-2024-16-03-22.jpg"
+  ]
+}

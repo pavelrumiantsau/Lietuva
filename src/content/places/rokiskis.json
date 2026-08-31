@@ -1,0 +1,114 @@
+{
+  "slug": "rokiskis",
+  "coordinates": {
+    "lat": 55.9667,
+    "lng": 25.5833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Rokiškis",
+    "en": "Rokiškis",
+    "uk": "Рокішкіс"
+  },
+  "shortDescription": {
+    "lt": "Šiaurės rytų Lietuvos miestas, kurio centre – Tyzenhauzų giminės neoklasicistiniai rūmai.",
+    "en": "A northeastern town centered on the neoclassical manor palace of the Tyzenhaus family.",
+    "uk": "Місто на північному сході Литви з неокласичним палацом роду Тизенгаузів у центрі."
+  },
+  "longDescription": {
+    "lt": "Rokiškio dvaras suklestėjo XVIII amžiaus pabaigoje, kai jo savininku tapo Ignotas Tyzenhauzas, pastatęs neoklasicistinius rūmus ir sukūręs kraštovaizdžio parką su tvenkiniais. Jo sūnus Konstantinas Tyzenhauzas, žymus ornitologas, dvarą pavertė mokslo centru su šiltnamiais ir egzotiniais augalais. 1905 metais dvarą renovavo Jonas Pšezdzieckis. Šiandien rūmuose veikia Rokiškio krašto muziejus.",
+    "en": "Rokiškis manor flourished in the late 18th century under Ignacy Tyzenhaus, who built the neoclassical palace and landscaped the surrounding park with its ponds. His son, the noted ornithologist Konstantin Tyzenhaus, turned the estate into a scientific hub with greenhouses and exotic plants. In 1905 the manor was renovated by Jonas Przezdziecki. Today the palace houses the Rokiškis Regional Museum.",
+    "uk": "Маєток Рокішкіс розквітнув наприкінці XVIII століття за Ігнація Тизенгауза, який збудував неокласичний палац і розбив навколишній парк зі ставками. Його син, відомий орнітолог Костянтин Тизенгауз, перетворив маєток на науковий центр з оранжереями та екзотичними рослинами. 1905 року маєток реставрував Ян Пшездзецький. Сьогодні в палаці розташований Рокішкіський краєзнавчий музей."
+  },
+  "facts": [
+    {
+      "lt": "Neoklasicistinius Rokiškio rūmus XVIII amžiaus pabaigoje pastatė Ignotas Tyzenhauzas.",
+      "en": "The neoclassical Rokiškis manor palace was built for Ignacy Tyzenhaus in the late 18th century.",
+      "uk": "Неокласичний палац у Рокішкісі збудували наприкінці XVIII століття для Ігнація Тизенгауза."
+    },
+    {
+      "lt": "Jo sūnus, ornitologas Konstantinas Tyzenhauzas, dvarą pavertė mokslinių tyrimų centru.",
+      "en": "His son, ornithologist Konstantin Tyzenhaus, turned the estate into a scientific research hub.",
+      "uk": "Його син, орнітолог Костянтин Тизенгауз, перетворив маєток на науково-дослідний центр."
+    },
+    {
+      "lt": "Nuo XX amžiaus 5-ojo dešimtmečio rūmuose veikia Rokiškio krašto muziejus.",
+      "en": "The palace has housed the Rokiškis Regional Museum since the 1940s.",
+      "uk": "З 1940-х років у палаці розташований Рокішкіський краєзнавчий музей."
+    }
+  ],
+  "highlightPhoto": "2025-08-30-photo-30-08-2025-15-49-16.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Rokiškio dvaro rūmai ir parkas",
+    "en": "The Rokiškis manor palace and its park",
+    "uk": "Палац маєтку Рокішкіс і його парк"
+  },
+  "photos": [
+    "2025-08-30-photo-30-08-2025-15-16-22.jpg",
+    "2025-08-30-photo-30-08-2025-15-16-23.jpg",
+    "2025-08-30-photo-30-08-2025-15-16-25.jpg",
+    "2025-08-30-photo-30-08-2025-15-16-29.jpg",
+    "2025-08-30-photo-30-08-2025-15-16-30.jpg",
+    "2025-08-30-photo-30-08-2025-15-17-31.jpg",
+    "2025-08-30-photo-30-08-2025-15-22-02.jpg",
+    "2025-08-30-photo-30-08-2025-15-22-55.jpg",
+    "2025-08-30-photo-30-08-2025-15-23-24.jpg",
+    "2025-08-30-photo-30-08-2025-15-23-51.jpg",
+    "2025-08-30-photo-30-08-2025-15-24-51.jpg",
+    "2025-08-30-photo-30-08-2025-15-25-18-1.jpg",
+    "2025-08-30-photo-30-08-2025-15-25-18.jpg",
+    "2025-08-30-photo-30-08-2025-15-26-16.jpg",
+    "2025-08-30-photo-30-08-2025-15-29-30.jpg",
+    "2025-08-30-photo-30-08-2025-15-30-11.jpg",
+    "2025-08-30-photo-30-08-2025-15-31-27.jpg",
+    "2025-08-30-photo-30-08-2025-15-33-46.jpg",
+    "2025-08-30-photo-30-08-2025-15-35-06.jpg",
+    "2025-08-30-photo-30-08-2025-15-36-24.jpg",
+    "2025-08-30-photo-30-08-2025-15-37-11.jpg",
+    "2025-08-30-photo-30-08-2025-15-37-14.jpg",
+    "2025-08-30-photo-30-08-2025-15-38-55.jpg",
+    "2025-08-30-photo-30-08-2025-15-39-37.jpg",
+    "2025-08-30-photo-30-08-2025-15-40-03.jpg",
+    "2025-08-30-photo-30-08-2025-15-42-47.jpg",
+    "2025-08-30-photo-30-08-2025-15-42-55.jpg",
+    "2025-08-30-photo-30-08-2025-15-44-11.jpg",
+    "2025-08-30-photo-30-08-2025-15-45-35.jpg",
+    "2025-08-30-photo-30-08-2025-15-48-01.jpg",
+    "2025-08-30-photo-30-08-2025-15-49-16.jpg",
+    "2025-08-30-photo-30-08-2025-15-50-19.jpg",
+    "2025-08-30-photo-30-08-2025-15-50-41.jpg",
+    "2025-08-30-photo-30-08-2025-15-51-33.jpg",
+    "2025-08-30-photo-30-08-2025-15-52-06.jpg",
+    "2025-08-30-photo-30-08-2025-15-57-02.jpg",
+    "2025-08-30-photo-30-08-2025-15-57-57.jpg",
+    "2025-08-30-photo-30-08-2025-15-59-05.jpg",
+    "2025-08-30-photo-30-08-2025-15-59-09.jpg",
+    "2025-08-30-photo-30-08-2025-16-00-21.jpg",
+    "2025-08-30-photo-30-08-2025-16-03-38.jpg",
+    "2025-08-30-photo-30-08-2025-16-09-07.jpg",
+    "2025-08-30-photo-30-08-2025-16-15-25.jpg",
+    "2025-08-30-photo-30-08-2025-16-15-34.jpg",
+    "2025-08-30-photo-30-08-2025-16-29-49.jpg",
+    "2025-08-30-photo-30-08-2025-16-31-06.jpg",
+    "2025-08-30-photo-30-08-2025-16-31-49.jpg",
+    "2025-08-30-photo-30-08-2025-16-32-41.jpg",
+    "2025-08-30-photo-30-08-2025-16-32-44.jpg",
+    "2025-08-30-photo-30-08-2025-16-33-57.jpg",
+    "2025-08-30-photo-30-08-2025-16-37-09.jpg",
+    "2025-08-30-photo-30-08-2025-16-37-13.jpg",
+    "2025-08-30-photo-30-08-2025-16-40-15.jpg",
+    "2025-08-30-photo-30-08-2025-16-41-42.jpg",
+    "2025-08-30-photo-30-08-2025-16-45-54.jpg",
+    "2025-08-30-photo-30-08-2025-16-47-28.jpg",
+    "2025-08-30-photo-30-08-2025-16-53-14.jpg",
+    "2025-08-30-photo-30-08-2025-16-54-01.jpg",
+    "2025-08-30-photo-30-08-2025-17-03-57.jpg",
+    "2025-08-30-photo-30-08-2025-17-05-50.jpg",
+    "2025-08-30-photo-30-08-2025-17-09-57.jpg"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "kretinga",
+  "coordinates": {
+    "lat": 55.8886,
+    "lng": 21.2394
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kretinga",
+    "en": "Kretinga",
+    "uk": "Кретінга"
+  },
+  "shortDescription": {
+    "lt": "Žemaitijos miestas su pranciškonų vienuolynu ir grafų Tiškevičių dvaro parku prie Akmenos upės.",
+    "en": "A Samogitian town with a Franciscan monastery and the Tiškevičius manor park on the Akmena River.",
+    "uk": "Місто в Жемайтії з монастирем францисканців та парком маєтку графів Тишкевичів на річці Акмяна."
+  },
+  "longDescription": {
+    "lt": "Kretinga, viena seniausių Žemaitijos gyvenviečių, žinoma nuo XVI amžiaus, kai čia įsikūrė pranciškonų vienuolynas su didinga barokine bažnyčia, iki šiol dominuojančia miesto centre. XIX amžiaus pabaigoje miestą ir jo apylinkes valdę grafai Tiškevičiai pastatė neorenesansinius rūmus su oranžerija ir juos supančiu kraštovaizdžio parku, kuriame veisė net egzotinius augalus. Šiandien Kretinga, įsikūrusi prie Akmenos upės netoli Klaipėdos, garsėja tiek šiuo dvaro ansambliu, tiek kasmet vykstančiu Vėlykų dieną „Kiaušinis“ turgumi.",
+    "en": "Kretinga, one of the oldest settlements in Samogitia, has been known since the 16th century, when a Franciscan monastery was established here along with an imposing baroque church that still dominates the town centre today. In the late 19th century, the Counts Tiškevičius, who owned the town and its surroundings, built a neo-Renaissance palace with an orangery, surrounded by a landscaped park where they even cultivated exotic plants. Today Kretinga, on the Akmena River near Klaipėda, is known both for this manor ensemble and for its annual Easter Sunday 'Egg' fair.",
+    "uk": "Кретінга — одне з найдавніших поселень Жемайтії, відоме з XVI століття, коли тут заснували монастир францисканців з величною бароковою церквою, яка й досі домінує в центрі міста. Наприкінці XIX століття графи Тишкевичі, які володіли містом і його околицями, збудували неоренесансний палац з оранжереєю, оточений пейзажним парком, де вирощували навіть екзотичні рослини. Сьогодні Кретінга, розташована на річці Акмяна поблизу Клайпеди, відома як цим маєтковим ансамблем, так і щорічним великодніми ярмарком «Kiaušinis» («Яйце»)."
+  },
+  "facts": [
+    {
+      "lt": "Kretingoje nuo XVI amžiaus veikia vienas seniausių pranciškonų vienuolynų Lietuvoje su barokine bažnyčia.",
+      "en": "Kretinga has been home since the 16th century to one of the oldest Franciscan monasteries in Lithuania, with its baroque church.",
+      "uk": "У Кретінзі з XVI століття діє один із найстаріших монастирів францисканців у Литві з бароковою церквою."
+    },
+    {
+      "lt": "Grafai Tiškevičiai XIX amžiaus pabaigoje pastatė neorenesansinius rūmus su oranžerija, kurioje augino egzotinius augalus.",
+      "en": "The Counts Tiškevičius built a neo-Renaissance palace with an orangery in the late 19th century, where they cultivated exotic plants.",
+      "uk": "Наприкінці XIX століття графи Тишкевичі збудували неоренесансний палац з оранжереєю, де вирощували екзотичні рослини."
+    },
+    {
+      "lt": "Kiekvieną Velykų sekmadienį Kretingoje vyksta tradicinis „Kiaušinio“ turgus, sutraukiantis tūkstančius lankytojų.",
+      "en": "Every Easter Sunday, Kretinga hosts the traditional 'Egg' fair, drawing thousands of visitors.",
+      "uk": "Щонеділі Великодня в Кретінзі проходить традиційний ярмарок «Яйце», що приваблює тисячі відвідувачів."
+    }
+  ],
+  "highlightPhoto": "2026-08-09-photo-09-08-2026-11-50-53.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kretingos pranciškonų vienuolyno bažnyčia",
+    "en": "The Franciscan monastery church in Kretinga",
+    "uk": "Церква монастиря францисканців у Кретінзі"
+  },
+  "photos": [
+    "2026-08-09-photo-09-08-2026-11-11-58.jpg",
+    "2026-08-09-photo-09-08-2026-11-12-28.jpg",
+    "2026-08-09-photo-09-08-2026-11-16-02.jpg",
+    "2026-08-09-photo-09-08-2026-11-16-05.jpg",
+    "2026-08-09-photo-09-08-2026-11-24-16.jpg",
+    "2026-08-09-photo-09-08-2026-11-24-47.jpg",
+    "2026-08-09-photo-09-08-2026-11-25-24.jpg",
+    "2026-08-09-photo-09-08-2026-11-26-19.jpg",
+    "2026-08-09-photo-09-08-2026-11-26-59.jpg",
+    "2026-08-09-photo-09-08-2026-11-28-34.jpg",
+    "2026-08-09-photo-09-08-2026-11-29-19.jpg",
+    "2026-08-09-photo-09-08-2026-11-30-38.jpg",
+    "2026-08-09-photo-09-08-2026-11-33-32.jpg",
+    "2026-08-09-photo-09-08-2026-11-33-33.jpg",
+    "2026-08-09-photo-09-08-2026-11-34-09.jpg",
+    "2026-08-09-photo-09-08-2026-11-34-11.jpg",
+    "2026-08-09-photo-09-08-2026-11-35-26.jpg",
+    "2026-08-09-photo-09-08-2026-11-37-37.jpg",
+    "2026-08-09-photo-09-08-2026-11-40-08.jpg",
+    "2026-08-09-photo-09-08-2026-11-40-15.jpg",
+    "2026-08-09-photo-09-08-2026-11-40-24.jpg",
+    "2026-08-09-photo-09-08-2026-11-40-55.jpg",
+    "2026-08-09-photo-09-08-2026-11-40-59.jpg",
+    "2026-08-09-photo-09-08-2026-11-43-03.jpg",
+    "2026-08-09-photo-09-08-2026-11-43-42.jpg",
+    "2026-08-09-photo-09-08-2026-11-44-16.jpg",
+    "2026-08-09-photo-09-08-2026-11-46-34.jpg",
+    "2026-08-09-photo-09-08-2026-11-47-35.jpg",
+    "2026-08-09-photo-09-08-2026-11-50-36.jpg",
+    "2026-08-09-photo-09-08-2026-11-50-53.jpg",
+    "2026-08-09-photo-09-08-2026-11-51-21.jpg",
+    "2026-08-09-photo-09-08-2026-11-52-24.jpg",
+    "2026-08-09-photo-09-08-2026-11-56-28.jpg",
+    "2026-08-09-photo-09-08-2026-11-57-42.jpg",
+    "2026-08-09-photo-09-08-2026-12-05-02.jpg",
+    "2026-08-09-photo-09-08-2026-12-07-05.jpg",
+    "2026-08-09-photo-09-08-2026-12-07-44.jpg",
+    "2026-08-09-photo-09-08-2026-12-09-56.jpg",
+    "2026-08-09-photo-09-08-2026-12-10-17.jpg",
+    "2026-08-09-photo-09-08-2026-12-10-35.jpg",
+    "2026-08-09-photo-09-08-2026-12-11-06.jpg",
+    "2026-08-09-photo-09-08-2026-12-12-43.jpg",
+    "2026-08-09-photo-09-08-2026-12-13-04.jpg",
+    "2026-08-09-photo-09-08-2026-12-19-31.jpg",
+    "2026-08-09-photo-09-08-2026-12-26-49.jpg",
+    "2026-08-09-photo-09-08-2026-12-41-14.jpg",
+    "2026-08-09-photo-09-08-2026-12-44-07.jpg",
+    "2026-08-09-photo-09-08-2026-12-44-21.jpg",
+    "2026-08-09-photo-09-08-2026-12-46-26.jpg",
+    "2026-08-09-photo-09-08-2026-12-46-32.jpg",
+    "2026-08-09-photo-09-08-2026-12-47-05.jpg",
+    "2026-08-09-photo-09-08-2026-12-47-19.jpg",
+    "2026-08-09-photo-09-08-2026-12-49-51.jpg",
+    "2026-08-09-photo-09-08-2026-12-50-23.jpg",
+    "2026-08-09-photo-09-08-2026-12-52-01.jpg",
+    "2026-08-09-photo-09-08-2026-12-55-50.jpg",
+    "2026-08-09-photo-09-08-2026-13-00-58.jpg",
+    "2026-08-09-photo-09-08-2026-13-04-32.jpg",
+    "2026-08-09-photo-09-08-2026-13-05-11.jpg"
+  ]
+}

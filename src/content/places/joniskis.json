@@ -1,0 +1,94 @@
+{
+  "slug": "joniskis",
+  "coordinates": {
+    "lat": 56.2403,
+    "lng": 23.6153
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Joniškis",
+    "en": "Joniškis",
+    "uk": "Йонішкіс"
+  },
+  "shortDescription": {
+    "lt": "Šiaurės Lietuvos rajono centras netoli Latvijos sienos, kadaise buvęs didžiausiu miestu visoje apylinkėje.",
+    "en": "A district capital in northern Lithuania near the Latvian border, once the largest town in the whole surrounding area.",
+    "uk": "Центр району на півночі Литви поблизу кордону з Латвією, колись найбільше місто всієї округи."
+  },
+  "longDescription": {
+    "lt": "Joniškis, pirmą kartą rašytiniuose šaltiniuose paminėtas 1536 metais, yra Joniškio rajono savivaldybės centras, esantis vos 14 kilometrų nuo Latvijos sienos. XVII amžiuje Joniškis dydžiu lenkė net Šiaulius, o XIX amžiuje garsėjo pluoštinių linų, tabako auginimu ir turgais. Miestas priklauso istorinei Žiemgalos žemei ir šiandien laikomas jos lietuviškosios dalies sostine, o senamiestyje išlikusi XIX amžiaus prekybinė aikštė su rotuše primena buvusią miesto svarbą.",
+    "en": "Joniškis, first recorded in written sources in 1536, is the seat of Joniškis district municipality, just 14 kilometres from the Latvian border. In the 17th century Joniškis was actually larger than Šiauliai, and in the 19th century it was known for growing fibre flax and tobacco and for its markets. The town belongs to the historic land of Semigallia and is today regarded as the capital of its Lithuanian portion, and its old town still preserves a 19th-century market square with a town hall recalling its former importance.",
+    "uk": "Йонішкіс, уперше згаданий у письмових джерелах у 1536 році, є центром Йонішкіської районної громади, розташованим лише за 14 кілометрів від кордону з Латвією. У XVII столітті Йонішкіс за розміром навіть перевершував Шяуляй, а у XIX столітті славився вирощуванням прядивного льону й тютюну та ярмарками. Місто належить до історичної землі Жемгали і сьогодні вважається столицею її литовської частини, а в старому місті збереглася торгова площа XIX століття з ратушею, що нагадує про колишнє значення міста."
+  },
+  "facts": [
+    {
+      "lt": "XVII amžiuje Joniškis buvo didesnis miestas nei tuometiniai Šiauliai, aplinkinio rajono centras.",
+      "en": "In the 17th century Joniškis was a larger town than Šiauliai, the centre of the surrounding district at the time.",
+      "uk": "У XVII столітті Йонішкіс був більшим містом, ніж тодішні Шяуляй — центр навколишнього повіту."
+    },
+    {
+      "lt": "Miestas nutolęs vos 14 kilometrų nuo Latvijos sienos, kuri su Joniškio rajonu ribojasi 78 kilometrų ruožu.",
+      "en": "The town lies just 14 kilometres from the Latvian border, which runs alongside Joniškis district for 78 kilometres.",
+      "uk": "Місто розташоване лише за 14 кілометрів від кордону з Латвією, який тягнеться вздовж Йонішкіського району на 78 кілометрів."
+    },
+    {
+      "lt": "Joniškis laikomas dabartinės Lietuvos dalies, priklausiusios senajai Žiemgalos žemei, sostine.",
+      "en": "Joniškis is regarded as the capital of the present-day Lithuanian portion of the historic land of Semigallia.",
+      "uk": "Йонішкіс вважається столицею сучасної литовської частини історичної землі Жемгали."
+    }
+  ],
+  "highlightPhoto": "2026-06-07-photo-07-06-2026-16-08-44.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Joniškio senamiesčio turgaus aikštė ir rotušė",
+    "en": "Joniškis old town market square and town hall",
+    "uk": "Торгова площа та ратуша старого міста Йонішкіс"
+  },
+  "photos": [
+    "2026-06-07-photo-07-06-2026-15-42-59.jpg",
+    "2026-06-07-photo-07-06-2026-15-43-13.jpg",
+    "2026-06-07-photo-07-06-2026-15-44-15.jpg",
+    "2026-06-07-photo-07-06-2026-15-45-33.jpg",
+    "2026-06-07-photo-07-06-2026-15-46-33.jpg",
+    "2026-06-07-photo-07-06-2026-15-46-38.jpg",
+    "2026-06-07-photo-07-06-2026-15-48-17.jpg",
+    "2026-06-07-photo-07-06-2026-15-49-31.jpg",
+    "2026-06-07-photo-07-06-2026-15-49-49.jpg",
+    "2026-06-07-photo-07-06-2026-15-49-56.jpg",
+    "2026-06-07-photo-07-06-2026-15-50-38.jpg",
+    "2026-06-07-photo-07-06-2026-15-51-03.jpg",
+    "2026-06-07-photo-07-06-2026-15-52-08.jpg",
+    "2026-06-07-photo-07-06-2026-15-52-27.jpg",
+    "2026-06-07-photo-07-06-2026-15-54-03.jpg",
+    "2026-06-07-photo-07-06-2026-15-54-04.jpg",
+    "2026-06-07-photo-07-06-2026-15-55-43.jpg",
+    "2026-06-07-photo-07-06-2026-15-58-14.jpg",
+    "2026-06-07-photo-07-06-2026-15-59-31.jpg",
+    "2026-06-07-photo-07-06-2026-16-00-35.jpg",
+    "2026-06-07-photo-07-06-2026-16-08-44.jpg",
+    "2026-06-07-photo-07-06-2026-16-08-48.jpg",
+    "2026-06-07-photo-07-06-2026-16-09-26.jpg",
+    "2026-06-07-photo-07-06-2026-16-10-59.jpg",
+    "2026-06-07-photo-07-06-2026-16-12-24.jpg",
+    "2026-06-07-photo-07-06-2026-16-12-45.jpg",
+    "2026-06-07-photo-07-06-2026-16-14-02.jpg",
+    "2026-06-07-photo-07-06-2026-16-16-14.jpg",
+    "2026-06-07-photo-07-06-2026-16-16-50.jpg",
+    "2026-06-07-photo-07-06-2026-16-18-23.jpg",
+    "2026-06-07-photo-07-06-2026-16-19-03.jpg",
+    "2026-06-07-photo-07-06-2026-16-19-49.jpg",
+    "2026-06-07-photo-07-06-2026-16-20-13.jpg",
+    "2026-06-07-photo-07-06-2026-16-21-57.jpg",
+    "2026-06-07-photo-07-06-2026-16-22-16.jpg",
+    "2026-06-07-photo-07-06-2026-16-24-00.jpg",
+    "2026-06-07-photo-07-06-2026-16-24-11.jpg",
+    "2026-06-07-photo-07-06-2026-16-24-51.jpg",
+    "2026-06-07-photo-07-06-2026-16-38-38.jpg",
+    "2026-06-07-photo-07-06-2026-16-39-04.jpg",
+    "2026-06-07-photo-07-06-2026-16-43-18.jpg"
+  ]
+}

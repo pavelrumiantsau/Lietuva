@@ -1,0 +1,75 @@
+{
+  "slug": "nemencine",
+  "coordinates": {
+    "lat": 54.8447,
+    "lng": 25.4453
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Nemenčinė",
+    "en": "Nemenčinė",
+    "uk": "Няменчіне"
+  },
+  "shortDescription": {
+    "lt": "Miestelis prie dviejų upių santakos šalia Vilniaus, kuriame gyvena lenkų daugumos gyventojai ir siekia gilias viduramžių šaknis.",
+    "en": "A town at the meeting of two rivers just outside Vilnius, with a Polish-majority population and deep medieval roots.",
+    "uk": "Містечко на злитті двох річок неподалік Вільнюса, де переважає польськомовне населення й сягають глибокі середньовічні коріння."
+  },
+  "longDescription": {
+    "lt": "Nemenčinė įsikūrusi apie septynis kilometrus į šiaurės rytus nuo Vilniaus, ten, kur nedidelis Nemenčios upelis įteka į Nerį, ir iš jo yra kilęs miestelio pavadinimas. Pirmą kartą paminėta 1338 metais, ypatingos reikšmės ji įgavo 1387 metais, tuoj po oficialaus Lietuvos krikšto, kai didysis kunigaikštis Jogaila čia įkūrė vieną pirmųjų krikščioniškų parapijų ir pastatė bažnyčią. Šiandien Nemenčinėje gyvena didelė lenkakalbių dauguma — daugiau nei pusė gyventojų, o Lietuvos nepriklausomybės atkūrimo laikotarpiu ji buvo neoficialiai vadinama Vilniaus krašto „Lenkijos sostine“.",
+    "en": "Nemenčinė sits about seven kilometers northeast of Vilnius, at the point where the small Nemenčia stream meets the Neris river, and takes its name from that stream. First mentioned in 1338, it gained particular significance in 1387, right after Lithuania's official Christianization, when Grand Duke Jogaila founded one of the country's first Christian parishes and built a church here. Today Nemenčinė has a large Polish-speaking majority — over half its population — and during Lithuania's independence movement it was informally dubbed the 'Polish capital' of the Vilnius region.",
+    "uk": "Няменчіне розташоване приблизно за сім кілометрів на північний схід від Вільнюса, там, де невеликий струмок Няменчя впадає в річку Няріс, і саме від нього походить назва містечка. Уперше згадане 1338 року, особливого значення воно набуло 1387 року, одразу після офіційного хрещення Литви, коли великий князь Ягайло заснував тут одну з перших християнських парафій і збудував церкву. Сьогодні в Няменчіне проживає велика польськомовна більшість — понад половину населення, а за часів руху за відновлення незалежності Литви його неофіційно називали «польською столицею» Вільнюського краю."
+  },
+  "facts": [
+    {
+      "lt": "Nemenčinė pirmą kartą paminėta 1338 metais, o 1387 metais čia didysis kunigaikštis Jogaila įkūrė vieną pirmųjų krikščioniškų parapijų Lietuvoje.",
+      "en": "Nemenčinė was first mentioned in 1338 and gained one of Lithuania's first Christian parishes in 1387, founded by Grand Duke Jogaila.",
+      "uk": "Няменчіне вперше згадується 1338 року, а 1387 року великий князь Ягайло заснував тут одну з перших християнських парафій у Литві."
+    },
+    {
+      "lt": "Daugiau nei pusė miestelio gyventojų yra lenkakalbiai, o kadaise jis buvo neoficialiai vadinamas Vilniaus krašto „Lenkijos sostine“.",
+      "en": "Over half of the town's residents are Polish-speaking, and it was once unofficially called the 'Polish capital' of the Vilnius region.",
+      "uk": "Понад половина мешканців містечка є польськомовними, і колись його неофіційно називали «польською столицею» Вільнюського краю."
+    },
+    {
+      "lt": "Miestelio pavadinimas kilęs nuo nedidelio Nemenčios upelio, kuris būtent Nemenčinėje įteka į Nerį.",
+      "en": "The town's name comes from the small Nemenčia stream, which flows into the Neris river right at Nemenčinė.",
+      "uk": "Назва містечка походить від невеликого струмка Няменчя, який саме в Няменчіне впадає в річку Няріс."
+    }
+  ],
+  "highlightPhoto": "2023-01-08-photo-2023-01-08-12-53-57.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Nemenčios upelio ir Neries santaka Nemenčinėje",
+    "en": "The confluence of the Nemenčia stream and the Neris river at Nemenčinė",
+    "uk": "Злиття струмка Няменчя з річкою Няріс у Няменчіне"
+  },
+  "photos": [
+    "2023-01-08-photo-2023-01-08-12-37-29.jpg",
+    "2023-01-08-photo-2023-01-08-12-37-33.jpg",
+    "2023-01-08-photo-2023-01-08-12-39-17.jpg",
+    "2023-01-08-photo-2023-01-08-12-41-11.jpg",
+    "2023-01-08-photo-2023-01-08-12-43-53.jpg",
+    "2023-01-08-photo-2023-01-08-12-43-58.jpg",
+    "2023-01-08-photo-2023-01-08-12-45-13.jpg",
+    "2023-01-08-photo-2023-01-08-12-47-19.jpg",
+    "2023-01-08-photo-2023-01-08-12-48-31.jpg",
+    "2023-01-08-photo-2023-01-08-12-48-50.jpg",
+    "2023-01-08-photo-2023-01-08-12-50-11.jpg",
+    "2023-01-08-photo-2023-01-08-12-53-57.jpg",
+    "2023-01-08-photo-2023-01-08-12-55-59.jpg",
+    "2023-01-08-photo-2023-01-08-12-57-02.jpg",
+    "2023-01-08-photo-2023-01-08-12-57-18.jpg",
+    "2023-01-08-photo-2023-01-08-12-57-55.jpg",
+    "2023-01-08-photo-2023-01-08-12-59-12.jpg",
+    "2023-01-08-photo-2023-01-08-12-59-46.jpg",
+    "2023-01-08-photo-2023-01-08-13-00-33.jpg",
+    "2023-01-08-photo-2023-01-08-13-07-01.jpg",
+    "2023-01-08-photo-2023-01-08-13-08-37.jpg",
+    "2023-01-08-photo-2023-01-08-13-10-10.jpg"
+  ]
+}

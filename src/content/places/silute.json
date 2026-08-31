@@ -1,0 +1,133 @@
+{
+  "slug": "silute",
+  "coordinates": {
+    "lat": 55.35,
+    "lng": 21.4833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Šilutė",
+    "en": "Šilutė",
+    "uk": "Шилуте"
+  },
+  "shortDescription": {
+    "lt": "Neoficiali Mažosios Lietuvos sostinė prie Šyšos upės, garsėjanti viena seniausių Europos hipodromų.",
+    "en": "The unofficial capital of Lithuania Minor, on the Šyša river, home to one of Europe's oldest horse-racing tracks.",
+    "uk": "Неофіційна столиця Малої Литви на річці Шиша, відома одним із найстаріших іподромів Європи."
+  },
+  "longDescription": {
+    "lt": "Šilutė, vokiškai vadinta Heydekrug, ilgus amžius buvo kelio smuklė ir prekybos miestelis Mažojoje Lietuvoje. Vienu miestu keturi kaimai — Šilokarčema, Žibai, Verdainė ir Cintijoniškės — sujungti tik 1910 metais. Po 1923 metų Klaipėdos sukilimo Šilutė imta laikyti neoficialia Mažosios Lietuvos sostine. Miestas taip pat garsėja nuo XIX amžiaus veikiančiu hipodromu prie Šyšos upės — vienu seniausių tebeveikiančių žirgų lenktynių takų Europoje.",
+    "en": "Šilutė, known by its German name Heydekrug, was for centuries a roadside inn and market town in Lithuania Minor. Four villages — Šilokarčema, Žibai, Verdainė and Cintijoniškės — were merged into a single town only in 1910. After the pro-Lithuanian Klaipėda Revolt of 1923, Šilutė came to be regarded as the unofficial capital of Lithuania Minor. The town is also known for its hippodrome on the Šyša river, operating since the 19th century and among the oldest still-active horse-racing tracks in Europe.",
+    "uk": "Шилуте, відоме за німецькою назвою Гайдекруг, довгі століття було придорожнім заїздом і торговим містечком Малої Литви. Чотири села — Шилокарчема, Жибай, Вердайне і Цинтіоніщке — об'єднали в одне місто лише 1910 року. Після пролитовського Клайпедського повстання 1923 року Шилуте почали вважати неофіційною столицею Малої Литви. Місто також відоме своїм іподромом на річці Шиша, що діє з XIX століття і є одним із найстаріших досі діючих іподромів Європи."
+  },
+  "facts": [
+    {
+      "lt": "Šilutę sudarę keturi kaimai buvo sujungti į vieną miestą tik 1910 metais.",
+      "en": "The four villages that made up Šilutė were merged into a single town only in 1910.",
+      "uk": "Чотири села, що складали Шилуте, об'єднали в одне місто лише у 1910 році."
+    },
+    {
+      "lt": "Po 1923 metų Klaipėdos sukilimo Šilutė imta vadinti neoficialia Mažosios Lietuvos sostine.",
+      "en": "After the 1923 Klaipėda Revolt, Šilutė became known as the unofficial capital of Lithuania Minor.",
+      "uk": "Після Клайпедського повстання 1923 року Шилуте стали вважати неофіційною столицею Малої Литви."
+    },
+    {
+      "lt": "Miesto hipodromas, veikiantis nuo XIX amžiaus, yra vienas seniausių tebeveikiančių žirgų lenktynių takų Europoje.",
+      "en": "The town's hippodrome, operating since the 19th century, is one of the oldest still-active horse-racing tracks in Europe.",
+      "uk": "Міський іподром, що діє з XIX століття, є одним із найстаріших досі діючих іподромів Європи."
+    }
+  ],
+  "highlightPhoto": "2025-09-20-photo-20-09-2025-15-38-18.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šilutės miesto centras prie Šyšos upės",
+    "en": "Šilutė town centre on the Šyša river",
+    "uk": "Центр Шилуте на річці Шиша"
+  },
+  "photos": [
+    "2025-09-20-photo-20-09-2025-14-55-03.jpg",
+    "2025-09-20-photo-20-09-2025-14-55-24.jpg",
+    "2025-09-20-photo-20-09-2025-14-55-27.jpg",
+    "2025-09-20-photo-20-09-2025-14-55-36.jpg",
+    "2025-09-20-photo-20-09-2025-14-55-38.jpg",
+    "2025-09-20-photo-20-09-2025-14-56-19.jpg",
+    "2025-09-20-photo-20-09-2025-14-56-32.jpg",
+    "2025-09-20-photo-20-09-2025-14-57-42.jpg",
+    "2025-09-20-photo-20-09-2025-14-58-24.jpg",
+    "2025-09-20-photo-20-09-2025-14-58-38.jpg",
+    "2025-09-20-photo-20-09-2025-14-59-38.jpg",
+    "2025-09-20-photo-20-09-2025-14-59-39.jpg",
+    "2025-09-20-photo-20-09-2025-15-00-35.jpg",
+    "2025-09-20-photo-20-09-2025-15-00-57.jpg",
+    "2025-09-20-photo-20-09-2025-15-02-50.jpg",
+    "2025-09-20-photo-20-09-2025-15-03-27.jpg",
+    "2025-09-20-photo-20-09-2025-15-04-17.jpg",
+    "2025-09-20-photo-20-09-2025-15-05-04.jpg",
+    "2025-09-20-photo-20-09-2025-15-05-06.jpg",
+    "2025-09-20-photo-20-09-2025-15-05-08.jpg",
+    "2025-09-20-photo-20-09-2025-15-06-18.jpg",
+    "2025-09-20-photo-20-09-2025-15-07-52.jpg",
+    "2025-09-20-photo-20-09-2025-15-09-03.jpg",
+    "2025-09-20-photo-20-09-2025-15-09-36.jpg",
+    "2025-09-20-photo-20-09-2025-15-11-10.jpg",
+    "2025-09-20-photo-20-09-2025-15-14-49.jpg",
+    "2025-09-20-photo-20-09-2025-15-15-34-1.jpg",
+    "2025-09-20-photo-20-09-2025-15-15-34.jpg",
+    "2025-09-20-photo-20-09-2025-15-16-13.jpg",
+    "2025-09-20-photo-20-09-2025-15-16-15.jpg",
+    "2025-09-20-photo-20-09-2025-15-16-29.jpg",
+    "2025-09-20-photo-20-09-2025-15-17-06.jpg",
+    "2025-09-20-photo-20-09-2025-15-17-23.jpg",
+    "2025-09-20-photo-20-09-2025-15-18-36.jpg",
+    "2025-09-20-photo-20-09-2025-15-19-39.jpg",
+    "2025-09-20-photo-20-09-2025-15-20-08.jpg",
+    "2025-09-20-photo-20-09-2025-15-20-15.jpg",
+    "2025-09-20-photo-20-09-2025-15-20-44.jpg",
+    "2025-09-20-photo-20-09-2025-15-32-23.jpg",
+    "2025-09-20-photo-20-09-2025-15-37-53.jpg",
+    "2025-09-20-photo-20-09-2025-15-38-18.jpg",
+    "2025-09-20-photo-20-09-2025-15-38-58.jpg",
+    "2025-09-20-photo-20-09-2025-15-40-42.jpg",
+    "2025-09-20-photo-20-09-2025-15-41-23.jpg",
+    "2025-09-20-photo-20-09-2025-15-41-35.jpg",
+    "2025-09-20-photo-20-09-2025-15-42-23.jpg",
+    "2025-09-20-photo-20-09-2025-15-43-31.jpg",
+    "2025-09-20-photo-20-09-2025-15-44-23.jpg",
+    "2025-09-20-photo-20-09-2025-15-45-49.jpg",
+    "2025-09-20-photo-20-09-2025-15-47-15.jpg",
+    "2025-09-20-photo-20-09-2025-15-47-41.jpg",
+    "2025-09-20-photo-20-09-2025-15-48-59.jpg",
+    "2025-09-20-photo-20-09-2025-15-49-15.jpg",
+    "2025-09-20-photo-20-09-2025-15-49-59.jpg",
+    "2025-09-20-photo-20-09-2025-15-51-21.jpg",
+    "2025-09-20-photo-20-09-2025-15-54-10.jpg",
+    "2025-09-20-photo-20-09-2025-15-54-56.jpg",
+    "2025-09-20-photo-20-09-2025-15-56-07.jpg",
+    "2025-09-20-photo-20-09-2025-16-04-06.jpg",
+    "2025-09-20-photo-20-09-2025-16-07-37.jpg",
+    "2025-09-20-photo-20-09-2025-16-08-57.jpg",
+    "2025-09-20-photo-20-09-2025-16-09-45.jpg",
+    "2025-09-20-photo-20-09-2025-16-10-07.jpg",
+    "2025-09-20-photo-20-09-2025-16-10-18.jpg",
+    "2025-09-20-photo-20-09-2025-16-12-17.jpg",
+    "2025-09-20-photo-20-09-2025-16-13-13.jpg",
+    "2025-09-20-photo-20-09-2025-16-14-51.jpg",
+    "2025-09-20-photo-20-09-2025-16-17-33.jpg",
+    "2025-09-20-photo-20-09-2025-16-18-18.jpg",
+    "2025-09-20-photo-20-09-2025-16-21-03.jpg",
+    "2025-09-20-photo-20-09-2025-16-25-30.jpg",
+    "2025-09-20-photo-20-09-2025-16-28-51.jpg",
+    "2025-09-20-photo-20-09-2025-16-30-18.jpg",
+    "2025-09-20-photo-20-09-2025-16-32-30.jpg",
+    "2025-09-20-photo-20-09-2025-16-33-48.jpg",
+    "2025-09-20-photo-20-09-2025-16-33-56.jpg",
+    "2025-09-20-photo-20-09-2025-16-34-39.jpg",
+    "2025-09-20-photo-20-09-2025-16-39-41.jpg",
+    "2025-09-20-photo-20-09-2025-16-41-20.jpg",
+    "2025-09-20-photo-20-09-2025-16-41-42.jpg"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "priekule",
+  "coordinates": {
+    "lat": 55.5556,
+    "lng": 21.3194
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Priekulė",
+    "en": "Priekulė",
+    "uk": "Прієкуле"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Mažosios Lietuvos miestelis prie Minijos upės, į pietus nuo Klaipėdos.",
+    "en": "A small town in Lithuania Minor on the Minija river, south of Klaipėda.",
+    "uk": "Невелике містечко Малої Литви на річці Мінія, на південь від Клайпеди."
+  },
+  "longDescription": {
+    "lt": "Priekulė įsikūrusi prie Minijos upės, apie 20 km į pietus nuo Klaipėdos, istorinėje Mažosios Lietuvos žemėje. Vietovė žinoma nuo XVI amžiaus pradžios kaip Paminijos kaimelis, o dabartinis pavadinimas kildinamas iš smuklininko Preckolio pavardės. 1587 metais pastatyta bažnyčia tapo seniausios evangelikų liuteronų parapijos Klaipėdos krašte pradžia. Antrojo pasaulinio karo metais miestelyje veikė sąjungininkų karininkų belaisvių stovykla Oflag 63.",
+    "en": "Priekulė lies on the banks of the Minija river, about 20 km south of Klaipėda, in the historic region of Lithuania Minor. Known since the early 16th century as the hamlet of Paminija, its current name is said to derive from a tavern-keeper named Preckol. A church built in 1587 marked the start of the oldest Evangelical Lutheran parish in the Klaipėda region. During World War II the town held the Oflag 63 prisoner-of-war camp for Allied officers.",
+    "uk": "Прієкуле розташоване на березі річки Мінія, приблизно за 20 км на південь від Клайпеди, в історичній Малій Литві. Відоме з початку XVI століття як хутір Паміня, а сучасна назва, за переказами, походить від прізвища корчмаря Преколя. Костел, збудований 1587 року, поклав початок найстарішій євангелічно-лютеранській парафії Клайпедського краю. Під час Другої світової війни в містечку діяв табір для військовополонених союзницьких офіцерів Офлаг 63."
+  },
+  "facts": [
+    {
+      "lt": "Priekulė žinoma nuo XVI amžiaus pradžios kaip Paminijos kaimelis.",
+      "en": "Priekulė has been known since the early 16th century as the hamlet of Paminija.",
+      "uk": "Прієкуле відоме з початку XVI століття як хутір Паміня."
+    },
+    {
+      "lt": "Jos evangelikų liuteronų parapija, įkurta XVI amžiuje, yra seniausia Klaipėdos krašte.",
+      "en": "Its Evangelical Lutheran parish, founded in the 16th century, is the oldest in the Klaipėda region.",
+      "uk": "Його євангелічно-лютеранська парафія, заснована у XVI столітті, найстаріша в Клайпедському краї."
+    },
+    {
+      "lt": "Antrojo pasaulinio karo metais čia veikė sąjungininkų karininkų belaisvių stovykla Oflag 63.",
+      "en": "During World War II the town held the Oflag 63 prisoner-of-war camp for Allied officers.",
+      "uk": "Під час Другої світової війни тут діяв табір військовополонених союзницьких офіцерів Офлаг 63."
+    }
+  ],
+  "highlightPhoto": "2025-11-08-photo-08-11-2025-13-00-08.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Priekulės evangelikų liuteronų bažnyčia prie Minijos upės",
+    "en": "The Evangelical Lutheran church of Priekulė by the Minija river",
+    "uk": "Євангелічно-лютеранський костел Прієкуле біля річки Мінія"
+  },
+  "photos": [
+    "2025-11-08-photo-08-11-2025-12-31-48.jpg",
+    "2025-11-08-photo-08-11-2025-12-32-07.jpg",
+    "2025-11-08-photo-08-11-2025-12-33-45.jpg",
+    "2025-11-08-photo-08-11-2025-12-33-47.jpg",
+    "2025-11-08-photo-08-11-2025-12-34-23.jpg",
+    "2025-11-08-photo-08-11-2025-12-34-25.jpg",
+    "2025-11-08-photo-08-11-2025-12-40-34.jpg",
+    "2025-11-08-photo-08-11-2025-12-42-24.jpg",
+    "2025-11-08-photo-08-11-2025-12-43-35.jpg",
+    "2025-11-08-photo-08-11-2025-12-46-36.jpg",
+    "2025-11-08-photo-08-11-2025-12-47-45.jpg",
+    "2025-11-08-photo-08-11-2025-12-48-34.jpg",
+    "2025-11-08-photo-08-11-2025-12-48-49.jpg",
+    "2025-11-08-photo-08-11-2025-12-49-26.jpg",
+    "2025-11-08-photo-08-11-2025-12-49-28.jpg",
+    "2025-11-08-photo-08-11-2025-12-52-01.jpg",
+    "2025-11-08-photo-08-11-2025-12-53-48.jpg",
+    "2025-11-08-photo-08-11-2025-12-55-50.jpg",
+    "2025-11-08-photo-08-11-2025-12-57-38.jpg",
+    "2025-11-08-photo-08-11-2025-12-58-30.jpg",
+    "2025-11-08-photo-08-11-2025-13-00-08.jpg",
+    "2025-11-08-photo-08-11-2025-13-00-38.jpg",
+    "2025-11-08-photo-08-11-2025-13-01-41.jpg",
+    "2025-11-08-photo-08-11-2025-13-01-51.jpg",
+    "2025-11-08-photo-08-11-2025-13-03-08.jpg",
+    "2025-11-08-photo-08-11-2025-13-04-43.jpg",
+    "2025-11-08-photo-08-11-2025-13-06-56.jpg",
+    "2025-11-08-photo-08-11-2025-13-08-03.jpg",
+    "2025-11-08-photo-08-11-2025-13-08-15.jpg",
+    "2025-11-08-photo-08-11-2025-13-08-46.jpg",
+    "2025-11-08-photo-08-11-2025-13-09-55.jpg",
+    "2025-11-08-photo-08-11-2025-13-10-29.jpg",
+    "2025-11-08-photo-08-11-2025-13-11-01.jpg",
+    "2025-11-08-photo-08-11-2025-13-11-36.jpg",
+    "2025-11-08-photo-08-11-2025-13-13-04.jpg",
+    "2025-11-08-photo-08-11-2025-13-13-06.jpg",
+    "2025-11-08-photo-08-11-2025-13-16-16.jpg",
+    "2025-11-08-photo-08-11-2025-13-17-58.jpg",
+    "2025-11-08-photo-08-11-2025-13-21-06.jpg",
+    "2025-11-08-photo-08-11-2025-13-28-09.jpg"
+  ]
+}

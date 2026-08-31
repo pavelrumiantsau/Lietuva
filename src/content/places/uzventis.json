@@ -1,0 +1,91 @@
+{
+  "slug": "uzventis",
+  "coordinates": {
+    "lat": 55.7833,
+    "lng": 22.65
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Užventis",
+    "en": "Užventis",
+    "uk": "Ужвентіс"
+  },
+  "shortDescription": {
+    "lt": "Ramus žemaitiškas miestelis prie Ventos upės aukštupio, pavadintas todėl, kad įsikūręs „už“ upės.",
+    "en": "A quiet Samogitian riverside town on the upper Venta, named for lying 'beyond' the river.",
+    "uk": "Тихе жемайтійське містечко на верхів'ї річки Вянта, назване через розташування «за» річкою."
+  },
+  "longDescription": {
+    "lt": "Užventis — nedidelis miestelis Kelmės rajone, įsikūręs prie Ventos upės aukštupio, iš kurio kilo ir jo pavadinimas: priešdėlis „už-“ rodo, kad gyvenvietė yra aukščiau upės tėkmės. Raštuose pirmą kartą paminėtas 1527 metais, miesto teises gavo 1746 metais ir buvo Žemaitijos kunigaikštystės valsčiaus centras Abiejų Tautų Respublikos laikais. Žymiausias miestelio paminklas — 1870 metais pastatytas vandens malūnas, kurio turbiną vėliau modernizavo Jonas Smilgevičius, paskutinis Užvenčio dvaro savininkas ir 1918 metų Lietuvos Nepriklausomybės Akto signataras.",
+    "en": "Užventis is a small town in the Kelmė district, straddling the upper reaches of the Venta river after which it is named — the prefix 'už-' meaning the settlement lies upstream of, or 'beyond,' the river. First mentioned in written sources in 1527 and granted town rights in 1746, it served as a tract seat of the Duchy of Samogitia within the Polish–Lithuanian Commonwealth. Its best-known landmark is the 1870 watermill, whose turbine was later modernized by Jonas Smilgevičius, the last owner of Užventis manor and a signatory of Lithuania's 1918 Act of Independence.",
+    "uk": "Ужвентіс — невелике містечко в Кельмеському районі, розташоване на верхів'ї річки Вянта, звідки й походить його назва: префікс «уж-» («за») вказує, що поселення лежить вище за течією річки. Вперше згадане у писемних джерелах 1527 року, магдебурзькі права отримало 1746-го й було центром волості Жемайтійського князівства часів Речі Посполитої. Найвідоміша пам'ятка містечка — водяний млин 1870 року, турбіну якого пізніше модернізував Йонас Смілгявічюс, останній власник ужвентіського маєтку та підписант Акта незалежності Литви 1918 року."
+  },
+  "facts": [
+    {
+      "lt": "Miestelio pavadinimą sudaro priešdėlis „už-“ ir upės Venta vardas, nurodantis jo padėtį aukščiau upės tėkmės.",
+      "en": "The town's name combines the prefix 'už-' ('beyond') with the river Venta, marking its position upstream of the river.",
+      "uk": "Назва містечка складається з префікса «уж-» («за») та назви річки Вянта, що вказує на його розташування вище за течією."
+    },
+    {
+      "lt": "Užventis raštuose pirmą kartą paminėtas 1527 metais, o miesto teises gavo 1746 metais, priklausydamas Žemaitijos kunigaikštystei.",
+      "en": "Užventis was first documented in 1527 and received town rights in 1746, while under the Duchy of Samogitia.",
+      "uk": "Ужвентіс уперше згадується у документах 1527 року, а магдебурзькі права отримав 1746-го, перебуваючи у складі Жемайтійського князівства."
+    },
+    {
+      "lt": "Su istoriniu 1870 metų vandens malūnu prie Ventos siejamas Jonas Smilgevičius — 1918 metų Nepriklausomybės Akto signataras ir paskutinis dvaro savininkas.",
+      "en": "The historic 1870 watermill on the Venta is linked to Jonas Smilgevičius, a signatory of Lithuania's 1918 Act of Independence and the manor's last owner.",
+      "uk": "З історичним водяним млином 1870 року на Вянті пов'язане ім'я Йонаса Смілгявічюса — підписанта Акта незалежності 1918 року та останнього власника маєтку."
+    }
+  ],
+  "highlightPhoto": "2026-05-23-photo-23-05-2026-14-49-13.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Senasis vandens malūnas prie Ventos upės Užventyje",
+    "en": "The old watermill on the Venta river in Užventis",
+    "uk": "Старий водяний млин на річці Вянта в Ужвентісі"
+  },
+  "photos": [
+    "2026-05-23-photo-23-05-2026-14-30-32.jpg",
+    "2026-05-23-photo-23-05-2026-14-30-49.jpg",
+    "2026-05-23-photo-23-05-2026-14-33-45.jpg",
+    "2026-05-23-photo-23-05-2026-14-34-03.jpg",
+    "2026-05-23-photo-23-05-2026-14-35-09.jpg",
+    "2026-05-23-photo-23-05-2026-14-36-23.jpg",
+    "2026-05-23-photo-23-05-2026-14-37-47.jpg",
+    "2026-05-23-photo-23-05-2026-14-38-22.jpg",
+    "2026-05-23-photo-23-05-2026-14-39-26.jpg",
+    "2026-05-23-photo-23-05-2026-14-40-30.jpg",
+    "2026-05-23-photo-23-05-2026-14-40-41.jpg",
+    "2026-05-23-photo-23-05-2026-14-41-14.jpg",
+    "2026-05-23-photo-23-05-2026-14-41-27.jpg",
+    "2026-05-23-photo-23-05-2026-14-42-16.jpg",
+    "2026-05-23-photo-23-05-2026-14-43-56.jpg",
+    "2026-05-23-photo-23-05-2026-14-43-57.jpg",
+    "2026-05-23-photo-23-05-2026-14-46-09.jpg",
+    "2026-05-23-photo-23-05-2026-14-47-58.jpg",
+    "2026-05-23-photo-23-05-2026-14-48-34.jpg",
+    "2026-05-23-photo-23-05-2026-14-49-13.jpg",
+    "2026-05-23-photo-23-05-2026-14-50-45.jpg",
+    "2026-05-23-photo-23-05-2026-14-50-49.jpg",
+    "2026-05-23-photo-23-05-2026-14-52-22.jpg",
+    "2026-05-23-photo-23-05-2026-14-56-48.jpg",
+    "2026-05-23-photo-23-05-2026-14-58-36.jpg",
+    "2026-05-23-photo-23-05-2026-15-01-24.jpg",
+    "2026-05-23-photo-23-05-2026-15-01-31.jpg",
+    "2026-05-23-photo-23-05-2026-15-03-30.jpg",
+    "2026-05-23-photo-23-05-2026-15-05-01.jpg",
+    "2026-05-23-photo-23-05-2026-15-07-09.jpg",
+    "2026-05-23-photo-23-05-2026-15-13-34.jpg",
+    "2026-05-23-photo-23-05-2026-15-15-56.jpg",
+    "2026-05-23-photo-23-05-2026-15-16-52.jpg",
+    "2026-05-23-photo-23-05-2026-15-16-53.jpg",
+    "2026-05-23-photo-23-05-2026-15-17-26.jpg",
+    "2026-05-23-photo-23-05-2026-15-19-23.jpg",
+    "2026-05-23-photo-23-05-2026-15-19-48.jpg",
+    "2026-05-23-photo-23-05-2026-15-20-55.jpg"
+  ]
+}

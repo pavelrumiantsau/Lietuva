@@ -1,0 +1,62 @@
+{
+  "slug": "panemune-castle",
+  "coordinates": {
+    "lat": 55.099,
+    "lng": 22.986
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Panemunės pilis",
+    "en": "Panemunė Castle",
+    "uk": "Замок Панямуне"
+  },
+  "shortDescription": {
+    "lt": "Renesansinė pilis ant Nemuno kranto netoli Jurbarko, XVII a. pradžioje pastatyta vengrų kilmės bajoro.",
+    "en": "A Renaissance castle on the Nemunas riverbank near Jurbarkas, built in the early 17th century by a Hungarian-born nobleman.",
+    "uk": "Ренесансний замок на березі Нямунасу біля Юрбаркаса, зведений на початку XVII століття угорським шляхтичем."
+  },
+  "longDescription": {
+    "lt": "Panemunės pilis stovi ant dešiniojo Nemuno kranto Vytėnų kaime, Jurbarko rajone, buvusio Kryžiuočių ordino piliakalnio vietoje, kur 1343 metais stovėjo gynybinis įtvirtinimas. 1604–1610 metais čia iškilo renesansinė pilis, kurią pastatė vengrų kilmės bajoras Jonušas Eperješas, tapęs Lietuvos bajoru ir Žemaitijos pareigūnu, o projektavo olandų kilmės architektas Petras Nonhartas. Apie 1759 metus pilį perstatė Gelgaudų giminė. Šiandien tai vienas gražiausių ir geriausiai išlikusių renesansinių-barokinių pilių pastatų Lietuvoje.",
+    "en": "Panemunė Castle stands on the right bank of the Nemunas in the village of Vytėnai, Jurbarkas district, on the site of a Teutonic Knights' hillfort dating back to 1343. Between 1604 and 1610 the present Renaissance castle was built here by Janusz Eperjesz, a Hungarian-born nobleman who settled in Lithuania and became a Samogitian official, to a design by the Dutch-born architect Peter Nonhardt. Around 1759 the castle was rebuilt by the Giełgud family. Today it is regarded as one of the most beautiful and best-preserved Renaissance-Baroque castles in Lithuania.",
+    "uk": "Замок Панямуне стоїть на правому березі Нямунасу в селі Вітенай, Юрбаркаський район, на місці городища Тевтонського ордену, яке існувало ще з 1343 року. У 1604–1610 роках тут звели нинішній ренесансний замок для угорського за походженням шляхтича Януша Еперєша, який оселився в Литві та отримав шляхетство, за проєктом голландського архітектора Петра Нонгарда. Близько 1759 року замок перебудував рід Гельгудів. Сьогодні це один із найкрасивіших і найкраще збережених ренесансно-барокових замків Литви."
+  },
+  "facts": [
+    {
+      "lt": "Pilis pastatyta 1604–1610 metais vengrų kilmės bajoro Jonušo Eperješo, apsigyvenusio Lietuvoje.",
+      "en": "The castle was built between 1604 and 1610 for Janusz Eperjesz, a Hungarian-born nobleman who settled in Lithuania.",
+      "uk": "Замок побудовано у 1604–1610 роках для угорського шляхтича Януша Еперєша, який оселився в Литві."
+    },
+    {
+      "lt": "Pilies projektą sukūrė olandų kilmės architektas Petras Nonhartas.",
+      "en": "It was designed by the Dutch-born architect Peter Nonhardt.",
+      "uk": "Проєкт замку створив голландський архітектор Петр Нонгард."
+    },
+    {
+      "lt": "Šioje vietoje nuo 1343 metų stovėjo Kryžiuočių ordino piliakalnis, o apie 1759 metus pilį perstatė Gelgaudų giminė.",
+      "en": "The site held a Teutonic Knights' hillfort as early as 1343, and the castle was rebuilt around 1759 by the Giełgud family.",
+      "uk": "На цьому місці ще з 1343 року стояло городище Тевтонського ордену, а близько 1759 року замок перебудував рід Гельгудів."
+    }
+  ],
+  "highlightPhoto": "2024-10-19-photo-19-10-2024-17-43-30.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Panemunės pilies renesansinis fasadas ir bokštai virš Nemuno",
+    "en": "Renaissance facade and towers of Panemunė Castle above the Nemunas river",
+    "uk": "Ренесансний фасад і вежі замку Панямуне над рікою Нямунас"
+  },
+  "photos": [
+    "2024-10-19-photo-19-10-2024-17-41-25.jpg",
+    "2024-10-19-photo-19-10-2024-17-42-03.jpg",
+    "2024-10-19-photo-19-10-2024-17-42-52.jpg",
+    "2024-10-19-photo-19-10-2024-17-43-10.jpg",
+    "2024-10-19-photo-19-10-2024-17-43-30.jpg",
+    "2024-10-19-photo-19-10-2024-17-43-53.jpg",
+    "2024-10-19-photo-19-10-2024-17-44-49.jpg",
+    "2024-10-19-photo-19-10-2024-17-45-07.jpg",
+    "2024-10-19-photo-19-10-2024-17-47-26.jpg"
+  ]
+}

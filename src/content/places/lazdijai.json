@@ -1,0 +1,86 @@
+{
+  "slug": "lazdijai",
+  "coordinates": {
+    "lat": 54.2333,
+    "lng": 23.5167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Lazdijai",
+    "en": "Lazdijai",
+    "uk": "Лаздіяй"
+  },
+  "shortDescription": {
+    "lt": "Pietinis Lietuvos miestas, apsuptas Dzūkijos ežerų ir pušynų, vos už kelių kilometrų nuo Lenkijos sienos.",
+    "en": "Lithuania's southernmost town, ringed by Dzūkija's lakes and pine forests just short of the Polish border.",
+    "uk": "Найпівденніше місто Литви, оточене озерами й сосновими лісами Дзукії, за кілька кілометрів від польського кордону."
+  },
+  "longDescription": {
+    "lt": "Lazdijai yra savo rajono administracinis centras ir vienas piečiausių Lietuvos miestų, esantis vos apie septynis kilometrus nuo Lenkijos sienos, ežeringos ir pušimis apaugusios Dzūkijos širdyje. 1560 metais prie Lazdijos upelio buvo skirtas sklypas miesteliui, o 1570 metais jį oficialiai įkūrė Žygimantas Augustas; 1587 metais Zigmantas Vaza suteikė Magdeburgo teises. Šaltojo karo metais netoliese ėjusi Lietuvos ir Lenkijos siena, virtusi „geležinės uždangos“ dalimi su spygliuota viela, ilgam atkirto miestą nuo istorinių ryšių į vakarus; šiandien Lazdijai tapo ramiais vartais į miškų, grybų ir ežerų kupiną Dzūkijos kraštą.",
+    "en": "Lazdijai is the administrative center of its district and one of Lithuania's southernmost towns, lying only about seven kilometers from the border with Poland, in the heart of the lake-strewn, pine-forested Dzūkija region. A plot for the town was allocated on the Lazdija river in 1560, and it was formally founded by Sigismund II Augustus in 1570, receiving Magdeburg town rights from Sigismund III Vasa in 1587. During the Cold War the nearby Lithuanian-Polish border, sealed off as part of the Iron Curtain with barbed wire, cut the town off from its historic ties westward; today Lazdijai serves as a quiet gateway into the forests, mushrooms, and lakes of the Dzūkija countryside.",
+    "uk": "Лаздіяй — адміністративний центр однойменного району і одне з найпівденніших міст Литви, розташоване лише за сім кілометрів від кордону з Польщею, у самому серці озерного та соснового краю Дзукії. У 1560 році над річкою Лаздія виділили ділянку під містечко, а 1570 року його офіційно заснував Сигізмунд II Август; 1587 року Сигізмунд III Ваза надав Магдебурзьке право. За часів холодної війни розташований поруч литовсько-польський кордон, перетворений на частину «залізної завіси» з колючим дротом, надовго відрізав місто від історичних зв'язків із заходом; сьогодні Лаздіяй став тихими воротами до лісового, грибного й озерного краю Дзукії."
+  },
+  "facts": [
+    {
+      "lt": "Miestą 1570 metais įkūrė didysis kunigaikštis Žygimantas Augustas, o 1587 metais jam suteiktos Magdeburgo teisės.",
+      "en": "The town was founded by Grand Duke Sigismund II Augustus in 1570 and received Magdeburg town rights in 1587.",
+      "uk": "Місто заснував великий князь Сигізмунд II Август у 1570 році, а 1587 року йому надали Магдебурзьке право."
+    },
+    {
+      "lt": "Lazdijai yra piečiausias Lietuvos rajono centras, esantis vos apie septynis kilometrus nuo Lenkijos sienos.",
+      "en": "Lazdijai is Lithuania's southernmost district center, lying only about seven kilometers from the Polish border.",
+      "uk": "Лаздіяй — найпівденніший районний центр Литви, розташований лише за сім кілометрів від польського кордону."
+    },
+    {
+      "lt": "Sovietmečiu netoliese ėjusi siena su Lenkija buvo aptverta spygliuota viela kaip „geležinės uždangos“ dalis; jos likučius galima pamatyti apylinkėse ir šiandien.",
+      "en": "During the Soviet era the nearby border with Poland was sealed with barbed-wire fencing as part of the Iron Curtain; remnants of it can still be seen in the area.",
+      "uk": "За радянських часів прилеглий кордон із Польщею був обгороджений колючим дротом як частина «залізної завіси»; його залишки можна побачити в околицях і донині."
+    }
+  ],
+  "highlightPhoto": "2023-09-03-photo-2023-09-03-15-12-03.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Banguotas ežerų apsuptas Lazdijų apylinkių kraštovaizdis Dzūkijoje",
+    "en": "Rolling lakeside countryside near Lazdijai in the Dzūkija region",
+    "uk": "Хвилястий озерний краєвид околиць Лаздіяй у регіоні Дзукія"
+  },
+  "photos": [
+    "2023-09-03-photo-2023-09-03-14-47-22.jpg",
+    "2023-09-03-photo-2023-09-03-14-59-44.jpg",
+    "2023-09-03-photo-2023-09-03-14-59-52.jpg",
+    "2023-09-03-photo-2023-09-03-14-59-54.jpg",
+    "2023-09-03-photo-2023-09-03-15-02-16.jpg",
+    "2023-09-03-photo-2023-09-03-15-02-45.jpg",
+    "2023-09-03-photo-2023-09-03-15-04-11.jpg",
+    "2023-09-03-photo-2023-09-03-15-04-35.jpg",
+    "2023-09-03-photo-2023-09-03-15-05-06.jpg",
+    "2023-09-03-photo-2023-09-03-15-05-54.jpg",
+    "2023-09-03-photo-2023-09-03-15-08-14.jpg",
+    "2023-09-03-photo-2023-09-03-15-09-04.jpg",
+    "2023-09-03-photo-2023-09-03-15-09-05.jpg",
+    "2023-09-03-photo-2023-09-03-15-10-11.jpg",
+    "2023-09-03-photo-2023-09-03-15-11-21.jpg",
+    "2023-09-03-photo-2023-09-03-15-11-23.jpg",
+    "2023-09-03-photo-2023-09-03-15-12-03.jpg",
+    "2023-09-03-photo-2023-09-03-15-12-19.jpg",
+    "2023-09-03-photo-2023-09-03-15-14-52.jpg",
+    "2023-09-03-photo-2023-09-03-15-15-47.jpg",
+    "2023-09-03-photo-2023-09-03-15-18-57.jpg",
+    "2023-09-03-photo-2023-09-03-15-19-28.jpg",
+    "2023-09-03-photo-2023-09-03-15-20-23.jpg",
+    "2023-09-03-photo-2023-09-03-15-21-52.jpg",
+    "2023-09-03-photo-2023-09-03-15-23-27.jpg",
+    "2023-09-03-photo-2023-09-03-15-24-47.jpg",
+    "2023-09-03-photo-2023-09-03-15-30-16.jpg",
+    "2023-09-03-photo-2023-09-03-15-33-04.jpg",
+    "2023-09-03-photo-2023-09-03-15-35-15.jpg",
+    "2023-09-03-photo-2023-09-03-15-37-03.jpg",
+    "2023-09-03-photo-2023-09-03-15-37-35.jpg",
+    "2023-09-03-photo-2023-09-03-15-38-28.jpg",
+    "2023-09-03-photo-2023-09-03-15-40-42.jpg"
+  ]
+}

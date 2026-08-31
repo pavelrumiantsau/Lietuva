@@ -1,0 +1,31 @@
+---
+pagination:
+  data: locales
+  size: 1
+  alias: lang
+permalink: "{{ lang | listUrl }}"
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{ 'placesList.title' | t(lang) }}"
+  altUrlLt: "{{ 'lt' | listUrl }}"
+  altUrlEn: "{{ 'en' | listUrl }}"
+  altUrlUk: "{{ 'uk' | listUrl }}"
+---
+<h1>{{ "placesList.title" | t(lang) }}</h1>
+<p>{{ places | length }} {{ "placesList.count" | t(lang) }}</p>
+
+<ul class="places-grid">
+  {% for place in places %}
+  <li class="place-card">
+    <a href="{{ place | placeUrl(lang) }}">
+      {% if place.highlightPhoto %}
+      <img src="/assets/photos/{{ place.slug }}/thumb/{{ place.highlightPhoto }}" alt="" loading="lazy" width="220" height="165">
+      {% endif %}
+      <div class="place-card__body">
+        <h2>{{ place.name[lang] }}</h2>
+        <p>{{ place.shortDescription[lang] }}</p>
+      </div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>

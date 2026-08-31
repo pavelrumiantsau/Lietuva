@@ -1,0 +1,92 @@
+{
+  "slug": "skaudvile",
+  "coordinates": {
+    "lat": 55.4064,
+    "lng": 22.5539
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Skaudvilė",
+    "en": "Skaudvilė",
+    "uk": "Скаудвіле"
+  },
+  "shortDescription": {
+    "lt": "Tauragės rajono turgaus miestelis, keletą kartų sudegęs ir atstatytas XX amžiaus pirmoje pusėje.",
+    "en": "A Tauragė district market town, rebuilt after a string of devastating fires in the early 20th century.",
+    "uk": "Торгове містечко Таурагського району, кілька разів згоріле й відбудоване у першій половині ХХ століття."
+  },
+  "longDescription": {
+    "lt": "Skaudvilė, esanti apie 26 kilometrus į šiaurės rytus nuo Tauragės, pirmą kartą paminėta 1760 metais ir per laiką išaugo į gyvą prekybos miestelį, gerai žinomą savo turgumis ir gražiai sutvarkyta turgaus aikšte. XX amžiuje miestelį ne kartą naikino gaisrai — 1922, 1931 ir 1937 metais, tad dabartinis Skaudvilės vaizdas iš esmės susiformavo per 1938–1939 metų atstatymą. Miesto teises Skaudvilė gavo 1950 metais.",
+    "en": "Skaudvilė, about 26 km northeast of Tauragė, was first mentioned in 1760 and grew into a lively trading town, well known for its markets and neatly laid-out market square. The 20th century brought repeated fires — in 1922, 1931 and 1937 — so the town's present appearance largely dates from its rebuilding in 1938–39. Skaudvilė received official city rights in 1950.",
+    "uk": "Скаудвіле, розташоване приблизно за 26 км на північний схід від Таураге, вперше згадується 1760 року і з часом виросло в жваве торгове містечко, добре відоме своїми ярмарками та охайно облаштованою торговою площею. ХХ століття принесло повторні пожежі — у 1922, 1931 та 1937 роках, тож нинішній вигляд Скаудвіле здебільшого сформувався під час відбудови 1938–1939 років. Місто отримало офіційні міські права у 1950 році."
+  },
+  "facts": [
+    {
+      "lt": "Skaudvilė pirmą kartą paminėta 1760 metais ir garsėjo kaip prekybos miestelis su gausiais turgumis.",
+      "en": "Skaudvilė was first mentioned in 1760 and became known as a trading town famed for its markets.",
+      "uk": "Скаудвіле вперше згадане 1760 року і стало відомим як торгове містечко з численними ярмарками."
+    },
+    {
+      "lt": "Gaisrai 1922, 1931 ir 1937 metais ne kartą naikino miestelį, kuris buvo atstatytas 1938–1939 metais.",
+      "en": "Fires in 1922, 1931 and 1937 repeatedly destroyed the town, which was rebuilt in 1938–39.",
+      "uk": "Пожежі 1922, 1931 та 1937 років неодноразово знищували містечко, яке відбудували у 1938–1939 роках."
+    },
+    {
+      "lt": "Miesto teises Skaudvilė gavo 1950 metais, o dabar priklauso Tauragės rajono savivaldybei.",
+      "en": "Skaudvilė received city rights in 1950 and today belongs to Tauragė district municipality.",
+      "uk": "Скаудвіле отримало міські права у 1950 році і нині належить до Таурагського районного самоврядування."
+    }
+  ],
+  "highlightPhoto": "2026-04-18-photo-18-04-2026-17-19-15.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Skaudvilės miesto aikštė ir centrinė gatvė",
+    "en": "Skaudvilė's town square and main street",
+    "uk": "Міська площа та головна вулиця Скаудвіле"
+  },
+  "photos": [
+    "2026-04-18-photo-18-04-2026-16-53-01.jpg",
+    "2026-04-18-photo-18-04-2026-16-53-52.jpg",
+    "2026-04-18-photo-18-04-2026-16-55-00.jpg",
+    "2026-04-18-photo-18-04-2026-16-55-33.jpg",
+    "2026-04-18-photo-18-04-2026-16-58-56.jpg",
+    "2026-04-18-photo-18-04-2026-16-59-51.jpg",
+    "2026-04-18-photo-18-04-2026-16-59-59.jpg",
+    "2026-04-18-photo-18-04-2026-17-01-45.jpg",
+    "2026-04-18-photo-18-04-2026-17-03-04.jpg",
+    "2026-04-18-photo-18-04-2026-17-04-17.jpg",
+    "2026-04-18-photo-18-04-2026-17-04-42.jpg",
+    "2026-04-18-photo-18-04-2026-17-06-58.jpg",
+    "2026-04-18-photo-18-04-2026-17-07-24.jpg",
+    "2026-04-18-photo-18-04-2026-17-08-52.jpg",
+    "2026-04-18-photo-18-04-2026-17-10-01.jpg",
+    "2026-04-18-photo-18-04-2026-17-15-25.jpg",
+    "2026-04-18-photo-18-04-2026-17-16-30.jpg",
+    "2026-04-18-photo-18-04-2026-17-18-51.jpg",
+    "2026-04-18-photo-18-04-2026-17-18-54.jpg",
+    "2026-04-18-photo-18-04-2026-17-19-15.jpg",
+    "2026-04-18-photo-18-04-2026-17-21-01.jpg",
+    "2026-04-18-photo-18-04-2026-17-23-12.jpg",
+    "2026-04-18-photo-18-04-2026-17-23-14.jpg",
+    "2026-04-18-photo-18-04-2026-17-24-52.jpg",
+    "2026-04-18-photo-18-04-2026-17-26-37.jpg",
+    "2026-04-18-photo-18-04-2026-17-28-22.jpg",
+    "2026-04-18-photo-18-04-2026-17-29-10.jpg",
+    "2026-04-18-photo-18-04-2026-17-30-10.jpg",
+    "2026-04-18-photo-18-04-2026-17-37-44-1.jpg",
+    "2026-04-18-photo-18-04-2026-17-37-44.jpg",
+    "2026-04-18-photo-18-04-2026-17-37-45.jpg",
+    "2026-04-18-photo-18-04-2026-17-38-35.jpg",
+    "2026-04-18-photo-18-04-2026-17-38-39.jpg",
+    "2026-04-18-photo-18-04-2026-17-43-38.jpg",
+    "2026-04-18-photo-18-04-2026-17-43-50.jpg",
+    "2026-04-18-photo-18-04-2026-17-51-32.jpg",
+    "2026-04-18-photo-18-04-2026-17-51-33.jpg",
+    "2026-04-18-photo-18-04-2026-17-51-35.jpg",
+    "2026-04-18-photo-18-04-2026-17-51-36.jpg"
+  ]
+}

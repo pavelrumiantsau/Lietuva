@@ -1,0 +1,94 @@
+{
+  "slug": "sakiai",
+  "coordinates": {
+    "lat": 54.95,
+    "lng": 23.05
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Šakiai",
+    "en": "Šakiai",
+    "uk": "Шакяй"
+  },
+  "shortDescription": {
+    "lt": "Suvalkijos miestas prie Šešupės upės, kuriame gyveno Lietuvos himno autorius.",
+    "en": "A Sudovian town on the Šešupė river, home to the man who composed Lithuania's national anthem.",
+    "uk": "Місто Сувалкії на річці Шешупе, де жив автор литовського гімну."
+  },
+  "longDescription": {
+    "lt": "Šakiai – Šakių rajono savivaldybės centras Suvalkijoje, netoli sienos su Karaliaučiaus sritimi. Vietovė pirmą kartą paminėta 1599 metais kaip Šakaičių kaimas. XIX amžiaus pabaigoje čia gyveno tautinio atgimimo veikėjas Vincas Kudirka, sukūręs „Tautišką giesmę“, tapusią Lietuvos valstybiniu himnu. Istoriškai mieste sugyveno katalikų, liuteronų ir žydų bendruomenės.",
+    "en": "Šakiai is the administrative center of Šakiai district in the Sudovia (Suvalkija) region, near the border with the Kaliningrad region. The settlement was first mentioned in 1599 as the village of Šakaičiai. In the late 19th century it was home to Vincas Kudirka, a leading figure of the national revival who composed 'Tautiška giesmė', which became Lithuania's national anthem. Historically the town had Catholic, Lutheran and Jewish communities living side by side.",
+    "uk": "Шакяй — адміністративний центр Шакяйського району в регіоні Сувалкія, неподалік від кордону з Калінінградською областю. Поселення вперше згадане 1599 року як село Шакайчяй. Наприкінці XIX століття тут жив діяч литовського національного відродження Вінцас Кудірка, який написав «Tautiška giesmė» — пісню, що стала державним гімном Литви. Історично в місті співіснували католицька, лютеранська та єврейська громади."
+  },
+  "facts": [
+    {
+      "lt": "Šakiai pirmą kartą paminėti 1599 metais kaip Šakaičių kaimas.",
+      "en": "Šakiai was first mentioned in 1599 as the village of Šakaičiai.",
+      "uk": "Шакяй вперше згадане 1599 року як село Шакайчяй."
+    },
+    {
+      "lt": "XIX amžiaus pabaigoje Šakiuose gyveno Vincas Kudirka, sukūręs Lietuvos himną „Tautišką giesmę“.",
+      "en": "In the late 19th century, Vincas Kudirka, composer of Lithuania's national anthem, lived in Šakiai.",
+      "uk": "Наприкінці XIX століття в Шакяї жив Вінцас Кудірка, автор литовського державного гімну."
+    },
+    {
+      "lt": "Istoriškai Šakiuose gyveno katalikų, liuteronų ir žydų bendruomenės.",
+      "en": "Historically, Šakiai was home to Catholic, Lutheran and Jewish communities.",
+      "uk": "Історично в Шакяї співіснували католицька, лютеранська та єврейська громади."
+    }
+  ],
+  "highlightPhoto": "2025-10-11-photo-11-10-2025-15-31-15.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šakių miesto centras prie Šešupės upės",
+    "en": "The center of Šakiai on the banks of the Šešupė river",
+    "uk": "Центр міста Шакяй на березі річки Шешупе"
+  },
+  "photos": [
+    "2025-10-11-photo-11-10-2025-14-59-06.jpg",
+    "2025-10-11-photo-11-10-2025-14-59-13.jpg",
+    "2025-10-11-photo-11-10-2025-15-00-14.jpg",
+    "2025-10-11-photo-11-10-2025-15-01-49.jpg",
+    "2025-10-11-photo-11-10-2025-15-04-53.jpg",
+    "2025-10-11-photo-11-10-2025-15-06-12.jpg",
+    "2025-10-11-photo-11-10-2025-15-06-30.jpg",
+    "2025-10-11-photo-11-10-2025-15-07-37.jpg",
+    "2025-10-11-photo-11-10-2025-15-16-37.jpg",
+    "2025-10-11-photo-11-10-2025-15-17-37.jpg",
+    "2025-10-11-photo-11-10-2025-15-18-08.jpg",
+    "2025-10-11-photo-11-10-2025-15-18-29.jpg",
+    "2025-10-11-photo-11-10-2025-15-20-08.jpg",
+    "2025-10-11-photo-11-10-2025-15-21-46.jpg",
+    "2025-10-11-photo-11-10-2025-15-22-24.jpg",
+    "2025-10-11-photo-11-10-2025-15-24-22.jpg",
+    "2025-10-11-photo-11-10-2025-15-25-01.jpg",
+    "2025-10-11-photo-11-10-2025-15-25-39.jpg",
+    "2025-10-11-photo-11-10-2025-15-27-01.jpg",
+    "2025-10-11-photo-11-10-2025-15-31-06.jpg",
+    "2025-10-11-photo-11-10-2025-15-31-15.jpg",
+    "2025-10-11-photo-11-10-2025-15-33-03.jpg",
+    "2025-10-11-photo-11-10-2025-15-33-22.jpg",
+    "2025-10-11-photo-11-10-2025-15-33-54.jpg",
+    "2025-10-11-photo-11-10-2025-15-34-27.jpg",
+    "2025-10-11-photo-11-10-2025-15-35-21.jpg",
+    "2025-10-11-photo-11-10-2025-15-35-45.jpg",
+    "2025-10-11-photo-11-10-2025-15-35-48.jpg",
+    "2025-10-11-photo-11-10-2025-15-37-15.jpg",
+    "2025-10-11-photo-11-10-2025-15-38-54.jpg",
+    "2025-10-11-photo-11-10-2025-15-41-12.jpg",
+    "2025-10-11-photo-11-10-2025-15-43-05.jpg",
+    "2025-10-11-photo-11-10-2025-15-44-32.jpg",
+    "2025-10-11-photo-11-10-2025-15-46-32.jpg",
+    "2025-10-11-photo-11-10-2025-15-47-24.jpg",
+    "2025-10-11-photo-11-10-2025-15-47-26.jpg",
+    "2025-10-11-photo-11-10-2025-15-47-54.jpg",
+    "2025-10-11-photo-11-10-2025-15-47-56.jpg",
+    "2025-10-11-photo-11-10-2025-15-48-15.jpg",
+    "2025-10-11-photo-11-10-2025-16-04-12.jpg",
+    "2025-10-11-photo-11-10-2025-16-04-21.jpg"
+  ]
+}

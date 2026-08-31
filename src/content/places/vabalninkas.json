@@ -1,0 +1,79 @@
+{
+  "slug": "vabalninkas",
+  "coordinates": {
+    "lat": 55.9667,
+    "lng": 24.75
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Vabalninkas",
+    "en": "Vabalninkas",
+    "uk": "Вабалнінкас"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis turgaus miestelis Biržų rajone, kurio šaknys siekia XVI amžiaus vidurį.",
+    "en": "A small market town in the Biržai district with roots reaching back to the 1550s.",
+    "uk": "Невелике торгове містечко в Біржайському районі, історія якого сягає середини XVI століття."
+  },
+  "longDescription": {
+    "lt": "Vabalninkas — nedidelis miestelis Biržų rajone, kaip dvaras pirmą kartą paminėtas 1555 metais, o teisę rengti turgus gavo 1619 metais. Pirmoji medinė bažnyčia pastatyta 1617 metais, ir jau nuo 1618-ųjų gyvenvietė vadinama miesteliu; 1775 metais jam suteiktos Magdeburgo savivaldos teisės. Miestelis stipriai nukentėjo per 1625 metų švedų invaziją ir marą, o šiandien ryškiausias jo paminklas — Švč. Mergelės Marijos Ėmimo į dangų bažnyčia.",
+    "en": "Vabalninkas is a small town in the Biržai district, first recorded as an estate in 1555 and granted the right to hold markets in 1619. Its first wooden church went up in 1617, and by 1618 the settlement was already known as a town; in 1775 it received full Magdeburg self-rule rights. The town suffered heavily during the Swedish invasion and plague of 1625, and today its Church of the Assumption of the Blessed Virgin Mary remains its most prominent landmark.",
+    "uk": "Вабалнінкас — невелике містечко в Біржайському районі, вперше згадане як маєток 1555 року, а право проводити ярмарки отримало 1619-го. Перша дерев'яна церква з'явилася 1617 року, і вже з 1618-го поселення називають містечком; 1775 року воно отримало магдебурзькі права самоврядування. Містечко сильно постраждало під час шведської навали та чуми 1625 року, а нині його найпомітніша пам'ятка — костел Внебовзяття Пресвятої Діви Марії."
+  },
+  "facts": [
+    {
+      "lt": "Vabalninkas kaip dvaras pirmą kartą paminėtas 1555 metais, o miesteliu vadinamas nuo 1618-ųjų.",
+      "en": "Vabalninkas was first mentioned as an estate in 1555 and referred to as a town from 1618 onward.",
+      "uk": "Вабалнінкас уперше згадується як маєток 1555 року, а містечком його називають з 1618-го."
+    },
+    {
+      "lt": "1775 metais miesteliui suteiktos pilnos Magdeburgo savivaldos teisės.",
+      "en": "The town was granted full Magdeburg self-rule rights in 1775.",
+      "uk": "1775 року містечко отримало повні магдебурзькі права самоврядування."
+    },
+    {
+      "lt": "1625 metais Vabalninką nusiaubė įsiveržusi švedų kariuomenė kartu su maro epidemija.",
+      "en": "In 1625 Vabalninkas was devastated by an invading Swedish army together with an outbreak of plague.",
+      "uk": "1625 року Вабалнінкас спустошили шведські війська, що вторглися, разом зі спалахом чуми."
+    }
+  ],
+  "highlightPhoto": "2024-10-05-photo-05-10-2024-15-42-12.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Švč. Mergelės Marijos Ėmimo į dangų bažnyčia Vabalninke",
+    "en": "The Church of the Assumption of the Blessed Virgin Mary in Vabalninkas",
+    "uk": "Костел Внебовзяття Пресвятої Діви Марії у Вабалнінкасі"
+  },
+  "photos": [
+    "2024-10-05-photo-05-10-2024-15-31-45.jpg",
+    "2024-10-05-photo-05-10-2024-15-31-49.jpg",
+    "2024-10-05-photo-05-10-2024-15-32-30.jpg",
+    "2024-10-05-photo-05-10-2024-15-32-46.jpg",
+    "2024-10-05-photo-05-10-2024-15-33-17.jpg",
+    "2024-10-05-photo-05-10-2024-15-33-38.jpg",
+    "2024-10-05-photo-05-10-2024-15-34-47.jpg",
+    "2024-10-05-photo-05-10-2024-15-35-19.jpg",
+    "2024-10-05-photo-05-10-2024-15-35-53.jpg",
+    "2024-10-05-photo-05-10-2024-15-37-14.jpg",
+    "2024-10-05-photo-05-10-2024-15-39-13.jpg",
+    "2024-10-05-photo-05-10-2024-15-40-14.jpg",
+    "2024-10-05-photo-05-10-2024-15-40-55.jpg",
+    "2024-10-05-photo-05-10-2024-15-42-12.jpg",
+    "2024-10-05-photo-05-10-2024-15-42-42.jpg",
+    "2024-10-05-photo-05-10-2024-15-43-29.jpg",
+    "2024-10-05-photo-05-10-2024-15-45-03.jpg",
+    "2024-10-05-photo-05-10-2024-15-45-53.jpg",
+    "2024-10-05-photo-05-10-2024-15-46-54.jpg",
+    "2024-10-05-photo-05-10-2024-15-47-21.jpg",
+    "2024-10-05-photo-05-10-2024-15-47-56.jpg",
+    "2024-10-05-photo-05-10-2024-15-48-01.jpg",
+    "2024-10-05-photo-05-10-2024-15-50-35.jpg",
+    "2024-10-05-photo-05-10-2024-15-53-16.jpg",
+    "2024-10-05-photo-05-10-2024-15-56-04.jpg",
+    "2024-10-05-photo-05-10-2024-15-57-22.jpg"
+  ]
+}

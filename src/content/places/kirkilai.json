@@ -1,0 +1,73 @@
+{
+  "slug": "kirkilai",
+  "coordinates": {
+    "lat": 56.2482,
+    "lng": 24.6913
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kirkilai",
+    "en": "Kirkilai",
+    "uk": "Кіркілай"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Biržų rajono kaimas, garsėjantis unikaliomis karstinėmis smegduobių ežerėliais ir apžvalgos bokštu.",
+    "en": "A small village in Biržai district known for its unique karst sinkhole lakes and an observation tower.",
+    "uk": "Невелике село Біржайського району, відоме унікальними карстовими озерами-провалами та оглядовою вежею."
+  },
+  "longDescription": {
+    "lt": "Kirkilai — nedidelis kaimas Biržų rajone, davęs vardą aplink jį ir gretimą Drąseikių kaimą išsibarsčiusiems Kirkilų ežerėliams — apie 30 vandeniu užpildytų karstinių smegduobių, susidariusių ištirpus po žeme slūgsantiems gipso sluoksniams. Vietovė priklauso Biržų regioniniam parkui, saugančiam unikalų karstinį reljefą, o šalia nutiestas pažintinis takas veda prie 32 metrų aukščio apžvalgos bokšto, nuo kurio atsiveria vaizdas į dešimtis mažų ežerėlių tarp kalvotų laukų.",
+    "en": "Kirkilai is a small village in Biržai district that gave its name to the Kirkilai lakelets scattered around it and the neighbouring village of Drąseikiai — around 30 water-filled karst sinkholes formed where underground gypsum layers dissolved. The area belongs to Biržai Regional Park, which protects this unique karst landscape, and a nature trail nearby leads to a 32-metre observation tower offering a view over dozens of small lakes among the rolling fields.",
+    "uk": "Кіркілай — невелике село в Біржайському районі, яке дало назву озеркам Кіркілай, розкиданим навколо нього та сусіднього села Дряcейкяй, — близько 30 заповнених водою карстових провалів, що утворилися внаслідок розчинення підземних шарів гіпсу. Ця місцевість входить до Біржайського регіонального парку, який охороняє унікальний карстовий ландшафт, а прокладена поруч пізнавальна стежка веде до оглядової вежі заввишки 32 метри, звідки відкривається вид на десятки маленьких озер серед пагорбистих полів."
+  },
+  "facts": [
+    {
+      "lt": "Aplink Kirkilus ir Drąseikius yra apie 30 vandeniu užpildytų karstinių smegduobių, vadinamų Kirkilų ežerėliais.",
+      "en": "Around Kirkilai and Drąseikiai there are around 30 water-filled karst sinkholes, known as the Kirkilai lakelets.",
+      "uk": "Навколо Кіркілай і Дряcейкяй налічується близько 30 заповнених водою карстових провалів, відомих як озерка Кіркілай."
+    },
+    {
+      "lt": "Ežerėliai susidarė po žeme ištirpus gipso sluoksniams, o vietovė priklauso Biržų regioniniam parkui.",
+      "en": "The lakelets formed where underground gypsum layers dissolved, and the area belongs to Biržai Regional Park.",
+      "uk": "Озерця утворилися внаслідок розчинення підземних шарів гіпсу, а місцевість входить до Біржайського регіонального парку."
+    },
+    {
+      "lt": "Prie ežerėlių pastatytas 32 metrų aukščio apžvalgos bokštas su pažintiniu taku.",
+      "en": "A 32-metre observation tower with a nature trail has been built beside the lakelets.",
+      "uk": "Біля озерець збудована оглядова вежа заввишки 32 метри з пізнавальною стежкою."
+    }
+  ],
+  "highlightPhoto": "2023-08-15-photo-2023-08-15-13-10-37.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Karstiniai Kirkilų ežerėliai iš apžvalgos bokšto",
+    "en": "The karst Kirkilai lakelets seen from the observation tower",
+    "uk": "Карстові озерця Кіркілай, вид з оглядової вежі"
+  },
+  "photos": [
+    "2023-08-15-photo-2023-08-15-13-03-47.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-03.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-05.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-13.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-17.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-33.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-36.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-37.jpg",
+    "2023-08-15-photo-2023-08-15-13-07-42.jpg",
+    "2023-08-15-photo-2023-08-15-13-09-00.jpg",
+    "2023-08-15-photo-2023-08-15-13-10-37.jpg",
+    "2023-08-15-photo-2023-08-15-13-12-53.jpg",
+    "2023-08-15-photo-2023-08-15-13-13-11.jpg",
+    "2023-08-15-photo-2023-08-15-13-15-00.jpg",
+    "2023-08-15-photo-2023-08-15-13-16-04.jpg",
+    "2023-08-15-photo-2023-08-15-13-19-31.jpg",
+    "2023-08-15-photo-2023-08-15-13-20-53.jpg",
+    "2023-08-15-photo-2023-08-15-13-20-54.jpg",
+    "2023-08-15-photo-2023-08-15-13-23-08.jpg",
+    "2023-08-15-photo-2023-08-15-13-23-10.jpg"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "ignalina",
+  "coordinates": {
+    "lat": 55.3453,
+    "lng": 26.1706
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Ignalina",
+    "en": "Ignalina",
+    "uk": "Ігналіна"
+  },
+  "shortDescription": {
+    "lt": "Ežerų apsuptas Aukštaitijos miestelis, geriau žinomas dėl netoliese buvusios sovietinės atominės elektrinės.",
+    "en": "A lake-ringed Aukštaitija town, best known for the Soviet-era nuclear power plant once built near it.",
+    "uk": "Оточене озерами містечко Аукштайтії, найбільш відоме завдяки колишній радянській атомній електростанції поблизу."
+  },
+  "longDescription": {
+    "lt": "Ignalina yra nedidelis Aukštaitijos regiono miestelis, įsikūręs tarp gausybės ežerų netoli Aukštaitijos nacionalinio parko. Miestelio vardas plačiai žinomas dėl netoli Visagino pastatytos Ignalinos atominės elektrinės — vienos galingiausių pasaulyje, veikusios 1983–2009 metais ir uždarytos stojant į Europos Sąjungą dėl panašumo į Černobylio reaktorius. Pati Ignalina, priešingai nei elektrinė, išliko rami kurortinė vietovė, patraukli vandens turistams ir žvejams.",
+    "en": "Ignalina is a small town in the Aukštaitija region, set among a great number of lakes near Aukštaitija National Park. The name is widely known because of the Ignalina Nuclear Power Plant built near Visaginas — once one of the most powerful in the world, operating from 1983 to 2009 and shut down as a condition of Lithuania's EU accession due to its similarity to the Chernobyl reactors. The town of Ignalina itself, unlike the plant, has remained a quiet lakeside resort area popular with kayakers and anglers.",
+    "uk": "Ігналіна — невелике містечко в регіоні Аукштайтія, розташоване серед численних озер поблизу Аукштайтійського національного парку. Назва широко відома завдяки Ігналінській атомній електростанції, збудованій неподалік Вісагінаса — колись одній з найпотужніших у світі, що працювала у 1983–2009 роках і була закрита як умова вступу Литви до ЄС через схожість реакторів із чорнобильськими. Сама Ігналіна, на відміну від електростанції, залишається тихим озерним курортним краєм, популярним серед байдарочників і рибалок."
+  },
+  "facts": [
+    {
+      "lt": "Ignalinos atominė elektrinė 1983–2009 metais buvo viena galingiausių pasaulyje ir tam tikru metu tiekė iki 70% Lietuvos elektros energijos.",
+      "en": "The Ignalina Nuclear Power Plant, operating from 1983 to 2009, was one of the most powerful in the world and at one point supplied up to 70% of Lithuania's electricity.",
+      "uk": "Ігналінська атомна електростанція, що працювала у 1983–2009 роках, була однією з найпотужніших у світі й у певний період забезпечувала до 70% електроенергії Литви."
+    },
+    {
+      "lt": "Elektrinė buvo pastatyta netoli Visagino, o ne pačioje Ignalinoje, tačiau pavadinimą pasiskolino iš netoliese esančio miestelio.",
+      "en": "The plant was actually built near Visaginas rather than in Ignalina itself, but it borrowed its name from the nearby town.",
+      "uk": "Електростанцію насправді збудували поблизу Вісагінаса, а не в самій Ігналіні, проте назву вона запозичила у сусіднього містечка."
+    },
+    {
+      "lt": "Ignalinos rajone yra daugiau nei 200 ežerų, o pats miestelis laikomas vienu iš Aukštaitijos vandens turizmo centrų.",
+      "en": "Ignalina district contains more than 200 lakes, and the town itself is considered one of Aukštaitija's centres for water tourism.",
+      "uk": "На території Ігналінського району налічується понад 200 озер, а саме містечко вважається одним із центрів водного туризму Аукштайтії."
+    }
+  ],
+  "highlightPhoto": "2024-06-08-photo-08-06-2024-14-10-15.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Ežero pakrantė netoli Ignalinos miestelio Aukštaitijoje",
+    "en": "A lake shore near the town of Ignalina in Aukštaitija",
+    "uk": "Берег озера поблизу містечка Ігналіна в Аукштайтії"
+  },
+  "photos": [
+    "2024-06-08-photo-08-06-2024-13-01-03.jpg",
+    "2024-06-08-photo-08-06-2024-13-08-54.jpg",
+    "2024-06-08-photo-08-06-2024-13-09-23.jpg",
+    "2024-06-08-photo-08-06-2024-13-10-14.jpg",
+    "2024-06-08-photo-08-06-2024-13-11-01.jpg",
+    "2024-06-08-photo-08-06-2024-13-11-31.jpg",
+    "2024-06-08-photo-08-06-2024-13-13-13.jpg",
+    "2024-06-08-photo-08-06-2024-13-15-46.jpg",
+    "2024-06-08-photo-08-06-2024-13-19-05.jpg",
+    "2024-06-08-photo-08-06-2024-13-20-33.jpg",
+    "2024-06-08-photo-08-06-2024-13-25-01.jpg",
+    "2024-06-08-photo-08-06-2024-13-28-15.jpg",
+    "2024-06-08-photo-08-06-2024-13-34-43.jpg",
+    "2024-06-08-photo-08-06-2024-13-36-44.jpg",
+    "2024-06-08-photo-08-06-2024-13-44-59.jpg",
+    "2024-06-08-photo-08-06-2024-13-48-41.jpg",
+    "2024-06-08-photo-08-06-2024-13-49-58.jpg",
+    "2024-06-08-photo-08-06-2024-13-51-52.jpg",
+    "2024-06-08-photo-08-06-2024-13-58-06.jpg",
+    "2024-06-08-photo-08-06-2024-14-01-07.jpg",
+    "2024-06-08-photo-08-06-2024-14-03-43.jpg",
+    "2024-06-08-photo-08-06-2024-14-04-09.jpg",
+    "2024-06-08-photo-08-06-2024-14-05-40.jpg",
+    "2024-06-08-photo-08-06-2024-14-07-39.jpg",
+    "2024-06-08-photo-08-06-2024-14-08-59.jpg",
+    "2024-06-08-photo-08-06-2024-14-10-15.jpg",
+    "2024-06-08-photo-08-06-2024-14-10-48.jpg",
+    "2024-06-08-photo-08-06-2024-14-11-45.jpg",
+    "2024-06-08-photo-08-06-2024-14-15-05.jpg",
+    "2024-06-08-photo-08-06-2024-14-16-52.jpg",
+    "2024-06-08-photo-08-06-2024-14-21-34.jpg",
+    "2024-06-08-photo-08-06-2024-14-23-20.jpg",
+    "2024-06-08-photo-08-06-2024-14-23-21.jpg",
+    "2024-06-08-photo-08-06-2024-14-24-28.jpg",
+    "2024-06-08-photo-08-06-2024-14-26-19.jpg",
+    "2024-06-08-photo-08-06-2024-14-29-04.jpg",
+    "2024-06-08-photo-08-06-2024-14-31-31.jpg",
+    "2024-06-08-photo-08-06-2024-14-34-24.jpg",
+    "2024-06-08-photo-08-06-2024-14-52-30.jpg",
+    "2024-06-08-photo-08-06-2024-14-53-12.jpg",
+    "2024-06-08-photo-08-06-2024-14-54-32.jpg",
+    "2024-06-08-photo-08-06-2024-14-54-42.jpg",
+    "2024-06-08-photo-08-06-2024-15-03-38.jpg",
+    "2024-06-08-photo-08-06-2024-15-19-13.jpg",
+    "2024-06-08-photo-08-06-2024-15-21-17.jpg",
+    "2024-06-08-photo-08-06-2024-15-48-16.jpg",
+    "2024-06-08-photo-08-06-2024-15-54-27.jpg",
+    "2024-06-08-photo-08-06-2024-15-56-35.jpg",
+    "2024-06-08-photo-08-06-2024-16-00-42.jpg",
+    "2024-06-08-photo-08-06-2024-16-03-43.jpg"
+  ]
+}

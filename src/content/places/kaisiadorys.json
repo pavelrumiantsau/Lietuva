@@ -1,0 +1,100 @@
+{
+  "slug": "kaisiadorys",
+  "coordinates": {
+    "lat": 54.8636,
+    "lng": 24.4489
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kaišiadorys",
+    "en": "Kaišiadorys",
+    "uk": "Кайшядорис"
+  },
+  "shortDescription": {
+    "lt": "Svarbi geležinkelių sankryža tarp Vilniaus ir Kauno, taip pat Kaišiadorių vyskupijos centras.",
+    "en": "An important railway junction between Vilnius and Kaunas, and the seat of the Diocese of Kaišiadorys.",
+    "uk": "Важливий залізничний вузол між Вільнюсом і Каунасом, а також центр Кайшядоріської єпархії."
+  },
+  "longDescription": {
+    "lt": "Kaišiadorys, pirmą kartą paminėtos 1590 metais, savo dabartinį pavidalą įgavo XIX amžiaus antroje pusėje, kai 1860 metais čia buvo įrengta geležinkelio stotis Vilniaus–Kauno linijoje — nuo tada miestas augo kaip svarbi geležinkelių sankryža jungianti Vilnių, Kauną ir kryptį į Baltarusiją. 1926 metais įsteigus Kaišiadorių vyskupiją, miestas tapo vienu iš šešių Lietuvos katalikų vyskupijų centrų, o 1932 metais pastatyta ir 1936 metais katedros statusą įgijusi Kristaus Atsimainymo bažnyčia iki šiol yra vyskupijos širdis.",
+    "en": "Kaišiadorys, first mentioned in 1590, took its modern shape in the second half of the 19th century, when a railway station on the Vilnius–Kaunas line was built here in 1860 — from then on the town grew as an important junction linking Vilnius, Kaunas and the route toward Belarus. With the establishment of the Diocese of Kaišiadorys in 1926, the town became the seat of one of Lithuania's six Catholic dioceses, and the Church of the Transfiguration, built in 1932 and elevated to cathedral status in 1936, remains the diocese's heart to this day.",
+    "uk": "Кайшядорис, уперше згадані у 1590 році, набули сучасного вигляду в другій половині XIX століття, коли у 1860 році тут збудували залізничну станцію на лінії Вільнюс–Каунас — відтоді місто розвивалося як важливий залізничний вузол, що з'єднує Вільнюс, Каунас і напрямок на Білорусь. Із заснуванням Кайшядоріської єпархії у 1926 році місто стало центром однієї з шести католицьких єпархій Литви, а церква Преображення Господнього, збудована у 1932 році та піднесена до статусу кафедрального собору у 1936 році, і донині є серцем єпархії."
+  },
+  "facts": [
+    {
+      "lt": "Kaišiadorių geležinkelio stotis, atidaryta 1860 metais, iki šiol yra viena svarbiausių sankryžų tarp Vilniaus ir Kauno.",
+      "en": "Kaišiadorys railway station, opened in 1860, remains one of the most important junctions between Vilnius and Kaunas.",
+      "uk": "Залізнична станція Кайшядорис, відкрита 1860 року, і донині є одним із найважливіших вузлів між Вільнюсом і Каунасом."
+    },
+    {
+      "lt": "1926 metais įsteigta Kaišiadorių vyskupija padarė miestą vienu iš šešių Lietuvos katalikų vyskupijų centrų.",
+      "en": "The Diocese of Kaišiadorys, established in 1926, made the town the seat of one of Lithuania's six Catholic dioceses.",
+      "uk": "Заснована 1926 року Кайшядоріська єпархія зробила місто центром однієї з шести католицьких єпархій Литви."
+    },
+    {
+      "lt": "Kristaus Atsimainymo bažnyčia katedros statusą įgijo 1936 metais, praėjus vos ketveriems metams po pastatymo.",
+      "en": "The Church of the Transfiguration was elevated to cathedral status in 1936, just four years after it was completed.",
+      "uk": "Церква Преображення Господнього отримала статус кафедрального собору у 1936 році, лише через чотири роки після завершення будівництва."
+    }
+  ],
+  "highlightPhoto": "2022-09-18-img-20220918-125832.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kristaus Atsimainymo katedra Kaišiadoryse",
+    "en": "The Cathedral of the Transfiguration in Kaišiadorys",
+    "uk": "Кафедральний собор Преображення Господнього в Кайшядорисі"
+  },
+  "photos": [
+    "2022-09-18-img-20220918-122919.jpg",
+    "2022-09-18-img-20220918-123041.jpg",
+    "2022-09-18-img-20220918-123238.jpg",
+    "2022-09-18-img-20220918-123506.jpg",
+    "2022-09-18-img-20220918-123509.jpg",
+    "2022-09-18-img-20220918-123515.jpg",
+    "2022-09-18-img-20220918-123613.jpg",
+    "2022-09-18-original-8844d685-8c0f-4653-9101-66f5b6769af2-img-20220918-123642.jpg",
+    "2022-09-18-img-20220918-124023.jpg",
+    "2022-09-18-img-20220918-124145.jpg",
+    "2022-09-18-img-20220918-124304.jpg",
+    "2022-09-18-img-20220918-124432.jpg",
+    "2022-09-18-img-20220918-124507.jpg",
+    "2022-09-18-img-20220918-124513.jpg",
+    "2022-09-18-img-20220918-124528.jpg",
+    "2022-09-18-img-20220918-124711.jpg",
+    "2022-09-18-img-20220918-124842.jpg",
+    "2022-09-18-img-20220918-124848.jpg",
+    "2022-09-18-img-20220918-125047.jpg",
+    "2022-09-18-img-20220918-125249.jpg",
+    "2022-09-18-img-20220918-125409.jpg",
+    "2022-09-18-img-20220918-125547.jpg",
+    "2022-09-18-img-20220918-125643.jpg",
+    "2022-09-18-img-20220918-125832.jpg",
+    "2022-09-18-img-20220918-130009.jpg",
+    "2022-09-18-img-20220918-130433.jpg",
+    "2022-09-18-img-20220918-133445.jpg",
+    "2022-09-18-img-20220918-133810.jpg",
+    "2022-09-18-img-20220918-133858.jpg",
+    "2022-09-18-img-20220918-133907.jpg",
+    "2022-09-18-img-20220918-134215.jpg",
+    "2022-09-18-img-20220918-135957.jpg",
+    "2022-09-18-img-20220918-140302.jpg",
+    "2022-09-18-img-20220918-140500.jpg",
+    "2022-09-18-img-20220918-140637.jpg",
+    "2022-09-18-img-20220918-140727.jpg",
+    "2022-09-18-img-20220918-141102.jpg",
+    "2022-09-18-original-2e08c72a-e3cb-4f68-ad3e-69b0b40d6690-img-20220918-141431.jpg",
+    "2022-09-18-img-20220918-142212.jpg",
+    "2022-09-18-img-20220918-142544.jpg",
+    "2022-09-18-img-20220918-142649.jpg",
+    "2022-09-18-img-20220918-142808.jpg",
+    "2022-09-18-img-20220918-142922.jpg",
+    "2022-09-18-img-20220918-143112.jpg",
+    "2022-09-18-img-20220918-143325.jpg",
+    "2022-09-18-img-20220918-143340.jpg",
+    "2022-09-18-img-20220918-143806.jpg"
+  ]
+}

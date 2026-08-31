@@ -1,0 +1,81 @@
+{
+  "slug": "dukstas",
+  "coordinates": {
+    "lat": 55.5222,
+    "lng": 26.1944
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Dūkštas",
+    "en": "Dūkštas",
+    "uk": "Дукштас"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Ignalinos rajono miestas prie savo vardo ežero.",
+    "en": "A small town in Ignalina district, on the shore of its namesake lake.",
+    "uk": "Невелике місто Ігналінського району на березі однойменного озера."
+  },
+  "longDescription": {
+    "lt": "Dūkštas — nedidelis Utenos apskrities miestas, esantis apie 26 kilometrus į šiaurę nuo Ignalinos, ant Dūkšto ežero kranto. Vietovė pirmą kartą paminėta 1862 metais, o miesto teisės suteiktos 1956 metais. Vos kelis kilometrus į pietus nuo Dūkšto plyti Dysnų ežeras — antras pagal dydį Lietuvoje ir vienas seklesnių, per kurį teka į Dauguvą įtekanti Dysnos upė; regionas priklauso ežeringiausiai šalies daliai, netoli Aukštaitijos nacionalinio parko.",
+    "en": "Dūkštas is a small town in Utena County, about 26 kilometres north of Ignalina, on the shore of Lake Dūkštas. The place was first mentioned in 1862 and granted town rights in 1956. Just a few kilometres south of Dūkštas lies Lake Dysnai, the second-largest lake in Lithuania and one of its shallowest, through which the Dysna river flows on its way to the Daugava; the region is one of the country's most lake-rich, close to Aukštaitija National Park.",
+    "uk": "Дукштас — невелике місто Утенської округи, розташоване приблизно за 26 кілометрів на північ від Ігналіни, на березі озера Дукштас. Місцевість вперше згадується у 1862 році, а міські права отримала у 1956 році. Лише за кілька кілометрів на південь від Дукштаса розкинулося озеро Дисна — друге за величиною в Литві та одне з наймілководніших, через яке протікає річка Дисна, що впадає в Даугаву; регіон належить до найбагатших на озера частин країни, поблизу національного парку Аукштайтія."
+  },
+  "facts": [
+    {
+      "lt": "Dūkštas pirmą kartą paminėtas 1862 metais, miesto teises gavo 1956 metais.",
+      "en": "Dūkštas was first mentioned in 1862 and was granted town rights in 1956.",
+      "uk": "Дукштас вперше згадується у 1862 році, а міські права отримав у 1956 році."
+    },
+    {
+      "lt": "Miestas stovi ant to paties vardo Dūkšto ežero kranto.",
+      "en": "The town stands on the shore of the eponymous Lake Dūkštas.",
+      "uk": "Місто стоїть на березі однойменного озера Дукштас."
+    },
+    {
+      "lt": "Vos kelis kilometrus į pietus nuo miesto plyti Dysnų ežeras — antras pagal dydį Lietuvoje.",
+      "en": "Just a few kilometres south of the town lies Lake Dysnai, the second-largest lake in Lithuania.",
+      "uk": "Лише за кілька кілометрів на південь від міста лежить озеро Дисна — друге за величиною в Литві."
+    }
+  ],
+  "highlightPhoto": "2022-09-17-img-20220917-134932.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Dūkšto ežeras prie miestelio",
+    "en": "Lake Dūkštas beside the town",
+    "uk": "Озеро Дукштас біля містечка"
+  },
+  "photos": [
+    "2022-09-17-img-20220917-133808.jpg",
+    "2022-09-17-img-20220917-133812.jpg",
+    "2022-09-17-img-20220917-133851.jpg",
+    "2022-09-17-img-20220917-133917.jpg",
+    "2022-09-17-img-20220917-134018.jpg",
+    "2022-09-17-img-20220917-134217.jpg",
+    "2022-09-17-img-20220917-134309.jpg",
+    "2022-09-17-img-20220917-134311.jpg",
+    "2022-09-17-img-20220917-134418.jpg",
+    "2022-09-17-img-20220917-134451.jpg",
+    "2022-09-17-img-20220917-134604.jpg",
+    "2022-09-17-img-20220917-134631.jpg",
+    "2022-09-17-img-20220917-134811.jpg",
+    "2022-09-17-img-20220917-134836.jpg",
+    "2022-09-17-img-20220917-134932.jpg",
+    "2022-09-17-img-20220917-135008.jpg",
+    "2022-09-17-img-20220917-135050.jpg",
+    "2022-09-17-img-20220917-135640.jpg",
+    "2022-09-17-img-20220917-135707.jpg",
+    "2022-09-17-img-20220917-135806.jpg",
+    "2022-09-17-img-20220917-135904.jpg",
+    "2022-09-17-img-20220917-140008.jpg",
+    "2022-09-17-img-20220917-140014.jpg",
+    "2022-09-17-img-20220917-140052.jpg",
+    "2022-09-17-img-20220917-140152.jpg",
+    "2022-09-17-img-20220917-140248.jpg",
+    "2022-09-17-img-20220917-140256.jpg",
+    "2022-09-17-img-20220917-140909.jpg"
+  ]
+}

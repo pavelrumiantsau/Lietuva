@@ -1,0 +1,80 @@
+{
+  "slug": "svencioneliai",
+  "coordinates": {
+    "lat": 55.15,
+    "lng": 26
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Švenčionėliai",
+    "en": "Švenčionėliai",
+    "uk": "Швенчьонеляй"
+  },
+  "shortDescription": {
+    "lt": "Geležinkelio mazgo miestas, išaugęs iš stoties gyvenvietės ir pralenkęs kaimyninius Švenčionis.",
+    "en": "A railway-junction town that grew from a station settlement and overtook its older neighbour, Švenčionys.",
+    "uk": "Залізничне вузлове місто, що виросло з привокзального поселення й обігнало сусідній Швенчьоніс."
+  },
+  "longDescription": {
+    "lt": "Švenčionėliai išaugo iš gyvenvietės, susiformavusios apie geležinkelio stotį, kai 1861–1862 metais buvo nutiestas Sankt Peterburgo–Varšuvos geležinkelis netoli senojo Švenčionių miesto. Naujoji gyvenvietė greitai virto svarbiu geležinkelio mazgu — 1895 metais atidaryta siaurojo geležinkelio linija į Pastovį ir Berezveče (125 km), o 1901 metais — linija į Panevėžį (145 km). Laikui bėgant Švenčionėliai pralenkė senesnį kaimyninį miestą Švenčionis ir tapo didesniu iš dviejų.",
+    "en": "Švenčionėliai grew out of a settlement that formed around a railway station when the Saint Petersburg–Warsaw railway was built near the older town of Švenčionys in 1861–62. The new settlement quickly became an important railway junction — a narrow-gauge line to Pastavy and Berezvetsh (125 km) opened in 1895, and a line to Panevėžys (145 km) in 1901. Over time Švenčionėliai outgrew its older neighbour Švenčionys and became the larger of the two towns.",
+    "uk": "Швенчьонеляй виросло з поселення, що сформувалося навколо залізничної станції, коли у 1861–1862 роках поблизу старого міста Швенчьоніс проклали залізницю Санкт-Петербург–Варшава. Нове поселення швидко перетворилося на важливий залізничний вузол — у 1895 році відкрили вузькоколійну лінію на Поставі та Березвеч (125 км), а у 1901 році — лінію на Панєвєжіс (145 км). З часом Швенчьонеляй переросло сусіднє старіше місто Швенчьоніс і стало більшим із двох."
+  },
+  "facts": [
+    {
+      "lt": "Miestas susiformavo apie geležinkelio stotį, kai 1861–1862 metais nutiesta Sankt Peterburgo–Varšuvos linija.",
+      "en": "The town formed around a railway station when the Saint Petersburg–Warsaw line was built in 1861–62.",
+      "uk": "Місто сформувалося навколо залізничної станції під час будівництва лінії Санкт-Петербург–Варшава у 1861–1862 роках."
+    },
+    {
+      "lt": "Švenčionėliai tapo siaurojo geležinkelio mazgu su linijomis į Pastovį (1895) ir Panevėžį (1901).",
+      "en": "Švenčionėliai became a narrow-gauge railway hub, with lines to Pastavy (1895) and Panevėžys (1901).",
+      "uk": "Швенчьонеляй стало вузлом вузькоколійної залізниці з лініями на Поставі (1895) та Панєвєжіс (1901)."
+    },
+    {
+      "lt": "Miestas laikui bėgant pralenkė senesnį kaimyninį Švenčionių miestą ir tapo didesniu iš dviejų gyvenviečių.",
+      "en": "Over time the town outgrew the older neighbouring town of Švenčionys and became the larger of the two settlements.",
+      "uk": "З часом місто переросло сусідній старіший Швенчьоніс і стало більшим із двох поселень."
+    }
+  ],
+  "highlightPhoto": "2024-12-14-photo-14-12-2024-13-12-17.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Švenčionėlių geležinkelio stoties pastatas",
+    "en": "The Švenčionėliai railway station building",
+    "uk": "Будівля залізничної станції Швенчьонеляй"
+  },
+  "photos": [
+    "2024-12-14-photo-14-12-2024-12-59-50.jpg",
+    "2024-12-14-photo-14-12-2024-13-00-30.jpg",
+    "2024-12-14-photo-14-12-2024-13-00-43.jpg",
+    "2024-12-14-photo-14-12-2024-13-02-22.jpg",
+    "2024-12-14-photo-14-12-2024-13-05-13.jpg",
+    "2024-12-14-photo-14-12-2024-13-06-17.jpg",
+    "2024-12-14-photo-14-12-2024-13-09-03.jpg",
+    "2024-12-14-photo-14-12-2024-13-09-51.jpg",
+    "2024-12-14-photo-14-12-2024-13-09-53.jpg",
+    "2024-12-14-photo-14-12-2024-13-09-55.jpg",
+    "2024-12-14-photo-14-12-2024-13-10-03.jpg",
+    "2024-12-14-photo-14-12-2024-13-10-06.jpg",
+    "2024-12-14-photo-14-12-2024-13-11-02.jpg",
+    "2024-12-14-photo-14-12-2024-13-12-17.jpg",
+    "2024-12-14-photo-14-12-2024-13-12-41.jpg",
+    "2024-12-14-photo-14-12-2024-13-13-18.jpg",
+    "2024-12-14-photo-14-12-2024-13-18-42.jpg",
+    "2024-12-14-photo-14-12-2024-13-18-47.jpg",
+    "2024-12-14-photo-14-12-2024-13-19-05.jpg",
+    "2024-12-14-photo-14-12-2024-13-22-59.jpg",
+    "2024-12-14-photo-14-12-2024-13-25-37.jpg",
+    "2024-12-14-photo-14-12-2024-13-30-51.jpg",
+    "2024-12-14-photo-14-12-2024-13-32-14.jpg",
+    "2024-12-14-photo-14-12-2024-13-35-00.jpg",
+    "2024-12-14-photo-14-12-2024-13-35-04.jpg",
+    "2024-12-14-photo-14-12-2024-13-40-47.jpg",
+    "2024-12-14-photo-14-12-2024-13-44-32.jpg"
+  ]
+}

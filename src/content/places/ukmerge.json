@@ -1,0 +1,124 @@
+{
+  "slug": "ukmerge",
+  "coordinates": {
+    "lat": 55.25,
+    "lng": 24.75
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Ukmergė",
+    "en": "Ukmergė",
+    "uk": "Укмерге"
+  },
+  "shortDescription": {
+    "lt": "Senas kelių sankryžos miestas prie Šventosios upės, pirmą kartą paminėtas 1333 metais.",
+    "en": "An old crossroads city on the Šventoji river, first recorded in written sources in 1333.",
+    "uk": "Старе перехрестя доріг на річці Швянтойї, вперше зафіксоване у писемних джерелах 1333 року."
+  },
+  "longDescription": {
+    "lt": "Ukmergė — vienas seniausių Lietuvos miestų, rašytiniuose šaltiniuose pirmą kartą paminėtas 1333 metais Hermano Vartbergės kronikoje, aprašančioje kalavijuočių ordino žygį. Miestas stovi prie Šventosios upės vidurio Lietuvoje ir yra Ukmergės rajono savivaldybės centras. Viduramžiais Ukmergė ne kartą kentėjo nuo kryžiuočių ir kalavijuočių antpuolių, o vėliau tapo svarbiu kelių, jungiančių Vilnių, Kauną, Panevėžį ir Uteną, susikirtimo tašku, kas nulėmė jos, kaip prekybos centro, vaidmenį.",
+    "en": "Ukmergė is one of the oldest towns in Lithuania, first mentioned in written sources in 1333 in the chronicle of Hermann Wartberge, describing a raid by the Livonian Order. The city stands on the Šventoji river in central Lithuania and is the seat of Ukmergė district municipality. In the Middle Ages, Ukmergė was repeatedly attacked by the Teutonic and Livonian Orders, and it later became an important junction of roads connecting Vilnius, Kaunas, Panevėžys and Utena, which shaped its role as a regional trade centre.",
+    "uk": "Укмерге — одне з найстаріших міст Литви, вперше згадане у писемних джерелах 1333 року в хроніці Германа Вартберга, що описує напад лівонського ордену. Місто стоїть на річці Швянтойї в центральній Литві і є центром Укмергського районного самоврядування. У Середньовіччі Укмерге неодноразово зазнавало нападів тевтонського та лівонського орденів, а пізніше стало важливим перехрестям доріг, що з'єднують Вільнюс, Каунас, Панєвєжіс та Утену, що визначило його роль регіонального торгового центру."
+  },
+  "facts": [
+    {
+      "lt": "Ukmergė pirmą kartą paminėta 1333 metais Hermano Vartbergės kronikoje, aprašančioje kalavijuočių žygį.",
+      "en": "Ukmergė is first mentioned in 1333 in the chronicle of Hermann Wartberge, describing a Livonian Order raid.",
+      "uk": "Укмерге вперше згадане 1333 року в хроніці Германа Вартберга, що описує похід лівонського ордену."
+    },
+    {
+      "lt": "Miestas stovi prie Šventosios upės ir yra Ukmergės rajono savivaldybės centras.",
+      "en": "The city stands on the Šventoji river and is the seat of Ukmergė district municipality.",
+      "uk": "Місто стоїть на річці Швянтойї і є центром Укмергського районного самоврядування."
+    },
+    {
+      "lt": "Ukmergė seniai buvo svarbus kelių, jungiančių Vilnių, Kauną, Panevėžį ir Uteną, susikirtimo taškas.",
+      "en": "Ukmergė has long been an important junction of roads connecting Vilnius, Kaunas, Panevėžys and Utena.",
+      "uk": "Укмерге здавна було важливим перехрестям доріг, що з'єднують Вільнюс, Каунас, Панєвєжіс та Утену."
+    }
+  ],
+  "highlightPhoto": "2023-01-14-photo-2023-01-14-15-13-59.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šventosios upės vaizdas prie Ukmergės",
+    "en": "The Šventoji river near Ukmergė",
+    "uk": "Річка Швянтойї поблизу Укмерге"
+  },
+  "photos": [
+    "2023-01-14-photo-2023-01-14-14-42-04.jpg",
+    "2023-01-14-photo-2023-01-14-14-42-28.jpg",
+    "2023-01-14-photo-2023-01-14-14-44-28.jpg",
+    "2023-01-14-photo-2023-01-14-14-45-00.jpg",
+    "2023-01-14-photo-2023-01-14-14-46-04.jpg",
+    "2023-01-14-photo-2023-01-14-14-46-13.jpg",
+    "2023-01-14-photo-2023-01-14-14-47-59.jpg",
+    "2023-01-14-photo-2023-01-14-14-49-26.jpg",
+    "2023-01-14-photo-2023-01-14-14-49-32.jpg",
+    "2023-01-14-photo-2023-01-14-14-50-23.jpg",
+    "2023-01-14-photo-2023-01-14-14-50-56.jpg",
+    "2023-01-14-photo-2023-01-14-14-51-46.jpg",
+    "2023-01-14-photo-2023-01-14-14-52-36.jpg",
+    "2023-01-14-photo-2023-01-14-14-53-01.jpg",
+    "2023-01-14-photo-2023-01-14-14-53-16.jpg",
+    "2023-01-14-photo-2023-01-14-14-53-43.jpg",
+    "2023-01-14-photo-2023-01-14-14-54-27.jpg",
+    "2023-01-14-photo-2023-01-14-14-56-48.jpg",
+    "2023-01-14-photo-2023-01-14-14-57-31.jpg",
+    "2023-01-14-photo-2023-01-14-14-57-51.jpg",
+    "2023-01-14-photo-2023-01-14-14-58-16.jpg",
+    "2023-01-14-photo-2023-01-14-14-58-56.jpg",
+    "2023-01-14-photo-2023-01-14-15-00-05.jpg",
+    "2023-01-14-photo-2023-01-14-15-00-07.jpg",
+    "2023-01-14-photo-2023-01-14-15-00-51.jpg",
+    "2023-01-14-photo-2023-01-14-15-02-03.jpg",
+    "2023-01-14-photo-2023-01-14-15-02-19.jpg",
+    "2023-01-14-photo-2023-01-14-15-03-03.jpg",
+    "2023-01-14-photo-2023-01-14-15-03-07.jpg",
+    "2023-01-14-photo-2023-01-14-15-05-32.jpg",
+    "2023-01-14-photo-2023-01-14-15-06-11.jpg",
+    "2023-01-14-photo-2023-01-14-15-07-03.jpg",
+    "2023-01-14-photo-2023-01-14-15-09-43.jpg",
+    "2023-01-14-photo-2023-01-14-15-11-37.jpg",
+    "2023-01-14-photo-2023-01-14-15-12-58.jpg",
+    "2023-01-14-photo-2023-01-14-15-13-59.jpg",
+    "2023-01-14-photo-2023-01-14-15-16-15.jpg",
+    "2023-01-14-photo-2023-01-14-15-17-28.jpg",
+    "2023-01-14-photo-2023-01-14-15-18-35.jpg",
+    "2023-01-14-photo-2023-01-14-15-21-51.jpg",
+    "2023-01-14-photo-2023-01-14-15-23-12.jpg",
+    "2023-01-14-photo-2023-01-14-15-23-34.jpg",
+    "2023-01-14-photo-2023-01-14-15-24-14.jpg",
+    "2023-01-14-photo-2023-01-14-15-26-15.jpg",
+    "2023-01-14-photo-2023-01-14-15-27-14.jpg",
+    "2023-01-14-photo-2023-01-14-15-28-04.jpg",
+    "2023-01-14-photo-2023-01-14-15-28-27.jpg",
+    "2023-01-14-photo-2023-01-14-15-29-44.jpg",
+    "2023-01-14-photo-2023-01-14-15-30-59.jpg",
+    "2023-01-14-photo-2023-01-14-15-31-35.jpg",
+    "2023-01-14-photo-2023-01-14-15-32-10.jpg",
+    "2023-01-14-photo-2023-01-14-15-36-17.jpg",
+    "2023-01-14-photo-2023-01-14-15-36-22.jpg",
+    "2023-01-14-photo-2023-01-14-15-37-19.jpg",
+    "2023-01-14-photo-2023-01-14-15-37-43.jpg",
+    "2023-01-14-photo-2023-01-14-15-38-03.jpg",
+    "2023-01-14-photo-2023-01-14-15-38-48.jpg",
+    "2023-01-14-photo-2023-01-14-15-41-50.jpg",
+    "2023-01-14-photo-2023-01-14-15-46-41.jpg",
+    "2023-01-14-photo-2023-01-14-15-47-53.jpg",
+    "2023-01-14-photo-2023-01-14-15-51-28.jpg",
+    "2023-01-14-photo-2023-01-14-15-52-26.jpg",
+    "2023-01-14-photo-2023-01-14-15-52-28.jpg",
+    "2023-01-14-photo-2023-01-14-15-52-30.jpg",
+    "2023-01-14-photo-2023-01-14-15-57-09.jpg",
+    "2023-01-14-photo-2023-01-14-15-57-23.jpg",
+    "2023-01-14-photo-2023-01-14-15-58-44.jpg",
+    "2023-01-14-photo-2023-01-14-15-58-47.jpg",
+    "2023-01-14-photo-2023-01-14-15-59-17.jpg",
+    "2023-01-14-photo-2023-01-14-15-59-20.jpg",
+    "2023-01-14-photo-2023-01-14-15-59-55.jpg"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "salcininkai",
+  "coordinates": {
+    "lat": 54.3167,
+    "lng": 25.3833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Šalčininkai",
+    "en": "Šalčininkai",
+    "uk": "Шальчининкай"
+  },
+  "shortDescription": {
+    "lt": "Pietryčių Lietuvos miestas prie sienos su Baltarusija, kuriame gyvena daugiausia lenkų tautybės žmonių.",
+    "en": "A southeastern town near the Belarusian border, home to Lithuania's largest Polish community.",
+    "uk": "Місто на південному сході Литви біля кордону з Білоруссю, з найбільшою польською громадою країни."
+  },
+  "longDescription": {
+    "lt": "Šalčininkai yra Šalčininkų rajono savivaldybės centras pietryčių Lietuvoje, netoli sienos su Baltarusija. Tarpukariu vietovė priklausė Lenkijai, o po Antrojo pasaulinio karo tapo Lietuvos SSR dalimi; miesto statusą gavo 1956 metais. Šiandien apie tris ketvirtadalius rajono gyventojų save laiko lenkais – tai viena didžiausių lenkų bendruomenių koncentracijų Lietuvoje.",
+    "en": "Šalčininkai is the seat of Šalčininkai district municipality in southeastern Lithuania, near the border with Belarus. In the interwar period the area belonged to Poland, before becoming part of the Lithuanian SSR after World War II; it received town status in 1956. Today about three-quarters of the district's residents identify as ethnic Poles, making it home to one of the largest concentrations of Lithuania's Polish minority.",
+    "uk": "Шальчининкай — центр Шальчининкайського районного самоврядування на південному сході Литви, неподалік від кордону з Білоруссю. За міжвоєнних часів територія належала Польщі, а після Другої світової війни увійшла до складу Литовської РСР; статус міста отримала 1956 року. Сьогодні близько трьох чвертей мешканців району вважають себе поляками за національністю, що робить це місто одним із найбільших осередків польської меншини в Литві."
+  },
+  "facts": [
+    {
+      "lt": "Miesto statusą Šalčininkai gavo 1956 metais.",
+      "en": "Šalčininkai received official town status in 1956.",
+      "uk": "Офіційний статус міста Шальчининкай отримав 1956 року."
+    },
+    {
+      "lt": "Apie tris ketvirtadalius rajono gyventojų save laiko lenkų tautybės.",
+      "en": "About three-quarters of the district's residents identify as ethnic Poles.",
+      "uk": "Близько трьох чвертей мешканців району вважають себе етнічними поляками."
+    },
+    {
+      "lt": "Vėlyvuoju sovietmečiu Šalčininkų rajonas kartu su Vilniaus kraštu paskelbė save savivaldžia teritorija.",
+      "en": "In the late Soviet period, Šalčininkai district declared itself a self-governing territory alongside the Vilnius region.",
+      "uk": "Наприкінці радянського періоду Шальчининкайський район разом із Вільнюським краєм проголосив себе самоврядною територією."
+    }
+  ],
+  "highlightPhoto": "2023-01-22-photo-2023-01-22-14-30-56.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šalčininkų miesto centras",
+    "en": "The town center of Šalčininkai",
+    "uk": "Центр міста Шальчининкай"
+  },
+  "photos": [
+    "2023-01-22-photo-2023-01-22-14-08-11.jpg",
+    "2023-01-22-photo-2023-01-22-14-08-30.jpg",
+    "2023-01-22-photo-2023-01-22-14-10-34.jpg",
+    "2023-01-22-photo-2023-01-22-14-11-48.jpg",
+    "2023-01-22-photo-2023-01-22-14-12-52.jpg",
+    "2023-01-22-photo-2023-01-22-14-13-55.jpg",
+    "2023-01-22-photo-2023-01-22-14-13-56.jpg",
+    "2023-01-22-photo-2023-01-22-14-14-44.jpg",
+    "2023-01-22-photo-2023-01-22-14-15-33.jpg",
+    "2023-01-22-photo-2023-01-22-14-15-44.jpg",
+    "2023-01-22-photo-2023-01-22-14-18-14.jpg",
+    "2023-01-22-photo-2023-01-22-14-21-03.jpg",
+    "2023-01-22-photo-2023-01-22-14-21-52.jpg",
+    "2023-01-22-photo-2023-01-22-14-27-37.jpg",
+    "2023-01-22-photo-2023-01-22-14-28-11.jpg",
+    "2023-01-22-photo-2023-01-22-14-28-51.jpg",
+    "2023-01-22-photo-2023-01-22-14-30-56.jpg",
+    "2023-01-22-photo-2023-01-22-14-38-03.jpg",
+    "2023-01-22-photo-2023-01-22-14-39-21.jpg",
+    "2023-01-22-photo-2023-01-22-14-39-27.jpg",
+    "2023-01-22-photo-2023-01-22-14-39-47.jpg",
+    "2023-01-22-photo-2023-01-22-14-41-57.jpg",
+    "2023-01-22-photo-2023-01-22-14-47-51.jpg",
+    "2023-01-22-photo-2023-01-22-14-52-35.jpg",
+    "2023-01-22-photo-2023-01-22-14-57-52.jpg",
+    "2023-01-22-photo-2023-01-22-14-59-41.jpg",
+    "2023-01-22-photo-2023-01-22-15-00-10.jpg",
+    "2023-01-22-photo-2023-01-22-15-01-48.jpg",
+    "2023-01-22-photo-2023-01-22-15-04-11.jpg",
+    "2023-01-22-photo-2023-01-22-15-07-00.jpg",
+    "2023-01-22-photo-2023-01-22-15-07-37.jpg",
+    "2023-01-22-photo-2023-01-22-15-09-56.jpg",
+    "2023-01-22-photo-2023-01-22-15-10-37.jpg"
+  ]
+}

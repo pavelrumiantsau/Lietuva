@@ -1,0 +1,105 @@
+{
+  "slug": "pagegiai",
+  "coordinates": {
+    "lat": 55.1333,
+    "lng": 21.9
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Pagėgiai",
+    "en": "Pagėgiai",
+    "uk": "Пагегяй"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis pasienio miestelis, kurio veidą suformavo dešimtmečiai buvusioje vokiečių valdytoje Klaipėdos krašto dalyje.",
+    "en": "A small border town shaped by its decades as part of the German-administered Memel Territory.",
+    "uk": "Невелике прикордонне містечко, сформоване десятиліттями перебування у складі німецько-адміністрованого Клайпедського краю."
+  },
+  "longDescription": {
+    "lt": "Pagėgiai įsikūrę istoriniame Klaipėdos krašte — buvusioje Memelio žemėje, kuri pagal 1919 metų Versalio sutartį buvo atskirta nuo Vokietijos ir, po trumpo Antantės administravimo laikotarpio, 1923 metais prijungta prie Lietuvos bei oficialiai pervadinta. Miestelio XIX amžiaus pabaigos liuteronų bažnyčia iki šiol atspindi jo vokiškos evangeliškos praeities pėdsakus, o tarpukario laikų pastatai primena metus, kai miestelis vystėsi jau Lietuvos administracijos sudėtyje. Šiandien Pagėgiai — ramus savivaldybės centras netoli Nemuno upės ir sienos su Kaliningrado sritimi, kurio gatvėse iki šiol matoma sluoksniuota vokiška ir lietuviška istorija.",
+    "en": "Pagėgiai lies in the historic Klaipėda region — the former Memel Territory — which was separated from Germany under the 1919 Treaty of Versailles and, after a brief period under Entente administration, was annexed by Lithuania in 1923 and formally renamed. The town's late-19th-century Lutheran church still reflects its German Evangelical past, and its interwar-era buildings recall the years when it developed under Lithuanian administration as part of the newly won Klaipėda region. Today Pagėgiai is a quiet municipal center near the Nemunas river and the border with the Kaliningrad Oblast.",
+    "uk": "Пагегяй розташоване в історичному Клайпедському краї — колишній землі Мемель, яка за Версальським договором 1919 року була відокремлена від Німеччини і, після короткого періоду адміністрування Антантою, 1923 року приєднана до Литви й офіційно перейменована. Лютеранська церква містечка кінця XIX століття й досі відображає його німецьке євангелічне минуле, а будівлі міжвоєнної доби нагадують роки, коли містечко розвивалося вже під литовською адміністрацією у складі новонабутого Клайпедського краю. Сьогодні Пагегяй — тихий муніципальний центр біля річки Нямунас і кордону з Калінінградською областю."
+  },
+  "facts": [
+    {
+      "lt": "Pagėgiai priklausė Klaipėdos (Memelio) kraštui, kuris po Pirmojo pasaulinio karo atskirtas nuo Vokietijos, o 1923 metais prijungtas prie Lietuvos.",
+      "en": "Pagėgiai belonged to the Memel Territory, separated from Germany after World War I and annexed by Lithuania in 1923.",
+      "uk": "Пагегяй належало до Мемельського краю, який після Першої світової війни відокремили від Німеччини, а 1923 року приєднали до Литви."
+    },
+    {
+      "lt": "XIX amžiaus pabaigoje pastatyta miestelio liuteronų bažnyčia atspindi jo vokišką evangelišką praeitį.",
+      "en": "The town's Lutheran church, built in the late 19th century, reflects its German Evangelical past.",
+      "uk": "Побудована наприкінці XIX століття лютеранська церква містечка відображає його німецьке євангелічне минуле."
+    },
+    {
+      "lt": "Šiandien Pagėgiai driekiasi netoli tiek Nemuno upės, tiek sienos su Rusijos Kaliningrado sritimi.",
+      "en": "Pagėgiai today lies near both the Nemunas river and the border with Russia's Kaliningrad Oblast.",
+      "uk": "Сьогодні Пагегяй розташоване поблизу як річки Нямунас, так і кордону з Калінінградською областю Росії."
+    }
+  ],
+  "highlightPhoto": "2026-07-12-photo-12-07-2026-16-13-22.jpg",
+  "highlightPhotoAlt": {
+    "lt": "XIX amžiaus pabaigos liuteronų bažnyčia Pagėgiuose",
+    "en": "The late-19th-century Lutheran church in Pagėgiai",
+    "uk": "Лютеранська церква кінця XIX століття в Пагегяй"
+  },
+  "photos": [
+    "2026-07-12-photo-12-07-2026-15-49-13.jpg",
+    "2026-07-12-photo-12-07-2026-15-49-26.jpg",
+    "2026-07-12-photo-12-07-2026-15-49-27.jpg",
+    "2026-07-12-photo-12-07-2026-15-50-43.jpg",
+    "2026-07-12-photo-12-07-2026-15-50-45.jpg",
+    "2026-07-12-photo-12-07-2026-15-51-32.jpg",
+    "2026-07-12-photo-12-07-2026-15-52-24.jpg",
+    "2026-07-12-photo-12-07-2026-15-52-29.jpg",
+    "2026-07-12-photo-12-07-2026-15-53-13.jpg",
+    "2026-07-12-photo-12-07-2026-15-54-23.jpg",
+    "2026-07-12-photo-12-07-2026-15-54-43.jpg",
+    "2026-07-12-photo-12-07-2026-15-56-58.jpg",
+    "2026-07-12-photo-12-07-2026-15-57-55.jpg",
+    "2026-07-12-photo-12-07-2026-15-57-57.jpg",
+    "2026-07-12-photo-12-07-2026-15-58-20.jpg",
+    "2026-07-12-photo-12-07-2026-16-00-26.jpg",
+    "2026-07-12-photo-12-07-2026-16-00-28.jpg",
+    "2026-07-12-photo-12-07-2026-16-00-33.jpg",
+    "2026-07-12-photo-12-07-2026-16-00-41.jpg",
+    "2026-07-12-photo-12-07-2026-16-01-50.jpg",
+    "2026-07-12-photo-12-07-2026-16-01-54.jpg",
+    "2026-07-12-photo-12-07-2026-16-02-27.jpg",
+    "2026-07-12-photo-12-07-2026-16-03-22.jpg",
+    "2026-07-12-photo-12-07-2026-16-03-24.jpg",
+    "2026-07-12-photo-12-07-2026-16-05-34.jpg",
+    "2026-07-12-photo-12-07-2026-16-07-10.jpg",
+    "2026-07-12-photo-12-07-2026-16-13-22.jpg",
+    "2026-07-12-photo-12-07-2026-16-14-55.jpg",
+    "2026-07-12-photo-12-07-2026-16-15-43.jpg",
+    "2026-07-12-photo-12-07-2026-16-16-08.jpg",
+    "2026-07-12-photo-12-07-2026-16-16-17.jpg",
+    "2026-07-12-photo-12-07-2026-16-17-09.jpg",
+    "2026-07-12-photo-12-07-2026-16-17-11.jpg",
+    "2026-07-12-photo-12-07-2026-16-17-46.jpg",
+    "2026-07-12-photo-12-07-2026-16-18-08.jpg",
+    "2026-07-12-photo-12-07-2026-16-18-09.jpg",
+    "2026-07-12-photo-12-07-2026-16-19-24.jpg",
+    "2026-07-12-photo-12-07-2026-16-22-03.jpg",
+    "2026-07-12-photo-12-07-2026-16-23-13.jpg",
+    "2026-07-12-photo-12-07-2026-16-25-10.jpg",
+    "2026-07-12-photo-12-07-2026-16-26-43.jpg",
+    "2026-07-12-photo-12-07-2026-16-29-34.jpg",
+    "2026-07-12-photo-12-07-2026-16-29-37.jpg",
+    "2026-07-12-photo-12-07-2026-16-30-24.jpg",
+    "2026-07-12-photo-12-07-2026-16-30-36.jpg",
+    "2026-07-12-photo-12-07-2026-16-31-38.jpg",
+    "2026-07-12-photo-12-07-2026-16-31-40.jpg",
+    "2026-07-12-photo-12-07-2026-16-32-13.jpg",
+    "2026-07-12-photo-12-07-2026-16-33-24.jpg",
+    "2026-07-12-photo-12-07-2026-16-36-26.jpg",
+    "2026-07-12-photo-12-07-2026-16-36-44.jpg",
+    "2026-07-12-photo-12-07-2026-16-38-22.jpg"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "skuodas",
+  "coordinates": {
+    "lat": 56.2667,
+    "lng": 21.5333
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Skuodas",
+    "en": "Skuodas",
+    "uk": "Скуодас"
+  },
+  "shortDescription": {
+    "lt": "Vienas iš seniausių Lietuvos miestų prie Latvijos sienos, perskirtas Bartuvos upės į du krantus.",
+    "en": "One of Lithuania's oldest towns near the Latvian border, split in two by the Bartuva river.",
+    "uk": "Одне з найдавніших міст Литви біля латвійського кордону, розділене навпіл річкою Бартува."
+  },
+  "longDescription": {
+    "lt": "Skuodas, minimas rašytiniuose šaltiniuose jau 1253 metais, yra vienas seniausių Lietuvos miestų, įsikūręs prie pat Latvijos sienos, Klaipėdos apskrityje. 1572 metais Jonas Jeronimas Chodkevičius, tuometinis miesto savininkas, suteikė jam Chelmno teises, po ko dešiniajame Bartuvos krante pradėjo formuotis naujoji miesto dalis, atskirta nuo senamiesčio kairiajame krante. Iki Antrojo pasaulinio karo žydai sudarė apie pusę miesto gyventojų — Skuodo žydų bendruomenė buvo viena seniausių Lietuvoje.",
+    "en": "Skuodas, mentioned in written sources as early as 1253, is one of Lithuania's oldest towns, sitting right on the Latvian border in Klaipėda county. In 1572 Jan Hieronimowicz Chodkiewicz, then the town's owner, granted it Chełmno rights, after which a new town began forming on the right bank of the Bartuva river, separate from the Old Town on the left bank. Before World War II, Jews made up roughly half the town's population, making the Skuodas Jewish community one of the oldest in Lithuania.",
+    "uk": "Скуодас, згаданий у писемних джерелах ще 1253 року, — одне з найдавніших міст Литви, розташоване прямо біля латвійського кордону у Клайпедському повіті. У 1572 році Ян Ієронім Ходкевич, тодішній власник міста, надав йому хелмінське право, після чого на правому березі річки Бартува почала формуватися нова частина міста, відокремлена від старого міста на лівому березі. До Другої світової війни євреї становили близько половини населення міста — єврейська громада Скуодаса була однією з найстаріших у Литві."
+  },
+  "facts": [
+    {
+      "lt": "Skuodas rašytiniuose šaltiniuose minimas jau 1253 metais.",
+      "en": "Skuodas is mentioned in written sources as early as 1253.",
+      "uk": "Скуодас згадується у писемних джерелах ще з 1253 року."
+    },
+    {
+      "lt": "Bartuvos upė miestą dalija į senamiestį kairiajame krante ir naująjį miestą dešiniajame, sujungtus tiltu.",
+      "en": "The Bartuva river divides the town into an Old Town on the left bank and a New Town on the right, linked by a bridge.",
+      "uk": "Річка Бартува розділяє місто на старе місто на лівому березі та нове місто на правому, з'єднані мостом."
+    },
+    {
+      "lt": "Iki karo žydai sudarė maždaug pusę Skuodo gyventojų, o bendruomenė buvo viena seniausių Lietuvoje.",
+      "en": "Before the war, Jews made up roughly half of Skuodas's population, one of the oldest such communities in Lithuania.",
+      "uk": "До війни євреї становили приблизно половину населення Скуодаса — це була одна з найстаріших громад у Литві."
+    }
+  ],
+  "highlightPhoto": "2023-05-20-photo-2023-05-20-16-02-28.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Bartuvos upė ir tiltas Skuodo mieste",
+    "en": "The Bartuva river and bridge in Skuodas",
+    "uk": "Річка Бартува та міст у Скуодасі"
+  },
+  "photos": [
+    "2023-05-20-photo-2023-05-20-15-40-33.jpg",
+    "2023-05-20-photo-2023-05-20-15-41-01.jpg",
+    "2023-05-20-photo-2023-05-20-15-41-43.jpg",
+    "2023-05-20-photo-2023-05-20-15-41-45.jpg",
+    "2023-05-20-photo-2023-05-20-15-42-58.jpg",
+    "2023-05-20-photo-2023-05-20-15-43-36.jpg",
+    "2023-05-20-photo-2023-05-20-15-45-16.jpg",
+    "2023-05-20-photo-2023-05-20-15-49-09.jpg",
+    "2023-05-20-photo-2023-05-20-15-50-20.jpg",
+    "2023-05-20-photo-2023-05-20-15-50-34.jpg",
+    "2023-05-20-photo-2023-05-20-15-51-09.jpg",
+    "2023-05-20-photo-2023-05-20-15-51-10.jpg",
+    "2023-05-20-photo-2023-05-20-15-52-42.jpg",
+    "2023-05-20-photo-2023-05-20-15-54-29.jpg",
+    "2023-05-20-photo-2023-05-20-15-55-28.jpg",
+    "2023-05-20-photo-2023-05-20-15-56-32.jpg",
+    "2023-05-20-photo-2023-05-20-15-58-05.jpg",
+    "2023-05-20-photo-2023-05-20-15-59-00.jpg",
+    "2023-05-20-photo-2023-05-20-15-59-19.jpg",
+    "2023-05-20-photo-2023-05-20-15-59-33.jpg",
+    "2023-05-20-photo-2023-05-20-16-01-14.jpg",
+    "2023-05-20-photo-2023-05-20-16-02-28.jpg",
+    "2023-05-20-photo-2023-05-20-16-02-34.jpg",
+    "2023-05-20-photo-2023-05-20-16-08-31.jpg",
+    "2023-05-20-photo-2023-05-20-16-09-56.jpg",
+    "2023-05-20-photo-2023-05-20-16-10-57.jpg",
+    "2023-05-20-photo-2023-05-20-16-12-09.jpg",
+    "2023-05-20-photo-2023-05-20-16-13-18.jpg",
+    "2023-05-20-photo-2023-05-20-16-13-20.jpg",
+    "2023-05-20-photo-2023-05-20-16-15-52.jpg",
+    "2023-05-20-photo-2023-05-20-16-16-44.jpg",
+    "2023-05-20-photo-2023-05-20-16-16-57.jpg",
+    "2023-05-20-photo-2023-05-20-16-19-18.jpg",
+    "2023-05-20-photo-2023-05-20-16-20-21.jpg",
+    "2023-05-20-photo-2023-05-20-16-21-42.jpg",
+    "2023-05-20-photo-2023-05-20-16-24-03.jpg",
+    "2023-05-20-photo-2023-05-20-16-26-06.jpg",
+    "2023-05-20-photo-2023-05-20-16-27-17.jpg",
+    "2023-05-20-photo-2023-05-20-16-27-40.jpg",
+    "2023-05-20-photo-2023-05-20-16-30-01.jpg",
+    "2023-05-20-photo-2023-05-20-16-32-50.jpg",
+    "2023-05-20-photo-2023-05-20-16-33-21.jpg"
+  ]
+}

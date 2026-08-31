@@ -1,0 +1,90 @@
+{
+  "slug": "gelgaudiskis",
+  "coordinates": {
+    "lat": 55.0833,
+    "lng": 22.9833
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Gelgaudiškis",
+    "en": "Gelgaudiškis",
+    "uk": "Гельгаудишкіс"
+  },
+  "shortDescription": {
+    "lt": "Miestelis prie Nemuno, garsus neoklasicistiniu dvaru ir vienu didžiausių parkų Lietuvoje.",
+    "en": "A town on the Nemunas, known for its neoclassical manor and one of the largest parks in Lithuania.",
+    "uk": "Містечко на Нямунасі, відоме класицистичною садибою й одним з найбільших парків Литви."
+  },
+  "longDescription": {
+    "lt": "Gelgaudiškis — Šakių rajono miestelis dešiniajame Nemuno krante, savo vardą gavęs iš Lietuvos Didžiosios Kunigaikštystės diplomato Jurgio Gedgaudo, netrukus po Žalgirio mūšio čia pastačiusio pilį. Dabartinį neoklasicistinį dvaro rūmą 1842–1846 metais pastatė Prūsijos baronas Gustavas fon Kaudelis; rūmus supa 118,5 hektaro parkas — vienas didžiausių Lietuvoje, kuriame auga keturių eilių sidabraklevių alėja ir iš aštuonių takų susikertančių sudaryta žvaigždės formos kompozicija. Po kelis dešimtmečius trukusio apleistumo dvaras buvo restauruotas 2012 metais ir šiandien veikia kaip muziejus.",
+    "en": "Gelgaudiškis is a town in Šakiai district on the right bank of the Nemunas, taking its name from Jurgis Gedgaudas, a diplomat of the Grand Duchy of Lithuania who built a castle here shortly after the Battle of Grunwald. The present neoclassical manor house was built in 1842-1846 by the Prussian baron Gustav von Keudell; it is surrounded by a 118.5-hectare park, one of the largest in Lithuania, featuring a four-row silver maple avenue and a star-shaped pattern formed by eight intersecting paths. After some three decades of disrepair, the manor was restored in 2012 and today operates as a museum.",
+    "uk": "Гельгаудишкіс — містечко Шакяйського району на правому березі Нямунасу, назване на честь Юргіса Гедгаудаса, дипломата Великого князівства Литовського, який невдовзі після Грюнвальдської битви збудував тут замок. Нинішній класицистичний садибний будинок збудував у 1842-1846 роках прусський барон Густав фон Кейделль; будинок оточує парк площею 118,5 гектара — один з найбільших у Литві, з чотирирядною алеєю сріблястих кленів та зірчастим візерунком з восьми перехресних доріжок. Після майже трьох десятиліть занепаду садибу відреставрували 2012 року, і сьогодні вона діє як музей."
+  },
+  "facts": [
+    {
+      "lt": "Miestelio vardas kilęs iš diplomato Jurgio Gedgaudo, po Žalgirio mūšio pastačiusio čia pilį.",
+      "en": "The town's name comes from Jurgis Gedgaudas, a diplomat who built a castle here after the Battle of Grunwald.",
+      "uk": "Назва містечка походить від дипломата Юргіса Гедгаудаса, який побудував тут замок після Грюнвальдської битви."
+    },
+    {
+      "lt": "Dabartinį dvaro rūmą 1842–1846 metais pastatė Prūsijos baronas Gustavas fon Kaudelis.",
+      "en": "The present manor house was built in 1842-1846 by the Prussian baron Gustav von Keudell.",
+      "uk": "Нинішній садибний будинок збудував у 1842-1846 роках прусський барон Густав фон Кейделль."
+    },
+    {
+      "lt": "Dvarą supantis 118,5 hektaro parkas yra vienas didžiausių Lietuvoje.",
+      "en": "The 118.5-hectare park surrounding the manor is one of the largest in Lithuania.",
+      "uk": "Парк площею 118,5 гектара навколо садиби є одним з найбільших у Литві."
+    }
+  ],
+  "highlightPhoto": "2023-10-07-photo-07-10-2023-14-57-26.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Gelgaudiškio dvaro rūmai ir parkas",
+    "en": "The Gelgaudiškis manor house and its park",
+    "uk": "Садибний будинок Гельгаудишкіса та його парк"
+  },
+  "photos": [
+    "2023-10-07-photo-07-10-2023-14-34-56.jpg",
+    "2023-10-07-photo-07-10-2023-14-36-32.jpg",
+    "2023-10-07-photo-07-10-2023-14-36-34.jpg",
+    "2023-10-07-photo-07-10-2023-14-36-36.jpg",
+    "2023-10-07-photo-07-10-2023-14-37-04.jpg",
+    "2023-10-07-photo-07-10-2023-14-38-50.jpg",
+    "2023-10-07-photo-07-10-2023-14-39-00.jpg",
+    "2023-10-07-photo-07-10-2023-14-42-09.jpg",
+    "2023-10-07-photo-07-10-2023-14-42-11.jpg",
+    "2023-10-07-photo-07-10-2023-14-45-58.jpg",
+    "2023-10-07-photo-07-10-2023-14-46-42.jpg",
+    "2023-10-07-photo-07-10-2023-14-50-15.jpg",
+    "2023-10-07-photo-07-10-2023-14-50-27.jpg",
+    "2023-10-07-photo-07-10-2023-14-52-03.jpg",
+    "2023-10-07-photo-07-10-2023-14-52-14.jpg",
+    "2023-10-07-photo-07-10-2023-14-52-27.jpg",
+    "2023-10-07-photo-07-10-2023-14-53-11.jpg",
+    "2023-10-07-photo-07-10-2023-14-54-11.jpg",
+    "2023-10-07-photo-07-10-2023-14-57-26.jpg",
+    "2023-10-07-photo-07-10-2023-15-01-45.jpg",
+    "2023-10-07-photo-07-10-2023-15-06-05.jpg",
+    "2023-10-07-photo-07-10-2023-15-06-23.jpg",
+    "2023-10-07-photo-07-10-2023-15-06-28.jpg",
+    "2023-10-07-photo-07-10-2023-15-12-24.jpg",
+    "2023-10-07-photo-07-10-2023-15-16-39.jpg",
+    "2023-10-07-photo-07-10-2023-15-19-26.jpg",
+    "2023-10-07-photo-07-10-2023-15-22-58.jpg",
+    "2023-10-07-photo-07-10-2023-15-24-12.jpg",
+    "2023-10-07-photo-07-10-2023-15-26-39.jpg",
+    "2023-10-07-photo-07-10-2023-15-26-53.jpg",
+    "2023-10-07-photo-07-10-2023-15-27-10.jpg",
+    "2023-10-07-photo-07-10-2023-15-27-14.jpg",
+    "2023-10-07-photo-07-10-2023-15-27-46.jpg",
+    "2023-10-07-photo-07-10-2023-15-29-03.jpg",
+    "2023-10-07-photo-07-10-2023-15-30-18.jpg",
+    "2023-10-07-photo-07-10-2023-15-33-00.jpg",
+    "2023-10-07-photo-07-10-2023-15-34-44.jpg"
+  ]
+}

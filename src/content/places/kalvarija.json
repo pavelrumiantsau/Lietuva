@@ -1,0 +1,89 @@
+{
+  "slug": "kalvarija",
+  "coordinates": {
+    "lat": 54.4067,
+    "lng": 23.2214
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kalvarija",
+    "en": "Kalvarija",
+    "uk": "Кальварія"
+  },
+  "shortDescription": {
+    "lt": "Pietvakarių Lietuvos miestelis prie Lenkijos sienos, XVII amžiuje įkurtas kaip Kristaus kančios kelio šventovė.",
+    "en": "A town in southwestern Lithuania near the Polish border, founded in the 17th century as a Way-of-the-Cross shrine.",
+    "uk": "Містечко на південному заході Литви біля кордону з Польщею, засноване у XVII столітті як святиня Хресної дороги."
+  },
+  "longDescription": {
+    "lt": "Kalvarija įkurta XVII amžiuje kaip Kristaus kančios kelio (kalvarijos) šventovė, nuo kurios ir kilo miestelio pavadinimas; pirmoji medinė bažnyčia pastatyta 1705 metais. 1713 metais karalius Augustas II leido čia įsikurti žydų bendruomenei ir statyti sinagogą, o amatininkams žydams — dirbti nepriklausant nuo cechų, todėl miestelis ilgą laiką garsėjo gausia ir įtakinga žydų bendruomene. 1791 metais Kalvarija gavo miesto teises ir herbą, o XIX amžiaus pradžioje nutiestas Peterburgo–Varšuvos kelias paspartino jos augimą; šiandien Kalvarija yra Kalvarijos savivaldybės centras vos už kelių kilometrų nuo Lenkijos sienos.",
+    "en": "Kalvarija was founded in the 17th century as a Way-of-the-Cross (kalvarija) shrine, which gave the town its name; the first wooden church was built in 1705. In 1713 King Augustus II allowed a Jewish community to settle here and build a synagogue, and permitted Jewish craftsmen to work outside the guild system, so the town became known for a large and influential Jewish community for a long time. In 1791 Kalvarija received town rights and a coat of arms, and the construction of the St Petersburg–Warsaw road in the early 19th century accelerated its growth; today Kalvarija is the seat of Kalvarija municipality, just a few kilometres from the Polish border.",
+    "uk": "Кальварія була заснована у XVII столітті як святиня Хресної дороги (кальварії), звідки й походить назва містечка; перший дерев'яний костел збудували у 1705 році. У 1713 році король Август II дозволив тут оселитися єврейській громаді та збудувати синагогу, а єврейським ремісникам — працювати поза цеховою системою, тож містечко довгий час славилося великою й впливовою єврейською громадою. У 1791 році Кальварія отримала міські права та герб, а прокладена на початку XIX століття дорога Петербург–Варшава прискорила її розвиток; сьогодні Кальварія є центром Кальварійської громади, лише за кілька кілометрів від кордону з Польщею."
+  },
+  "facts": [
+    {
+      "lt": "Miestelio pavadinimas kilęs nuo XVII amžiuje čia įkurtos Kristaus kančios kelio (kalvarijos) šventovės.",
+      "en": "The town's name comes from the Way-of-the-Cross (kalvarija) shrine established here in the 17th century.",
+      "uk": "Назва містечка походить від заснованої тут у XVII столітті святині Хресної дороги (кальварії)."
+    },
+    {
+      "lt": "1713 metais karalius Augustas II leido čia įsikurti žydų bendruomenei ir statyti sinagogą.",
+      "en": "In 1713 King Augustus II allowed a Jewish community to settle here and build a synagogue.",
+      "uk": "У 1713 році король Август II дозволив тут оселитися єврейській громаді та збудувати синагогу."
+    },
+    {
+      "lt": "1791 metais Kalvarija gavo miesto teises ir herbą, kuriuos patvirtino paskutinysis Abiejų Tautų Respublikos karalius Stanislovas Augustas Poniatovskis.",
+      "en": "In 1791 Kalvarija received town rights and a coat of arms, confirmed by Stanisław August Poniatowski, the last king of the Polish–Lithuanian Commonwealth.",
+      "uk": "У 1791 році Кальварія отримала міські права та герб, затверджені останнім королем Речі Посполитої Станіславом Августом Понятовським."
+    }
+  ],
+  "highlightPhoto": "2024-08-24-photo-24-08-2024-13-54-19.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Kalvarijos miestelio bažnyčia ir centrinė aikštė",
+    "en": "The town church and central square of Kalvarija",
+    "uk": "Костел і центральна площа містечка Кальварія"
+  },
+  "photos": [
+    "2024-08-24-photo-24-08-2024-13-32-46.jpg",
+    "2024-08-24-photo-24-08-2024-13-33-46.jpg",
+    "2024-08-24-photo-24-08-2024-13-34-08.jpg",
+    "2024-08-24-photo-24-08-2024-13-34-58.jpg",
+    "2024-08-24-photo-24-08-2024-13-35-32.jpg",
+    "2024-08-24-photo-24-08-2024-13-36-08.jpg",
+    "2024-08-24-photo-24-08-2024-13-38-04.jpg",
+    "2024-08-24-photo-24-08-2024-13-38-37.jpg",
+    "2024-08-24-photo-24-08-2024-13-41-12.jpg",
+    "2024-08-24-photo-24-08-2024-13-42-23.jpg",
+    "2024-08-24-photo-24-08-2024-13-43-01.jpg",
+    "2024-08-24-photo-24-08-2024-13-46-16.jpg",
+    "2024-08-24-photo-24-08-2024-13-48-52.jpg",
+    "2024-08-24-photo-24-08-2024-13-49-33.jpg",
+    "2024-08-24-photo-24-08-2024-13-52-02.jpg",
+    "2024-08-24-photo-24-08-2024-13-52-31.jpg",
+    "2024-08-24-photo-24-08-2024-13-53-11.jpg",
+    "2024-08-24-photo-24-08-2024-13-53-42.jpg",
+    "2024-08-24-photo-24-08-2024-13-54-19.jpg",
+    "2024-08-24-photo-24-08-2024-13-55-12.jpg",
+    "2024-08-24-photo-24-08-2024-13-57-52.jpg",
+    "2024-08-24-photo-24-08-2024-13-59-21.jpg",
+    "2024-08-24-photo-24-08-2024-13-59-59.jpg",
+    "2024-08-24-photo-24-08-2024-14-02-35.jpg",
+    "2024-08-24-photo-24-08-2024-14-04-27.jpg",
+    "2024-08-24-photo-24-08-2024-14-05-30.jpg",
+    "2024-08-24-photo-24-08-2024-14-07-02.jpg",
+    "2024-08-24-photo-24-08-2024-14-09-02.jpg",
+    "2024-08-24-photo-24-08-2024-14-13-05.jpg",
+    "2024-08-24-photo-24-08-2024-14-14-25.jpg",
+    "2024-08-24-photo-24-08-2024-14-26-06.jpg",
+    "2024-08-24-photo-24-08-2024-14-30-24.jpg",
+    "2024-08-24-photo-24-08-2024-14-30-27.jpg",
+    "2024-08-24-photo-24-08-2024-14-30-30.jpg",
+    "2024-08-24-photo-24-08-2024-14-30-40.jpg",
+    "2024-08-24-photo-24-08-2024-14-30-42.jpg"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "joniskelis",
+  "coordinates": {
+    "lat": 56.025,
+    "lng": 24.1694
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Joniškėlis",
+    "en": "Joniškėlis",
+    "uk": "Йонішкеліс"
+  },
+  "shortDescription": {
+    "lt": "Pasvalio rajono miestelis, garsėjantis vienu didžiausių išlikusių dvarų ansamblių Lietuvoje.",
+    "en": "A town in Pasvalys district, known for one of the largest surviving manor ensembles in Lithuania.",
+    "uk": "Містечко Пасвальського району, відоме одним із найбільших маєткових ансамблів, що збереглися в Литві."
+  },
+  "longDescription": {
+    "lt": "Joniškėlis, esantis apie 15 kilometrų į vakarus nuo Pasvalio, pirmą kartą paminėtas 1685 metais, o 1736 metais gavo teisę rengti turgus. Miestelio širdis — vienas didžiausių Lietuvoje išlikusių dvarų ansamblių, nuo 1723 metų priklausęs iš Italijos kilusiai Karpių bajorų giminei; klasicistiniai rūmai ir apie 20 pastatų išsibarstę parke, kurio kūrimas prasidėtas dar XVIII amžiaus antroje pusėje. Šiandien dvare veikia Lietuvos agrarinių ir miškų mokslų centro padalinys bei Joniškėlio krašto muziejus.",
+    "en": "Joniškėlis, about 15 kilometres west of Pasvalys, was first mentioned in 1685 and received market rights in 1736. At the heart of the town is one of the largest surviving manor ensembles in Lithuania, owned from 1723 by the Italian-descended Karp noble family; the classicist palace and roughly 20 outbuildings are scattered through a park whose cultivation began in the second half of the 18th century. Today the manor houses a branch of a Lithuanian agricultural research institute and the Joniškėlis regional museum.",
+    "uk": "Йонішкеліс, розташований приблизно за 15 кілометрів на захід від Пасвалиса, вперше згадується у 1685 році, а у 1736 році отримав право проводити ринки. Серцем містечка є один із найбільших маєткових ансамблів, що збереглися в Литві, — з 1723 року ним володів шляхетський рід Карпів італійського походження; класицистичний палац і близько 20 господарських будівель розкидані парком, закладеним ще в другій половині XVIII століття. Сьогодні в маєтку розміщені відділ литовського аграрного науково-дослідного інституту та краєзнавчий музей Йонішкеліса."
+  },
+  "facts": [
+    {
+      "lt": "Joniškėlio dvaro ansamblis, priklausęs Karpių giminei, laikomas vienu didžiausių išlikusių Lietuvoje — jį sudaro apie 20 pastatų.",
+      "en": "The Joniškėlis manor ensemble, owned by the Karp family, is considered one of the largest to survive in Lithuania, comprising around 20 buildings.",
+      "uk": "Маєтковий ансамбль у Йонішкелісі, що належав роду Карпів, вважається одним із найбільших, що збереглися в Литві, — він налічує близько 20 будівель."
+    },
+    {
+      "lt": "Miestelis teises rengti turgų gavo 1736 metais iš Abiejų Tautų Respublikos karaliaus Augusto III.",
+      "en": "The town received the right to hold markets in 1736, granted by Polish–Lithuanian king Augustus III.",
+      "uk": "Право проводити ринки містечко отримало 1736 року від короля Речі Посполитої Августа III."
+    },
+    {
+      "lt": "Šiandien buvusiuose dvaro rūmuose veikia Joniškėlio krašto muziejus, pasakojantis apie Karpių giminės ir apylinkių istoriją.",
+      "en": "Today the former manor palace houses the Joniškėlis regional museum, telling the story of the Karp family and the surrounding area.",
+      "uk": "Сьогодні в колишньому маєтковому палаці розміщений краєзнавчий музей Йонішкеліса, що розповідає про історію роду Карпів та навколишніх земель."
+    }
+  ],
+  "highlightPhoto": "2023-05-13-photo-2023-05-13-13-03-30.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Joniškėlio dvaro rūmai parke",
+    "en": "The Joniškėlis manor palace in its park",
+    "uk": "Палац маєтку Йонішкеліс у парку"
+  },
+  "photos": [
+    "2023-05-13-photo-2023-05-13-12-45-39.jpg",
+    "2023-05-13-photo-2023-05-13-12-45-49.jpg",
+    "2023-05-13-photo-2023-05-13-12-45-54.jpg",
+    "2023-05-13-photo-2023-05-13-12-47-22.jpg",
+    "2023-05-13-photo-2023-05-13-12-48-44.jpg",
+    "2023-05-13-photo-2023-05-13-12-49-15.jpg",
+    "2023-05-13-photo-2023-05-13-12-49-45.jpg",
+    "2023-05-13-photo-2023-05-13-12-50-15.jpg",
+    "2023-05-13-photo-2023-05-13-12-50-21.jpg",
+    "2023-05-13-photo-2023-05-13-12-50-29.jpg",
+    "2023-05-13-photo-2023-05-13-12-51-34.jpg",
+    "2023-05-13-photo-2023-05-13-12-52-06.jpg",
+    "2023-05-13-photo-2023-05-13-12-52-08.jpg",
+    "2023-05-13-photo-2023-05-13-12-53-51.jpg",
+    "2023-05-13-photo-2023-05-13-12-53-53.jpg",
+    "2023-05-13-photo-2023-05-13-12-55-51.jpg",
+    "2023-05-13-photo-2023-05-13-12-57-42.jpg",
+    "2023-05-13-photo-2023-05-13-12-58-22.jpg",
+    "2023-05-13-photo-2023-05-13-12-58-26.jpg",
+    "2023-05-13-photo-2023-05-13-13-02-12.jpg",
+    "2023-05-13-photo-2023-05-13-13-02-29.jpg",
+    "2023-05-13-photo-2023-05-13-13-03-30.jpg",
+    "2023-05-13-photo-2023-05-13-13-04-31.jpg",
+    "2023-05-13-photo-2023-05-13-13-05-43.jpg",
+    "2023-05-13-photo-2023-05-13-13-10-07.jpg",
+    "2023-05-13-photo-2023-05-13-13-10-28.jpg",
+    "2023-05-13-photo-2023-05-13-13-13-06.jpg",
+    "2023-05-13-photo-2023-05-13-13-16-05.jpg",
+    "2023-05-13-photo-2023-05-13-13-25-07.jpg",
+    "2023-05-13-photo-2023-05-13-13-27-33.jpg",
+    "2023-05-13-photo-2023-05-13-13-27-36.jpg",
+    "2023-05-13-photo-2023-05-13-13-28-49.jpg",
+    "2023-05-13-photo-2023-05-13-13-30-27.jpg",
+    "2023-05-13-photo-2023-05-13-13-31-34.jpg",
+    "2023-05-13-photo-2023-05-13-13-31-40.jpg",
+    "2023-05-13-photo-2023-05-13-13-32-38.jpg",
+    "2023-05-13-photo-2023-05-13-13-34-39.jpg",
+    "2023-05-13-photo-2023-05-13-13-34-43.jpg",
+    "2023-05-13-photo-2023-05-13-13-37-11.jpg",
+    "2023-05-13-photo-2023-05-13-13-38-53.jpg",
+    "2023-05-13-photo-2023-05-13-13-39-13.jpg",
+    "2023-05-13-photo-2023-05-13-13-39-38.jpg",
+    "2023-05-13-photo-2023-05-13-13-41-48.jpg"
+  ]
+}

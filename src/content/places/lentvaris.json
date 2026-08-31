@@ -1,0 +1,98 @@
+{
+  "slug": "lentvaris",
+  "coordinates": {
+    "lat": 54.6494,
+    "lng": 25.0553
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Lentvaris",
+    "en": "Lentvaris",
+    "uk": "Лентварис"
+  },
+  "shortDescription": {
+    "lt": "Geležinkelio miestas prie Lentvario ežero, kurį saugo Tiškevičių giminės Tiudorų stiliaus rūmai.",
+    "en": "A railway town on Lake Lentvaris, overlooked by the Tyszkiewicz family's Tudor-style palace.",
+    "uk": "Залізничне містечко на озері Лентварис, над яким височіє палац Тишкевичів у тюдорівському стилі."
+  },
+  "longDescription": {
+    "lt": "Lentvaris išaugo aplink dvarą, pirmą kartą paminėtą 1596 metais, ant dirbtinio ežero, susidariusio užtvenkus vietinį upelį, šiaurinio kranto. 1850 metais dvarą įsigijo grafas Juozapas Tiškevičius, kurio šeima 1850–1899 metais čia pastatė neogotikinius, Tiudorų stiliaus rūmus, su miesteliu sujungtus per vandenį vedančiu pylimu. XIX amžiuje nutiestas Varšuvos–Sankt Peterburgo geležinkelis pavertė Lentvarį judriu mazgo miestu, o šiandien restauruoti Tiškevičių rūmai su pajūrio parku tebėra miesto centras, pasiekiamas traukiniu vos per keliolika minučių nuo Vilniaus.",
+    "en": "Lentvaris grew up around a manor first recorded in 1596 on the northern shore of an artificial lake formed by damming the local stream. In 1850 the estate was bought by Count Józef Tyszkiewicz, whose family built a Gothic Revival, Tudor-style palace here between 1850 and 1899, connected to the town by a causeway across the water. The arrival of the Warsaw–St. Petersburg railway in the 19th century turned Lentvaris into a busy junction town, and today the restored Tyszkiewicz Palace and its lakeside park remain the town's centerpiece, a short train ride from Vilnius.",
+    "uk": "Лентварис виріс навколо садиби, вперше згаданої 1596 року, на північному березі штучного озера, утвореного загатою місцевого струмка. 1850 року маєток придбав граф Юзеф Тишкевич, чия родина в 1850–1899 роках звела тут неоготичний палац у тюдорівському стилі, з'єднаний із містечком дамбою через воду. Прокладена в XIX столітті залізниця Варшава–Санкт-Петербург перетворила Лентварис на жваве вузлове місто, а сьогодні відреставрований палац Тишкевичів із прибережним парком лишається серцем міста, за лічені хвилини поїздом від Вільнюса."
+  },
+  "facts": [
+    {
+      "lt": "Lentvario dvaras minimas nuo 1596 metų — jis stovi ant ežero, susidariusio užtvenkus vietinį upelį, kranto.",
+      "en": "The manor at Lentvaris has been recorded since 1596, standing on the shore of a lake created by damming a local stream.",
+      "uk": "Садиба в Лентварисі згадується з 1596 року — вона стоїть на березі озера, утвореного загатою місцевого струмка."
+    },
+    {
+      "lt": "Grafas Juozapas Tiškevičius dabartinius Tiudorų stiliaus rūmus pastatė 1850–1899 metais; su miesteliu jie sujungti per ežerą vedančiu pylimu.",
+      "en": "Count Józef Tyszkiewicz built the current Tudor-style palace between 1850 and 1899, connected to the town by a causeway over the lake.",
+      "uk": "Граф Юзеф Тишкевич звів нинішній палац у тюдорівському стилі в 1850–1899 роках; із містечком його з'єднує дамба через озеро."
+    },
+    {
+      "lt": "XIX amžiuje nutiestas Varšuvos–Sankt Peterburgo geležinkelis pavertė Lentvarį mazgo miestu, iš kurio iki šiol per keliolika minučių traukiniu galima pasiekti Vilnių.",
+      "en": "The 19th-century Warsaw–St. Petersburg railway turned Lentvaris into a junction town, and it remains a short commuter-rail ride from Vilnius.",
+      "uk": "Прокладена у XIX столітті залізниця Варшава–Санкт-Петербург перетворила Лентварис на вузлове місто, звідки й донині лічені хвилини приміським потягом до Вільнюса."
+    }
+  ],
+  "highlightPhoto": "2022-04-17-img-20220417-131138.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Lentvario Tiškevičių rūmai, atsispindintys ežere",
+    "en": "The Tyszkiewicz Palace at Lentvaris reflected in the lake",
+    "uk": "Палац Тишкевичів у Лентварисі, що відображається в озері"
+  },
+  "photos": [
+    "2022-04-17-img-20220417-123718.jpg",
+    "2022-04-17-img-20220417-123933.jpg",
+    "2022-04-17-img-20220417-123937.jpg",
+    "2022-04-17-img-20220417-123939.jpg",
+    "2022-04-17-img-20220417-123943.jpg",
+    "2022-04-17-img-20220417-124123.jpg",
+    "2022-04-17-img-20220417-124405.jpg",
+    "2022-04-17-img-20220417-124559.jpg",
+    "2022-04-17-img-20220417-124601.jpg",
+    "2022-04-17-img-20220417-124652.jpg",
+    "2022-04-17-img-20220417-124656.jpg",
+    "2022-04-17-img-20220417-124802.jpg",
+    "2022-04-17-img-20220417-125357.jpg",
+    "2022-04-17-img-20220417-125530.jpg",
+    "2022-04-17-img-20220417-125639.jpg",
+    "2022-04-17-img-20220417-130256.jpg",
+    "2022-04-17-img-20220417-130338.jpg",
+    "2022-04-17-img-20220417-130422.jpg",
+    "2022-04-17-img-20220417-130524.jpg",
+    "2022-04-17-img-20220417-130658.jpg",
+    "2022-04-17-img-20220417-130809.jpg",
+    "2022-04-17-img-20220417-131133.jpg",
+    "2022-04-17-img-20220417-131138.jpg",
+    "2022-04-17-img-20220417-132909.jpg",
+    "2022-04-17-img-20220417-133005.jpg",
+    "2022-04-17-img-20220417-133247.jpg",
+    "2022-04-17-img-20220417-133301.jpg",
+    "2022-04-17-img-20220417-133305.jpg",
+    "2022-04-17-img-20220417-133518.jpg",
+    "2022-04-17-img-20220417-133524.jpg",
+    "2022-04-17-img-20220417-133822.jpg",
+    "2022-04-17-img-20220417-134014.jpg",
+    "2022-04-17-img-20220417-134417.jpg",
+    "2022-04-17-img-20220417-135410.jpg",
+    "2022-04-17-img-20220417-135657.jpg",
+    "2022-04-17-img-20220417-135922.jpg",
+    "2022-04-17-img-20220417-140010.jpg",
+    "2022-04-17-img-20220417-140055.jpg",
+    "2022-04-17-img-20220417-140201.jpg",
+    "2022-04-17-img-20220417-140306.jpg",
+    "2022-04-17-img-20220417-140516.jpg",
+    "2022-04-17-img-20220417-140735.jpg",
+    "2022-04-17-img-20220417-141347.jpg",
+    "2022-04-17-img-20220417-141351.jpg",
+    "2022-04-17-img-20220417-141937.jpg"
+  ]
+}

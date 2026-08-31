@@ -1,0 +1,85 @@
+{
+  "slug": "tytuvenai",
+  "coordinates": {
+    "lat": 55.5333,
+    "lng": 23.2
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Tytuvėnai",
+    "en": "Tytuvėnai",
+    "uk": "Титувенай"
+  },
+  "shortDescription": {
+    "lt": "Kelmės rajono miestelis, išaugęs aplink vieną didingiausių Lietuvos barokinių vienuolynų.",
+    "en": "A Kelmė district town built around one of Lithuania's grandest Baroque monastery complexes.",
+    "uk": "Містечко Кельмеського району, що виросло навколо одного з найграндіозніших барокових монастирів Литви."
+  },
+  "longDescription": {
+    "lt": "Tytuvėnai išaugo aplink bernardinų vienuolyną, įkurtą 1614 metais, kai vienuoliai čia apsigyveno pakviesti vietinių dvarininkų. Jų barokinė bažnyčia buvo pašventinta 1635 metais, o aplink ją laikui bėgant išaugo vienuolyno pastatų kompleksas, tapęs miestelio dvasinio, kultūrinio ir prekybinio gyvenimo centru. Komplekse yra ir Švento laiptų koplyčia, kurios laiptais piligrimai tradiciškai lipa ant kelių, sekdami 1774 metais popiežiaus Klemenso XIV suteiktu atlaidu. Nuo 2006 metų Tytuvėnų bažnyčios ir vienuolyno ansamblis įtrauktas į Lietuvos UNESCO pasaulio paveldo laukiančiųjų sąrašą.",
+    "en": "Tytuvėnai grew up around a Bernardine monastery founded in 1614, when friars settled here at the invitation of local landowners. Their Baroque church was consecrated in 1635, and a monastery complex gradually grew around it, becoming the centre of the town's spiritual, cultural and commercial life. The complex also includes a Holy Steps chapel, which pilgrims traditionally climb on their knees, following an indulgence granted by Pope Clement XIV in 1774. Since 2006 the Tytuvėnai church and monastery ensemble has been on Lithuania's UNESCO World Heritage Tentative List.",
+    "uk": "Титувенай виросло навколо бернардинського монастиря, заснованого 1614 року, коли ченці оселилися тут на запрошення місцевих поміщиків. Їхня барокова церква була освячена 1635 року, а навколо неї поступово виріс монастирський комплекс, що став центром духовного, культурного і торгового життя містечка. До комплексу також входить капела Святих сходів, якими паломники традиційно піднімаються навколішки, дотримуючись індульгенції, наданої Папою Клементом XIV у 1774 році. З 2006 року ансамбль церкви та монастиря в Титувенай перебуває у попередньому списку Світової спадщини ЮНЕСКО від Литви."
+  },
+  "facts": [
+    {
+      "lt": "Tytuvėnų bernardinų vienuolynas įkurtas 1614 metais, o jo barokinė bažnyčia pašventinta 1635 metais.",
+      "en": "The Tytuvėnai Bernardine monastery was founded in 1614, and its Baroque church was consecrated in 1635.",
+      "uk": "Бернардинський монастир у Титувенай засновано 1614 року, а його барокову церкву освячено 1635 року."
+    },
+    {
+      "lt": "Komplekse esančiais Švento laiptų koplyčios laiptais piligrimai tradiciškai lipa ant kelių pagal 1774 metų popiežiaus atlaidą.",
+      "en": "Pilgrims traditionally climb the Holy Steps chapel in the complex on their knees, following a 1774 papal indulgence.",
+      "uk": "Паломники традиційно піднімаються сходами капели Святих сходів навколішки, дотримуючись папської індульгенції 1774 року."
+    },
+    {
+      "lt": "Nuo 2006 metų Tytuvėnų bažnyčios ir vienuolyno ansamblis įtrauktas į Lietuvos UNESCO pasaulio paveldo laukiančiųjų sąrašą.",
+      "en": "Since 2006 the Tytuvėnai church and monastery ensemble has been on Lithuania's UNESCO World Heritage Tentative List.",
+      "uk": "З 2006 року ансамбль церкви та монастиря в Титувенай входить до попереднього списку Світової спадщини ЮНЕСКО від Литви."
+    }
+  ],
+  "highlightPhoto": "2026-03-11-photo-11-03-2026-13-56-45.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Tytuvėnų bernardinų bažnyčios ir vienuolyno ansamblis",
+    "en": "The Tytuvėnai Bernardine church and monastery ensemble",
+    "uk": "Ансамбль бернардинської церкви та монастиря в Титувенай"
+  },
+  "photos": [
+    "2026-03-11-photo-11-03-2026-13-37-48.jpg",
+    "2026-03-11-photo-11-03-2026-13-38-52.jpg",
+    "2026-03-11-photo-11-03-2026-13-38-53.jpg",
+    "2026-03-11-photo-11-03-2026-13-39-30.jpg",
+    "2026-03-11-photo-11-03-2026-13-39-57.jpg",
+    "2026-03-11-photo-11-03-2026-13-39-59.jpg",
+    "2026-03-11-photo-11-03-2026-13-41-52.jpg",
+    "2026-03-11-photo-11-03-2026-13-41-54.jpg",
+    "2026-03-11-photo-11-03-2026-13-42-34.jpg",
+    "2026-03-11-photo-11-03-2026-13-43-13.jpg",
+    "2026-03-11-photo-11-03-2026-13-43-55.jpg",
+    "2026-03-11-photo-11-03-2026-13-44-28.jpg",
+    "2026-03-11-photo-11-03-2026-13-45-40.jpg",
+    "2026-03-11-photo-11-03-2026-13-51-41.jpg",
+    "2026-03-11-photo-11-03-2026-13-55-31.jpg",
+    "2026-03-11-photo-11-03-2026-13-56-44.jpg",
+    "2026-03-11-photo-11-03-2026-13-56-45.jpg",
+    "2026-03-11-photo-11-03-2026-13-57-48.jpg",
+    "2026-03-11-photo-11-03-2026-14-04-26.jpg",
+    "2026-03-11-photo-11-03-2026-14-12-59.jpg",
+    "2026-03-11-photo-11-03-2026-14-20-49.jpg",
+    "2026-03-11-photo-11-03-2026-14-23-35.jpg",
+    "2026-03-11-photo-11-03-2026-14-27-42.jpg",
+    "2026-03-11-photo-11-03-2026-14-28-28.jpg",
+    "2026-03-11-photo-11-03-2026-14-39-26.jpg",
+    "2026-03-11-photo-11-03-2026-15-02-11.jpg",
+    "2026-03-11-photo-11-03-2026-15-03-57.jpg",
+    "2026-03-11-photo-11-03-2026-15-04-01.jpg",
+    "2026-03-11-photo-11-03-2026-15-04-08.jpg",
+    "2026-03-11-photo-11-03-2026-15-04-11.jpg",
+    "2026-03-11-photo-11-03-2026-15-04-20.jpg",
+    "2026-03-11-photo-11-03-2026-15-04-26.jpg"
+  ]
+}

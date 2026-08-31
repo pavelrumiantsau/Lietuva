@@ -1,0 +1,82 @@
+{
+  "slug": "varena",
+  "coordinates": {
+    "lat": 54.2172,
+    "lng": 24.5667
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Varėna",
+    "en": "Varėna",
+    "uk": "Варена"
+  },
+  "shortDescription": {
+    "lt": "Save vadinama Lietuvos „grybų sostine“ tarp Dzūkijos pušynų.",
+    "en": "Lithuania's self-declared 'mushroom capital', deep in the pine forests of Dzūkija.",
+    "uk": "Самопроголошена «грибна столиця» Литви серед соснових лісів Дзукії."
+  },
+  "longDescription": {
+    "lt": "Varėna — miestas smėlingų Pietų Dzūkijos pušynų apsuptyje, visoje Lietuvoje geriausiai žinomas kaip neoficiali šalies „grybų sostinė“. Šiuolaikinis miestas įkurtas 1862 metais kaip geležinkelio gyvenvietė, pranokęs senesnį kaimyninį Senosios Varėnos kaimą, kurio istorija siekia 1413 metų didžiojo kunigaikščio Vytauto medžioklės dvarelį. Kadangi skurdi, smėlinga krašto dirva niekada neduodavo gausaus derliaus, vietiniai gyventojai nuo seno maistą papildydavo gausiais aplinkinių miškų grybais ir uogomis — ši tradicija iki šiol švenčiama kasmet rugsėjį vykstančioje Grybų šventėje su nacionaliniu grybautojų čempionatu.",
+    "en": "Varėna, a town in the sandy pine forests of southern Dzūkija, is best known across Lithuania as the country's unofficial 'mushroom capital.' The modern town was founded in 1862 as a railway settlement, eclipsing the older neighboring village of Senoji Varėna, which dates back to a 1413 hunting lodge of Grand Duke Vytautas. Because the region's poor, sandy soil never gave generous harvests, locals long relied on the surrounding forests' abundant mushrooms and berries to supplement their diet, a tradition still celebrated every September with the Mushroom Festival and a national mushroom-picking championship.",
+    "uk": "Варена — місто серед піщаних соснових лісів південної Дзукії, відоме по всій Литві як неофіційна «грибна столиця» країни. Сучасне місто засноване 1862 року як залізничне поселення, яке з часом затьмарило сусіднє старіше село Сяносі Варена, чия історія сягає мисливського двору великого князя Вітаутаса 1413 року. Через бідні піщані ґрунти краю, які ніколи не давали щедрого врожаю, місцеві жителі здавна доповнювали харчування щедрими дарами навколишніх лісів — грибами та ягодами; ця традиція й донині відзначається щовересня Фестивалем грибів із національним чемпіонатом зі збирання грибів."
+  },
+  "facts": [
+    {
+      "lt": "Šiuolaikinė Varėna įkurta 1862 metais prie naujos geležinkelio linijos ir vėliau pranoko senesnę Senosios Varėnos gyvenvietę.",
+      "en": "The modern town of Varėna was founded in 1862 next to a new railway line, later overtaking the older settlement of Senoji Varėna.",
+      "uk": "Сучасна Варена заснована 1862 року поблизу нової залізничної лінії й згодом переросла старіше поселення Сяносі Варена."
+    },
+    {
+      "lt": "Senesnis kaimyninis kaimas Senoji Varėna kildinamas iš didžiojo kunigaikščio Vytauto medžioklės dvarelio, minimo 1413 metais.",
+      "en": "Senoji Varėna, the older neighboring village, traces back to a hunting lodge of Grand Duke Vytautas mentioned in 1413.",
+      "uk": "Старіше сусіднє село Сяносі Варена бере початок від мисливського двору великого князя Вітаутаса, згаданого 1413 року."
+    },
+    {
+      "lt": "Kasmet rugsėjį Varėnoje vyksta Grybų šventė su nacionaliniu grybautojų čempionatu.",
+      "en": "Every September, Varėna hosts a Mushroom Festival featuring a national mushroom-picking championship.",
+      "uk": "Щовересня у Варені проходить Фестиваль грибів із національним чемпіонатом зі збирання грибів."
+    }
+  ],
+  "highlightPhoto": "2022-08-20-img-20220820-143920.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Pušynas netoli Varėnos Dzūkijos regione",
+    "en": "Pine forest near Varėna in the Dzūkija region",
+    "uk": "Сосновий ліс поблизу Варени в регіоні Дзукія"
+  },
+  "photos": [
+    "2022-08-20-img-20220820-142911.jpg",
+    "2022-08-20-img-20220820-142937.jpg",
+    "2022-08-20-img-20220820-143027.jpg",
+    "2022-08-20-img-20220820-143037.jpg",
+    "2022-08-20-img-20220820-143234.jpg",
+    "2022-08-20-img-20220820-143240.jpg",
+    "2022-08-20-img-20220820-143451.jpg",
+    "2022-08-20-img-20220820-143534.jpg",
+    "2022-08-20-img-20220820-143601.jpg",
+    "2022-08-20-img-20220820-143639.jpg",
+    "2022-08-20-img-20220820-143641.jpg",
+    "2022-08-20-img-20220820-143708.jpg",
+    "2022-08-20-img-20220820-143717.jpg",
+    "2022-08-20-img-20220820-143846.jpg",
+    "2022-08-20-img-20220820-143920.jpg",
+    "2022-08-20-img-20220820-144034.jpg",
+    "2022-08-20-img-20220820-144201.jpg",
+    "2022-08-20-img-20220820-144202.jpg",
+    "2022-08-20-img-20220820-144319.jpg",
+    "2022-08-20-img-20220820-144419.jpg",
+    "2022-08-20-img-20220820-144504.jpg",
+    "2022-08-20-img-20220820-144635.jpg",
+    "2022-08-20-img-20220820-144914.jpg",
+    "2022-08-20-img-20220820-144955.jpg",
+    "2022-08-20-img-20220820-145139.jpg",
+    "2022-08-20-img-20220820-145147.jpg",
+    "2022-08-20-img-20220820-145214.jpg",
+    "2022-08-20-img-20220820-145337.jpg",
+    "2022-08-20-img-20220820-145517.jpg"
+  ]
+}

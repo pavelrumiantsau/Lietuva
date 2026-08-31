@@ -1,0 +1,92 @@
+{
+  "slug": "jurbarkas",
+  "coordinates": {
+    "lat": 55.0764,
+    "lng": 22.7714
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Jurbarkas",
+    "en": "Jurbarkas",
+    "uk": "Юрбаркас"
+  },
+  "shortDescription": {
+    "lt": "Nemuno pakrantėje įsikūręs miestas, kurio pradžia siekia kryžiuočių pastatytą Georgenburgo pilį.",
+    "en": "A town on the banks of the Nemunas whose origins trace back to the Teutonic Knights' Georgenburg castle.",
+    "uk": "Місто на березі Нямунаса, витоки якого сягають замку Ґеорґенбург, збудованого хрестоносцями."
+  },
+  "longDescription": {
+    "lt": "Jurbarkas pirmą kartą paminėtas 1259 metais kryžiuočių kronikose kaip Ordino pastatyta Georgenburgo pilis prie Nemuno. Po Žalgirio mūšio 1410 metais kryžiuočiai pilį apleido, o 1422 metais Melno taika ši teritorija galutinai atiteko Lietuvai — Jurbarkas išaugo į pasienio ir muitinės miestelį, gyvenusį medienos eksportu Nemunu į Prūsiją. 1611 metais karalius Zigmantas Vaza suteikė miestui Magdeburgo teises, o netoliese, prie upės, iki šiol stūkso XVII amžiuje statyta Panemunės pilis.",
+    "en": "Jurbarkas was first mentioned in Teutonic Order chronicles in 1259 as the site of the Georgenburg castle built by the Order on the Nemunas. After the Battle of Grunwald in 1410 the Teutonic Knights abandoned the castle, and in 1422 the Treaty of Melno finally brought the territory under Lithuanian control — Jurbarkas grew into a border and customs town that lived off exporting timber down the Nemunas to Prussia. In 1611 King Sigismund III Vasa granted the town Magdeburg rights, and nearby, on the riverbank, the 17th-century Panemunė Castle still stands today.",
+    "uk": "Юрбаркас уперше згадується в хроніках Тевтонського ордену у 1259 році як місце замку Ґеорґенбург, збудованого орденом на Нямунасі. Після Ґрюнвальдської битви 1410 року хрестоносці залишили замок, а у 1422 році за Мельнським миром ця територія остаточно відійшла до Литви — Юрбаркас розрісся у прикордонне й митне містечко, що жило експортом деревини Нямунасом до Пруссії. У 1611 році король Сигізмунд III Ваза надав місту магдебурзьке право, а поблизу, на березі річки, і донині стоїть замок Панямуне, збудований у XVII столітті."
+  },
+  "facts": [
+    {
+      "lt": "Jurbarkas pirmą kartą paminėtas 1259 metais kaip kryžiuočių pastatyta Georgenburgo pilis prie Nemuno.",
+      "en": "Jurbarkas is first mentioned in 1259 as the site of the Teutonic Knights' Georgenburg castle on the Nemunas.",
+      "uk": "Юрбаркас уперше згаданий у 1259 році як місце замку Ґеорґенбург, збудованого хрестоносцями на Нямунасі."
+    },
+    {
+      "lt": "1611 metais karalius Zigmantas Vaza suteikė miestui Magdeburgo savivaldos teises.",
+      "en": "In 1611 King Sigismund III Vasa granted the town Magdeburg self-government rights.",
+      "uk": "У 1611 році король Сигізмунд III Ваза надав місту магдебурзьке право на самоврядування."
+    },
+    {
+      "lt": "Netoli miesto, prie Nemuno, stovi XVII amžiuje statyta ir vėliau atnaujinta Panemunės pilis.",
+      "en": "Near the town, on the Nemunas, stands the 17th-century Panemunė Castle, later renovated and richly furnished.",
+      "uk": "Поблизу міста, на Нямунасі, стоїть замок Панямуне XVII століття, пізніше відреставрований і розкішно облаштований."
+    }
+  ],
+  "highlightPhoto": "2024-10-19-photo-19-10-2024-16-49-54.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Nemuno upės vaizdas prie Jurbarko",
+    "en": "View of the Nemunas River near Jurbarkas",
+    "uk": "Вид на річку Нямунас поблизу Юрбаркаса"
+  },
+  "photos": [
+    "2024-10-19-photo-19-10-2024-16-18-58.jpg",
+    "2024-10-19-photo-19-10-2024-16-19-41.jpg",
+    "2024-10-19-photo-19-10-2024-16-19-56.jpg",
+    "2024-10-19-photo-19-10-2024-16-21-21.jpg",
+    "2024-10-19-photo-19-10-2024-16-22-59.jpg",
+    "2024-10-19-photo-19-10-2024-16-23-02.jpg",
+    "2024-10-19-photo-19-10-2024-16-23-48.jpg",
+    "2024-10-19-photo-19-10-2024-16-23-57.jpg",
+    "2024-10-19-photo-19-10-2024-16-25-14.jpg",
+    "2024-10-19-photo-19-10-2024-16-28-38.jpg",
+    "2024-10-19-photo-19-10-2024-16-30-09.jpg",
+    "2024-10-19-photo-19-10-2024-16-30-22.jpg",
+    "2024-10-19-photo-19-10-2024-16-31-04.jpg",
+    "2024-10-19-photo-19-10-2024-16-34-12.jpg",
+    "2024-10-19-photo-19-10-2024-16-35-50.jpg",
+    "2024-10-19-photo-19-10-2024-16-36-58.jpg",
+    "2024-10-19-photo-19-10-2024-16-37-52.jpg",
+    "2024-10-19-photo-19-10-2024-16-42-12.jpg",
+    "2024-10-19-photo-19-10-2024-16-45-36.jpg",
+    "2024-10-19-photo-19-10-2024-16-49-54.jpg",
+    "2024-10-19-photo-19-10-2024-16-53-26.jpg",
+    "2024-10-19-photo-19-10-2024-16-54-33.jpg",
+    "2024-10-19-photo-19-10-2024-16-54-43.jpg",
+    "2024-10-19-photo-19-10-2024-16-54-55.jpg",
+    "2024-10-19-photo-19-10-2024-16-57-26.jpg",
+    "2024-10-19-photo-19-10-2024-16-58-03.jpg",
+    "2024-10-19-photo-19-10-2024-16-59-31.jpg",
+    "2024-10-19-photo-19-10-2024-17-00-14.jpg",
+    "2024-10-19-photo-19-10-2024-17-00-57.jpg",
+    "2024-10-19-photo-19-10-2024-17-01-37.jpg",
+    "2024-10-19-photo-19-10-2024-17-01-43.jpg",
+    "2024-10-19-photo-19-10-2024-17-02-51.jpg",
+    "2024-10-19-photo-19-10-2024-17-03-26.jpg",
+    "2024-10-19-photo-19-10-2024-17-04-10.jpg",
+    "2024-10-19-photo-19-10-2024-17-04-54.jpg",
+    "2024-10-19-photo-19-10-2024-17-06-41.jpg",
+    "2024-10-19-photo-19-10-2024-17-07-16.jpg",
+    "2024-10-19-photo-19-10-2024-17-08-54.jpg",
+    "2024-10-19-photo-19-10-2024-17-10-19.jpg"
+  ]
+}

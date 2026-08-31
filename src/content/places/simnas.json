@@ -1,0 +1,83 @@
+{
+  "slug": "simnas",
+  "coordinates": {
+    "lat": 54.4,
+    "lng": 23.65
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Simnas",
+    "en": "Simnas",
+    "uk": "Сімнас"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis Dzūkijos miestelis, įsispraudęs tarp Simno ir Giluičio ežerų prie Dovinės upės.",
+    "en": "A small Dzūkija town wedged between Lake Simnas and Lake Giluitis on the Dovinė river.",
+    "uk": "Невелике містечко в Дзукії, затиснуте між озерами Сімнас та Гілуітіс на річці Довіне."
+  },
+  "longDescription": {
+    "lt": "Simnas yra nedidelis miestelis Alytaus rajono savivaldybėje, pietų Lietuvoje, Dzūkijos etnografiniame regione. Jis stovi prie Dovinės upės, tarp Simno ežero šiaurėje ir Giluičio ežero pietuose, todėl miestelio panorama neatsiejama nuo vandens. Netoliese, į pietryčius, plyti Žuvinto biosferos rezervatas — vienas svarbiausių Lietuvos šlapžemių paukščių apsaugos objektų.",
+    "en": "Simnas is a small town in Alytus district municipality in southern Lithuania, part of the Dzūkija ethnographic region. It sits on the Dovinė river, between Lake Simnas to the north and Lake Giluitis to the south, so water shapes the town's setting on every side. Nearby to the southeast lies the Žuvintas Biosphere Reserve, one of Lithuania's most important wetland bird sanctuaries.",
+    "uk": "Сімнас — невелике містечко в Алітуському районному самоврядуванні на півдні Литви, у етнографічному регіоні Дзукія. Воно стоїть на річці Довіне, між озером Сімнас на півночі та озером Гілуітіс на півдні, тож вода визначає вигляд містечка з усіх боків. Неподалік, на південний схід, розташований біосферний заповідник Жувінтас — одне з найважливіших водно-болотних пташиних заповідників Литви."
+  },
+  "facts": [
+    {
+      "lt": "Simnas stovi prie Dovinės upės, tarp Simno ežero šiaurėje ir Giluičio ežero pietuose.",
+      "en": "Simnas lies on the Dovinė river, wedged between Lake Simnas to the north and Lake Giluitis to the south.",
+      "uk": "Сімнас розташований на річці Довіне, затиснутий між озером Сімнас на півночі та озером Гілуітіс на півдні."
+    },
+    {
+      "lt": "Miestelis priklauso Alytaus rajono savivaldybei, Dzūkijos etnografiniame regione.",
+      "en": "The town is part of Alytus district municipality, in the Dzūkija ethnographic region of southern Lithuania.",
+      "uk": "Містечко належить до Алітуського районного самоврядування, в етнографічному регіоні Дзукія на півдні Литви."
+    },
+    {
+      "lt": "Simno ežeras, besidriekiantis palei šiaurinį miestelio pakraštį, užima apie 2,4 kvadratinio kilometro.",
+      "en": "Lake Simnas, along the town's northern edge, covers about 2.4 square kilometres.",
+      "uk": "Озеро Сімнас, що тягнеться вздовж північної околиці містечка, займає близько 2,4 квадратного кілометра."
+    }
+  ],
+  "highlightPhoto": "2024-08-24-photo-24-08-2024-15-15-07.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Simno ežero pakrantė ir miestelio panorama",
+    "en": "The shore of Lake Simnas with the town in view",
+    "uk": "Берег озера Сімнас з видом на містечко"
+  },
+  "photos": [
+    "2024-08-24-photo-24-08-2024-15-02-44.jpg",
+    "2024-08-24-photo-24-08-2024-15-03-04.jpg",
+    "2024-08-24-photo-24-08-2024-15-03-16.jpg",
+    "2024-08-24-photo-24-08-2024-15-04-28.jpg",
+    "2024-08-24-photo-24-08-2024-15-04-54.jpg",
+    "2024-08-24-photo-24-08-2024-15-07-52.jpg",
+    "2024-08-24-photo-24-08-2024-15-08-13.jpg",
+    "2024-08-24-photo-24-08-2024-15-08-34.jpg",
+    "2024-08-24-photo-24-08-2024-15-11-22.jpg",
+    "2024-08-24-photo-24-08-2024-15-12-30.jpg",
+    "2024-08-24-photo-24-08-2024-15-13-19.jpg",
+    "2024-08-24-photo-24-08-2024-15-13-48.jpg",
+    "2024-08-24-photo-24-08-2024-15-14-06.jpg",
+    "2024-08-24-photo-24-08-2024-15-15-00.jpg",
+    "2024-08-24-photo-24-08-2024-15-15-01.jpg",
+    "2024-08-24-photo-24-08-2024-15-15-07.jpg",
+    "2024-08-24-photo-24-08-2024-15-15-36.jpg",
+    "2024-08-24-photo-24-08-2024-15-18-43.jpg",
+    "2024-08-24-photo-24-08-2024-15-21-00.jpg",
+    "2024-08-24-photo-24-08-2024-15-21-30.jpg",
+    "2024-08-24-photo-24-08-2024-15-23-35.jpg",
+    "2024-08-24-photo-24-08-2024-15-24-14.jpg",
+    "2024-08-24-photo-24-08-2024-15-24-56.jpg",
+    "2024-08-24-photo-24-08-2024-15-25-35.jpg",
+    "2024-08-24-photo-24-08-2024-15-27-45.jpg",
+    "2024-08-24-photo-24-08-2024-15-31-35-1.jpg",
+    "2024-08-24-photo-24-08-2024-15-31-35.jpg",
+    "2024-08-24-photo-24-08-2024-15-33-20.jpg",
+    "2024-08-24-photo-24-08-2024-15-33-33.jpg",
+    "2024-08-24-photo-24-08-2024-15-36-54.jpg"
+  ]
+}

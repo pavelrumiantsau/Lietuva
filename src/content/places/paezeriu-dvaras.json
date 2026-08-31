@@ -1,0 +1,58 @@
+{
+  "slug": "paezeriu-dvaras",
+  "coordinates": {
+    "lat": 54.652,
+    "lng": 22.971
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Paežerių dvaras",
+    "en": "Paežeriai Manor",
+    "uk": "Маєток Паєжеряй"
+  },
+  "shortDescription": {
+    "lt": "Įspūdingi klasicistiniai Paežerių dvaro rūmai netoli Vilkaviškio, šiandien pritaikyti regioniniam muziejui.",
+    "en": "A grand Neoclassical manor house near Vilkaviškis, now home to a regional museum.",
+    "uk": "Величний класицистичний маєток Паєжеряй неподалік Вілкавішкіса, нині — регіональний музей."
+  },
+  "longDescription": {
+    "lt": "Paežerių dvaras stovi prie nedidelio ežero, vos už kelių kilometrų nuo Vilkaviškio, žemėje, nuo XV amžiaus vidurio priklausiusioje Glinskių giminei, o vėliau atitekusioje su Radvilomis susijusiems savininkams. Dabartiniai klasicistiniai dvaro rūmai pastatyti 1795–1799 metais pagal Martyno Knakfuso, vieno klasicistinės architektūros pradininkų Lietuvos Didžiojoje Kunigaikštystėje, projektą, o XIX amžiaus pirmojoje pusėje prie jų prisidėjo neogotikinis 17 metrų aukščio Belvederio bokštas. Nuo 1945 metų buvęs kolūkio centru, dvaras dešimtajame dešimtmetyje perduotas Lietuvos dailės muziejui, o šiandien jame veikia Suvalkijos regioninis muziejus.",
+    "en": "Paežeriai Manor stands beside a small lake a few kilometers from Vilkaviškis, on land that belonged to the Glinskis family from the mid-15th century and later passed through Radziwiłł-connected hands. The present Neoclassical manor house was built between 1795 and 1799 to a design by Marcin Knackfus, one of the pioneers of classicist architecture in the Grand Duchy of Lithuania, and was later joined by a Gothic Revival watchtower, the 17-meter Belvedere, in the early 19th century. After serving as the seat of a Soviet collective farm from 1945, the manor was handed to the Lithuanian Art Museum in the 1990s and today houses the Suvalkija regional museum.",
+    "uk": "Маєток Паєжеряй стоїть біля невеликого озера за кілька кілометрів від Вілкавішкіса, на землі, що з середини XV століття належала родині Глінських, а згодом перейшла до власників, пов'язаних із Радзивіллами. Нинішній класицистичний палац збудовано в 1795–1799 роках за проєктом Мартіна Кнакфуса, одного з піонерів класицистичної архітектури у Великому князівстві Литовському, а на початку XIX століття до нього додалася неоготична 17-метрова вежа Бельведер. Після того як з 1945 року тут розміщувався центр колгоспу, у 1990-х маєток передали Литовському художньому музею, а сьогодні в ньому працює регіональний музей Судовії."
+  },
+  "facts": [
+    {
+      "lt": "Klasicistiniai dvaro rūmai pastatyti 1795–1799 metais Martyno Knakfuso, klasicistinės architektūros pradininko Lietuvos Didžiojoje Kunigaikštystėje, projektu.",
+      "en": "The Neoclassical manor house was built between 1795 and 1799 by Marcin Knackfus, a pioneer of classicist architecture in the Grand Duchy of Lithuania.",
+      "uk": "Класицистичний палац збудовано в 1795–1799 роках за проєктом Мартіна Кнакфуса, одного з піонерів класицистичної архітектури у Великому князівстві Литовському."
+    },
+    {
+      "lt": "17 metrų aukščio neogotikinis dvaro bokštas, vadinamas Belvederiu, pristatytas XIX amžiaus pirmojoje pusėje.",
+      "en": "The estate's 17-meter Gothic Revival watchtower, known as the Belvedere, was added in the first half of the 19th century.",
+      "uk": "17-метрову неоготичну вежу маєтку, відому як Бельведер, добудували в першій половині XIX століття."
+    },
+    {
+      "lt": "Nuo 2004 metų dvare veikia Suvalkijos regioninis kultūros centras-muziejus.",
+      "en": "Since 2004 the manor has housed the Suvalkija regional cultural center and museum.",
+      "uk": "З 2004 року в маєтку працює регіональний культурний центр-музей Судовії."
+    }
+  ],
+  "highlightPhoto": "2026-03-07-photo-07-03-2026-15-17-49.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Klasicistinis Paežerių dvaro rūmų fasadas prie ežero",
+    "en": "The Neoclassical facade of Paežeriai Manor beside its lake",
+    "uk": "Класицистичний фасад маєтку Паєжеряй біля озера"
+  },
+  "photos": [
+    "2026-03-07-photo-07-03-2026-15-15-41.jpg",
+    "2026-03-07-photo-07-03-2026-15-16-48.jpg",
+    "2026-03-07-photo-07-03-2026-15-17-49.jpg",
+    "2026-03-07-photo-07-03-2026-15-19-34.jpg",
+    "2026-03-07-photo-07-03-2026-15-20-26.jpg"
+  ]
+}

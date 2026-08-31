@@ -1,0 +1,125 @@
+{
+  "slug": "druskininkai",
+  "coordinates": {
+    "lat": 54.0153,
+    "lng": 23.9669
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Druskininkai",
+    "en": "Druskininkai",
+    "uk": "Друскінінкай"
+  },
+  "shortDescription": {
+    "lt": "Seniausias Lietuvos kurortas prie Nemuno, garsus mineraliniu vandeniu ir M. K. Čiurlioniu.",
+    "en": "Lithuania's oldest spa resort on the Nemunas, famous for its mineral water and for M. K. Čiurlionis.",
+    "uk": "Найстаріший курорт Литви на Нямунасі, відомий мінеральною водою та М. К. Чюрльонісом."
+  },
+  "longDescription": {
+    "lt": "Druskininkai yra seniausias ir žinomiausias Lietuvos kurortas, oficialiai įsteigtas 1794 metais karaliaus Stanislovo Augusto Poniatovskio nurodymu, kai buvo atrasti gydomieji druskos šaltiniai, davę miestui vardą. Čia gimė dailininkas ir kompozitorius Mikalojus Konstantinas Čiurlionis, kurio vardu pavadintas memorialinis muziejus mieste. Šiandien Druskininkai — populiari poilsio vieta su sanatorijomis, purvo ir mineralinio vandens procedūromis, uždara slidinėjimo trasa Snow Arena bei netoliese esančiu sovietinės skulptūros parku Grūtu.",
+    "en": "Druskininkai is Lithuania's oldest and best-known spa town, formally established in 1794 on the order of King Stanisław August Poniatowski, after the discovery of therapeutic salt springs that gave the town its name. It is the birthplace of painter and composer Mikalojus Konstantinas Čiurlionis, commemorated by a memorial museum in the town. Today Druskininkai is a popular resort with sanatoriums offering mud and mineral-water treatments, the indoor Snow Arena ski slope, and the nearby Grūtas Park of Soviet-era sculptures.",
+    "uk": "Друскінінкай — найстаріше та найвідоміше курортне місто Литви, офіційно засноване 1794 року за наказом короля Станіслава Августа Понятовського після відкриття цілющих соляних джерел, які дали місту назву. Тут народився художник і композитор Мікалоюс Костянтинас Чюрльоніс, якому в місті присвячено меморіальний музей. Сьогодні Друскінінкай — популярний курорт із санаторіями, грязьовими та мінеральноводними процедурами, критим гірськолижним схилом Snow Arena та розташованим неподалік парком радянської скульптури Грутас."
+  },
+  "facts": [
+    {
+      "lt": "Druskininkai kaip kurortas oficialiai įsteigti 1794 metais.",
+      "en": "Druskininkai was formally established as a spa resort in 1794.",
+      "uk": "Друскінінкай офіційно засновано як курорт у 1794 році."
+    },
+    {
+      "lt": "Mieste gimė dailininkas ir kompozitorius Mikalojus Konstantinas Čiurlionis.",
+      "en": "The painter and composer Mikalojus Konstantinas Čiurlionis was born in the town.",
+      "uk": "У місті народився художник і композитор Мікалоюс Костянтинас Чюрльоніс."
+    },
+    {
+      "lt": "Netoli miesto įsikūręs Grūto parkas, kuriame surinktos sovietmečio skulptūros.",
+      "en": "Nearby stands Grūtas Park, a collection of Soviet-era sculptures gathered from around Lithuania.",
+      "uk": "Неподалік міста розташований парк Грутас, де зібрано радянські скульптури з усієї Литви."
+    }
+  ],
+  "highlightPhoto": "2023-03-24-photo-2023-03-24-12-46-44.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Druskininkų kurortinis parkas su takais",
+    "en": "The Druskininkai resort park with its walking paths",
+    "uk": "Курортний парк Друскінінкая зі стежками"
+  },
+  "photos": [
+    "2023-03-24-photo-2023-03-24-12-01-17.jpg",
+    "2023-03-24-photo-2023-03-24-12-02-57.jpg",
+    "2023-03-24-photo-2023-03-24-12-04-32.jpg",
+    "2023-03-24-photo-2023-03-24-12-04-51.jpg",
+    "2023-03-24-photo-2023-03-24-12-05-59.jpg",
+    "2023-03-24-photo-2023-03-24-12-06-16.jpg",
+    "2023-03-24-photo-2023-03-24-12-07-38.jpg",
+    "2023-03-24-photo-2023-03-24-12-08-20.jpg",
+    "2023-03-24-photo-2023-03-24-12-08-22.jpg",
+    "2023-03-24-photo-2023-03-24-12-08-32.jpg",
+    "2023-03-24-photo-2023-03-24-12-08-49.jpg",
+    "2023-03-24-photo-2023-03-24-12-09-24.jpg",
+    "2023-03-24-photo-2023-03-24-12-10-00.jpg",
+    "2023-03-24-photo-2023-03-24-12-11-32.jpg",
+    "2023-03-24-photo-2023-03-24-12-12-12.jpg",
+    "2023-03-24-photo-2023-03-24-12-13-08.jpg",
+    "2023-03-24-photo-2023-03-24-12-13-52.jpg",
+    "2023-03-24-photo-2023-03-24-12-14-15.jpg",
+    "2023-03-24-photo-2023-03-24-12-19-39.jpg",
+    "2023-03-24-photo-2023-03-24-12-21-51.jpg",
+    "2023-03-24-photo-2023-03-24-12-23-37.jpg",
+    "2023-03-24-photo-2023-03-24-12-24-18.jpg",
+    "2023-03-24-photo-2023-03-24-12-25-29.jpg",
+    "2023-03-24-photo-2023-03-24-12-27-33.jpg",
+    "2023-03-24-photo-2023-03-24-12-28-27.jpg",
+    "2023-03-24-photo-2023-03-24-12-29-48.jpg",
+    "2023-03-24-photo-2023-03-24-12-41-33.jpg",
+    "2023-03-24-photo-2023-03-24-12-41-39.jpg",
+    "2023-03-24-photo-2023-03-24-12-41-54.jpg",
+    "2023-03-24-photo-2023-03-24-12-42-03.jpg",
+    "2023-03-24-photo-2023-03-24-12-42-33.jpg",
+    "2023-03-24-photo-2023-03-24-12-43-44.jpg",
+    "2023-03-24-photo-2023-03-24-12-43-46.jpg",
+    "2023-03-24-photo-2023-03-24-12-44-33.jpg",
+    "2023-03-24-photo-2023-03-24-12-45-58.jpg",
+    "2023-03-24-photo-2023-03-24-12-46-06.jpg",
+    "2023-03-24-photo-2023-03-24-12-46-44.jpg",
+    "2023-03-24-photo-2023-03-24-12-47-25.jpg",
+    "2023-03-24-photo-2023-03-24-12-50-20.jpg",
+    "2023-03-24-photo-2023-03-24-12-53-44.jpg",
+    "2023-03-24-photo-2023-03-24-12-54-17.jpg",
+    "2023-03-24-photo-2023-03-24-12-54-23.jpg",
+    "2023-03-24-photo-2023-03-24-12-54-53.jpg",
+    "2023-03-24-photo-2023-03-24-12-54-57.jpg",
+    "2023-03-24-photo-2023-03-24-12-55-12.jpg",
+    "2023-03-24-photo-2023-03-24-12-55-51.jpg",
+    "2023-03-24-photo-2023-03-24-12-56-25.jpg",
+    "2023-03-24-photo-2023-03-24-13-12-06.jpg",
+    "2023-03-24-photo-2023-03-24-13-13-44.jpg",
+    "2023-03-24-photo-2023-03-24-13-15-06.jpg",
+    "2023-03-24-photo-2023-03-24-13-16-48.jpg",
+    "2023-03-24-photo-2023-03-24-13-16-49.jpg",
+    "2023-03-24-photo-2023-03-24-13-17-18.jpg",
+    "2023-03-24-photo-2023-03-24-13-17-23.jpg",
+    "2023-03-24-photo-2023-03-24-13-18-11.jpg",
+    "2023-03-24-photo-2023-03-24-13-19-40.jpg",
+    "2023-03-24-photo-2023-03-24-13-21-33.jpg",
+    "2023-03-24-photo-2023-03-24-13-21-35.jpg",
+    "2023-03-24-photo-2023-03-24-13-23-02.jpg",
+    "2023-03-24-photo-2023-03-24-13-25-08.jpg",
+    "2023-03-24-photo-2023-03-24-13-25-16.jpg",
+    "2023-03-24-photo-2023-03-24-13-26-04.jpg",
+    "2023-03-24-photo-2023-03-24-13-26-28.jpg",
+    "2023-03-24-photo-2023-03-24-13-27-01.jpg",
+    "2023-03-24-photo-2023-03-24-13-27-13.jpg",
+    "2023-03-24-photo-2023-03-24-13-27-46.jpg",
+    "2023-03-24-photo-2023-03-24-13-29-19.jpg",
+    "2023-03-24-photo-2023-03-24-13-29-20.jpg",
+    "2023-03-24-photo-2023-03-24-13-30-00.jpg",
+    "2023-03-24-photo-2023-03-24-13-30-03.jpg",
+    "2023-03-24-photo-2023-03-24-13-31-12.jpg",
+    "2023-03-24-photo-2023-03-24-13-33-44.jpg"
+  ]
+}

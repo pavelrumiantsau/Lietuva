@@ -1,0 +1,94 @@
+{
+  "slug": "rietavas",
+  "coordinates": {
+    "lat": 55.7272,
+    "lng": 21.9233
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Rietavas",
+    "en": "Rietavas",
+    "uk": "Рієтавас"
+  },
+  "shortDescription": {
+    "lt": "Žemaitijos miestas, kuriame Oginskių kunigaikščiai įrengė pirmąją Lietuvos telefono liniją ir elektrinę.",
+    "en": "A Samogitian town where the Oginski dukes built Lithuania's first telephone line and power station.",
+    "uk": "Жемайтійське місто, де князі Огінські збудували першу в Литві телефонну лінію та електростанцію."
+  },
+  "longDescription": {
+    "lt": "XIX amžiaus pradžioje Rietavas tapo Oginskių bajorų giminės rezidencija. Irenėjus Oginskis ir jo sūnus Bogdanas modernizavo dvarą: 1882 metais čia nutiesta pirmoji Lietuvoje telefono linija, o 1892 metais įrengta pirmoji elektrinė. Dvare taip pat veikė žinoma muzikos mokykla. Nors didingi Oginskių rūmai neišliko, kiti dvaro pastatai stovi iki šiol, o nuo 1994 metų juose veikia Žemaičių dailės muziejaus padalinys.",
+    "en": "In the early 19th century Rietavas became the residence of the Oginski noble family. Irenėjus Oginskis and his son Bogdanas modernized the estate: Lithuania's first telephone line was installed here in 1882, and its first power station in 1892. The estate also housed a well-known music school. Although the grand Oginski palace itself did not survive, other manor buildings still stand, and since 1994 they have housed a branch of the Samogitian Art Museum.",
+    "uk": "На початку XIX століття Рієтавас став резиденцією шляхетського роду Огінських. Іренеюс Огінський та його син Богдан модернізували маєток: 1882 року тут прокладено першу в Литві телефонну лінію, а 1892 року збудовано першу електростанцію. При маєтку також діяла відома музична школа. Хоча величний палац Огінських не зберігся, інші будівлі маєтку стоять донині, і з 1994 року в них розташований філіал Жемайтійського художнього музею."
+  },
+  "facts": [
+    {
+      "lt": "1882 metais Oginskiai Rietave nutiesė pirmąją Lietuvoje telefono liniją.",
+      "en": "The Oginski family installed Lithuania's first telephone line in Rietavas in 1882.",
+      "uk": "1882 року Огінські проклали в Рієтавасі першу в Литві телефонну лінію."
+    },
+    {
+      "lt": "1892 metais Rietavo dvare įrengta pirmoji Lietuvoje elektrinė.",
+      "en": "Lithuania's first power station was built at the Rietavas estate in 1892.",
+      "uk": "1892 року в маєтку Рієтавас збудовано першу в Литві електростанцію."
+    },
+    {
+      "lt": "Oginskiai taip pat įsteigė žinomą muzikos mokyklą dvare.",
+      "en": "The Oginskis also founded a well-known music school on the estate.",
+      "uk": "Огінські також заснували при маєтку відому музичну школу."
+    }
+  ],
+  "highlightPhoto": "2026-08-08-photo-08-08-2026-14-46-53.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Buvusio Oginskių dvaro pastatai Rietave",
+    "en": "Buildings of the former Oginski estate in Rietavas",
+    "uk": "Будівлі колишнього маєтку Огінських у Рієтавасі"
+  },
+  "photos": [
+    "2026-08-08-photo-08-08-2026-14-17-22.jpg",
+    "2026-08-08-photo-08-08-2026-14-17-38.jpg",
+    "2026-08-08-photo-08-08-2026-14-17-52.jpg",
+    "2026-08-08-photo-08-08-2026-14-18-10.jpg",
+    "2026-08-08-photo-08-08-2026-14-18-56.jpg",
+    "2026-08-08-photo-08-08-2026-14-21-17.jpg",
+    "2026-08-08-photo-08-08-2026-14-23-02.jpg",
+    "2026-08-08-photo-08-08-2026-14-25-39.jpg",
+    "2026-08-08-photo-08-08-2026-14-28-24.jpg",
+    "2026-08-08-photo-08-08-2026-14-28-37.jpg",
+    "2026-08-08-photo-08-08-2026-14-29-34.jpg",
+    "2026-08-08-photo-08-08-2026-14-31-16.jpg",
+    "2026-08-08-photo-08-08-2026-14-31-29.jpg",
+    "2026-08-08-photo-08-08-2026-14-37-47.jpg",
+    "2026-08-08-photo-08-08-2026-14-40-51.jpg",
+    "2026-08-08-photo-08-08-2026-14-43-22.jpg",
+    "2026-08-08-photo-08-08-2026-14-44-27.jpg",
+    "2026-08-08-photo-08-08-2026-14-45-15.jpg",
+    "2026-08-08-photo-08-08-2026-14-45-29.jpg",
+    "2026-08-08-photo-08-08-2026-14-45-32.jpg",
+    "2026-08-08-photo-08-08-2026-14-46-53.jpg",
+    "2026-08-08-photo-08-08-2026-14-47-20.jpg",
+    "2026-08-08-photo-08-08-2026-14-48-56.jpg",
+    "2026-08-08-photo-08-08-2026-14-49-52.jpg",
+    "2026-08-08-photo-08-08-2026-14-51-06.jpg",
+    "2026-08-08-photo-08-08-2026-14-51-37.jpg",
+    "2026-08-08-photo-08-08-2026-14-53-01.jpg",
+    "2026-08-08-photo-08-08-2026-14-53-32.jpg",
+    "2026-08-08-photo-08-08-2026-14-53-33.jpg",
+    "2026-08-08-photo-08-08-2026-14-54-15.jpg",
+    "2026-08-08-photo-08-08-2026-14-55-34.jpg",
+    "2026-08-08-photo-08-08-2026-14-56-52.jpg",
+    "2026-08-08-photo-08-08-2026-15-00-46.jpg",
+    "2026-08-08-photo-08-08-2026-15-01-22.jpg",
+    "2026-08-08-photo-08-08-2026-15-05-00.jpg",
+    "2026-08-08-photo-08-08-2026-15-05-47.jpg",
+    "2026-08-08-photo-08-08-2026-15-08-42.jpg",
+    "2026-08-08-photo-08-08-2026-15-11-59.jpg",
+    "2026-08-08-photo-08-08-2026-15-17-02.jpg",
+    "2026-08-08-photo-08-08-2026-15-21-58.jpg",
+    "2026-08-08-photo-08-08-2026-15-22-58.jpg"
+  ]
+}

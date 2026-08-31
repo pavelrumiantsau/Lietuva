@@ -1,0 +1,115 @@
+{
+  "slug": "marijampole",
+  "coordinates": {
+    "lat": 54.5597,
+    "lng": 23.3546
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Marijampolė",
+    "en": "Marijampolė",
+    "uk": "Марьямполе"
+  },
+  "shortDescription": {
+    "lt": "Sūduvos sostinė, iš marijonų vienuolyno išaugusi į gyvą regiono miestą.",
+    "en": "The capital of the Sūduva region, grown from a Marian monastery into a lively regional city.",
+    "uk": "Столиця регіону Судува, що виросла з маріанського монастиря у жваве регіональне місто."
+  },
+  "longDescription": {
+    "lt": "Marijampolės pavadinimas kilęs nuo marijonų vienuolyno, aplink kurį miestas augo XVIII amžiuje — tuomet dar vadinta Starapolė gyvenvietė virto vienuolyno centru, o 1758 metais gavo miesto teises. Šiandien miestas laikomas neoficialia Sūduvos sostine, garsėjančia viena tyriausių išlikusių lietuvių tarmių. XX amžiaus pradžioje marijonų ordiną, po dešimtmečius trukusios priespaudos, prikėlė netoliese gimęs Jurgis Matulaitis, o miesto vardu pavadinta ir čia 1918 metais įkurta Nekaltojo Prasidėjimo vargdienių seserų kongregacija.",
+    "en": "Marijampolė takes its very name from the Marian monastery around which it grew in the 18th century, when the settlement — then known as Starapolė — developed into a monastic center before gaining town status in 1758. Today it is regarded as the unofficial capital of the Sūduva region, famed for one of the purest surviving forms of the Lithuanian dialect. The Marian order was revived here in the early 20th century by Jurgis Matulaitis, born in a nearby village, after decades of suppression, and the town also gave its name to a religious congregation founded here in 1918.",
+    "uk": "Назва Марьямполе походить від маріанського монастиря, навколо якого місто розросталося в XVIII столітті — тоді ще поселення Старополе перетворилося на монастирський центр і 1758 року отримало статус міста. Сьогодні місто вважається неофіційною столицею регіону Судува, відомого однією з найчистіших литовських говірок, що збереглися. На початку XX століття орден маріан, після десятиліть переслідувань, відродив народжений неподалік Юргіс Матулайтіс, а іменем міста названо і засновану тут 1918 року чернечу конгрегацію."
+  },
+  "facts": [
+    {
+      "lt": "Miesto pavadinimas kilęs nuo marijonų vienuolyno, aplink kurį jis augo, o miesto teises gavo 1758 metais.",
+      "en": "The town's name comes from the Marian monastery around which it grew, and it received town status in 1758.",
+      "uk": "Назва міста походить від маріанського монастиря, навколо якого воно виникло, а статус міста отримало 1758 року."
+    },
+    {
+      "lt": "Marijampolė laikoma neoficialia Sūduvos sostine, garsėjančia išlaikiusi vieną savitiausių lietuvių tarmių.",
+      "en": "Marijampolė is considered the unofficial capital of the Sūduva region, known for preserving one of the most distinctive Lithuanian dialects.",
+      "uk": "Марьямполе вважається неофіційною столицею регіону Судува, відомого збереженням однієї з найсвоєрідніших литовських говірок."
+    },
+    {
+      "lt": "Netoliese gimęs Jurgis Matulaitis XX amžiaus pradžioje čia atgaivino marijonų ordiną, o miesto vardu pavadinta ir 1918 metais įkurta vienuolių kongregacija.",
+      "en": "Jurgis Matulaitis, born nearby, revived the Marian order here in the early 20th century, and the town also gave its name to a religious congregation founded in 1918.",
+      "uk": "Народжений неподалік Юргіс Матулайтіс на початку XX століття відродив тут орден маріан, а ім'ям міста названо й засновану 1918 року чернечу конгрегацію."
+    }
+  ],
+  "highlightPhoto": "2022-09-24-img-20220924-151408.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Marijonų bazilika Marijampolės centre",
+    "en": "The Marian basilica in the center of Marijampolė",
+    "uk": "Маріанська базиліка в центрі Марьямполе"
+  },
+  "photos": [
+    "2022-09-24-img-20220924-143641.jpg",
+    "2022-09-24-img-20220924-143714.jpg",
+    "2022-09-24-img-20220924-143848.jpg",
+    "2022-09-24-img-20220924-143901.jpg",
+    "2022-09-24-img-20220924-144150.jpg",
+    "2022-09-24-img-20220924-144242.jpg",
+    "2022-09-24-img-20220924-144536.jpg",
+    "2022-09-24-img-20220924-144738.jpg",
+    "2022-09-24-img-20220924-144758.jpg",
+    "2022-09-24-img-20220924-145014.jpg",
+    "2022-09-24-img-20220924-145051.jpg",
+    "2022-09-24-img-20220924-145108.jpg",
+    "2022-09-24-img-20220924-145221.jpg",
+    "2022-09-24-img-20220924-145455.jpg",
+    "2022-09-24-img-20220924-145509.jpg",
+    "2022-09-24-img-20220924-145536.jpg",
+    "2022-09-24-img-20220924-145736.jpg",
+    "2022-09-24-img-20220924-145947.jpg",
+    "2022-09-24-img-20220924-150038.jpg",
+    "2022-09-24-img-20220924-150204.jpg",
+    "2022-09-24-img-20220924-150239.jpg",
+    "2022-09-24-img-20220924-150300.jpg",
+    "2022-09-24-img-20220924-150330.jpg",
+    "2022-09-24-img-20220924-150408.jpg",
+    "2022-09-24-img-20220924-150517.jpg",
+    "2022-09-24-img-20220924-150602.jpg",
+    "2022-09-24-img-20220924-150612.jpg",
+    "2022-09-24-img-20220924-151037.jpg",
+    "2022-09-24-img-20220924-151043.jpg",
+    "2022-09-24-img-20220924-151142.jpg",
+    "2022-09-24-img-20220924-151148.jpg",
+    "2022-09-24-img-20220924-151408.jpg",
+    "2022-09-24-img-20220924-151606.jpg",
+    "2022-09-24-img-20220924-151622.jpg",
+    "2022-09-24-img-20220924-151718.jpg",
+    "2022-09-24-img-20220924-151816.jpg",
+    "2022-09-24-img-20220924-151828.jpg",
+    "2022-09-24-img-20220924-151859.jpg",
+    "2022-09-24-img-20220924-152014.jpg",
+    "2022-09-24-img-20220924-152042.jpg",
+    "2022-09-24-img-20220924-152205.jpg",
+    "2022-09-24-img-20220924-152516.jpg",
+    "2022-09-24-img-20220924-152821.jpg",
+    "2022-09-24-img-20220924-153256.jpg",
+    "2022-09-24-img-20220924-153351.jpg",
+    "2022-09-24-img-20220924-153431.jpg",
+    "2022-09-24-img-20220924-153649.jpg",
+    "2022-09-24-img-20220924-153759.jpg",
+    "2022-09-24-img-20220924-153833.jpg",
+    "2022-09-24-img-20220924-153931.jpg",
+    "2022-09-24-img-20220924-154018.jpg",
+    "2022-09-24-img-20220924-154347.jpg",
+    "2022-09-24-img-20220924-154600.jpg",
+    "2022-09-24-img-20220924-155140.jpg",
+    "2022-09-24-img-20220924-160219.jpg",
+    "2022-09-24-img-20220924-160358.jpg",
+    "2022-09-24-img-20220924-160442.jpg",
+    "2022-09-24-img-20220924-160632.jpg",
+    "2022-09-24-img-20220924-160856.jpg",
+    "2022-09-24-img-20220924-160947.jpg",
+    "2022-09-24-img-20220924-160952.jpg",
+    "2022-09-24-img-20220924-161137.jpg"
+  ]
+}

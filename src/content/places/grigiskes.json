@@ -1,0 +1,82 @@
+{
+  "slug": "grigiskes",
+  "coordinates": {
+    "lat": 54.6547,
+    "lng": 25.0942
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Grigiškės",
+    "en": "Grigiškės",
+    "uk": "Григішкес"
+  },
+  "shortDescription": {
+    "lt": "Vilniaus priemiestis, išaugęs aplink XX amžiaus pradžios popieriaus fabriką prie Vokės ir Neries santakos.",
+    "en": "A Vilnius suburb that grew up around an early-20th-century paper mill at the confluence of the Vokė and Neris rivers.",
+    "uk": "Передмістя Вільнюса, що виросло навколо паперової фабрики початку XX століття біля злиття річок Вока та Няріс."
+  },
+  "longDescription": {
+    "lt": "Grigiškės atsirado 1923 metais, kai pramonininkas Grigas Kurecas prie Vokės įtekėjimo į Nerį pastatė popieriaus fabriką ir jo vardu pavadino aplink išaugusią gyvenvietę. Sovietmečiu, 1980–1985 metais, fabrikas buvo didžiausia celiuliozės ir popieriaus įmonė Lietuvoje, o miestelis buvo priskirtas prie darbininkų gyvenviečių. 2000 metais Grigiškės administraciškai prijungtos prie Vilniaus miesto savivaldybės ir šiandien yra jos seniūnija, tebeturinti savitą pramoninio miestelio charakterį.",
+    "en": "Grigiškės came into being in 1923, when the industrialist Grigas Kurecas built a paper mill where the Vokė River flows into the Neris and named the settlement that grew up around it after himself. During the Soviet era, from 1980 to 1985, the mill was the largest cellulose and paper enterprise in Lithuania, and the town developed as a workers' settlement. In 2000 Grigiškės was administratively absorbed into the Vilnius city municipality, and today it forms one of its elderships while retaining the distinct character of an industrial town.",
+    "uk": "Григішкес виникли у 1923 році, коли промисловець Ґріґас Курецас збудував паперову фабрику там, де річка Вока впадає в Няріс, і назвав своїм іменем поселення, що виросло навколо неї. За радянських часів, у 1980–1985 роках, фабрика була найбільшим целюлозно-паперовим підприємством Литви, а містечко розвивалося як робітниче селище. У 2000 році Григішкес адміністративно приєднали до міської громади Вільнюса, і сьогодні це один із її районів, який досі зберігає характер промислового містечка."
+  },
+  "facts": [
+    {
+      "lt": "Fabrikas, davęs pradžią miesteliui, veikia iki šiol kaip bendrovė „Grigeo“, viena didžiausių popieriaus gamintojų Baltijos šalyse.",
+      "en": "The mill that gave rise to the town still operates today as the company Grigeo, one of the largest paper producers in the Baltic states.",
+      "uk": "Фабрика, яка дала початок містечку, працює й донині як компанія «Grigeo» — одна з найбільших виробників паперу в країнах Балтії."
+    },
+    {
+      "lt": "1980–1985 metais Grigiškių fabrikas buvo didžiausia celiuliozės ir popieriaus gamybos įmonė Lietuvoje, kurioje dirbo apie 3000 žmonių.",
+      "en": "From 1980 to 1985 the Grigiškės mill was the largest cellulose and paper production enterprise in Lithuania, employing around 3,000 people.",
+      "uk": "У 1980–1985 роках фабрика в Григішкес була найбільшим целюлозно-паперовим підприємством Литви, на якому працювало близько 3000 осіб."
+    },
+    {
+      "lt": "Nuo 2000 metų Grigiškės yra viena iš Vilniaus miesto savivaldybės seniūnijų, nors ir toliau laikoma atskiru pramoniniu miesteliu.",
+      "en": "Since 2000 Grigiškės has been one of the elderships of the Vilnius city municipality, even though it is still commonly regarded as a separate industrial town.",
+      "uk": "З 2000 року Григішкес є одним із районів міської громади Вільнюса, хоча й далі сприймається як окреме промислове містечко."
+    }
+  ],
+  "highlightPhoto": "2022-04-27-img-20220427-142857.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Grigiškių popieriaus fabriko pastatai prie Vokės upės",
+    "en": "Buildings of the Grigiškės paper mill beside the Vokė River",
+    "uk": "Будівлі паперової фабрики в Григішкес біля річки Вока"
+  },
+  "photos": [
+    "2022-04-27-img-20220427-140134.jpg",
+    "2022-04-27-img-20220427-140239.jpg",
+    "2022-04-27-img-20220427-140515.jpg",
+    "2022-04-27-img-20220427-140516.jpg",
+    "2022-04-27-img-20220427-140541.jpg",
+    "2022-04-27-img-20220427-140551.jpg",
+    "2022-04-27-img-20220427-140801.jpg",
+    "2022-04-27-img-20220427-141128.jpg",
+    "2022-04-27-img-20220427-141447.jpg",
+    "2022-04-27-img-20220427-141543.jpg",
+    "2022-04-27-img-20220427-141731.jpg",
+    "2022-04-27-img-20220427-141803.jpg",
+    "2022-04-27-img-20220427-142250.jpg",
+    "2022-04-27-img-20220427-142531.jpg",
+    "2022-04-27-img-20220427-142857.jpg",
+    "2022-04-27-img-20220427-142921.jpg",
+    "2022-04-27-img-20220427-143010.jpg",
+    "2022-04-27-img-20220427-143048.jpg",
+    "2022-04-27-img-20220427-143216.jpg",
+    "2022-04-27-img-20220427-143635.jpg",
+    "2022-04-27-img-20220427-143638.jpg",
+    "2022-04-27-img-20220427-143646.jpg",
+    "2022-04-27-img-20220427-144020.jpg",
+    "2022-04-27-img-20220427-144330.jpg",
+    "2022-04-27-img-20220427-145016.jpg",
+    "2022-04-27-img-20220427-145047.jpg",
+    "2022-04-27-img-20220427-145051.jpg",
+    "2022-04-27-img-20220427-145052.jpg",
+    "2022-04-27-img-20220427-151109.jpg"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "silale",
+  "coordinates": {
+    "lat": 55.4931,
+    "lng": 22.1839
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Šilalė",
+    "en": "Šilalė",
+    "uk": "Шилале"
+  },
+  "shortDescription": {
+    "lt": "Žemaitijos miestas, kurio neogotikinės bažnyčios bokštai kyla beveik 60 metrų.",
+    "en": "A Samogitian town crowned by a neo-Gothic church whose towers rise nearly 60 metres.",
+    "uk": "Місто в Жемайтії, увінчане неоготичною церквою, вежі якої сягають майже 60 метрів."
+  },
+  "longDescription": {
+    "lt": "Šilalė, esanti apie 30 kilometrų į šiaurę nuo Tauragės, pirmą kartą paminėta 1533 metais, kai buvo pastatyta pirmoji medinė bažnyčia. 1660 metais miestelis gavo prekyvietės privilegiją, dar kartą patvirtintą 1744 metais, ir nuo tada tapo laikomas miestu. Dabartinė raudonų plytų neogotikinė bažnyčia, statyta 1905–1909 metais pagal architekto Juozapo Dziekonskio projektą, garsėja beveik 60 metrų aukščio bokštais.",
+    "en": "Šilalė, about 30 km north of Tauragė, was first mentioned in 1533, when its first wooden church was built. In 1660 the settlement was granted market privileges, renewed in 1744, after which it was regarded as a town. Its current red-brick neo-Gothic church, built in 1905–1909 to a design by architect Józef Dziekoński, is known for towers that rise almost 60 metres.",
+    "uk": "Шилале, розташоване приблизно за 30 км на північ від Таураге, вперше згадується у 1533 році, коли там була збудована перша дерев'яна церква. У 1660 році поселення отримало торгові привілеї, підтверджені знову у 1744 році, після чого стало вважатися містом. Нинішня цегляна неоготична церква, зведена у 1905–1909 роках за проєктом архітектора Юзефа Дзеконського, відома вежами заввишки майже 60 метрів."
+  },
+  "facts": [
+    {
+      "lt": "Šilalė pirmą kartą paminėta 1533 metais kartu su pirmosios medinės bažnyčios statyba.",
+      "en": "Šilalė was first mentioned in 1533, alongside the building of its first wooden church.",
+      "uk": "Шилале вперше згадане у 1533 році разом із побудовою першої дерев'яної церкви."
+    },
+    {
+      "lt": "1660 metais miestelis gavo turgaus privilegiją, kuri buvo pakartotinai patvirtinta 1744 metais.",
+      "en": "The town received market privileges in 1660, reconfirmed in 1744.",
+      "uk": "У 1660 році містечко отримало торгову привілей, підтверджену повторно у 1744 році."
+    },
+    {
+      "lt": "Dabartinė neogotikinė bažnyčia, pastatyta 1905–1909 metais, turi beveik 60 metrų aukščio bokštus.",
+      "en": "The present neo-Gothic church, built in 1905–1909, has towers reaching nearly 60 metres.",
+      "uk": "Нинішня неоготична церква, збудована у 1905–1909 роках, має вежі заввишки майже 60 метрів."
+    }
+  ],
+  "highlightPhoto": "2026-04-18-photo-18-04-2026-15-31-40.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šilalės neogotikinės bažnyčios bokštai",
+    "en": "The towers of Šilalė's neo-Gothic church",
+    "uk": "Вежі неоготичної церкви Шилале"
+  },
+  "photos": [
+    "2026-04-18-photo-18-04-2026-15-06-18.jpg",
+    "2026-04-18-photo-18-04-2026-15-13-45.jpg",
+    "2026-04-18-photo-18-04-2026-15-15-05.jpg",
+    "2026-04-18-photo-18-04-2026-15-17-03.jpg",
+    "2026-04-18-photo-18-04-2026-15-17-08.jpg",
+    "2026-04-18-photo-18-04-2026-15-17-55.jpg",
+    "2026-04-18-photo-18-04-2026-15-21-30.jpg",
+    "2026-04-18-photo-18-04-2026-15-26-16.jpg",
+    "2026-04-18-photo-18-04-2026-15-27-06.jpg",
+    "2026-04-18-photo-18-04-2026-15-27-26-1.jpg",
+    "2026-04-18-photo-18-04-2026-15-27-26.jpg",
+    "2026-04-18-photo-18-04-2026-15-27-28.jpg",
+    "2026-04-18-photo-18-04-2026-15-30-13.jpg",
+    "2026-04-18-photo-18-04-2026-15-31-40.jpg",
+    "2026-04-18-photo-18-04-2026-15-36-48.jpg",
+    "2026-04-18-photo-18-04-2026-15-45-31.jpg",
+    "2026-04-18-photo-18-04-2026-15-45-53.jpg",
+    "2026-04-18-photo-18-04-2026-15-46-35.jpg",
+    "2026-04-18-photo-18-04-2026-15-48-12.jpg",
+    "2026-04-18-photo-18-04-2026-15-48-43.jpg",
+    "2026-04-18-photo-18-04-2026-15-49-39.jpg",
+    "2026-04-18-photo-18-04-2026-15-49-42.jpg",
+    "2026-04-18-photo-18-04-2026-15-50-12.jpg",
+    "2026-04-18-photo-18-04-2026-15-51-23.jpg",
+    "2026-04-18-photo-18-04-2026-15-53-09.jpg",
+    "2026-04-18-photo-18-04-2026-15-57-07.jpg",
+    "2026-04-18-photo-18-04-2026-16-17-05.jpg"
+  ]
+}

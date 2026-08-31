@@ -1,0 +1,81 @@
+{
+  "slug": "troskunai",
+  "coordinates": {
+    "lat": 55.6167,
+    "lng": 24.85
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Troškūnai",
+    "en": "Troškūnai",
+    "uk": "Трошкунай"
+  },
+  "shortDescription": {
+    "lt": "Vienas mažiausių Lietuvos miestų, įkurtas 1696 metais aplink bernardinų vienuolyną.",
+    "en": "One of Lithuania's smallest towns, founded in 1696 around a Bernardine monastery.",
+    "uk": "Одне з найменших міст Литви, засноване 1696 року навколо бернардинського монастиря."
+  },
+  "longDescription": {
+    "lt": "Troškūnus 1696 metais įkūrė Vladislovas Sokolovskis, atsivežęs bernardinus, kurie čia įsteigė bažnyčią ir vienuolyną. Aplink šį kompleksą laikui bėgant susiformavo miestelis, esantis apie 14 kilometrų į vakarus nuo Anykščių. Su mažiau nei 400 gyventojų Troškūnai yra vienas mažiausių oficialiai miesto statusą turinčių gyvenviečių Lietuvoje. 1796 metais pastatytas vienuolyno mokyklos pastatas išlikęs iki šiol, o pats vienuolyno kompleksas grąžintas bernardinams, kurie jame įkūrė tarptautinį jaunimo centrą.",
+    "en": "Troškūnai was founded in 1696 by Władysław Sokołowski, who brought Bernardine friars to establish a church and monastery there. A town gradually grew up around the complex, located about 14 km west of Anykščiai. With a population under 400, Troškūnai is one of the smallest officially designated towns in Lithuania. The monastery school building, erected in 1796, still stands, and the monastery complex itself has been returned to the Bernardine order, which now runs an international youth centre there.",
+    "uk": "Трошкунай було засновано 1696 року Владиславом Соколовським, який привіз бернардинських ченців, що заснували тут церкву та монастир. Навколо цього комплексу з часом виросло містечко, розташоване приблизно за 14 км на захід від Аникщяй. З населенням менш ніж 400 осіб Трошкунай є одним із найменших офіційно визнаних міст Литви. Будівля монастирської школи, зведена у 1796 році, збереглася донині, а сам монастирський комплекс повернуто бернардинському ордену, який нині утримує там міжнародний молодіжний центр."
+  },
+  "facts": [
+    {
+      "lt": "Troškūnus 1696 metais įkūrė Vladislovas Sokolovskis, atsivežęs bernardinus vienuolyno ir bažnyčios steigimui.",
+      "en": "Troškūnai was founded in 1696 by Władysław Sokołowski, who brought Bernardine friars to found a church and monastery.",
+      "uk": "Трошкунай засноване 1696 року Владиславом Соколовським, який привіз бернардинців для заснування церкви й монастиря."
+    },
+    {
+      "lt": "Su mažiau nei 400 gyventojų Troškūnai yra vienas mažiausių oficialiai miesto statusą turinčių miestų Lietuvoje.",
+      "en": "With a population under 400, Troškūnai is one of Lithuania's smallest officially designated towns.",
+      "uk": "З населенням менш ніж 400 осіб Трошкунай — одне з найменших офіційно визнаних міст Литви."
+    },
+    {
+      "lt": "1796 metais pastatytas vienuolyno mokyklos pastatas išlikęs iki šiol, o vienuolyną dabar valdo bernardinai.",
+      "en": "The monastery school building, built in 1796, still stands, and the monastery is now run by the Bernardine order again.",
+      "uk": "Будівля монастирської школи, збудована 1796 року, збереглася донині, а монастир нині знову утримують бернардинці."
+    }
+  ],
+  "highlightPhoto": "2025-03-08-photo-08-03-2025-13-07-38.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Bernardinų bažnyčia ir vienuolynas Troškūnuose",
+    "en": "The Bernardine church and monastery in Troškūnai",
+    "uk": "Бернардинська церква та монастир у Трошкунаї"
+  },
+  "photos": [
+    "2025-03-08-photo-08-03-2025-12-44-42.jpg",
+    "2025-03-08-photo-08-03-2025-12-44-43.jpg",
+    "2025-03-08-photo-08-03-2025-12-44-46.jpg",
+    "2025-03-08-photo-08-03-2025-12-44-56.jpg",
+    "2025-03-08-photo-08-03-2025-12-50-29.jpg",
+    "2025-03-08-photo-08-03-2025-12-51-35.jpg",
+    "2025-03-08-photo-08-03-2025-12-52-47.jpg",
+    "2025-03-08-photo-08-03-2025-12-55-09.jpg",
+    "2025-03-08-photo-08-03-2025-12-56-01.jpg",
+    "2025-03-08-photo-08-03-2025-12-59-41.jpg",
+    "2025-03-08-photo-08-03-2025-12-59-47.jpg",
+    "2025-03-08-photo-08-03-2025-13-02-04.jpg",
+    "2025-03-08-photo-08-03-2025-13-02-06.jpg",
+    "2025-03-08-photo-08-03-2025-13-04-56.jpg",
+    "2025-03-08-photo-08-03-2025-13-07-38.jpg",
+    "2025-03-08-photo-08-03-2025-13-09-18.jpg",
+    "2025-03-08-photo-08-03-2025-13-11-41.jpg",
+    "2025-03-08-photo-08-03-2025-13-13-02.jpg",
+    "2025-03-08-photo-08-03-2025-13-13-15.jpg",
+    "2025-03-08-photo-08-03-2025-13-13-55.jpg",
+    "2025-03-08-photo-08-03-2025-13-14-23.jpg",
+    "2025-03-08-photo-08-03-2025-13-15-55.jpg",
+    "2025-03-08-photo-08-03-2025-13-16-06.jpg",
+    "2025-03-08-photo-08-03-2025-13-20-11-1.jpg",
+    "2025-03-08-photo-08-03-2025-13-20-11.jpg",
+    "2025-03-08-photo-08-03-2025-13-20-12.jpg",
+    "2025-03-08-photo-08-03-2025-13-22-54.jpg",
+    "2025-03-08-photo-08-03-2025-13-24-07.jpg"
+  ]
+}

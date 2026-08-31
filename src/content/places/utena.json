@@ -1,0 +1,115 @@
+{
+  "slug": "utena",
+  "coordinates": {
+    "lat": 55.5,
+    "lng": 25.6
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Utena",
+    "en": "Utena",
+    "uk": "Утена"
+  },
+  "shortDescription": {
+    "lt": "Ežerų apsuptas Aukštaitijos miestas, žinomas kaip vieno didžiausių Lietuvos alaus daryklų namai.",
+    "en": "A lake-ringed Aukštaitija city known as the home of one of Lithuania's largest breweries.",
+    "uk": "Оточене озерами місто Аукштайтії, відоме як домівка одного з найбільших пивоварних заводів Литви."
+  },
+  "longDescription": {
+    "lt": "Utena pirmą kartą paminėta 1261 metais, Mindaugo laiške kryžiuočiams, ir yra viena seniausių Aukštaitijos regiono gyvenviečių. Miestas stovi tarp gausybės ežerų prie Krašuonos upės ir yra Utenos apskrities centras šiaurės rytų Lietuvoje. Utena taip pat žinoma kaip alaus daryklos „Utenos alus“ namai — pirmasis daryklos alus „Įgulinis“ pagamintas 1977 metais, o pati įmonė šiandien priklauso „Carlsberg“ grupei ir yra viena žinomiausių Lietuvos alaus gamintojų.",
+    "en": "Utena was first mentioned in 1261, in a letter from Grand Duke Mindaugas to the knights, making it one of the oldest settlements in the Aukštaitija region. The city sits among numerous lakes on the Krašuona river and is the capital of Utena County in northeastern Lithuania. Utena is also known as the home of the Utenos Alus brewery — its first beer, 'Įgulinis,' was released in 1977, and the company, now part of the Carlsberg Group, is one of Lithuania's best-known beer producers.",
+    "uk": "Утена вперше згадується 1261 року в листі великого князя Міндовга до лицарів, що робить її одним із найдавніших поселень регіону Аукштайтія. Місто розташоване серед численних озер на річці Крашуона і є центром Утенського повіту на північному сході Литви. Утена також відома як домівка пивоварні «Utenos alus» — перше пиво заводу, «Ігулініс», випустили 1977 року, а сама компанія, нині частина групи Carlsberg, є одним із найвідоміших виробників пива Литви."
+  },
+  "facts": [
+    {
+      "lt": "Utena pirmą kartą paminėta 1261 metais, Mindaugo laiške kryžiuočiams.",
+      "en": "Utena is first mentioned in 1261, in a letter from Grand Duke Mindaugas to the knights.",
+      "uk": "Утена вперше згадується 1261 року в листі великого князя Міндовга до лицарів."
+    },
+    {
+      "lt": "Miestas stovi tarp gausybės ežerų prie Krašuonos upės ir yra Utenos apskrities centras.",
+      "en": "The city sits among numerous lakes on the Krašuona river and is the capital of Utena County.",
+      "uk": "Місто розташоване серед численних озер на річці Крашуона і є центром Утенського повіту."
+    },
+    {
+      "lt": "Utenoje veikianti alaus darykla „Utenos alus“ pirmąjį alų pagamino 1977 metais ir yra viena žinomiausių šalies alaus gamintojų.",
+      "en": "The Utenos Alus brewery, based in Utena, released its first beer in 1977 and is one of Lithuania's best-known beer producers.",
+      "uk": "Пивоварня «Utenos alus» в Утені випустила своє перше пиво у 1977 році і є одним із найвідоміших виробників пива в країні."
+    }
+  ],
+  "highlightPhoto": "2022-07-23-img-20220723-124048.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Ežero pakrantė ir Utenos miesto panorama",
+    "en": "A lakeshore with the Utena cityscape in view",
+    "uk": "Берег озера з видом на місто Утена"
+  },
+  "photos": [
+    "2022-07-23-img-20220723-120134.jpg",
+    "2022-07-23-img-20220723-120140.jpg",
+    "2022-07-23-img-20220723-120208.jpg",
+    "2022-07-23-img-20220723-120306.jpg",
+    "2022-07-23-img-20220723-120509.jpg",
+    "2022-07-23-img-20220723-120542.jpg",
+    "2022-07-23-img-20220723-120611.jpg",
+    "2022-07-23-img-20220723-120907.jpg",
+    "2022-07-23-img-20220723-120952.jpg",
+    "2022-07-23-img-20220723-121204.jpg",
+    "2022-07-23-img-20220723-121652.jpg",
+    "2022-07-23-img-20220723-121924.jpg",
+    "2022-07-23-img-20220723-121931.jpg",
+    "2022-07-23-img-20220723-122004.jpg",
+    "2022-07-23-img-20220723-122102.jpg",
+    "2022-07-23-img-20220723-122112.jpg",
+    "2022-07-23-img-20220723-122239.jpg",
+    "2022-07-23-img-20220723-122338.jpg",
+    "2022-07-23-img-20220723-122542.jpg",
+    "2022-07-23-img-20220723-122824.jpg",
+    "2022-07-23-img-20220723-123003.jpg",
+    "2022-07-23-img-20220723-123025.jpg",
+    "2022-07-23-img-20220723-123027.jpg",
+    "2022-07-23-img-20220723-123146.jpg",
+    "2022-07-23-img-20220723-123523.jpg",
+    "2022-07-23-img-20220723-123647.jpg",
+    "2022-07-23-img-20220723-123705.jpg",
+    "2022-07-23-img-20220723-123743.jpg",
+    "2022-07-23-img-20220723-123857.jpg",
+    "2022-07-23-img-20220723-124011.jpg",
+    "2022-07-23-img-20220723-124046.jpg",
+    "2022-07-23-img-20220723-124048.jpg",
+    "2022-07-23-img-20220723-124119.jpg",
+    "2022-07-23-img-20220723-124124.jpg",
+    "2022-07-23-img-20220723-124216.jpg",
+    "2022-07-23-img-20220723-124443.jpg",
+    "2022-07-23-img-20220723-124523.jpg",
+    "2022-07-23-img-20220723-124726.jpg",
+    "2022-07-23-img-20220723-124845.jpg",
+    "2022-07-23-img-20220723-125601.jpg",
+    "2022-07-23-img-20220723-125615.jpg",
+    "2022-07-23-img-20220723-125900.jpg",
+    "2022-07-23-img-20220723-130051.jpg",
+    "2022-07-23-img-20220723-130557.jpg",
+    "2022-07-23-img-20220723-130602.jpg",
+    "2022-07-23-img-20220723-130716.jpg",
+    "2022-07-23-img-20220723-130909.jpg",
+    "2022-07-23-img-20220723-131039.jpg",
+    "2022-07-23-img-20220723-131045.jpg",
+    "2022-07-23-img-20220723-131259.jpg",
+    "2022-07-23-img-20220723-131654.jpg",
+    "2022-07-23-img-20220723-131743.jpg",
+    "2022-07-23-img-20220723-131955.jpg",
+    "2022-07-23-img-20220723-132013.jpg",
+    "2022-07-23-img-20220723-132153.jpg",
+    "2022-07-23-img-20220723-133405.jpg",
+    "2022-07-23-img-20220723-133844.jpg",
+    "2022-07-23-img-20220723-134137.jpg",
+    "2022-07-23-img-20220723-134316.jpg",
+    "2022-07-23-img-20220723-134817.jpg",
+    "2022-07-23-img-20220723-135007.jpg",
+    "2022-07-23-img-20220723-135201.jpg"
+  ]
+}

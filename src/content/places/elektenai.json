@@ -1,0 +1,95 @@
+{
+  "slug": "elektenai",
+  "coordinates": {
+    "lat": 54.7854,
+    "lng": 24.663
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Elektrėnai",
+    "en": "Elektrėnai",
+    "uk": "Електренай"
+  },
+  "shortDescription": {
+    "lt": "Sovietmečiu prie elektrinės išaugęs miestas ant dirbtinio ežero kranto.",
+    "en": "A Soviet-era town that grew up around a power plant, on the shore of an artificial lake.",
+    "uk": "Місто радянської епохи, що виросло навколо електростанції, на березі штучного озера."
+  },
+  "longDescription": {
+    "lt": "Elektrėnai — miestas, 1962 metais įkurtas kaip gyvenvietė prie čia pat statomos didelės šiluminės elektrinės, kadaise buvusios viena stambiausių Baltijos šalyse. Miesto statybai 1961 metais buvo užtvenkta upė ir paskandinti keli kaimai, taip susiformavo dirbtinis Elektrėnų ežeras, naudojamas elektrinės aušinimui; naujai gyvenvietei suteiktas vardas, tiesiogiai reiškiantis „elektrą“. Po Ignalinos atominės elektrinės uždarymo 2010 metais Elektrėnų komplekso jėgainė tapo didžiausiu elektros energijos šaltiniu Lietuvoje.",
+    "en": "Elektrėnai was founded in 1962 as a settlement built around a large thermal power plant then under construction, once one of the largest of its kind in the Baltic states. To create the town, a river was dammed and several villages flooded in 1961, forming the artificial Lake Elektrėnai used to cool the plant; the new settlement was given a name that means, quite literally, 'electricity'. After the Ignalina Nuclear Power Plant was shut down in 2010, the Elektrėnai Complex became the largest source of electricity generation in Lithuania.",
+    "uk": "Електренай засновано у 1962 році як поселення навколо великої теплової електростанції, що тоді будувалася і колись була однією з найбільших у країнах Балтії. Для будівництва міста у 1961 році загатили річку та затопили кілька сіл, утворивши штучне озеро Електренай, яке використовується для охолодження станції; новому поселенню дали назву, що буквально означає «електрика». Після зупинки Ігналінської атомної електростанції у 2010 році комплекс Електренай став найбільшим джерелом виробництва електроенергії в Литві."
+  },
+  "facts": [
+    {
+      "lt": "Elektrėnai kaip gyvenvietė įkurti 1962 metais prie statomos šiluminės elektrinės.",
+      "en": "Elektrėnai was founded as a settlement in 1962 around a thermal power plant under construction.",
+      "uk": "Електренай засновано як поселення у 1962 році навколо теплової електростанції, що будувалася."
+    },
+    {
+      "lt": "Miesto vardas pažodžiui reiškia „elektros“ arba „elektrinę vietą“.",
+      "en": "The town's name literally means 'electricity' or 'place of electricity'.",
+      "uk": "Назва міста буквально означає «електрика» або «місце електрики»."
+    },
+    {
+      "lt": "Dirbtinis Elektrėnų ežeras, naudojamas elektrinės aušinimui, susiformavo 1961 metais užtvenkus upę ir paskandinus kelis kaimus.",
+      "en": "The artificial Lake Elektrėnai, used to cool the plant, was formed in 1961 when a river was dammed and several villages were flooded.",
+      "uk": "Штучне озеро Електренай, яке використовується для охолодження станції, утворилося у 1961 році після загачення річки та затоплення кількох сіл."
+    }
+  ],
+  "highlightPhoto": "2023-08-12-photo-2023-08-12-15-34-19.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Elektrėnų ežeras ir elektrinės vaizdas",
+    "en": "Lake Elektrėnai with the power plant in view",
+    "uk": "Озеро Електренай з видом на електростанцію"
+  },
+  "photos": [
+    "2023-08-12-photo-2023-08-12-14-51-14.jpg",
+    "2023-08-12-photo-2023-08-12-14-51-54.jpg",
+    "2023-08-12-photo-2023-08-12-14-51-56.jpg",
+    "2023-08-12-photo-2023-08-12-14-52-00.jpg",
+    "2023-08-12-photo-2023-08-12-14-53-44.jpg",
+    "2023-08-12-photo-2023-08-12-15-00-24.jpg",
+    "2023-08-12-photo-2023-08-12-15-00-28.jpg",
+    "2023-08-12-photo-2023-08-12-15-01-59.jpg",
+    "2023-08-12-photo-2023-08-12-15-03-21.jpg",
+    "2023-08-12-photo-2023-08-12-15-08-38.jpg",
+    "2023-08-12-photo-2023-08-12-15-09-05.jpg",
+    "2023-08-12-photo-2023-08-12-15-12-24.jpg",
+    "2023-08-12-photo-2023-08-12-15-15-46.jpg",
+    "2023-08-12-photo-2023-08-12-15-22-13.jpg",
+    "2023-08-12-photo-2023-08-12-15-23-58.jpg",
+    "2023-08-12-photo-2023-08-12-15-28-11.jpg",
+    "2023-08-12-photo-2023-08-12-15-28-12.jpg",
+    "2023-08-12-photo-2023-08-12-15-28-13.jpg",
+    "2023-08-12-photo-2023-08-12-15-29-57.jpg",
+    "2023-08-12-photo-2023-08-12-15-30-54.jpg",
+    "2023-08-12-photo-2023-08-12-15-33-12.jpg",
+    "2023-08-12-photo-2023-08-12-15-34-19.jpg",
+    "2023-08-12-photo-2023-08-12-15-35-37.jpg",
+    "2023-08-12-photo-2023-08-12-15-38-12.jpg",
+    "2023-08-12-photo-2023-08-12-15-39-24.jpg",
+    "2023-08-12-photo-2023-08-12-15-42-05.jpg",
+    "2023-08-12-photo-2023-08-12-15-44-06.jpg",
+    "2023-08-12-photo-2023-08-12-15-48-48.jpg",
+    "2023-08-12-photo-2023-08-12-15-52-48.jpg",
+    "2023-08-12-photo-2023-08-12-15-53-42.jpg",
+    "2023-08-12-photo-2023-08-12-15-54-17.jpg",
+    "2023-08-12-photo-2023-08-12-15-56-35.jpg",
+    "2023-08-12-photo-2023-08-12-15-59-19.jpg",
+    "2023-08-12-photo-2023-08-12-16-02-49.jpg",
+    "2023-08-12-photo-2023-08-12-16-03-47.jpg",
+    "2023-08-12-photo-2023-08-12-16-03-50.jpg",
+    "2023-08-12-photo-2023-08-12-16-04-33.jpg",
+    "2023-08-12-photo-2023-08-12-16-04-36.jpg",
+    "2023-08-12-photo-2023-08-12-16-04-39.jpg",
+    "2023-08-12-photo-2023-08-12-16-06-03.jpg",
+    "2023-08-12-photo-2023-08-12-16-06-50.jpg",
+    "2023-08-12-photo-2023-08-12-16-08-50.jpg"
+  ]
+}

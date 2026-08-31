@@ -1,0 +1,88 @@
+{
+  "slug": "obeliai",
+  "coordinates": {
+    "lat": 55.9333,
+    "lng": 25.1167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Obeliai",
+    "en": "Obeliai",
+    "uk": "Обяляй"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis ežero pakrantėje įsikūręs Rokiškio rajono miestelis, tikriausiai pavadintas obelų garbei.",
+    "en": "A small lakeside town in the Rokiškis district, likely named for its apple orchards.",
+    "uk": "Невелике містечко на березі озера в Рокішкському районі, ймовірно, назване на честь яблунь."
+  },
+  "longDescription": {
+    "lt": "Obeliai — nedidelis miestelis Rokiškio rajone, šiaurės Lietuvoje, pirmą kartą paminėtas XVI amžiuje, o miesto teises gavęs tik 1957 metais. Jo pavadinimas greičiausiai kilęs nuo žodžio „obelis“, o miestelis įsikūręs prie vieno iš daugelio regiono ežerų papėdės, netoliese teka ir Kriaunos upė — abu šie vandenys pavaizduoti miestelio herbe: mėlynas ruožas simbolizuoja upę, sidabrinis laukas — ežerą. Miestelio augimą apribojo tai, kad vietinė geležinkelio linija nustojo veikusi, todėl Obeliai liko ramus, kuklus miestelis, kurio centre stovi Šv. Onos bažnyčia.",
+    "en": "Obeliai is a small town in the Rokiškis district of northern Lithuania, first mentioned in the 16th century and granted city rights only in 1957. Its name most likely comes from the Lithuanian word 'obelis', meaning apple tree, and the town sits at the foot of one of the region's many lakes, with the Kriauna river also nearby — both are represented on its coat of arms, a blue bend for the river and a silver field for the lake. The town's growth was limited when the local railway line fell out of use, leaving Obeliai a quiet, modest place centered on its St. Anne's Church.",
+    "uk": "Обяляй — невелике містечко в Рокішкському районі на півночі Литви, вперше згадане у XVI столітті, а статус міста отримало лише 1957 року. Його назва, найімовірніше, походить від слова «obelis» (яблуня), а саме містечко розташоване біля підніжжя одного з численних озер регіону, поруч тече й річка Кряуна — обидва ці водойми зображені на гербі містечка: синя смуга символізує річку, срібне поле — озеро. Розвиток містечка обмежило те, що місцева залізнична лінія вийшла з ужитку, тож Обяляй лишилося тихим, скромним містом, у центрі якого стоїть церква Святої Анни."
+  },
+  "facts": [
+    {
+      "lt": "Obelių pavadinimas greičiausiai kilęs nuo žodžio „obelis“.",
+      "en": "Obeliai's name likely comes from the Lithuanian word 'obelis,' meaning apple tree.",
+      "uk": "Назва Обяляй, найімовірніше, походить від литовського слова «obelis» — яблуня."
+    },
+    {
+      "lt": "Miesto teises miestelis gavo tik 1957 metais, nors pirmą kartą buvo paminėtas dar XVI amžiuje.",
+      "en": "The town received official city rights only in 1957, though it was first recorded in the 16th century.",
+      "uk": "Офіційний статус міста містечко отримало лише 1957 року, хоча вперше згадувалося ще у XVI столітті."
+    },
+    {
+      "lt": "1993 metais suteiktame miestelio herbe pavaizduoti tiek netoliese esantis ežeras, tiek Kriaunos upė.",
+      "en": "Both the nearby lake and the Kriauna river are represented on the town's coat of arms, granted in 1993.",
+      "uk": "На гербі містечка, наданому 1993 року, зображені і сусіднє озеро, і річка Кряуна."
+    }
+  ],
+  "highlightPhoto": "2026-03-21-photo-21-03-2026-14-50-00.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Šv. Onos bažnyčia prie ežero Obeliuose",
+    "en": "St. Anne's Church by the lake in Obeliai",
+    "uk": "Церква Святої Анни біля озера в Обяляй"
+  },
+  "photos": [
+    "2026-03-21-photo-21-03-2026-14-30-12.jpg",
+    "2026-03-21-photo-21-03-2026-14-30-14.jpg",
+    "2026-03-21-photo-21-03-2026-14-30-18.jpg",
+    "2026-03-21-photo-21-03-2026-14-31-46.jpg",
+    "2026-03-21-photo-21-03-2026-14-34-55.jpg",
+    "2026-03-21-photo-21-03-2026-14-36-24.jpg",
+    "2026-03-21-photo-21-03-2026-14-36-52.jpg",
+    "2026-03-21-photo-21-03-2026-14-38-31.jpg",
+    "2026-03-21-photo-21-03-2026-14-40-21.jpg",
+    "2026-03-21-photo-21-03-2026-14-42-03.jpg",
+    "2026-03-21-photo-21-03-2026-14-42-21.jpg",
+    "2026-03-21-photo-21-03-2026-14-42-25.jpg",
+    "2026-03-21-photo-21-03-2026-14-44-16.jpg",
+    "2026-03-21-photo-21-03-2026-14-45-26.jpg",
+    "2026-03-21-photo-21-03-2026-14-45-49.jpg",
+    "2026-03-21-photo-21-03-2026-14-48-16.jpg",
+    "2026-03-21-photo-21-03-2026-14-49-05.jpg",
+    "2026-03-21-photo-21-03-2026-14-50-00.jpg",
+    "2026-03-21-photo-21-03-2026-14-51-28.jpg",
+    "2026-03-21-photo-21-03-2026-14-51-54.jpg",
+    "2026-03-21-photo-21-03-2026-14-52-40.jpg",
+    "2026-03-21-photo-21-03-2026-14-54-49.jpg",
+    "2026-03-21-photo-21-03-2026-14-56-19.jpg",
+    "2026-03-21-photo-21-03-2026-14-59-36.jpg",
+    "2026-03-21-photo-21-03-2026-15-00-57.jpg",
+    "2026-03-21-photo-21-03-2026-15-05-44.jpg",
+    "2026-03-21-photo-21-03-2026-15-07-31.jpg",
+    "2026-03-21-photo-21-03-2026-15-13-34.jpg",
+    "2026-03-21-photo-21-03-2026-15-15-02.jpg",
+    "2026-03-21-photo-21-03-2026-15-15-17.jpg",
+    "2026-03-21-photo-21-03-2026-15-20-45.jpg",
+    "2026-03-21-photo-21-03-2026-15-25-58.jpg",
+    "2026-03-21-photo-21-03-2026-15-26-04.jpg",
+    "2026-03-21-photo-21-03-2026-15-26-07.jpg",
+    "2026-03-21-photo-21-03-2026-15-31-32.jpg"
+  ]
+}

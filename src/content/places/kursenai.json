@@ -1,0 +1,91 @@
+{
+  "slug": "kursenai",
+  "coordinates": {
+    "lat": 56.0089,
+    "lng": 22.9308
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kuršėnai",
+    "en": "Kuršėnai",
+    "uk": "Куршенай"
+  },
+  "shortDescription": {
+    "lt": "Didžiausias Šiaulių rajono miestas prie Ventos upės, garsėjantis puodžių ir keramikos tradicijomis.",
+    "en": "The largest town in Šiauliai district, on the Venta River, known for its pottery and ceramics traditions.",
+    "uk": "Найбільше місто Шяуляйського району на річці Вента, відоме традиціями гончарства та кераміки."
+  },
+  "longDescription": {
+    "lt": "Kuršėnai, pirmą kartą paminėti dar XII amžiuje, yra didžiausias Šiaulių rajono miestas, išsidėstęs abipus Ventos upės. 1621 metais dvarą įsigijo Steponas Pacas, o 1631 metais karaliaus Zigmanto Vazos dekretu jis atiteko Jurgiui Gruževskiui — dvaro istorija glaudžiai susijusi su miesto raida. Aplink Kuršėnus randama kokybiško molio, todėl miestas nuo seno garsėjo puodžių amatu ir keramikos mugėmis, dėl ko iki šiol vadinamas puodžių ir senųjų amatų sostine.",
+    "en": "Kuršėnai, first mentioned as far back as the 12th century, is the largest town in Šiauliai district, straddling both banks of the Venta River. In 1621 the manor was acquired by Steponas Pacas, and in 1631, by decree of King Sigismund III Vasa, it passed to Jurgis Gruževskis — the manor's history is closely tied to the town's development. Fine clay found around Kuršėnai has long supported a pottery tradition and ceramics fairs, which is why the town is still called the capital of potters and traditional crafts.",
+    "uk": "Куршенай, вперше згадані ще у XII столітті, є найбільшим містом Шяуляйського району, розташованим на обох берегах річки Вента. У 1621 році маєток придбав Стяпонас Пацас, а у 1631 році за декретом короля Сигізмунда III Вази він перейшов до Юргіса Гружевського — історія маєтку тісно пов'язана з розвитком міста. Навколо Куршенай знаходиться якісна глина, тому місто здавна славилося гончарним ремеслом і керамічними ярмарками, за що й досі зветься столицею гончарів і давніх ремесел."
+  },
+  "facts": [
+    {
+      "lt": "Kuršėnai yra didžiausias Šiaulių rajono miestas, turintis daugiau nei 15 tūkstančių gyventojų.",
+      "en": "Kuršėnai is the largest town in Šiauliai district, with a population of more than 15,000.",
+      "uk": "Куршенай — найбільше місто Шяуляйського району, де проживає понад 15 тисяч мешканців."
+    },
+    {
+      "lt": "1631 metais karaliaus Zigmanto Vazos dekretu Kuršėnų dvaras buvo perduotas Jurgiui Gruževskiui.",
+      "en": "In 1631, by decree of King Sigismund III Vasa, the Kuršėnai manor was handed over to Jurgis Gruževskis.",
+      "uk": "У 1631 році за декретом короля Сигізмунда III Вази маєток Куршенай перейшов до Юргіса Гружевського."
+    },
+    {
+      "lt": "Dėl aplink randamo kokybiško molio Kuršėnai nuo seno vadinami puodžių ir senųjų amatų sostine.",
+      "en": "Because of the fine clay found in the surrounding area, Kuršėnai has long been called the capital of potters and traditional crafts.",
+      "uk": "Завдяки якісній глині, що зустрічається в околицях, Куршенай здавна називають столицею гончарів і давніх ремесел."
+    }
+  ],
+  "highlightPhoto": "2026-08-01-photo-01-08-2026-16-55-32.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Ventos upė ties Kuršėnų miestu",
+    "en": "The Venta River as it passes through Kuršėnai",
+    "uk": "Річка Вента, що протікає через місто Куршенай"
+  },
+  "photos": [
+    "2026-08-01-photo-01-08-2026-16-24-28.jpg",
+    "2026-08-01-photo-01-08-2026-16-29-48.jpg",
+    "2026-08-01-photo-01-08-2026-16-30-28.jpg",
+    "2026-08-01-photo-01-08-2026-16-30-46.jpg",
+    "2026-08-01-photo-01-08-2026-16-31-21.jpg",
+    "2026-08-01-photo-01-08-2026-16-31-58.jpg",
+    "2026-08-01-photo-01-08-2026-16-33-35.jpg",
+    "2026-08-01-photo-01-08-2026-16-35-56.jpg",
+    "2026-08-01-photo-01-08-2026-16-36-34.jpg",
+    "2026-08-01-photo-01-08-2026-16-37-33.jpg",
+    "2026-08-01-photo-01-08-2026-16-38-37.jpg",
+    "2026-08-01-photo-01-08-2026-16-44-34.jpg",
+    "2026-08-01-photo-01-08-2026-16-44-35.jpg",
+    "2026-08-01-photo-01-08-2026-16-45-43.jpg",
+    "2026-08-01-photo-01-08-2026-16-46-30.jpg",
+    "2026-08-01-photo-01-08-2026-16-47-04.jpg",
+    "2026-08-01-photo-01-08-2026-16-50-35.jpg",
+    "2026-08-01-photo-01-08-2026-16-54-27.jpg",
+    "2026-08-01-photo-01-08-2026-16-55-08.jpg",
+    "2026-08-01-photo-01-08-2026-16-55-32.jpg",
+    "2026-08-01-photo-01-08-2026-16-57-38.jpg",
+    "2026-08-01-photo-01-08-2026-16-58-21.jpg",
+    "2026-08-01-photo-01-08-2026-16-58-44.jpg",
+    "2026-08-01-photo-01-08-2026-16-59-30.jpg",
+    "2026-08-01-photo-01-08-2026-16-59-32.jpg",
+    "2026-08-01-photo-01-08-2026-17-00-14.jpg",
+    "2026-08-01-photo-01-08-2026-17-00-20.jpg",
+    "2026-08-01-photo-01-08-2026-17-01-20.jpg",
+    "2026-08-01-photo-01-08-2026-17-02-42.jpg",
+    "2026-08-01-photo-01-08-2026-17-05-07.jpg",
+    "2026-08-01-photo-01-08-2026-17-05-10.jpg",
+    "2026-08-01-photo-01-08-2026-17-05-22.jpg",
+    "2026-08-01-photo-01-08-2026-17-07-32.jpg",
+    "2026-08-01-photo-01-08-2026-17-09-23.jpg",
+    "2026-08-01-photo-01-08-2026-17-10-06.jpg",
+    "2026-08-01-photo-01-08-2026-17-23-17.jpg",
+    "2026-08-01-photo-01-08-2026-17-24-33.jpg",
+    "2026-08-01-photo-01-08-2026-17-26-33.jpg"
+  ]
+}

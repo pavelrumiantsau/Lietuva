@@ -1,0 +1,88 @@
+---
+pagination:
+  data: placePages
+  size: 1
+  alias: item
+layout: layouts/base.njk
+permalink: "{{ item.permalink }}"
+eleventyComputed:
+  lang: "{{ item.lang }}"
+  title: "{{ item.place.name[item.lang] }}"
+  altUrlLt: "{{ item.place | placeUrl('lt') }}"
+  altUrlEn: "{{ item.place | placeUrl('en') }}"
+  altUrlUk: "{{ item.place | placeUrl('uk') }}"
+---
+{% set place = item.place %}
+{% set lang = item.lang %}
+
+<article>
+  <div class="place-hero">
+    <a class="place-hero__back" href="{{ lang | homeUrl }}">&larr; {{ "place.backToMap" | t(lang) }}</a>
+
+    {% if item.pageNumber == 1 %}
+    <h1>{{ place.name[lang] }}</h1>
+
+    {% if place.highlightPhoto %}
+    <img
+      class="place-hero__highlight"
+      src="/assets/photos/{{ place.slug }}/full/{{ place.highlightPhoto }}"
+      alt="{{ place.highlightPhotoAlt[lang] if place.highlightPhotoAlt else '' }}"
+      width="1600" height="1067">
+    {% endif %}
+
+    <div class="place-description">
+      <p>{{ place.longDescription[lang] }}</p>
+    </div>
+
+    {% if place.facts and place.facts.length %}
+    <section class="facts-section" aria-labelledby="facts-heading">
+      <h2 id="facts-heading">{{ "place.facts" | t(lang) }}</h2>
+      <ul class="facts-list">
+        {% for fact in place.facts %}
+        <li>{{ fact[lang] }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    {% else %}
+    <h1>{{ place.name[lang] }}</h1>
+    {% endif %}
+  </div>
+
+  <section class="gallery-section" aria-labelledby="gallery-heading">
+    <h2 id="gallery-heading">
+      {{ "place.gallery" | t(lang) }}
+      {% if item.totalPages > 1 %}&mdash; {{ "place.page" | t(lang) }} {{ item.pageNumber }} / {{ item.totalPages }}{% endif %}
+    </h2>
+
+    <ul class="gallery-grid">
+      {% for photo in item.pagePhotos %}
+      {% set photoIndex = (item.pageNumber - 1) * 48 + loop.index %}
+      <li>
+        <a href="/assets/photos/{{ place.slug }}/full/{{ photo }}">
+          <img
+            src="/assets/photos/{{ place.slug }}/thumb/{{ photo }}"
+            alt="{{ place.name[lang] }} — {{ photoIndex }} / {{ place.photos.length }}"
+            loading="lazy" width="300" height="225">
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    {% if item.totalPages > 1 %}
+    <nav class="gallery-pagination" aria-label="{{ 'place.gallery' | t(lang) }}">
+      {% if item.prevPermalink %}
+      <a href="{{ item.prevPermalink }}">&larr; {{ "place.prevPage" | t(lang) }}</a>
+      {% else %}<span></span>{% endif %}
+
+      <span class="page-status">{{ "place.page" | t(lang) }} {{ item.pageNumber }} / {{ item.totalPages }}</span>
+
+      {% if item.nextPermalink %}
+      <a href="{{ item.nextPermalink }}">{{ "place.nextPage" | t(lang) }} &rarr;</a>
+      {% else %}<span></span>{% endif %}
+    </nav>
+    {% endif %}
+  </section>
+
+  <a class="place-hero__back" href="{{ lang | listUrl }}">&larr; {{ "place.backToList" | t(lang) }}</a>
+</article>

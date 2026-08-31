@@ -1,0 +1,96 @@
+{
+  "slug": "kazlu-ruda",
+  "coordinates": {
+    "lat": 54.75,
+    "lng": 23.5
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Kazlų Rūda",
+    "en": "Kazlų Rūda",
+    "uk": "Казлу-Руда"
+  },
+  "shortDescription": {
+    "lt": "Pušynų apsuptas miestas, XX amžiuje išaugęs iš geležinkelio stoties į vasarvietę.",
+    "en": "A town surrounded by pine forests that grew from a railway station into a summer resort in the 20th century.",
+    "uk": "Місто, оточене сосновими лісами, яке в XX столітті виросло із залізничної станції в літню курортну місцевість."
+  },
+  "longDescription": {
+    "lt": "Kazlų Rūda įsikūrusi didžiuliuose Suvalkijos pušynuose, kur 1861 metais buvo pastatyta geležinkelio stotis prie Kauno–Kybartų linijos. Miestas pradėjo sparčiai augti 1923 metais, kai stotis sujungta su Marijampolės, Kalvarijos ir Alytaus kryptimis, tais pačiais metais suplanuota apie 300 sklypų gyvenvietės plėtrai. Nuo 1936 metų aplink pušynus imta statyti vasarnamius, o iki pat XX amžiaus vidurio Kazlų Rūda tapo neoficialiu Kauno, Marijampolės ir Vilkaviškio gyventojų mėgstamu vasaros poilsio kurortu.",
+    "en": "Kazlų Rūda grew up amid the extensive pine forests of Suvalkija, where a railway station was built in 1861 on the Kaunas–Kybartai line. The town began to grow rapidly in 1923, when the station was connected toward Marijampolė, Kalvarija and Alytus, and around 300 plots were laid out that same year for the settlement's expansion. From 1936 summer houses began to be built around the pine forest, and by the mid-20th century Kazlų Rūda had become an unofficial summer resort favoured by residents of Kaunas, Marijampolė and Vilkaviškis.",
+    "uk": "Казлу-Руда виросла серед великих соснових лісів Сувалкії, де у 1861 році збудували залізничну станцію на лінії Каунас–Кібартай. Місто почало швидко розвиватися з 1923 року, коли станцію з'єднали з напрямками на Маріямполе, Кальварію та Алітус, і того ж року розпланували близько 300 ділянок для розширення поселення. З 1936 року навколо соснового лісу почали будувати літні будиночки, і до середини XX століття Казлу-Руда стала неофіційним літнім курортом, улюбленим серед жителів Каунаса, Маріямполе та Вілкавішкіса."
+  },
+  "facts": [
+    {
+      "lt": "Geležinkelio stotis, davusi pradžią miestui, pastatyta 1861 metais netoli tuometinio Kazlų Rūdos kaimo.",
+      "en": "The railway station that gave rise to the town was built in 1861 near what was then the village of Kazlų Rūda.",
+      "uk": "Залізнична станція, з якої почалося місто, була збудована у 1861 році поблизу тодішнього села Казлу-Руда."
+    },
+    {
+      "lt": "1923 metais suplanuota apie 300 sklypų padėjo pamatus greitam gyvenvietės augimui.",
+      "en": "The roughly 300 plots laid out in 1923 laid the foundations for the settlement's rapid growth.",
+      "uk": "Приблизно 300 ділянок, розплановані у 1923 році, заклали основу для швидкого розвитку поселення."
+    },
+    {
+      "lt": "Nuo 1940-ųjų Kazlų Rūda buvo neoficialus vasaros kurortas, mėgstamas Kauno, Marijampolės ir Vilkaviškio gyventojų.",
+      "en": "From the 1940s Kazlų Rūda was an unofficial summer resort favoured by residents of Kaunas, Marijampolė and Vilkaviškis.",
+      "uk": "З 1940-х років Казлу-Руда була неофіційним літнім курортом, улюбленим серед жителів Каунаса, Маріямполе та Вілкавішкіса."
+    }
+  ],
+  "highlightPhoto": "2025-01-18-photo-18-01-2025-13-59-56.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Pušynas prie Kazlų Rūdos miesto",
+    "en": "A pine forest near the town of Kazlų Rūda",
+    "uk": "Сосновий ліс поблизу міста Казлу-Руда"
+  },
+  "photos": [
+    "2025-01-18-photo-18-01-2025-13-39-13.jpg",
+    "2025-01-18-photo-18-01-2025-13-41-29.jpg",
+    "2025-01-18-photo-18-01-2025-13-42-29.jpg",
+    "2025-01-18-photo-18-01-2025-13-44-18.jpg",
+    "2025-01-18-photo-18-01-2025-13-45-05.jpg",
+    "2025-01-18-photo-18-01-2025-13-46-17.jpg",
+    "2025-01-18-photo-18-01-2025-13-46-47.jpg",
+    "2025-01-18-photo-18-01-2025-13-47-35.jpg",
+    "2025-01-18-photo-18-01-2025-13-48-12.jpg",
+    "2025-01-18-photo-18-01-2025-13-51-42.jpg",
+    "2025-01-18-photo-18-01-2025-13-52-02.jpg",
+    "2025-01-18-photo-18-01-2025-13-52-49.jpg",
+    "2025-01-18-photo-18-01-2025-13-53-00.jpg",
+    "2025-01-18-photo-18-01-2025-13-54-02.jpg",
+    "2025-01-18-photo-18-01-2025-13-54-26.jpg",
+    "2025-01-18-photo-18-01-2025-13-56-12.jpg",
+    "2025-01-18-photo-18-01-2025-13-57-11.jpg",
+    "2025-01-18-photo-18-01-2025-13-58-18.jpg",
+    "2025-01-18-photo-18-01-2025-13-58-54.jpg",
+    "2025-01-18-photo-18-01-2025-13-59-00.jpg",
+    "2025-01-18-photo-18-01-2025-13-59-21.jpg",
+    "2025-01-18-photo-18-01-2025-13-59-56.jpg",
+    "2025-01-18-photo-18-01-2025-14-01-13.jpg",
+    "2025-01-18-photo-18-01-2025-14-01-46.jpg",
+    "2025-01-18-photo-18-01-2025-14-03-47.jpg",
+    "2025-01-18-photo-18-01-2025-14-03-53.jpg",
+    "2025-01-18-photo-18-01-2025-14-04-46.jpg",
+    "2025-01-18-photo-18-01-2025-14-05-52.jpg",
+    "2025-01-18-photo-18-01-2025-14-07-46.jpg",
+    "2025-01-18-photo-18-01-2025-14-09-33.jpg",
+    "2025-01-18-photo-18-01-2025-14-11-50.jpg",
+    "2025-01-18-photo-18-01-2025-14-13-31.jpg",
+    "2025-01-18-photo-18-01-2025-14-13-58.jpg",
+    "2025-01-18-photo-18-01-2025-14-16-48.jpg",
+    "2025-01-18-photo-18-01-2025-14-18-21.jpg",
+    "2025-01-18-photo-18-01-2025-14-21-04.jpg",
+    "2025-01-18-photo-18-01-2025-14-23-05.jpg",
+    "2025-01-18-photo-18-01-2025-14-25-26.jpg",
+    "2025-01-18-photo-18-01-2025-14-28-33.jpg",
+    "2025-01-18-photo-18-01-2025-14-28-55.jpg",
+    "2025-01-18-photo-18-01-2025-14-31-16.jpg",
+    "2025-01-18-photo-18-01-2025-14-33-27.jpg",
+    "2025-01-18-photo-18-01-2025-14-51-37.jpg"
+  ]
+}

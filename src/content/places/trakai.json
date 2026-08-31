@@ -1,0 +1,125 @@
+{
+  "slug": "trakai",
+  "coordinates": {
+    "lat": 54.6486,
+    "lng": 24.9339
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Trakai",
+    "en": "Trakai",
+    "uk": "Тракай"
+  },
+  "shortDescription": {
+    "lt": "Raudonų plytų sala-pilis ežero viduryje ir karaimų bendruomenės namai.",
+    "en": "A red-brick island castle in the middle of a lake, and home to the Karaim community.",
+    "uk": "Острівний замок з червоної цегли посеред озера та домівка караїмської громади."
+  },
+  "longDescription": {
+    "lt": "Trakai — buvusi Lietuvos Didžiosios Kunigaikštystės sostinė, garsi visų pirma savo saloje stovinčia gotikine pilimi Galvės ežero viduryje. Pilį XIV–XV amžiuje statė didysis kunigaikštis Kęstutis ir baigė jo sūnus Vytautas Didysis; sovietmečiu, 1946–1961 metais, ji buvo rekonstruota ir tapo vienu žinomiausių šalies simbolių. Miestelį supa daugiau nei 200 ežerų, o jo gatvėse tebegyvena karaimų bendruomenė — Vytauto Didžiojo XIV amžiuje iš Krymo atsivežta tiurkų tautybė, garsi savo virtuve, ypač kibinais.",
+    "en": "Trakai, a former capital of the Grand Duchy of Lithuania, is best known for its Gothic island castle standing in the middle of Lake Galvė. Construction began under Grand Duke Kęstutis in the 14th century and was completed by his son, Vytautas the Great; the castle was reconstructed in Soviet times, between 1946 and 1961, and has since become one of the country's best-known symbols. The town is surrounded by more than 200 lakes, and its streets are still home to the Karaim community — a Turkic people brought from Crimea by Vytautas the Great in the 14th century, known for their distinctive cuisine, especially kibinai pastries.",
+    "uk": "Тракай, колишня столиця Великого князівства Литовського, найбільш відомий своїм готичним острівним замком серед озера Гальве. Будівництво розпочав великий князь Кястутіс у XIV столітті, а завершив його син Вітаутас Великий; за радянських часів, у 1946–1961 роках, замок реконструювали, і відтоді він став одним із найвідоміших символів країни. Містечко оточують понад 200 озер, а на його вулицях і донині живе караїмська громада — тюркський народ, привезений Вітаутасом Великим із Криму в XIV столітті, відомий своєю самобутньою кухнею, особливо пиріжками кібінай."
+  },
+  "facts": [
+    {
+      "lt": "Trakų pilis yra vienintelė vandens pilis Rytų Europoje.",
+      "en": "Trakai Castle is the only island castle in Eastern Europe.",
+      "uk": "Тракайський замок — єдиний острівний замок у Східній Європі."
+    },
+    {
+      "lt": "Karaimai turi savo maldos namus — kenesą, ir savo kalbą, priklausančią tiurkų kalbų šeimai.",
+      "en": "The Karaim community has its own house of worship, the kenesa, and its own language from the Turkic language family.",
+      "uk": "Караїми мають власний молитовний дім — кенасу, і власну мову, що належить до тюркської мовної родини."
+    },
+    {
+      "lt": "Iki pilies galima nuplaukti nuomojama valtimi arba pereiti tiltais per Galvės ežerą.",
+      "en": "The castle can be reached by rented boat or by crossing wooden footbridges over Lake Galvė.",
+      "uk": "До замку можна дістатися орендованим човном або перейти дерев'яними містками через озеро Гальве."
+    }
+  ],
+  "highlightPhoto": "2023-06-24-photo-2023-06-24-15-37-41.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Trakų salos pilis ir tiltas per Galvės ežerą",
+    "en": "Trakai Island Castle and the footbridge across Lake Galvė",
+    "uk": "Тракайський острівний замок і місток через озеро Гальве"
+  },
+  "photos": [
+    "2017-12-23-img-4094.jpg",
+    "2017-12-24-img-4095.jpg",
+    "2017-12-24-img-4097.jpg",
+    "2017-12-24-img-4098.jpg",
+    "2017-12-24-img-4099.jpg",
+    "2017-12-24-img-4100.jpg",
+    "2017-12-24-img-4101.jpg",
+    "2017-12-24-img-4102.jpg",
+    "2017-12-24-img-4103.jpg",
+    "2017-12-24-img-4104.jpg",
+    "2017-12-24-img-4105.jpg",
+    "2017-12-24-img-4106.jpg",
+    "2017-12-24-img-4107.jpg",
+    "2023-06-24-photo-2023-06-24-14-41-39.jpg",
+    "2023-06-24-photo-2023-06-24-14-48-09.jpg",
+    "2023-06-24-photo-2023-06-24-14-48-24.jpg",
+    "2023-06-24-photo-2023-06-24-14-50-34.jpg",
+    "2023-06-24-photo-2023-06-24-14-50-37.jpg",
+    "2023-06-24-photo-2023-06-24-14-52-05.jpg",
+    "2023-06-24-photo-2023-06-24-14-55-09.jpg",
+    "2023-06-24-photo-2023-06-24-14-58-30.jpg",
+    "2023-06-24-photo-2023-06-24-15-01-57.jpg",
+    "2023-06-24-photo-2023-06-24-15-10-43.jpg",
+    "2023-06-24-photo-2023-06-24-15-13-57.jpg",
+    "2023-06-24-photo-2023-06-24-15-14-50.jpg",
+    "2023-06-24-photo-2023-06-24-15-18-00.jpg",
+    "2023-06-24-photo-2023-06-24-15-19-05.jpg",
+    "2023-06-24-photo-2023-06-24-15-20-45.jpg",
+    "2023-06-24-photo-2023-06-24-15-27-46.jpg",
+    "2023-06-24-photo-2023-06-24-15-29-00.jpg",
+    "2023-06-24-photo-2023-06-24-15-30-46.jpg",
+    "2023-06-24-photo-2023-06-24-15-31-35.jpg",
+    "2023-06-24-photo-2023-06-24-15-33-11.jpg",
+    "2023-06-24-photo-2023-06-24-15-33-36.jpg",
+    "2023-06-24-photo-2023-06-24-15-33-40.jpg",
+    "2023-06-24-photo-2023-06-24-15-35-49.jpg",
+    "2023-06-24-photo-2023-06-24-15-37-41.jpg",
+    "2023-06-24-photo-2023-06-24-15-38-08.jpg",
+    "2023-06-24-photo-2023-06-24-15-39-16.jpg",
+    "2023-06-24-photo-2023-06-24-15-40-48.jpg",
+    "2023-06-24-photo-2023-06-24-15-40-51.jpg",
+    "2023-06-24-photo-2023-06-24-15-43-05.jpg",
+    "2023-06-24-photo-2023-06-24-15-44-08.jpg",
+    "2023-06-24-photo-2023-06-24-15-49-05.jpg",
+    "2023-06-24-photo-2023-06-24-15-50-19.jpg",
+    "2023-06-24-photo-2023-06-24-15-50-43.jpg",
+    "2023-06-24-photo-2023-06-24-15-51-44.jpg",
+    "2023-06-24-photo-2023-06-24-15-52-03.jpg",
+    "2023-06-24-photo-2023-06-24-15-53-42.jpg",
+    "2023-06-24-photo-2023-06-24-15-54-43.jpg",
+    "2023-06-24-photo-2023-06-24-15-54-57.jpg",
+    "2023-06-24-photo-2023-06-24-15-55-43.jpg",
+    "2023-06-24-photo-2023-06-24-15-56-35.jpg",
+    "2023-06-24-photo-2023-06-24-15-56-37.jpg",
+    "2023-06-24-photo-2023-06-24-15-58-10.jpg",
+    "2023-06-24-photo-2023-06-24-15-58-41.jpg",
+    "2023-06-24-photo-2023-06-24-15-59-07.jpg",
+    "2023-06-24-photo-2023-06-24-16-00-08.jpg",
+    "2023-06-24-photo-2023-06-24-16-00-32.jpg",
+    "2023-06-24-photo-2023-06-24-16-00-57.jpg",
+    "2023-06-24-photo-2023-06-24-16-02-12.jpg",
+    "2023-06-24-photo-2023-06-24-16-03-42.jpg",
+    "2023-06-24-photo-2023-06-24-16-04-32.jpg",
+    "2023-06-24-photo-2023-06-24-16-05-00.jpg",
+    "2023-06-24-photo-2023-06-24-16-06-13.jpg",
+    "2023-06-24-photo-2023-06-24-16-06-16.jpg",
+    "2023-06-24-photo-2023-06-24-16-07-16.jpg",
+    "2023-06-24-photo-2023-06-24-16-10-26.jpg",
+    "2023-06-24-photo-2023-06-24-16-12-58.jpg",
+    "2023-06-24-photo-2023-06-24-16-16-10.jpg",
+    "2023-06-24-photo-2023-06-24-16-25-36.jpg",
+    "2023-06-24-photo-2023-06-24-16-26-01.jpg"
+  ]
+}

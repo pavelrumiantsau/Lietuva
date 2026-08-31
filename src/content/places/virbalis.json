@@ -1,0 +1,78 @@
+{
+  "slug": "virbalis",
+  "coordinates": {
+    "lat": 54.6333,
+    "lng": 22.8167
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Virbalis",
+    "en": "Virbalis",
+    "uk": "Вірбаліс"
+  },
+  "shortDescription": {
+    "lt": "Buvęs muitinės miestelis prie senosios sienos su Prūsija, kadaise gyvos pasienio prekybos centras.",
+    "en": "A former customs town on the old Prussian border, once a hub of cross-border trade.",
+    "uk": "Колишнє митне містечко на старому кордоні з Пруссією, колись центр прикордонної торгівлі."
+  },
+  "longDescription": {
+    "lt": "Virbalis, Vilkaviškio rajone netoli dabartinės sienos su Kaliningrado sritimi, susiformavo XVI amžiuje ir 1593 metais gavo Magdeburgo teises. Jo padėtis pasienyje tarp Lietuvos Didžiosios Kunigaikštystės ir Prūsijos pavertė miestelį vienu svarbiausių regiono muitinės postų — 1785 metais tokių Didžiojoje Kunigaikštystėje veikė penkiolika — o nuo 1861 metų atsiradus Sankt Peterburgo–Varšuvos geležinkeliui, kurio netoliese esanti stotis buvo žinoma rusišku Veržbolovo pavadinimu, dar labiau įtvirtino miestelio kaip prekybos vartų vaidmenį. Daugelis miestelio žydų vertėsi pasienio prekyba su kaimyniniu vokiečių miesteliu Eitkūnais, naudodamiesi vietos privilegija gabenti prekes be muito.",
+    "en": "Virbalis, in the Vilkaviškis district near today's border with the Kaliningrad region, grew up in the 16th century and received Magdeburg rights in 1593. Its position on the frontier between the Grand Duchy of Lithuania and Prussia made it one of the key customs posts of the region — one of fifteen operating in the Grand Duchy by 1785 — and after 1861 the arrival of the Saint Petersburg–Warsaw railway, whose nearby station was known by the Russian name Verzhbolovo, further cemented its role as a trade gateway. Many of the town's Jewish residents made a living from cross-border commerce with the neighboring German town of Eydtkuhnen, exploiting local privileges to bring goods across without paying customs.",
+    "uk": "Вірбаліс у Вілкавішкіському районі, поблизу нинішнього кордону з Калінінградською областю, сформувався у XVI столітті й 1593 року отримав магдебурзькі права. Його розташування на кордоні між Великим князівством Литовським і Пруссією зробило містечко одним із головних митних постів регіону — 1785 року таких у Великому князівстві діяло п'ятнадцять — а з 1861 року, після появи залізниці Санкт-Петербург–Варшава, чия сусідня станція була відома під російською назвою Вержболово, роль містечка як торгових воріт ще більше зміцніла. Багато євреїв містечка заробляли на прикордонній торгівлі із сусіднім німецьким містечком Ейткунен, користуючись місцевою пільгою перевозити товари без мита."
+  },
+  "facts": [
+    {
+      "lt": "Virbalis 1593 metais gavo Magdeburgo savivaldos teises ir buvo vienas iš penkiolikos muitinės postų, veikusių Lietuvos Didžiojoje Kunigaikštystėje 1785 metais.",
+      "en": "Virbalis received Magdeburg self-rule rights in 1593 and was one of fifteen customs posts operating in the Grand Duchy of Lithuania by 1785.",
+      "uk": "Вірбаліс 1593 року отримав магдебурзькі права самоврядування і був одним із п'ятнадцяти митних постів, що діяли у Великому князівстві Литовському 1785 року."
+    },
+    {
+      "lt": "Nuo 1861 metų netoliese ėjo Sankt Peterburgo–Varšuvos geležinkelis, o pasienio stotis buvo žinoma rusišku Veržbolovo pavadinimu.",
+      "en": "From 1861, the Saint Petersburg–Warsaw railway passed nearby, with the border station known by its Russian name, Verzhbolovo.",
+      "uk": "З 1861 року поблизу проходила залізниця Санкт-Петербург–Варшава, а прикордонна станція була відома під російською назвою Вержболово."
+    },
+    {
+      "lt": "Daugelis Virbalio žydų pragyveno iš pasienio prekybos su kaimyniniu vokiečių miesteliu Eitkūnais.",
+      "en": "Many Jewish residents of Virbalis earned their living through cross-border trade with the neighboring German town of Eydtkuhnen.",
+      "uk": "Багато євреїв Вірбаліса заробляли на життя прикордонною торгівлею із сусіднім німецьким містечком Ейткунен."
+    }
+  ],
+  "highlightPhoto": "2026-03-07-photo-07-03-2026-14-49-53.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Istorinė gatvė buvusiame pasienio miestelyje Virbalyje",
+    "en": "A historic street in the former border town of Virbalis",
+    "uk": "Історична вулиця у колишньому прикордонному містечку Вірбаліс"
+  },
+  "photos": [
+    "2026-03-07-photo-07-03-2026-14-34-13.jpg",
+    "2026-03-07-photo-07-03-2026-14-34-56.jpg",
+    "2026-03-07-photo-07-03-2026-14-35-18.jpg",
+    "2026-03-07-photo-07-03-2026-14-35-54.jpg",
+    "2026-03-07-photo-07-03-2026-14-37-02.jpg",
+    "2026-03-07-photo-07-03-2026-14-40-41.jpg",
+    "2026-03-07-photo-07-03-2026-14-41-56.jpg",
+    "2026-03-07-photo-07-03-2026-14-43-06.jpg",
+    "2026-03-07-photo-07-03-2026-14-44-12.jpg",
+    "2026-03-07-photo-07-03-2026-14-44-43.jpg",
+    "2026-03-07-photo-07-03-2026-14-44-46.jpg",
+    "2026-03-07-photo-07-03-2026-14-46-26.jpg",
+    "2026-03-07-photo-07-03-2026-14-49-53.jpg",
+    "2026-03-07-photo-07-03-2026-14-50-46.jpg",
+    "2026-03-07-photo-07-03-2026-14-52-28.jpg",
+    "2026-03-07-photo-07-03-2026-14-54-33.jpg",
+    "2026-03-07-photo-07-03-2026-14-54-51.jpg",
+    "2026-03-07-photo-07-03-2026-14-55-46.jpg",
+    "2026-03-07-photo-07-03-2026-14-55-55.jpg",
+    "2026-03-07-photo-07-03-2026-14-55-59.jpg",
+    "2026-03-07-photo-07-03-2026-14-56-49.jpg",
+    "2026-03-07-photo-07-03-2026-14-58-15.jpg",
+    "2026-03-07-photo-07-03-2026-14-59-06.jpg",
+    "2026-03-07-photo-07-03-2026-14-59-34.jpg",
+    "2026-03-07-photo-07-03-2026-14-59-41.jpg"
+  ]
+}

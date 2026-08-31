@@ -1,0 +1,20 @@
+{
+  "name": "lithuania-travels",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A map of places visited across Lithuania, with photos and stories.",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "process-photos": "node tools/process-photos.js",
+    "validate-coordinates": "node tools/validate-coordinates.js"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "exifr": "^7.1.3",
+    "sharp": "^0.35.4"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
+  }
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} — {{ "site.title" | t(lang) }}</title>
+  <meta name="description" content="{{ "site.tagline" | t(lang) }}">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% if pageStyles %}
+    {% for href in pageStyles %}
+    <link rel="stylesheet" href="{{ href }}">
+    {% endfor %}
+  {% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#main">{{ "nav.home" | t(lang) }} — skip to content</a>
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="site-title" href="{{ lang | homeUrl }}">{{ "site.title" | t(lang) }}</a>
+
+      <nav class="site-nav" aria-label="{{ 'nav.home' | t(lang) }}">
+        <a href="{{ lang | homeUrl }}">{{ "nav.map" | t(lang) }}</a>
+        <a href="{{ lang | listUrl }}">{{ "nav.places" | t(lang) }}</a>
+      </nav>
+
+      <nav class="lang-switch" aria-label="{{ 'langSwitch.label' | t(lang) }}">
+        {% set altUrls = {"lt": altUrlLt, "en": altUrlEn, "uk": altUrlUk} %}
+        {% for l in locales %}
+          <a href="{{ altUrls[l] }}"{% if l == lang %} aria-current="true" class="is-current"{% endif %}>{{ l | upper }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>{{ "footer.text" | t(lang) }}</p>
+  </footer>
+
+  {% if pageScripts %}
+    {% for src in pageScripts %}
+    <script src="{{ src }}"></script>
+    {% endfor %}
+  {% endif %}
+</body>
+</html>

@@ -1,0 +1,70 @@
+{
+  "slug": "venta",
+  "coordinates": {
+    "lat": 56.2019,
+    "lng": 22.6839
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Venta",
+    "en": "Venta",
+    "uk": "Вянта"
+  },
+  "shortDescription": {
+    "lt": "Nedidelis miestas prie Ventos upės, sovietmečiu susiformavęs sujungus du kaimus.",
+    "en": "A small town on the Venta river, formed in Soviet times from two merged villages.",
+    "uk": "Невелике місто на річці Вянта, утворене за радянських часів злиттям двох сіл."
+  },
+  "longDescription": {
+    "lt": "Venta — nedidelis miestas prie tos pačios upės, Akmenės rajone, šiaurės Lietuvoje. Jis susiformavo 1966 metų gruodžio 30 dieną sujungus Bauskų ir Purvių kaimus; ilgą laiką tai buvo didžiausia Lietuvoje gyvenvietė, oficialiai vis dar vadinama kaimu, o miesto statusą įgijo tik 1995 metais. Miestas yra vieno įtakingiausių Lietuvos teatro režisierių Juozo Miltinio (1907–1994) gimtinė, o šiandien jo muzikos mokykloje veikia jaunimo ansamblis „Ventukai“, puoselėjantis lietuvių liaudies muziką tarp vietos vaikų ir paauglių.",
+    "en": "Venta is a small town on the river of the same name, in the Akmenė district of northern Lithuania. It was formed on 30 December 1966 by merging the villages of Bauskas and Purviai, long before that the largest settlement in the country still officially classified as a village, and only gained city status in 1995. The town is the birthplace of Juozas Miltinis (1907–1994), one of Lithuania's most influential theatre directors, and today its music school runs the youth ensemble 'Ventukai,' which keeps traditional Lithuanian music alive among local children and teenagers.",
+    "uk": "Вянта — невелике місто на однойменній річці в Акмянському районі на півночі Литви. Воно утворилося 30 грудня 1966 року внаслідок злиття сіл Баускас і Пурвяй; довгий час це було найбільше поселення в Литві, яке офіційно все ще вважалося селом, і статус міста отримало лише 1995 року. Місто є батьківщиною Йонаса Мілтініса (1907–1994), одного з найвпливовіших литовських театральних режисерів, а сьогодні в його музичній школі діє молодіжний ансамбль «Вянтукай», який зберігає традиційну литовську музику серед місцевих дітей і підлітків."
+  },
+  "facts": [
+    {
+      "lt": "Ventos miestas susiformavo 1966 metų gruodžio 30 dieną sujungus Bauskų ir Purvių kaimus.",
+      "en": "The town of Venta was formed on 30 December 1966 by merging the villages of Bauskas and Purviai.",
+      "uk": "Місто Вянта утворилося 30 грудня 1966 року внаслідок злиття сіл Баускас і Пурвяй."
+    },
+    {
+      "lt": "Prieš įgydama miesto statusą 1995 metais, Venta ilgai buvo didžiausia Lietuvoje gyvenvietė, oficialiai vis dar vadinama kaimu.",
+      "en": "Before gaining city status in 1995, Venta was long the largest settlement in Lithuania still officially classed as a village.",
+      "uk": "Перш ніж 1995 року отримати статус міста, Вянта довго була найбільшим поселенням Литви, яке офіційно вважалося селом."
+    },
+    {
+      "lt": "Garsus teatro režisierius Juozas Miltinis (1907–1994) gimė teritorijoje, kuri dabar priklauso Ventos miestui.",
+      "en": "Renowned theatre director Juozas Miltinis (1907–1994) was born in what is now the town of Venta.",
+      "uk": "Відомий театральний режисер Йонас Мілтініс (1907–1994) народився на території, яка нині належить місту Вянта."
+    }
+  ],
+  "highlightPhoto": "2026-08-01-photo-01-08-2026-14-40-16.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Per Ventos miestą tekanti Ventos upė",
+    "en": "The Venta river running through the town of Venta",
+    "uk": "Річка Вянта, що протікає через однойменне місто"
+  },
+  "photos": [
+    "2026-08-01-photo-01-08-2026-14-23-19.jpg",
+    "2026-08-01-photo-01-08-2026-14-30-11.jpg",
+    "2026-08-01-photo-01-08-2026-14-31-25.jpg",
+    "2026-08-01-photo-01-08-2026-14-31-28.jpg",
+    "2026-08-01-photo-01-08-2026-14-33-57.jpg",
+    "2026-08-01-photo-01-08-2026-14-34-36.jpg",
+    "2026-08-01-photo-01-08-2026-14-37-11.jpg",
+    "2026-08-01-photo-01-08-2026-14-38-23.jpg",
+    "2026-08-01-photo-01-08-2026-14-40-16.jpg",
+    "2026-08-01-photo-01-08-2026-14-40-41.jpg",
+    "2026-08-01-photo-01-08-2026-14-44-50.jpg",
+    "2026-08-01-photo-01-08-2026-14-50-21.jpg",
+    "2026-08-01-photo-01-08-2026-14-50-22.jpg",
+    "2026-08-01-photo-01-08-2026-14-53-19.jpg",
+    "2026-08-01-photo-01-08-2026-15-01-12.jpg",
+    "2026-08-01-photo-01-08-2026-15-01-33.jpg",
+    "2026-08-01-photo-01-08-2026-15-08-27.jpg"
+  ]
+}

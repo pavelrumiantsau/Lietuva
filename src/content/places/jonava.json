@@ -1,0 +1,101 @@
+{
+  "slug": "jonava",
+  "coordinates": {
+    "lat": 55.0844,
+    "lng": 24.2856
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Jonava",
+    "en": "Jonava",
+    "uk": "Йонава"
+  },
+  "shortDescription": {
+    "lt": "Neries pakrantėje įsikūręs pramoninis miestas, žinomas dėl vieno didžiausių trąšų gamintojų Baltijos šalyse.",
+    "en": "An industrial town on the banks of the Neris, home to one of the largest fertilizer producers in the Baltic states.",
+    "uk": "Промислове місто на березі Няріса, домівка одного з найбільших виробників добрив у країнах Балтії."
+  },
+  "longDescription": {
+    "lt": "Jonava įsikūrusi ties Neries ir netoli Šventosios upių santaka, o jos naujausią istoriją formavo XX amžiaus septintajame dešimtmetyje pradėta statyti azoto trąšų gamykla, sovietmečiu vadinta „Azotu“. Gamykla, dabar veikianti kaip AB „Achema“, tapo didžiausia trąšų gamintoja Baltijos šalyse ir pagrindine miesto darbdave, nulėmusia sparčią pokario Jonavos plėtrą. 1989 metais gamykloje įvyko rimta amoniako avarija, tapusi viena garsiausių pramoninių nelaimių sovietinėje Lietuvoje.",
+    "en": "Jonava lies on the banks of the Neris, near where the Šventoji River joins it, and its recent history has been shaped by a nitrogen fertilizer plant whose construction began in the 1960s, known in Soviet times as 'Azotas'. The plant, now operating as AB Achema, became the largest fertilizer producer in the Baltic states and the town's main employer, driving Jonava's rapid postwar growth. In 1989 the plant suffered a serious ammonia accident, one of the best-known industrial disasters of Soviet-era Lithuania.",
+    "uk": "Йонава розташована на березі Няріса, неподалік від місця, де в нього впадає Швянтоя, а її нову історію визначив завод азотних добрив, будівництво якого почалося у 1960-х роках і який за радянських часів називався «Азотас». Завод, що нині працює як АТ «Achema», став найбільшим виробником добрив у країнах Балтії та головним роботодавцем міста, що зумовило стрімкий повоєнний розвиток Йонави. У 1989 році на заводі стався серйозний викид аміаку — одна з найвідоміших промислових аварій радянської Литви."
+  },
+  "facts": [
+    {
+      "lt": "Jonavos trąšų gamykla, dabar žinoma kaip AB „Achema“, yra didžiausia azoto trąšų gamintoja Baltijos šalyse.",
+      "en": "The Jonava fertilizer plant, now known as AB Achema, is the largest nitrogen fertilizer producer in the Baltic states.",
+      "uk": "Завод добрив у Йонаві, нині відомий як АТ «Achema», є найбільшим виробником азотних добрив у країнах Балтії."
+    },
+    {
+      "lt": "1989 metais gamykloje įvyko amoniako avarija, priverstinai iškelta didelė dalis miesto gyventojų.",
+      "en": "In 1989 an ammonia accident at the plant forced the evacuation of a large part of the town's population.",
+      "uk": "У 1989 році на заводі стався викид аміаку, через що довелося евакуювати значну частину населення міста."
+    },
+    {
+      "lt": "Miestas įsikūręs prie Neries, netoli vietos, kur į ją įteka Šventoji — ilgiausia upė, tekanti vien Lietuvos teritorija.",
+      "en": "The town sits on the Neris, close to where it is joined by the Šventoji, the longest river that flows entirely within Lithuania.",
+      "uk": "Місто розташоване на Няріс, неподалік місця, де в нього впадає Швянтоя — найдовша річка, що тече повністю в межах Литви."
+    }
+  ],
+  "highlightPhoto": "2023-11-01-photo-01-11-2023-14-20-45.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Neries upės vaizdas prie Jonavos",
+    "en": "View of the Neris River near Jonava",
+    "uk": "Вид на річку Няріс поблизу Йонави"
+  },
+  "photos": [
+    "2023-11-01-photo-01-11-2023-13-40-31.jpg",
+    "2023-11-01-photo-01-11-2023-13-40-38.jpg",
+    "2023-11-01-photo-01-11-2023-13-41-01.jpg",
+    "2023-11-01-photo-01-11-2023-13-41-02.jpg",
+    "2023-11-01-photo-01-11-2023-13-43-31.jpg",
+    "2023-11-01-photo-01-11-2023-13-44-14.jpg",
+    "2023-11-01-photo-01-11-2023-13-45-58.jpg",
+    "2023-11-01-photo-01-11-2023-13-48-22.jpg",
+    "2023-11-01-photo-01-11-2023-13-49-00.jpg",
+    "2023-11-01-photo-01-11-2023-13-51-54.jpg",
+    "2023-11-01-photo-01-11-2023-13-56-49.jpg",
+    "2023-11-01-photo-01-11-2023-13-57-57.jpg",
+    "2023-11-01-photo-01-11-2023-13-58-02.jpg",
+    "2023-11-01-photo-01-11-2023-13-58-45.jpg",
+    "2023-11-01-photo-01-11-2023-14-00-06.jpg",
+    "2023-11-01-photo-01-11-2023-14-05-58.jpg",
+    "2023-11-01-photo-01-11-2023-14-07-17.jpg",
+    "2023-11-01-photo-01-11-2023-14-08-13.jpg",
+    "2023-11-01-photo-01-11-2023-14-08-37.jpg",
+    "2023-11-01-photo-01-11-2023-14-09-37.jpg",
+    "2023-11-01-photo-01-11-2023-14-10-51.jpg",
+    "2023-11-01-photo-01-11-2023-14-12-53.jpg",
+    "2023-11-01-photo-01-11-2023-14-15-16.jpg",
+    "2023-11-01-photo-01-11-2023-14-19-04.jpg",
+    "2023-11-01-photo-01-11-2023-14-20-45.jpg",
+    "2023-11-01-photo-01-11-2023-14-21-39.jpg",
+    "2023-11-01-photo-01-11-2023-14-22-43.jpg",
+    "2023-11-01-photo-01-11-2023-14-22-44.jpg",
+    "2023-11-01-photo-01-11-2023-14-22-45.jpg",
+    "2023-11-01-photo-01-11-2023-14-25-14.jpg",
+    "2023-11-01-photo-01-11-2023-14-25-19.jpg",
+    "2023-11-01-photo-01-11-2023-14-28-16.jpg",
+    "2023-11-01-photo-01-11-2023-14-30-16.jpg",
+    "2023-11-01-photo-01-11-2023-14-30-24.jpg",
+    "2023-11-01-photo-01-11-2023-14-35-47.jpg",
+    "2023-11-01-photo-01-11-2023-14-37-52.jpg",
+    "2023-11-01-photo-01-11-2023-14-37-59.jpg",
+    "2023-11-01-photo-01-11-2023-14-41-41.jpg",
+    "2023-11-01-photo-01-11-2023-14-41-44.jpg",
+    "2023-11-01-photo-01-11-2023-14-45-56.jpg",
+    "2023-11-01-photo-01-11-2023-14-46-01.jpg",
+    "2023-11-01-photo-01-11-2023-14-51-24.jpg",
+    "2023-11-01-photo-01-11-2023-14-51-57.jpg",
+    "2023-11-01-photo-01-11-2023-14-53-20.jpg",
+    "2023-11-01-photo-01-11-2023-14-56-01.jpg",
+    "2023-11-01-photo-01-11-2023-15-00-33.jpg",
+    "2023-11-01-photo-01-11-2023-15-00-49.jpg",
+    "2023-11-01-photo-01-11-2023-15-13-42.jpg"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "naujoji-akmene",
+  "coordinates": {
+    "lat": 56.3167,
+    "lng": 22.9
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": false,
+    "en": false,
+    "uk": false
+  },
+  "name": {
+    "lt": "Naujoji Akmenė",
+    "en": "Naujoji Akmenė",
+    "uk": "Науйої Акмяне"
+  },
+  "shortDescription": {
+    "lt": "Nuo nulio pastatytas sovietinis cemento pramonės miestas, XX amžiaus šeštajame dešimtmetyje išaugęs prie didžiausio Lietuvos klinčių karjero.",
+    "en": "A purpose-built Soviet cement town, raised from scratch in the 1950s next to Lithuania's largest limestone quarry.",
+    "uk": "Побудоване з нуля радянське цементне місто, зведене у 1950-х поряд із найбільшим у Литві кар'єром вапняку."
+  },
+  "longDescription": {
+    "lt": "Naujosios Akmenės iki 1952 metų nebuvo — miestas nuo nulio pastatytas vakarų Lietuvoje, kad apgyvendintų naujos cemento gamyklos darbuotojus, čia atvykusius dėl turtingų vietos klinčių telkinių. Tai vienas ryškiausių sovietinio planuoto urbanizmo Lietuvoje pavyzdžių — miestas nutiestas palei formalią ašį, vedančią į centrinius kultūros rūmus, o simetriškos gyvenamųjų blokų eilės išdėstytos tarp žalumos. Cemento gamykla, šiandien vadinama „Akmenės cementas“, sovietmečiu per metus pagamindavo per keturis milijonus tonų cemento ir tebėra pagrindinis miesto darbdavys bei priežastis, kodėl šis miestas — skirtingas nuo netoliese esančio senesnio Akmenės miesto — apskritai atsirado.",
+    "en": "Naujoji Akmenė did not exist before 1952, when it was built from scratch in western Lithuania to house workers at a new cement plant, drawn to the site by rich local limestone deposits. It stands as one of the clearest examples of Soviet planned urbanism in Lithuania, laid out along a formal axis leading to a central cultural house, with symmetrical rows of apartment blocks set among greenery. The cement plant, now known as Akmenės cementas, once produced over four million tonnes of cement a year during the Soviet period and remains the dominant employer and the reason the town — distinct from the older, nearby town of Akmenė — exists at all.",
+    "uk": "До 1952 року Науйої Акмяне не існувало — місто збудували з нуля на заході Литви, щоб розселити працівників нового цементного заводу, зведеного тут завдяки багатим родовищам вапняку. Це один із найяскравіших прикладів радянського планового урбанізму в Литві: місто вибудуване вздовж формальної осі, що веде до центрального будинку культури, із симетричними рядами житлових будинків серед зелені. Цементний завод, нині відомий як Akmenės cementas, за радянських часів виробляв понад чотири мільйони тонн цементу на рік і досі є головним роботодавцем і причиною існування міста — відмінного від старішого сусіднього міста Акмяне."
+  },
+  "facts": [
+    {
+      "lt": "Naujoji Akmenė nuo pat pradžių statyta nuo nulio pradedant 1952 metais, kad apgyvendintų naujai atidarytos cemento gamyklos darbuotojus.",
+      "en": "Naujoji Akmenė was built entirely from scratch starting in 1952 to house workers at a newly opened cement plant.",
+      "uk": "Науйої Акмяне збудували повністю з нуля, починаючи з 1952 року, для розселення працівників щойно відкритого цементного заводу."
+    },
+    {
+      "lt": "Miestas laikomas vienu iš trijų ryškiausių sovietinio planuoto urbanizmo pavyzdžių Lietuvoje, sukurtas palei formalią ašį su centriniais kultūros rūmais.",
+      "en": "The town is considered one of Lithuania's three clearest examples of Soviet planned urbanism, built around a formal axis and a central cultural house.",
+      "uk": "Місто вважається одним із трьох найяскравіших прикладів радянського планового урбанізму в Литві, збудованим вздовж формальної осі з центральним будинком культури."
+    },
+    {
+      "lt": "Tai atskiras miestas nuo netoliese esančio Akmenės, o sovietmečiu jo cemento gamykla per metus pagamindavo per keturis milijonus tonų cemento.",
+      "en": "It is a distinct town from nearby Akmenė, and during the Soviet period its cement plant produced over four million tonnes of cement annually.",
+      "uk": "Це окреме місто від сусіднього Акмяне, а за радянських часів його цементний завод виробляв понад чотири мільйони тонн цементу на рік."
+    }
+  ],
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-12-37-00.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Simetriški sovietmečio gyvenamieji blokai ir žaluma Naujojoje Akmenėje",
+    "en": "Symmetrical Soviet-era apartment blocks and greenery in Naujoji Akmenė",
+    "uk": "Симетричні житлові будинки радянської доби та зелень у Науйої Акмяне"
+  },
+  "photos": [
+    "2026-06-20-photo-20-06-2026-12-03-08-1.jpg",
+    "2026-06-20-photo-20-06-2026-12-03-08.jpg",
+    "2026-06-20-photo-20-06-2026-12-03-15.jpg",
+    "2026-06-20-photo-20-06-2026-12-03-19.jpg",
+    "2026-06-20-photo-20-06-2026-12-04-04.jpg",
+    "2026-06-20-photo-20-06-2026-12-05-13.jpg",
+    "2026-06-20-photo-20-06-2026-12-05-43.jpg",
+    "2026-06-20-photo-20-06-2026-12-06-59.jpg",
+    "2026-06-20-photo-20-06-2026-12-07-39.jpg",
+    "2026-06-20-photo-20-06-2026-12-08-03.jpg",
+    "2026-06-20-photo-20-06-2026-12-10-55.jpg",
+    "2026-06-20-photo-20-06-2026-12-11-50.jpg",
+    "2026-06-20-photo-20-06-2026-12-12-04.jpg",
+    "2026-06-20-photo-20-06-2026-12-12-46.jpg",
+    "2026-06-20-photo-20-06-2026-12-13-53.jpg",
+    "2026-06-20-photo-20-06-2026-12-16-28.jpg",
+    "2026-06-20-photo-20-06-2026-12-22-27.jpg",
+    "2026-06-20-photo-20-06-2026-12-26-07.jpg",
+    "2026-06-20-photo-20-06-2026-12-26-09.jpg",
+    "2026-06-20-photo-20-06-2026-12-30-08.jpg",
+    "2026-06-20-photo-20-06-2026-12-37-00.jpg",
+    "2026-06-20-photo-20-06-2026-12-39-03.jpg",
+    "2026-06-20-photo-20-06-2026-12-46-00.jpg",
+    "2026-06-20-photo-20-06-2026-12-53-42.jpg",
+    "2026-06-20-photo-20-06-2026-12-57-14.jpg",
+    "2026-06-20-photo-20-06-2026-12-57-25.jpg",
+    "2026-06-20-photo-20-06-2026-12-57-49.jpg",
+    "2026-06-20-photo-20-06-2026-12-58-50.jpg",
+    "2026-06-20-photo-20-06-2026-13-00-46.jpg",
+    "2026-06-20-photo-20-06-2026-13-02-03.jpg",
+    "2026-06-20-photo-20-06-2026-13-02-04.jpg",
+    "2026-06-20-photo-20-06-2026-13-03-23.jpg",
+    "2026-06-20-photo-20-06-2026-13-04-38.jpg",
+    "2026-06-20-photo-20-06-2026-13-05-27.jpg",
+    "2026-06-20-photo-20-06-2026-13-06-11.jpg",
+    "2026-06-20-photo-20-06-2026-13-06-16.jpg",
+    "2026-06-20-photo-20-06-2026-13-06-20.jpg",
+    "2026-06-20-photo-20-06-2026-13-06-21.jpg",
+    "2026-06-20-photo-20-06-2026-13-09-30.jpg",
+    "2026-06-20-photo-20-06-2026-13-11-19.jpg",
+    "2026-06-20-photo-20-06-2026-13-11-24.jpg"
+  ]
+}
