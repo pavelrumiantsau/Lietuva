@@ -19,22 +19,24 @@
     [56.55, 26.95],
   ];
 
-  // maxBounds is padded beyond the strict Lithuania rectangle above so that
-  // popups for markers sitting near the edge (e.g. Žagarė, right at the
-  // northern border) have room to autoPan fully into view instead of being
-  // clipped against a max extent that's flush with the marker itself.
-  var MAX_BOUNDS = [
-    [LITHUANIA_BOUNDS[0][0] - 0.5, LITHUANIA_BOUNDS[0][1] - 0.5],
-    [LITHUANIA_BOUNDS[1][0] + 0.5, LITHUANIA_BOUNDS[1][1] + 0.5],
-  ];
-
   var map = L.map(mapEl, {
     keyboard: true,
-    maxBounds: MAX_BOUNDS,
     maxBoundsViscosity: 0.9,
     minZoom: 7,
   });
   map.fitBounds(LITHUANIA_BOUNDS);
+
+  // maxBounds is derived from the *actual rendered viewport* (not the
+  // Lithuania rectangle itself) and padded by 50% of its own size. At the
+  // enforced minZoom, fitBounds already renders a view wider than the
+  // country outline (container aspect ratio forces overflow, especially
+  // east-west), so padding a fixed number of degrees around
+  // LITHUANIA_BOUNDS (as before) could end up smaller than that overflow —
+  // leaving zero slack for a popup's autoPan (e.g. Skuodas, near the
+  // northern edge, had its popup clipped by the map's overflow:hidden with
+  // no room to pan). Padding the real viewport guarantees room regardless
+  // of container size/aspect ratio.
+  map.setMaxBounds(map.getBounds().pad(0.5));
 
   // maps.wikimedia.org (used previously) blocks any request that carries a
   // Referer header from outside wikimedia.org with a 403 — fine for curl
