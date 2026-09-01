@@ -21,9 +21,9 @@
     "uk": "Невелике прикордонне містечко, сформоване десятиліттями перебування у складі німецько-адміністрованого Клайпедського краю."
   },
   "longDescription": {
-    "lt": "Pagėgiai įsikūrę istoriniame Klaipėdos krašte — buvusioje Memelio žemėje, kuri pagal 1919 metų Versalio sutartį buvo atskirta nuo Vokietijos ir, po trumpo Antantės administravimo laikotarpio, 1923 metais prijungta prie Lietuvos bei oficialiai pervadinta. Miestelio XIX amžiaus pabaigos liuteronų bažnyčia iki šiol atspindi jo vokiškos evangeliškos praeities pėdsakus, o tarpukario laikų pastatai primena metus, kai miestelis vystėsi jau Lietuvos administracijos sudėtyje. Šiandien Pagėgiai — ramus savivaldybės centras netoli Nemuno upės ir sienos su Kaliningrado sritimi, kurio gatvėse iki šiol matoma sluoksniuota vokiška ir lietuviška istorija.",
-    "en": "Pagėgiai lies in the historic Klaipėda region — the former Memel Territory — which was separated from Germany under the 1919 Treaty of Versailles and, after a brief period under Entente administration, was annexed by Lithuania in 1923 and formally renamed. The town's late-19th-century Lutheran church still reflects its German Evangelical past, and its interwar-era buildings recall the years when it developed under Lithuanian administration as part of the newly won Klaipėda region. Today Pagėgiai is a quiet municipal center near the Nemunas river and the border with the Kaliningrad Oblast.",
-    "uk": "Пагегяй розташоване в історичному Клайпедському краї — колишній землі Мемель, яка за Версальським договором 1919 року була відокремлена від Німеччини і, після короткого періоду адміністрування Антантою, 1923 року приєднана до Литви й офіційно перейменована. Лютеранська церква містечка кінця XIX століття й досі відображає його німецьке євангелічне минуле, а будівлі міжвоєнної доби нагадують роки, коли містечко розвивалося вже під литовською адміністрацією у складі новонабутого Клайпедського краю. Сьогодні Пагегяй — тихий муніципальний центр біля річки Нямунас і кордону з Калінінградською областю."
+    "lt": "Pagėgiai įsikūrę istoriniame Klaipėdos krašte — buvusioje Memelio žemėje, kuri pagal 1919 metų Versalio sutartį buvo atskirta nuo Vokietijos ir, po trumpo Antantės administravimo laikotarpio, 1923 metais prijungta prie Lietuvos bei oficialiai pervadinta. Miestelio liuteronų bažnyčia, pastatyta 1933 metais, iki šiol atspindi jo vokiškos evangeliškos praeities pėdsakus, o tarpukario laikų pastatai primena metus, kai miestelis vystėsi jau Lietuvos administracijos sudėtyje. Šiandien Pagėgiai — ramus savivaldybės centras netoli Nemuno upės ir sienos su Kaliningrado sritimi, kurio gatvėse iki šiol matoma sluoksniuota vokiška ir lietuviška istorija.",
+    "en": "Pagėgiai lies in the historic Klaipėda region — the former Memel Territory — which was separated from Germany under the 1919 Treaty of Versailles and, after a brief period under Entente administration, was annexed by Lithuania in 1923 and formally renamed. The town's Lutheran church, built in 1933, still reflects its German Evangelical past, and its interwar-era buildings recall the years when it developed under Lithuanian administration as part of the newly won Klaipėda region. Today Pagėgiai is a quiet municipal center near the Nemunas river and the border with the Kaliningrad Oblast.",
+    "uk": "Пагегяй розташоване в історичному Клайпедському краї — колишній землі Мемель, яка за Версальським договором 1919 року була відокремлена від Німеччини і, після короткого періоду адміністрування Антантою, 1923 року приєднана до Литви й офіційно перейменована. Лютеранська церква містечка, збудована 1933 року, й досі відображає його німецьке євангелічне минуле, а будівлі міжвоєнної доби нагадують роки, коли містечко розвивалося вже під литовською адміністрацією у складі новонабутого Клайпедського краю. Сьогодні Пагегяй — тихий муніципальний центр біля річки Нямунас і кордону з Калінінградською областю."
   },
   "facts": [
     {
@@ -32,9 +32,9 @@
       "uk": "Пагегяй належало до Мемельського краю, який після Першої світової війни відокремили від Німеччини, а 1923 року приєднали до Литви."
     },
     {
-      "lt": "XIX amžiaus pabaigoje pastatyta miestelio liuteronų bažnyčia atspindi jo vokišką evangelišką praeitį.",
-      "en": "The town's Lutheran church, built in the late 19th century, reflects its German Evangelical past.",
-      "uk": "Побудована наприкінці XIX століття лютеранська церква містечка відображає його німецьке євангелічне минуле."
+      "lt": "1933 metais pastatyta miestelio liuteronų bažnyčia atspindi jo vokišką evangelišką praeitį.",
+      "en": "The town's Lutheran church, built in 1933, reflects its German Evangelical past.",
+      "uk": "Побудована 1933 року лютеранська церква містечка відображає його німецьке євангелічне минуле."
     },
     {
       "lt": "Šiandien Pagėgiai driekiasi netoli tiek Nemuno upės, tiek sienos su Rusijos Kaliningrado sritimi.",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2026-07-12-photo-12-07-2026-16-13-22.jpg",
   "highlightPhotoAlt": {
-    "lt": "XIX amžiaus pabaigos liuteronų bažnyčia Pagėgiuose",
-    "en": "The late-19th-century Lutheran church in Pagėgiai",
-    "uk": "Лютеранська церква кінця XIX століття в Пагегяй"
+    "lt": "1933 metais pastatyta liuteronų bažnyčia Pagėgiuose",
+    "en": "The Lutheran church, built in 1933, in Pagėgiai",
+    "uk": "Лютеранська церква, збудована 1933 року, в Пагегяй"
   },
   "photos": [
     "2026-07-12-photo-12-07-2026-15-49-13.jpg",

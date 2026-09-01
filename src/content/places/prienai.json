@@ -16,14 +16,14 @@
     "uk": "Прієнай"
   },
   "shortDescription": {
-    "lt": "Miestas prie Nemuno, garsėjantis medine bažnyčia ir aukščiausiais Lietuvos pušynais.",
-    "en": "A town on the Nemunas river, known for its wooden church and the tallest pines in Lithuania.",
-    "uk": "Місто на річці Нямунас, відоме дерев'яним костелом і найвищими соснами Литви."
+    "lt": "Miestas prie Nemuno, garsėjantis medine bažnyčia ir netoliese augančiomis vienomis aukščiausių Lietuvos pušų.",
+    "en": "A town on the Nemunas river, known for its wooden church and, nearby, some of the tallest pines in Lithuania.",
+    "uk": "Місто на річці Нямунас, відоме дерев'яним костелом і, неподалік, одними з найвищих сосен Литви."
   },
   "longDescription": {
-    "lt": "Prienai stūkso ant dešiniojo Nemuno kranto, dviejų etnografinių regionų sandūroje, ir žinomi nuo XVI amžiaus. Mieste stovi didelė medinė kryžminio plano bažnyčia su dviem bokštais, perstatyta 1750 metais ir išplėsta 1875 metais. Miestą supantis Prienų šilas garsėja aukščiausiais Lietuvos medžiais – čia auga apie 42 metrų aukščio pušis.",
-    "en": "Prienai stands on the right bank of the Nemunas, at the meeting point of two ethnographic regions, and has been known since the 16th century. The town's large wooden cruciform church, with twin towers, was rebuilt in 1750 and enlarged in 1875. The surrounding Prienai pine forest is home to Lithuania's tallest trees, including a pine reaching about 42 meters.",
-    "uk": "Прієнай стоїть на правому березі Нямунасу, на межі двох етнографічних регіонів, і відоме з XVI століття. Великий дерев'яний костел хрестоподібного плану з двома вежами перебудували 1750 року, а 1875 року розширили. Навколишній Прієнайський сосновий ліс славиться найвищими деревами Литви — тут росте сосна заввишки близько 42 метрів."
+    "lt": "Prienai stūkso ant dešiniojo Nemuno kranto, dviejų etnografinių regionų sandūroje, ir žinomi nuo XVI amžiaus. Mieste stovi didelė medinė kryžminio plano bažnyčia su dviem bokštais, perstatyta 1750 metais ir išplėsta 1875 metais. Kitapus Nemuno plytintis Punios šilas garsėja aukščiausiais Lietuvos medžiais – čia auga apie 42 metrų aukščio pušis, ilgus metus laikyta aukščiausia šalyje.",
+    "en": "Prienai stands on the right bank of the Nemunas, at the meeting point of two ethnographic regions, and has been known since the 16th century. The town's large wooden cruciform church, with twin towers, was rebuilt in 1750 and enlarged in 1875. Across the Nemunas, Punia forest is home to some of Lithuania's tallest trees, including a pine reaching about 42 meters that was for many years considered the tallest in the country.",
+    "uk": "Прієнай стоїть на правому березі Нямунасу, на межі двох етнографічних регіонів, і відоме з XVI століття. Великий дерев'яний костел хрестоподібного плану з двома вежами перебудували 1750 року, а 1875 року розширили. На протилежному березі Нямунасу розташований Пунський ліс, що славиться найвищими деревами Литви — тут росте сосна заввишки близько 42 метрів, яку довгі роки вважали найвищою в країні."
   },
   "facts": [
     {
@@ -37,9 +37,9 @@
       "uk": "Великий дерев'яний хрестоподібний костел перебудували 1750 року, а 1875 року розширили та додали необарокові вежі."
     },
     {
-      "lt": "Prienų šile auga aukščiausia Lietuvoje pušis, siekianti apie 42 metrus.",
-      "en": "The nearby Prienai pine forest contains Lithuania's tallest pine tree, at about 42 meters.",
-      "uk": "У сусідньому Прієнайському сосновому лісі росте найвища сосна Литви — близько 42 метрів."
+      "lt": "Kitapus Nemuno, Punios šile, auga apie 42 metrų aukščio pušis, ilgus metus laikyta aukščiausia Lietuvoje.",
+      "en": "Across the Nemunas in Punia forest grows a roughly 42-meter pine, for many years considered Lithuania's tallest.",
+      "uk": "На протилежному березі Нямунасу, у Пунському лісі, росте сосна заввишки близько 42 метрів, яку довгі роки вважали найвищою в Литві."
     }
   ],
   "highlightPhoto": "2024-06-15-photo-15-06-2024-14-48-33.jpg",

@@ -16,14 +16,14 @@
     "uk": "Шилуте"
   },
   "shortDescription": {
-    "lt": "Neoficiali Mažosios Lietuvos sostinė prie Šyšos upės, garsėjanti viena seniausių Europos hipodromų.",
-    "en": "The unofficial capital of Lithuania Minor, on the Šyša river, home to one of Europe's oldest horse-racing tracks.",
-    "uk": "Неофіційна столиця Малої Литви на річці Шиша, відома одним із найстаріших іподромів Європи."
+    "lt": "Neoficiali Mažosios Lietuvos sostinė prie Šyšos upės, garsėjanti savo hipodromu.",
+    "en": "The unofficial capital of Lithuania Minor, on the Šyša river, home to a well-known hippodrome.",
+    "uk": "Неофіційна столиця Малої Литви на річці Шиша, відома своїм іподромом."
   },
   "longDescription": {
-    "lt": "Šilutė, vokiškai vadinta Heydekrug, ilgus amžius buvo kelio smuklė ir prekybos miestelis Mažojoje Lietuvoje. Vienu miestu keturi kaimai — Šilokarčema, Žibai, Verdainė ir Cintijoniškės — sujungti tik 1910 metais. Po 1923 metų Klaipėdos sukilimo Šilutė imta laikyti neoficialia Mažosios Lietuvos sostine. Miestas taip pat garsėja nuo XIX amžiaus veikiančiu hipodromu prie Šyšos upės — vienu seniausių tebeveikiančių žirgų lenktynių takų Europoje.",
-    "en": "Šilutė, known by its German name Heydekrug, was for centuries a roadside inn and market town in Lithuania Minor. Four villages — Šilokarčema, Žibai, Verdainė and Cintijoniškės — were merged into a single town only in 1910. After the pro-Lithuanian Klaipėda Revolt of 1923, Šilutė came to be regarded as the unofficial capital of Lithuania Minor. The town is also known for its hippodrome on the Šyša river, operating since the 19th century and among the oldest still-active horse-racing tracks in Europe.",
-    "uk": "Шилуте, відоме за німецькою назвою Гайдекруг, довгі століття було придорожнім заїздом і торговим містечком Малої Литви. Чотири села — Шилокарчема, Жибай, Вердайне і Цинтіоніщке — об'єднали в одне місто лише 1910 року. Після пролитовського Клайпедського повстання 1923 року Шилуте почали вважати неофіційною столицею Малої Литви. Місто також відоме своїм іподромом на річці Шиша, що діє з XIX століття і є одним із найстаріших досі діючих іподромів Європи."
+    "lt": "Šilutė, vokiškai vadinta Heydekrug, ilgus amžius buvo kelio smuklė ir prekybos miestelis Mažojoje Lietuvoje. Vienu miestu keturi kaimai — Šilokarčema, Žibai, Verdainė ir Cintijoniškės — sujungti tik 1910 metais. Po 1923 metų Klaipėdos sukilimo Šilutė imta laikyti neoficialia Mažosios Lietuvos sostine. Miestas taip pat garsėja hipodromu prie Šyšos upės.",
+    "en": "Šilutė, known by its German name Heydekrug, was for centuries a roadside inn and market town in Lithuania Minor. Four villages — Šilokarčema, Žibai, Verdainė and Cintijoniškės — were merged into a single town only in 1910. After the pro-Lithuanian Klaipėda Revolt of 1923, Šilutė came to be regarded as the unofficial capital of Lithuania Minor. The town is also known for its hippodrome on the Šyša river.",
+    "uk": "Шилуте, відоме за німецькою назвою Гайдекруг, довгі століття було придорожнім заїздом і торговим містечком Малої Литви. Чотири села — Шилокарчема, Жибай, Вердайне і Цинтіоніщке — об'єднали в одне місто лише 1910 року. Після пролитовського Клайпедського повстання 1923 року Шилуте почали вважати неофіційною столицею Малої Литви. Місто також відоме своїм іподромом на річці Шиша."
   },
   "facts": [
     {
@@ -35,11 +35,6 @@
       "lt": "Po 1923 metų Klaipėdos sukilimo Šilutė imta vadinti neoficialia Mažosios Lietuvos sostine.",
       "en": "After the 1923 Klaipėda Revolt, Šilutė became known as the unofficial capital of Lithuania Minor.",
       "uk": "Після Клайпедського повстання 1923 року Шилуте стали вважати неофіційною столицею Малої Литви."
-    },
-    {
-      "lt": "Miesto hipodromas, veikiantis nuo XIX amžiaus, yra vienas seniausių tebeveikiančių žirgų lenktynių takų Europoje.",
-      "en": "The town's hippodrome, operating since the 19th century, is one of the oldest still-active horse-racing tracks in Europe.",
-      "uk": "Міський іподром, що діє з XIX століття, є одним із найстаріших досі діючих іподромів Європи."
     }
   ],
   "highlightPhoto": "2025-09-20-photo-20-09-2025-15-38-18.jpg",
