@@ -1,14 +1,14 @@
 {
   "slug": "druskininkai",
   "coordinates": {
-    "lat": 54.0153,
-    "lng": 23.9669
+    "lat": 54.017193,
+    "lng": 23.977228
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Druskininkai",
@@ -42,11 +42,11 @@
       "uk": "Неподалік міста розташований парк Грутас, де зібрано радянські скульптури з усієї Литви."
     }
   ],
-  "highlightPhoto": "2023-03-24-photo-2023-03-24-12-46-44.jpg",
+  "highlightPhoto": "2023-03-24-photo-2023-03-24-13-31-12.jpg",
   "highlightPhotoAlt": {
-    "lt": "Druskininkų kurortinis parkas su takais",
-    "en": "The Druskininkai resort park with its walking paths",
-    "uk": "Курортний парк Друскінінкая зі стежками"
+    "lt": "Baltas dviaukštis dvaro tipo pastatas su bokšteliu ir kolonada Druskininkuose",
+    "en": "A white two-story manor-style building with a corner tower and colonnade in Druskininkai",
+    "uk": "Білий двоповерховий будинок садибного типу з вежею та колонадою в Друскінінкай"
   },
   "photos": [
     "2023-03-24-photo-2023-03-24-12-01-17.jpg",
