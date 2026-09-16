@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Ariogala",
@@ -42,11 +42,11 @@
       "uk": "3 серпня 1944 року містечко було спалене та окуповане радянською армією."
     }
   ],
-  "highlightPhoto": "2025-09-13-photo-13-09-2025-15-28-14.jpg",
+  "highlightPhoto": "2025-09-13-photo-13-09-2025-15-37-17.jpg",
   "highlightPhotoAlt": {
-    "lt": "Šv. Arkangelo Mykolo bažnyčia Ariogaloje",
-    "en": "The Church of St. Michael the Archangel in Ariogala",
-    "uk": "Церква Святого Архангела Михаїла в Аріогалі"
+    "lt": "Modernus dviejų arkų formos fontanas Ariogalos aikštėje, apsuptas grindinio, gėlių ir medžių giedrą dieną",
+    "en": "A modern two-arch sculptural fountain in Ariogala's town square, surrounded by paved stones, flowers, and trees on a bright day",
+    "uk": "Сучасний фонтан у вигляді двох арок на площі в Аріоґалі, оточений бруківкою, квітами та деревами в ясний день"
   },
   "photos": [
     "2025-09-13-photo-13-09-2025-14-57-09.jpg",
@@ -80,7 +80,6 @@
     "2025-09-13-photo-13-09-2025-15-38-31.jpg",
     "2025-09-13-photo-13-09-2025-15-41-22.jpg",
     "2025-09-13-photo-13-09-2025-15-42-05.jpg",
-    "2025-09-13-photo-13-09-2025-15-42-08.jpg",
     "2025-09-13-photo-13-09-2025-15-42-25.jpg",
     "2025-09-13-photo-13-09-2025-15-43-16.jpg",
     "2025-09-13-photo-13-09-2025-15-43-48.jpg",
