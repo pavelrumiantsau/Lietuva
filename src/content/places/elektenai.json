@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Elektrėnai",
@@ -42,11 +42,11 @@
       "uk": "Штучне озеро Електренай, яке використовується для охолодження станції, утворилося у 1961 році після загачення річки та затоплення кількох сіл."
     }
   ],
-  "highlightPhoto": "2023-08-12-photo-2023-08-12-15-34-19.jpg",
+  "highlightPhoto": "2023-08-12-photo-2023-08-12-15-01-59.jpg",
   "highlightPhotoAlt": {
-    "lt": "Elektrėnų ežeras ir elektrinės vaizdas",
-    "en": "Lake Elektrėnai with the power plant in view",
-    "uk": "Озеро Електренай з видом на електростанцію"
+    "lt": "Elektrėnų marių pakrantė su vandens atrakcionais, laivų buriuotojais ir žaliuojančiu parku palei krantą",
+    "en": "The shore of Lake Elektrėnai with a water play structure, sailboats, and a green park lining the waterfront",
+    "uk": "Берег Електренайського водосховища з водним атракціоном, вітрильниками та зеленим парком уздовж узбережжя"
   },
   "photos": [
     "2023-08-12-photo-2023-08-12-14-51-14.jpg",
