@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Biržai",
@@ -42,11 +42,11 @@
       "uk": "Біржайський край вважається пивною столицею Литви, а пивоварна промисловість є найбільшим місцевим роботодавцем."
     }
   ],
-  "highlightPhoto": "2023-08-15-photo-2023-08-15-15-04-29.jpg",
+  "highlightPhoto": "2023-08-15-photo-2023-08-15-13-49-52.jpg",
   "highlightPhotoAlt": {
-    "lt": "Biržų pilis prie ežero",
-    "en": "Biržai Castle beside the lake",
-    "uk": "Біржайський замок біля озера"
+    "lt": "Ilgas medinis pėsčiųjų tiltas per Biržų ežerą, vedantis link Radvilų dvaro pastato tolumoje",
+    "en": "A long wooden pedestrian bridge crossing Lake Širvėna in Biržai, leading toward the Radziwill manor building in the distance",
+    "uk": "Довгий дерев'яний пішохідний міст через озеро в Біржай, що веде до садиби Радзивіллів удалині"
   },
   "photos": [
     "2023-08-15-photo-2023-08-15-13-48-35.jpg",
@@ -59,7 +59,6 @@
     "2023-08-15-photo-2023-08-15-14-01-36.jpg",
     "2023-08-15-photo-2023-08-15-14-02-00.jpg",
     "2023-08-15-photo-2023-08-15-14-06-42.jpg",
-    "2023-08-15-photo-2023-08-15-14-06-46.jpg",
     "2023-08-15-photo-2023-08-15-14-31-26.jpg",
     "2023-08-15-photo-2023-08-15-14-31-39.jpg",
     "2023-08-15-photo-2023-08-15-14-32-08.jpg",
