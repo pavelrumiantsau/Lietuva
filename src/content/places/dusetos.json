@@ -1,14 +1,14 @@
 {
   "slug": "dusetos",
   "coordinates": {
-    "lat": 55.7333,
-    "lng": 25.8667
+    "lat": 55.748683,
+    "lng": 25.845515
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Dusetos",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2026-03-21-photo-21-03-2026-16-13-42.jpg",
   "highlightPhotoAlt": {
-    "lt": "Sartų ežeras prie Dusetų žiemos metu",
-    "en": "Lake Sartai near Dusetos in winter",
-    "uk": "Озеро Сартай біля Дусетоса взимку"
+    "lt": "Tamsus akmeninis paminklas parke Dusetose",
+    "en": "A dark stone monument in a park in Dusetos",
+    "uk": "Темний кам'яний пам'ятник у парку в Дусетосі"
   },
   "photos": [
     "2026-03-21-photo-21-03-2026-15-54-43.jpg",
