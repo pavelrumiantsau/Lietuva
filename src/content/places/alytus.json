@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Alytus",
@@ -32,9 +32,9 @@
       "uk": "Алітус — шосте за населенням місто Литви."
     },
     {
-      "lt": "Miestas kasmet vasarą rengia tarptautinį oro balionų festivalį virš Nemuno slėnio.",
-      "en": "Every summer the city hosts an international hot-air balloon festival over the Nemunas valley.",
-      "uk": "Щоліта місто проводить міжнародний фестиваль повітряних куль над долиною Нямунасу."
+      "lt": "1581 m. birželio 15 d. Alytui buvo suteiktos Magdeburgo teisės ir herbas: balta rožė raudoname fone. Todėl šiandien Alytus taip pat vadinamas baltosios rožės miestu.",
+      "en": "On the 15th of June 1581, Alytus was granted the Magdeburg rights and coat of arms: a white rose on a red background. Accordingly, today Alytus is also called the city of a white rose.",
+      "uk": "15 червня 1581 року Алітус отримав магдебурзьке право та герб: біла троянда на червоному тлі. Тому сьогодні Алітус також називають містом білої троянди."
     },
     {
       "lt": "Miestas driekiasi abipus Nemuno, todėl jį sujungia keli tiltai.",
@@ -42,11 +42,11 @@
       "uk": "Місто розташоване на обох берегах Нямунасу, з'єднаних кількома мостами."
     }
   ],
-  "highlightPhoto": "2022-08-20-img-20220820-124857.jpg",
+  "highlightPhoto": "2022-08-20-img-20220820-131653.jpg",
   "highlightPhotoAlt": {
-    "lt": "Oro balionai virš Nemuno Alytuje",
-    "en": "Hot-air balloons rising over the Nemunas in Alytus",
-    "uk": "Повітряні кулі над Нямунасом в Алітусі"
+    "lt": "Maža voverės statulėlė Alytuje",
+    "en": "Small squirrel statue in Alytus",
+    "uk": "Невелика статуя білки в Алітусі"
   },
   "photos": [
     "2022-08-20-img-20220820-121454.jpg",
