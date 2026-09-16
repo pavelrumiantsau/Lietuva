@@ -1,14 +1,14 @@
 {
   "slug": "daugai",
   "coordinates": {
-    "lat": 54.3611,
-    "lng": 24.2864
+    "lat": 54.359857,
+    "lng": 24.346
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Daugai",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2026-07-25-photo-25-07-2026-11-58-41.jpg",
   "highlightPhotoAlt": {
-    "lt": "Vaizdas į Daugų ežerą nuo pusiasalio",
-    "en": "View of Lake Daugai from the peninsula",
-    "uk": "Вид на озеро Даугай з півострова"
+    "lt": "Akmenų mūro bažnyčia Dauguose",
+    "en": "A stone-built church in Daugai",
+    "uk": "Кам'яна церква в Даугай"
   },
   "photos": [
     "2022-08-20-img-20220820-140135.jpg",
