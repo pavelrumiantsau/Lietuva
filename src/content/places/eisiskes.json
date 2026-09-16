@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Eišiškės",
@@ -42,11 +42,11 @@
       "uk": "Історію єврейської громади містечка описала у книзі «There Once Was a World» уродженка Ейшишкеса письменниця Яффа Еліах."
     }
   ],
-  "highlightPhoto": "2024-04-27-photo-27-04-2024-14-31-45.jpg",
+  "highlightPhoto": "2024-04-27-photo-27-04-2024-14-50-54.jpg",
   "highlightPhotoAlt": {
-    "lt": "Eišiškių miestelio senosios gatvės vaizdas",
-    "en": "A view of an old street in the town of Eišiškės",
-    "uk": "Вид на стару вулицю містечка Ейшишкес"
+    "lt": "Akmens mūro bažnyčia Eišiškėse",
+    "en": "A stone-built church in Eišiškės",
+    "uk": "Кам'яна церква в Ейшишкесі"
   },
   "photos": [
     "2024-04-27-photo-27-04-2024-14-06-18.jpg",
