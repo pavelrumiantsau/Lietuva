@@ -1,14 +1,14 @@
 {
   "slug": "dukstas",
   "coordinates": {
-    "lat": 55.5222,
-    "lng": 26.1944
+    "lat": 55.519959,
+    "lng": 26.321766
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Dūkštas",
@@ -42,11 +42,11 @@
       "uk": "Лише за кілька кілометрів на південь від міста лежить озеро Дисна — друге за величиною в Литві."
     }
   ],
-  "highlightPhoto": "2022-09-17-img-20220917-134932.jpg",
+  "highlightPhoto": "2022-09-17-img-20220917-140052.jpg",
   "highlightPhotoAlt": {
-    "lt": "Dūkšto ežeras prie miestelio",
-    "en": "Lake Dūkštas beside the town",
-    "uk": "Озеро Дукштас біля містечка"
+    "lt": "Balta bažnyčia su bokšteliu Dūkšte",
+    "en": "A white church with a spire in Dūkštas",
+    "uk": "Біла церква зі шпилем у Дукштасі"
   },
   "photos": [
     "2022-09-17-img-20220917-133808.jpg",
@@ -73,7 +73,6 @@
     "2022-09-17-img-20220917-140014.jpg",
     "2022-09-17-img-20220917-140052.jpg",
     "2022-09-17-img-20220917-140152.jpg",
-    "2022-09-17-img-20220917-140248.jpg",
     "2022-09-17-img-20220917-140256.jpg",
     "2022-09-17-img-20220917-140909.jpg"
   ]
