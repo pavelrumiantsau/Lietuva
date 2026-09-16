@@ -1,14 +1,14 @@
 {
   "slug": "garliava",
   "coordinates": {
-    "lat": 54.8261,
-    "lng": 23.8683
+    "lat": 54.82793,
+    "lng": 23.874679
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Garliava",
@@ -39,9 +39,9 @@
   ],
   "highlightPhoto": "2024-01-27-photo-27-01-2024-16-00-24.jpg",
   "highlightPhotoAlt": {
-    "lt": "Garliavos miesto centro vaizdas",
-    "en": "A view of the centre of Garliava",
-    "uk": "Вид на центр міста Гарлява"
+    "lt": "Sniegu padengtas parkas Garliavoje su takeliu, žibintais ir daugiaaukščiais gyvenamaisiais namais fone",
+    "en": "A snow-covered park in Garliava with a footpath, lampposts, and multi-story apartment buildings in the background",
+    "uk": "Засніжений парк у Гарляві зі стежкою, ліхтарями та багатоповерховими житловими будинками на задньому плані"
   },
   "photos": [
     "2024-01-27-photo-27-01-2024-15-42-57.jpg",
