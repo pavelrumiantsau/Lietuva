@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Akmenė",
@@ -42,7 +42,7 @@
       "uk": "Акменський район, названий на честь містечка, охоплює також значно більше промислове поселення Науйойї Акмяне."
     }
   ],
-  "highlightPhoto": "2026-06-20-photo-20-06-2026-13-37-26.jpg",
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-13-33-28.jpg",
   "highlightPhotoAlt": {
     "lt": "Senamiesčio gatvė ir bažnyčia Akmenėje",
     "en": "An old-town street and church in Akmenė",
