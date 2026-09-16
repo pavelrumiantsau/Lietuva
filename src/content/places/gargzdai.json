@@ -1,14 +1,14 @@
 {
   "slug": "gargzdai",
   "coordinates": {
-    "lat": 55.7089,
-    "lng": 21.3903
+    "lat": 55.717568,
+    "lng": 21.395017
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Gargždai",
@@ -42,17 +42,16 @@
       "uk": "З 1950 року Гаргждай є адміністративним центром Клайпедського району."
     }
   ],
-  "highlightPhoto": "2026-08-08-photo-08-08-2026-16-29-56.jpg",
+  "highlightPhoto": "2026-08-08-photo-08-08-2026-15-57-36.jpg",
   "highlightPhotoAlt": {
-    "lt": "Šv. Arkangelo Mykolo bažnyčia Gargžduose",
-    "en": "The Church of St. Michael the Archangel in Gargždai",
-    "uk": "Церква Святого Архангела Михаїла в Гаргждай"
+    "lt": "Gargždų miesto aikštė su bažnyčios bokšteliu, seno pastato ir šiuolaikinio pastato deriniu",
+    "en": "A town square in Gargždai with a church spire, a mix of an older building and a modern one",
+    "uk": "Міська площа в Гарґждай зі шпилем церкви, поєднанням старої та сучасної будівель"
   },
   "photos": [
     "2026-08-08-photo-08-08-2026-15-57-36.jpg",
     "2026-08-08-photo-08-08-2026-15-57-40.jpg",
     "2026-08-08-photo-08-08-2026-16-00-33.jpg",
-    "2026-08-08-photo-08-08-2026-16-01-49.jpg",
     "2026-08-08-photo-08-08-2026-16-02-01.jpg",
     "2026-08-08-photo-08-08-2026-16-02-04.jpg",
     "2026-08-08-photo-08-08-2026-16-02-51.jpg",
