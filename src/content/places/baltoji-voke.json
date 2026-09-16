@@ -1,14 +1,14 @@
 {
   "slug": "baltoji-voke",
   "coordinates": {
-    "lat": 54.45,
-    "lng": 25.1333
+    "lat": 54.453758,
+    "lng": 25.119844
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Baltoji Vokė",
@@ -42,11 +42,11 @@
       "uk": "Місто належить до Шальчининкайського району Віленського повіту."
     }
   ],
-  "highlightPhoto": "2023-03-24-photo-2023-03-24-10-22-13.jpg",
+  "highlightPhoto": "2023-03-24-photo-2023-03-24-10-32-11.jpg",
   "highlightPhotoAlt": {
-    "lt": "Vokės upės pakrantė netoli Baltosios Vokės",
-    "en": "The bank of the Vokė river near Baltoji Vokė",
-    "uk": "Берег річки Воке поблизу Балтої Воке"
+    "lt": "Tamsios medinės dviaukščio daugiabučio pastato eilė Baltojoje Vokėje",
+    "en": "A row of dark wooden two-story apartment buildings in Baltoji Vokė",
+    "uk": "яд темних дерев'яних двоповерхових багатоквартирних будинків у Балтой Воке"
   },
   "photos": [
     "2023-03-24-photo-2023-03-24-10-13-56.jpg",
