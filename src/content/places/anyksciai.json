@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Anykščiai",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2023-04-09-photo-2023-04-09-14-50-30.jpg",
   "highlightPhotoAlt": {
-    "lt": "Medžių lajų takas virš Anykščių šilelio",
-    "en": "The treetop walkway above the Anykščiai pine forest",
-    "uk": "Стежка в кронах дерев над сосновим лісом Аникщяй"
+    "lt": "Siaurojo geležinkelio bėgiai veda link geltonos medinės Anykščių stoties pastato, aplink stovi lapus numetę medžiai debesuotą dieną",
+    "en": "Narrow-gauge railway tracks lead toward a yellow wooden station building in Anykščiai, surrounded by bare trees under a cloudy sky",
+    "uk": "Колії вузькоколійної залізниці ведуть до жовтої дерев'яної станційної будівлі в Анікщяй, навколо стоять безлисті дерева під хмарним небом"
   },
   "photos": [
     "2023-04-09-photo-2023-04-09-14-22-47.jpg",
