@@ -1,14 +1,14 @@
 {
   "slug": "ezerelis",
   "coordinates": {
-    "lat": 54.8833,
-    "lng": 23.6167
+    "lat": 54.883038,
+    "lng": 23.599477
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Ežerėlis",
@@ -37,16 +37,16 @@
       "uk": "Містечко розташоване приблизно за 15 кілометрів на захід від Каунаса."
     },
     {
-      "lt": "Netoliese driekiasi Kauno marios — dirbtinis vandens telkinys, susiformavęs pastačius Kauno hidroelektrinę.",
-      "en": "Nearby lies the Kaunas Reservoir, an artificial body of water formed by the construction of the Kaunas Hydroelectric Power Plant.",
-      "uk": "Поблизу розташоване Каунаське водосховище — штучна водойма, утворена після будівництва Каунаської гідроелектростанції."
+      "lt": "Ežerėlio vardas yra vandenvardinis vietovardis, kilęs iš kadaise šiaurės rytiniame miškų pakraštyje buvusio Kazlų Rūdos ežero, sunykusio darant melioraciją.",
+      "en": "The name of Ežerėlis originates as a hydronymic place name, derived from the once-existing Kazlų Rūda Lake, located at the northeastern edge of the forest, which disappeared as a result of land melioration.",
+      "uk": "Назва Ежерєліс — це гідронімічна топонімічна назва, що походить від колишнього озера Каздю Руда, яке колись знаходилося на північно-східній околиці лісу і зникло внаслідок проведення меліорації."
     }
   ],
   "highlightPhoto": "2025-07-19-photo-19-07-2025-15-58-31.jpg",
   "highlightPhotoAlt": {
-    "lt": "Kauno marių krantinė netoli Ežerėlio",
-    "en": "The shore of the Kaunas Reservoir near Ežerėlis",
-    "uk": "Берег Каунаського водосховища біля Ежерєліса"
+    "lt": "Medžiais apsodinta gatvė Ežerėlyje",
+    "en": "A tree-lined street in Ežerėlis",
+    "uk": "Обсаджена деревами вулиця в Езерелісі"
   },
   "photos": [
     "2025-07-19-photo-19-07-2025-15-55-07.jpg",
