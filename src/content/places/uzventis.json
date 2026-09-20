@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Užventis",
@@ -42,7 +42,7 @@
       "uk": "З історичним водяним млином 1870 року на Вянті пов'язане ім'я Йонаса Смілгявічюса — підписанта Акта незалежності 1918 року та останнього власника маєтку."
     }
   ],
-  "highlightPhoto": "2026-05-23-photo-23-05-2026-14-49-13.jpg",
+  "highlightPhoto": "2026-05-23-photo-23-05-2026-14-41-27.jpg",
   "highlightPhotoAlt": {
     "lt": "Senasis vandens malūnas prie Ventos upės Užventyje",
     "en": "The old watermill on the Venta river in Užventis",
