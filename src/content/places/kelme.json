@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kelmė",
@@ -42,7 +42,7 @@
       "uk": "Теперішнього барокового вигляду палац маєтку набув у 1780 році, а нині в ньому розміщений краєзнавчий музей Кельме."
     }
   ],
-  "highlightPhoto": "2026-03-11-photo-11-03-2026-15-59-17.jpg",
+  "highlightPhoto": "2026-03-11-photo-11-03-2026-16-35-08.jpg",
   "highlightPhotoAlt": {
     "lt": "Kelmės dvaro rūmai parke",
     "en": "The Kelmė manor palace in its park",
