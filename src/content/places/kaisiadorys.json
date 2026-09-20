@@ -1,14 +1,14 @@
 {
   "slug": "kaisiadorys",
   "coordinates": {
-    "lat": 54.8636,
-    "lng": 24.4489
+    "lat": 54.860234,
+    "lng": 24.454479
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kaišiadorys",
@@ -42,11 +42,11 @@
       "uk": "Церква Преображення Господнього отримала статус кафедрального собору у 1936 році, лише через чотири роки після завершення будівництва."
     }
   ],
-  "highlightPhoto": "2022-09-18-img-20220918-125832.jpg",
+  "highlightPhoto": "2022-09-18-img-20220918-124842.jpg",
   "highlightPhotoAlt": {
-    "lt": "Kristaus Atsimainymo katedra Kaišiadoryse",
-    "en": "The Cathedral of the Transfiguration in Kaišiadorys",
-    "uk": "Кафедральний собор Преображення Господнього в Кайшядорисі"
+    "lt": "Istorinis dvaro pastatas Kaišiadoryse",
+    "en": "Historic manor building in Kaišiadorys",
+    "uk": "Історична садиба в Кайшядорісі"
   },
   "photos": [
     "2022-09-18-img-20220918-122919.jpg",
@@ -61,7 +61,6 @@
     "2022-09-18-img-20220918-124304.jpg",
     "2022-09-18-img-20220918-124432.jpg",
     "2022-09-18-img-20220918-124507.jpg",
-    "2022-09-18-img-20220918-124513.jpg",
     "2022-09-18-img-20220918-124528.jpg",
     "2022-09-18-img-20220918-124711.jpg",
     "2022-09-18-img-20220918-124842.jpg",
@@ -81,7 +80,6 @@
     "2022-09-18-img-20220918-134215.jpg",
     "2022-09-18-img-20220918-135957.jpg",
     "2022-09-18-img-20220918-140302.jpg",
-    "2022-09-18-img-20220918-140500.jpg",
     "2022-09-18-img-20220918-140637.jpg",
     "2022-09-18-img-20220918-140727.jpg",
     "2022-09-18-img-20220918-141102.jpg",
