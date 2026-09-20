@@ -1,14 +1,14 @@
 {
   "slug": "kavarskas",
   "coordinates": {
-    "lat": 55.4333,
-    "lng": 24.9167
+    "lat": 55.433646,
+    "lng": 24.92842
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kavarskas",
@@ -37,18 +37,16 @@
       "uk": "На правому березі Швянтоі б'є туфове джерело, назване на честь Івана Хрестителя."
     }
   ],
-  "highlightPhoto": "2023-04-09-photo-2023-04-09-13-49-23.jpg",
+  "highlightPhoto": "2023-04-09-photo-2023-04-09-13-56-52.jpg",
   "highlightPhotoAlt": {
-    "lt": "Šventosios upės vaizdas prie Kavarsko",
-    "en": "View of the Šventoji River near Kavarskas",
-    "uk": "Вид на річку Швянтоя поблизу Каварскаса"
+    "lt": "Geltona bažnyčia su varpine Kavarske",
+    "en": "Yellow church with bell tower in Kavarskas",
+    "uk": "Жовта церква з дзвіницею в Каварскасі"
   },
   "photos": [
     "2023-04-09-photo-2023-04-09-13-42-58.jpg",
     "2023-04-09-photo-2023-04-09-13-43-18.jpg",
-    "2023-04-09-photo-2023-04-09-13-43-33.jpg",
     "2023-04-09-photo-2023-04-09-13-43-37.jpg",
-    "2023-04-09-photo-2023-04-09-13-44-03.jpg",
     "2023-04-09-photo-2023-04-09-13-44-12.jpg",
     "2023-04-09-photo-2023-04-09-13-46-12.jpg",
     "2023-04-09-photo-2023-04-09-13-47-18.jpg",
