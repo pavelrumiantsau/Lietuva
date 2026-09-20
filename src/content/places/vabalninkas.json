@@ -1,14 +1,14 @@
 {
   "slug": "vabalninkas",
   "coordinates": {
-    "lat": 55.9667,
-    "lng": 24.75
+    "lat": 55.980009,
+    "lng": 24.746765
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Vabalninkas",
@@ -42,11 +42,11 @@
       "uk": "1625 року Вабалнінкас спустошили шведські війська, що вторглися, разом зі спалахом чуми."
     }
   ],
-  "highlightPhoto": "2024-10-05-photo-05-10-2024-15-42-12.jpg",
+  "highlightPhoto": "2024-10-05-photo-05-10-2024-15-43-29.jpg",
   "highlightPhotoAlt": {
-    "lt": "Švč. Mergelės Marijos Ėmimo į dangų bažnyčia Vabalninke",
-    "en": "The Church of the Assumption of the Blessed Virgin Mary in Vabalninkas",
-    "uk": "Костел Внебовзяття Пресвятої Діви Марії у Вабалнінкасі"
+    "lt": "Sena gatvė su apšepusiais pastatais Vabalninke",
+    "en": "Old street with weathered buildings in Vabalninkas",
+    "uk": "Стара вулиця зі старими будівлями у Вабалнінкасі"
   },
   "photos": [
     "2024-10-05-photo-05-10-2024-15-31-45.jpg",
