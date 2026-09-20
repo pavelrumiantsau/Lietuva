@@ -1,14 +1,14 @@
 {
   "slug": "simnas",
   "coordinates": {
-    "lat": 54.4,
-    "lng": 23.65
+    "lat": 54.383412,
+    "lng": 23.646069
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Simnas",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2024-08-24-photo-24-08-2024-15-15-07.jpg",
   "highlightPhotoAlt": {
-    "lt": "Simno ežero pakrantė ir miestelio panorama",
-    "en": "The shore of Lake Simnas with the town in view",
-    "uk": "Берег озера Сімнас з видом на містечко"
+    "lt": "Grįsta akmenimis miesto aikštė Simne",
+    "en": "Cobblestone town square in Simnas",
+    "uk": "Брукована міська площа в Сімнасі"
   },
   "photos": [
     "2024-08-24-photo-24-08-2024-15-02-44.jpg",
