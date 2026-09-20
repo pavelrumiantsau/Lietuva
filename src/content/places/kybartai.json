@@ -1,14 +1,14 @@
 {
   "slug": "kybartai",
   "coordinates": {
-    "lat": 54.6394,
-    "lng": 22.7561
+    "lat": 54.642544,
+    "lng": 22.751174
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kybartai",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2026-03-07-photo-07-03-2026-14-04-27.jpg",
   "highlightPhotoAlt": {
-    "lt": "Kybartų geležinkelio stoties pastatas prie Rusijos sienos",
-    "en": "Kybartai railway station building near the Russian border",
-    "uk": "Будівля залізничної станції Кибартай біля російського кордону"
+    "lt": "Nedidelis bažnyčios pastatas Kybartuose",
+    "en": "Small church building in Kybartai",
+    "uk": "Невелика церковна будівля в Кібартай"
   },
   "photos": [
     "2026-03-07-photo-07-03-2026-13-49-05.jpg",
