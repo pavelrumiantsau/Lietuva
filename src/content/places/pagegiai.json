@@ -1,14 +1,14 @@
 {
   "slug": "pagegiai",
   "coordinates": {
-    "lat": 55.1333,
-    "lng": 21.9
+    "lat": 55.133252,
+    "lng": 21.910439
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Pagėgiai",
@@ -42,11 +42,11 @@
       "uk": "Сьогодні Пагегяй розташоване поблизу як річки Нямунас, так і кордону з Калінінградською областю Росії."
     }
   ],
-  "highlightPhoto": "2026-07-12-photo-12-07-2026-16-13-22.jpg",
+  "highlightPhoto": "2026-07-12-photo-12-07-2026-15-52-29.jpg",
   "highlightPhotoAlt": {
-    "lt": "1933 metais pastatyta liuteronų bažnyčia Pagėgiuose",
-    "en": "The Lutheran church, built in 1933, in Pagėgiai",
-    "uk": "Лютеранська церква, збудована 1933 року, в Пагегяй"
+    "lt": "Medžiais apsodinta pėsčiųjų gatvė Pagėgiuose",
+    "en": "Tree-lined pedestrian street in Pagėgiai",
+    "uk": "Обсаджена деревами пішохідна вулиця в Пагегяй"
   },
   "photos": [
     "2026-07-12-photo-12-07-2026-15-49-13.jpg",
@@ -84,7 +84,6 @@
     "2026-07-12-photo-12-07-2026-16-25-10.jpg",
     "2026-07-12-photo-12-07-2026-16-26-43.jpg",
     "2026-07-12-photo-12-07-2026-16-29-34.jpg",
-    "2026-07-12-photo-12-07-2026-16-29-37.jpg",
     "2026-07-12-photo-12-07-2026-16-30-24.jpg",
     "2026-07-12-photo-12-07-2026-16-30-36.jpg",
     "2026-07-12-photo-12-07-2026-16-31-40.jpg",
