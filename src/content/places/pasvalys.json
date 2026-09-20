@@ -1,14 +1,14 @@
 {
   "slug": "pasvalys",
   "coordinates": {
-    "lat": 56.0594,
-    "lng": 24.4036
+    "lat": 56.062271,
+    "lng": 24.396575
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Pasvalys",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2023-05-13-photo-2023-05-13-15-24-46.jpg",
   "highlightPhotoAlt": {
-    "lt": "Pasvalio miesto centras prie Svalios upės",
-    "en": "The center of Pasvalys on the banks of the Svalia river",
-    "uk": "Центр міста Пасвалис на березі річки Свалія"
+    "lt": "Bažnyčia prie upės Pasvalyje",
+    "en": "Church by the river in Pasvalys",
+    "uk": "Церква біля річки в Пасвалісі"
   },
   "photos": [
     "2023-05-13-photo-2023-05-13-14-50-53.jpg",
