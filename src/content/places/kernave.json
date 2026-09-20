@@ -1,14 +1,14 @@
 {
   "slug": "kernave",
   "coordinates": {
-    "lat": 54.8797,
-    "lng": 24.8397
+    "lat": 54.886324,
+    "lng": 24.853967
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kernavė",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2023-07-09-photo-2023-07-09-13-41-51.jpg",
   "highlightPhotoAlt": {
-    "lt": "Vaizdas nuo Kernavės piliakalnio į Neries slėnį",
-    "en": "View from a Kernavė hillfort across the Neris valley",
-    "uk": "Вид з городища Кярнаве на долину Няріс"
+    "lt": "Rekonstruota viduramžių gyvenvietė Kernavėje",
+    "en": "Reconstructed medieval settlement in Kernavė",
+    "uk": "Реконструйоване середньовічне поселення в Кернаве"
   },
   "photos": [
     "2023-07-09-photo-2023-07-09-13-20-11.jpg",
