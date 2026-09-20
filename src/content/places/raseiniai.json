@@ -1,14 +1,14 @@
 {
   "slug": "raseiniai",
   "coordinates": {
-    "lat": 55.3667,
-    "lng": 23.1167
+    "lat": 55.377973,
+    "lng": 23.117138
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Raseiniai",
@@ -42,11 +42,11 @@
       "uk": "У центрі міста стоїть пам'ятник Магде, героїні поеми Майроніса «Расейнюська Магде», ніс якого відвідувачі цілують на удачу."
     }
   ],
-  "highlightPhoto": "2025-12-26-photo-26-12-2025-13-54-39.jpg",
+  "highlightPhoto": "2025-12-26-photo-26-12-2025-13-30-14.jpg",
   "highlightPhotoAlt": {
-    "lt": "Raseinių miesto centras su Magdės paminklu",
-    "en": "The Magdė statue in the center of Raseiniai",
-    "uk": "Пам'ятник Магде в центрі Расейняй"
+    "lt": "Statula ir pastatas Raseinių centre",
+    "en": "Statue and building in central Raseiniai",
+    "uk": "Статуя і будівля в центрі Расейняй"
   },
   "photos": [
     "2025-12-26-photo-26-12-2025-13-25-26.jpg",
