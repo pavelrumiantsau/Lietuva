@@ -1,14 +1,14 @@
 {
   "slug": "jieznas",
   "coordinates": {
-    "lat": 54.6,
-    "lng": 24.1667
+    "lat": 54.600711,
+    "lng": 24.174987
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Jieznas",
@@ -42,11 +42,11 @@
       "uk": "Розкішний палац, збудований Пацами у 1747 році, не зберігся — його втратила родина через борги, а рештки знищила пожежа 1837 року."
     }
   ],
-  "highlightPhoto": "2022-09-24-img-20220924-132610.jpg",
+  "highlightPhoto": "2022-09-24-img-20220924-132724.jpg",
   "highlightPhotoAlt": {
-    "lt": "Baroko stiliaus bažnyčia Jiezne prie ežero",
-    "en": "The baroque church in Jieznas beside the lake",
-    "uk": "Барокова церква в Єзнасі біля озера"
+    "lt": "Miesto aikštė su istoriniais pastatais ir gėlynais",
+    "en": "Town square with historic buildings and flower beds",
+    "uk": "Міська площа з історичними будівлями та квітниками"
   },
   "photos": [
     "2022-09-24-img-20220924-131410.jpg",
