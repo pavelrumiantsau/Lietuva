@@ -1,14 +1,14 @@
 {
   "slug": "trakai",
   "coordinates": {
-    "lat": 54.6486,
-    "lng": 24.9339
+    "lat": 54.644991,
+    "lng": 24.935399
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Trakai",
@@ -42,19 +42,13 @@
       "uk": "До замку можна дістатися орендованим човном або перейти дерев'яними містками через озеро Гальве."
     }
   ],
-  "highlightPhoto": "2023-06-24-photo-2023-06-24-15-37-41.jpg",
+  "highlightPhoto": "2023-06-24-photo-2023-06-24-15-31-35.jpg",
   "highlightPhotoAlt": {
     "lt": "Trakų salos pilis ir tiltas per Galvės ežerą",
     "en": "Trakai Island Castle and the footbridge across Lake Galvė",
     "uk": "Тракайський острівний замок і місток через озеро Гальве"
   },
   "photos": [
-    "2017-12-23-img-4094.jpg",
-    "2017-12-24-img-4095.jpg",
-    "2017-12-24-img-4097.jpg",
-    "2017-12-24-img-4099.jpg",
-    "2017-12-24-img-4102.jpg",
-    "2017-12-24-img-4103.jpg",
     "2017-12-24-img-4104.jpg",
     "2017-12-24-img-4105.jpg",
     "2017-12-24-img-4107.jpg",
