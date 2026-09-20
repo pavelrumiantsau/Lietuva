@@ -1,14 +1,14 @@
 {
   "slug": "salantai",
   "coordinates": {
-    "lat": 56.0667,
-    "lng": 21.5667
+    "lat": 56.059481,
+    "lng": 21.568626
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Salantai",
@@ -37,7 +37,7 @@
       "uk": "На початку 1880-х років землі містечка придбав граф Богдан Огінський."
     }
   ],
-  "highlightPhoto": "2023-05-20-photo-2023-05-20-14-29-59.jpg",
+  "highlightPhoto": "2023-05-20-photo-2023-05-20-14-17-55.jpg",
   "highlightPhotoAlt": {
     "lt": "Salantų miestelio bažnyčia prie Salanto upės",
     "en": "The parish church of Salantai on the banks of the Salantas river",
@@ -77,7 +77,6 @@
     "2023-05-20-photo-2023-05-20-15-07-02.jpg",
     "2023-05-20-photo-2023-05-20-15-07-31.jpg",
     "2023-05-20-photo-2023-05-20-15-07-56.jpg",
-    "2023-05-20-photo-2023-05-20-15-09-15.jpg",
-    "2023-05-20-photo-2023-05-20-15-09-22.jpg"
+    "2023-05-20-photo-2023-05-20-15-09-15.jpg"
   ]
 }
