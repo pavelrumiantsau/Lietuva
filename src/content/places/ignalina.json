@@ -1,14 +1,14 @@
 {
   "slug": "ignalina",
   "coordinates": {
-    "lat": 55.3453,
-    "lng": 26.1706
+    "lat": 55.339898,
+    "lng": 26.161405
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Ignalina",
@@ -42,11 +42,11 @@
       "uk": "На території Ігналінського району налічується понад 200 озер, а саме містечко вважається одним із центрів водного туризму Аукштайтії."
     }
   ],
-  "highlightPhoto": "2024-06-08-photo-08-06-2024-14-10-15.jpg",
+  "highlightPhoto": "2024-06-08-photo-08-06-2024-14-54-32.jpg",
   "highlightPhotoAlt": {
-    "lt": "Ežero pakrantė netoli Ignalinos miestelio Aukštaitijoje",
-    "en": "A lake shore near the town of Ignalina in Aukštaitija",
-    "uk": "Берег озера поблизу містечка Ігналіна в Аукштайтії"
+    "lt": "Iliustruota informacinė lenta miesto aikštėje",
+    "en": "Illustrated market-scene sign on a town square",
+    "uk": "Ілюстрований інформаційний стенд на міській площі"
   },
   "photos": [
     "2024-06-08-photo-08-06-2024-13-01-03.jpg",
@@ -89,7 +89,6 @@
     "2024-06-08-photo-08-06-2024-14-52-30.jpg",
     "2024-06-08-photo-08-06-2024-14-53-12.jpg",
     "2024-06-08-photo-08-06-2024-14-54-32.jpg",
-    "2024-06-08-photo-08-06-2024-14-54-42.jpg",
     "2024-06-08-photo-08-06-2024-15-03-38.jpg",
     "2024-06-08-photo-08-06-2024-15-19-13.jpg",
     "2024-06-08-photo-08-06-2024-15-21-17.jpg",
