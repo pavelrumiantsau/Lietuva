@@ -1,14 +1,14 @@
 {
   "slug": "svencioneliai",
   "coordinates": {
-    "lat": 55.15,
-    "lng": 26
+    "lat": 55.165257,
+    "lng": 25.998525
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Švenčionėliai",
@@ -42,7 +42,7 @@
       "uk": "З часом місто переросло сусідній старіший Швенчьоніс і стало більшим із двох поселень."
     }
   ],
-  "highlightPhoto": "2024-12-14-photo-14-12-2024-13-12-17.jpg",
+  "highlightPhoto": "2024-12-14-photo-14-12-2024-13-02-22.jpg",
   "highlightPhotoAlt": {
     "lt": "Švenčionėlių geležinkelio stoties pastatas",
     "en": "The Švenčionėliai railway station building",
