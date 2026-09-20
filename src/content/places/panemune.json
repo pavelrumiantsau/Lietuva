@@ -1,52 +1,54 @@
 {
   "slug": "panemune",
   "coordinates": {
-    "lat": 54.8648,
-    "lng": 23.9627
+    "lat": 55.087145,
+    "lng": 21.911503
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Panemunė",
     "en": "Panemunė",
     "uk": "Панямуне"
   },
+  {
   "shortDescription": {
-    "lt": "Kauno pušynas prie Nemuno kilpos — mėgstama poilsio vieta nuo tarpukario laikų.",
-    "en": "A Kaunas pine forest by a bend in the Nemunas, a favourite escape since the interwar years.",
-    "uk": "Соснова паркова зона Каунаса на закруті Нямунасу — улюблене місце відпочинку з міжвоєнних часів."
+    "lt": "Mažiausias Lietuvos miestas prie Nemuno, priešais Rusijos Sovetską — vienas paskutinių veikiančių Lietuvos ir Rusijos sienos perėjimų.",
+    "en": "Lithuania's smallest town, on the Nemunas across from Russia's Sovetsk — home to one of the last active Lithuania–Russia border crossings.",
+    "uk": "Найменше місто Литви на Нямунасі, навпроти російського Совєтська — один з останніх діючих пунктів перетину литовсько-російського кордону."
   },
   "longDescription": {
-    "lt": "Panemunė — Kauno miesto seniūnija ir šalia jos plytintis pušynas, įsikūręs prie vaizdingos Nemuno kilpos. Nuo 1926 metų ši vietovė tapo populiaria kauniečių poilsiavietė, o 1928 metais pušynas buvo pavadintas gydytojo ir tautos patriarcho Jono Basanavičiaus vardu. Tarpukariu čia veikė sanatorijos ir stovėjo pasiturinčių kauniečių medinės vilos — dalis jų išlikusios iki šiol. Šiandien apie 334 hektarus užimantis Basanavičiaus parkas su pėsčiųjų takais ir paplūdimiu prie Nemuno tebėra viena mėgstamiausių kauniečių poilsio vietų.",
-    "en": "Panemunė is a Kaunas district and the pine forest beside it, set along a picturesque bend of the Nemunas river. Since 1926 the area has been a popular escape for residents of Kaunas, and in 1928 the pinewood was named after the physician and 'patriarch of the nation' Jonas Basanavičius. During the interwar period it had sanatoriums and wooden villas belonging to well-off Kaunas residents, some of which still stand today. Covering roughly 334 hectares, Basanavičius Park, with its walking trails and a beach along the Nemunas, remains one of the most popular recreation spots for people from Kaunas.",
-    "uk": "Панямуне — район Каунаса та прилеглий сосновий ліс, розташований уздовж мальовничого закруту річки Нямунас. З 1926 року ця місцевість стала популярним місцем відпочинку для мешканців Каунаса, а в 1928 році сосновий ліс назвали на честь лікаря та «патріарха нації» Йонаса Басанавічюса. У міжвоєнний період тут діяли санаторії та стояли дерев'яні вілли заможних каунасців, частина з яких збереглася й донині. Парк Басанавічюса площею близько 334 гектарів, з пішохідними стежками та пляжем уздовж Нямунасу, і сьогодні залишається одним із улюблених місць відпочинку каунасців."
+    "lt": "Panemunė — nedidelis miestas Pagėgių savivaldybėje, įsikūręs Nemuno krante tiesiai priešais Rusijos miestą Sovetską (buvusią Tilžę), Kaliningrado srityje. Iš pradžių tai buvo užnemunės Tilžės priemiestis; po Pirmojo pasaulinio karo jis buvo atskirtas nuo Vokietijos ir pavadintas „Übermemel“, o 1923 metais, Lietuvai prisijungus Klaipėdos kraštą, tapo Panemune. 1939 metais Vokietija jį atsiėmė, tačiau po Antrojo pasaulinio karo teritorija grįžo sovietų okupuotai Lietuvai, o vokiečių gyventojai buvo iškeldinti. Turėdama vos 194 gyventojus (2020 m.), Panemunė yra mažiausia oficialų miesto statusą turinti gyvenvietė Lietuvoje. Su Sovetsku miestą jungia istorinis Karalienės Luizės tiltas, pastatytas 1907 metais ir dabar skirtas tik pėstiesiems, bei 2015 metais atidarytas naujas automobilių tiltas. Panemunė tebėra vienas iš vos dviejų veikiančių Lietuvos ir Rusijos sienos kontrolės punktų, o pastaraisiais metais, augant įtampai prie sienos, jis buvo sustiprintas kliūtimis nuo transporto priemonių.",
+    "en": "Panemunė is a small town in the Pagėgiai district municipality, on the bank of the Nemunas River directly opposite the Russian city of Sovetsk (formerly Tilsit), in Kaliningrad Oblast. Originally a trans-Memel suburb of Tilsit, the settlement was separated from Germany after World War I and renamed 'Übermemel'; it became Panemunė when Lithuania annexed the Klaipėda (Memel) region in 1923. Germany retook it in 1939, but after World War II it returned to Soviet-occupied Lithuania and its German population was expelled. With just 194 residents (2020), it is the smallest settlement with official city status in Lithuania. The town is linked to Sovetsk by the historic Queen Louise Bridge, built in 1907 and now reserved for pedestrians, alongside a modern road bridge opened in 2015. Panemunė remains one of only two operating Lithuania–Russia border checkpoints, and in recent years it has been reinforced with anti-vehicle barriers amid heightened tensions along the border.",
+    "uk": "Панямуне — невелике місто в Пагегяйському самоврядуванні, розташоване на березі річки Нямунас прямо навпроти російського міста Совєтськ (колишній Тільзит) у Калінінградській області. Спочатку це було зарічне передмістя Тільзита; після Першої світової війни його відокремили від Німеччини та назвали «Übermemel», а в 1923 році, коли Литва приєднала Клайпедський край, воно стало Панямуне. У 1939 році Німеччина повернула собі цю територію, але після Другої світової війни вона знову увійшла до складу радянської Литви, а німецьке населення було вигнане. Маючи лише 194 жителі (за даними 2020 року), Панямуне є найменшим населеним пунктом з офіційним статусом міста в Литві. З Совєтськом місто з'єднує історичний міст королеви Луїзи, збудований у 1907 році і нині призначений лише для пішоходів, а також сучасний автомобільний міст, відкритий у 2015 році. Панямуне залишається одним з лише двох діючих пунктів перетину литовсько-російського кордону, і в останні роки, на тлі зростання напруги на кордоні, його укріпили протитанковими загородженнями."
   },
   "facts": [
     {
-      "lt": "Basanavičiaus parkas užima apie 334 hektarus — tai panašaus dydžio plotas kaip Niujorko Centrinis parkas.",
-      "en": "Basanavičius Park covers about 334 hectares — comparable in size to New York's Central Park.",
-      "uk": "Парк Басанавічюса займає близько 334 гектарів — приблизно стільки ж, скільки Центральний парк Нью-Йорка."
+      "lt": "Panemunė yra mažiausias oficialų miesto statusą turintis miestas Lietuvoje — jame gyvena vos 194 gyventojai (2020 m. duomenimis).",
+      "en": "Panemunė is the smallest town with official city status in Lithuania, with a population of just 194 (2020 census).",
+      "uk": "Панямуне — найменше місто з офіційним статусом міста в Литві: тут проживає лише 194 особи (за даними 2020 року)."
     },
     {
-      "lt": "Pušynas pavadintas Jono Basanavičiaus, gydytojo ir Lietuvos nepriklausomybės akto signataro, vardu 1928 metais.",
-      "en": "The pinewood was named in 1928 after Jonas Basanavičius, a physician and signatory of Lithuania's Act of Independence.",
-      "uk": "Сосновий ліс назвали у 1928 році на честь Йонаса Басанавічюса, лікаря та підписанта Акту незалежності Литви."
+      "lt": "Miestas įsikūręs tiesiai priešais Sovetską (buvusią Tilžę), esantį Rusijos Kaliningrado srityje, kitapus Nemuno, ir yra vienas iš vos dviejų veikiančių Lietuvos ir Rusijos sienos perėjimų.",
+      "en": "The town sits directly across the Nemunas River from Sovetsk (formerly Tilsit), Russia's Kaliningrad Oblast, and is one of only two active Lithuania–Russia border crossings.",
+      "uk": "Місто розташоване прямо навпроти Совєтська (колишнього Тільзита) в Калінінградській області Росії, на протилежному березі Нямунасу, і є одним із лише двох діючих пунктів перетину литовсько-російського кордону."
     },
     {
-      "lt": "Tarpukariu Panemunė buvo laikoma kurortu su sanatorijomis ir vasarnamiais, populiariu tarp kauniečių.",
-      "en": "During the interwar period, Panemunė was regarded as a resort with sanatoriums and summer villas, popular among Kaunas residents.",
-      "uk": "У міжвоєнний період Панямуне вважалося курортом із санаторіями та літніми віллами, популярним серед каунасців."
+      "lt": "Istorinis Karalienės Luizės tiltas (1907 m.) kadaise sujungdavo Panemunę su Sovetsku; dabar juo gali naudotis tik pėstieji, o transporto priemonėms skirtas naujas 2015 metų tiltas, pastaruoju metu sustiprintas „drakono dantų“ užtvaromis.",
+      "en": "The historic Queen Louise Bridge (1907) once carried all traffic to Sovetsk; it is now pedestrian-only, with a modern bridge (2015) handling vehicles — and has recently been fortified with anti-vehicle 'dragon's teeth' barriers.",
+      "uk": "Історичний міст королеви Луїзи (1907 р.) колись з'єднував Панямуне з Совєтськом; тепер він призначений лише для пішоходів, а транспорт користується новим мостом 2015 року, який нещодавно укріпили протитанковими «зубами дракона»."
     }
-  ],
+  ]
+  },
   "highlightPhoto": "2026-07-12-photo-12-07-2026-15-33-15.jpg",
   "highlightPhotoAlt": {
-    "lt": "Pušynas prie Nemuno kilpos Panemunėje",
-    "en": "Pine forest along the bend of the Nemunas in Panemunė",
-    "uk": "Сосновий ліс на закруті Нямунасу в Панямуне"
+    "lt": "Senas namas su mansardiniu stogu Panemunėje",
+    "en": "Old house with mansard roof in Panemunė",
+    "uk": "Старий будинок з мансардним дахом у Панемуне"
   },
   "photos": [
     "2026-07-12-photo-12-07-2026-15-30-22.jpg",
@@ -54,7 +56,6 @@
     "2026-07-12-photo-12-07-2026-15-31-16.jpg",
     "2026-07-12-photo-12-07-2026-15-33-15.jpg",
     "2026-07-12-photo-12-07-2026-15-36-23.jpg",
-    "2026-07-12-photo-12-07-2026-15-37-05.jpg",
     "2026-07-12-photo-12-07-2026-15-38-28.jpg"
   ]
 }
