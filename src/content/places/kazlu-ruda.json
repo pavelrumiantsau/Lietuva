@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kazlų Rūda",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2025-01-18-photo-18-01-2025-13-59-56.jpg",
   "highlightPhotoAlt": {
-    "lt": "Pušynas prie Kazlų Rūdos miesto",
-    "en": "A pine forest near the town of Kazlų Rūda",
-    "uk": "Сосновий ліс поблизу міста Казлу-Руда"
+    "lt": "Tradicinis raudonas medinis namas Kazlų Rūdoje",
+    "en": "Traditional red wooden house in Kazlų Rūda",
+    "uk": "Традиційний червоний дерев'яний будинок у Казлу-Руді"
   },
   "photos": [
     "2025-01-18-photo-18-01-2025-13-39-13.jpg",
