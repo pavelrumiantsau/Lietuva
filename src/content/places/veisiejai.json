@@ -1,14 +1,14 @@
 {
   "slug": "veisiejai",
   "coordinates": {
-    "lat": 54.1,
-    "lng": 23.7
+    "lat": 54.100185,
+    "lng": 23.695154
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Veisiejai",
@@ -42,7 +42,7 @@
       "uk": "У прибережному парку Вейсеяй встановлений перший у Литві фонтан із синхронізованою світло-звуковою інсталяцією."
     }
   ],
-  "highlightPhoto": "2023-09-03-photo-2023-09-03-13-54-58.jpg",
+  "highlightPhoto": "2023-09-03-photo-2023-09-03-13-53-41.jpg",
   "highlightPhotoAlt": {
     "lt": "Ančios ežeras ir pakrantės parkas Veisiejuose",
     "en": "Lake Ančia and the shoreline park in Veisiejai",
