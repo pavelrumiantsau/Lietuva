@@ -1,14 +1,14 @@
 {
   "slug": "sakiai",
   "coordinates": {
-    "lat": 54.95,
-    "lng": 23.05
+    "lat": 54.955962,
+    "lng": 23.039544
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Šakiai",
@@ -42,11 +42,11 @@
       "uk": "Історично в Шакяї співіснували католицька, лютеранська та єврейська громади."
     }
   ],
-  "highlightPhoto": "2025-10-11-photo-11-10-2025-15-31-15.jpg",
+  "highlightPhoto": "2025-10-11-photo-11-10-2025-15-20-08.jpg",
   "highlightPhotoAlt": {
-    "lt": "Šakių miesto centras prie Šešupės upės",
-    "en": "The center of Šakiai on the banks of the Šešupė river",
-    "uk": "Центр міста Шакяй на березі річки Шешупе"
+    "lt": "Moderni fontano skulptūra Šakiuose",
+    "en": "Modern fountain sculpture in Šakiai",
+    "uk": "Сучасна скульптура-фонтан у Шакяй"
   },
   "photos": [
     "2025-10-11-photo-11-10-2025-14-59-06.jpg",
