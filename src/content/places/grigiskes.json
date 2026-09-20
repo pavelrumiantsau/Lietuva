@@ -1,14 +1,14 @@
 {
   "slug": "grigiskes",
   "coordinates": {
-    "lat": 54.6547,
-    "lng": 25.0942
+    "lat": 54.671219,
+    "lng": 25.091243
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Grigiškės",
@@ -42,11 +42,11 @@
       "uk": "З 2000 року Григішкес є одним із районів міської громади Вільнюса, хоча й далі сприймається як окреме промислове містечко."
     }
   ],
-  "highlightPhoto": "2022-04-27-img-20220427-142857.jpg",
+  "highlightPhoto": "2022-04-27-img-20220427-143646.jpg",
   "highlightPhotoAlt": {
-    "lt": "Grigiškių popieriaus fabriko pastatai prie Vokės upės",
-    "en": "Buildings of the Grigiškės paper mill beside the Vokė River",
-    "uk": "Будівлі паперової фабрики в Григішкес біля річки Вока"
+    "lt": "Upė su kaminu ir namais Grigiškėse",
+    "en": "River with chimney and houses in Grigiškės",
+    "uk": "Річка з димарем і будинками у Ґрігішкес"
   },
   "photos": [
     "2022-04-27-img-20220427-140134.jpg",
