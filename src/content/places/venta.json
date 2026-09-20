@@ -1,14 +1,14 @@
 {
   "slug": "venta",
   "coordinates": {
-    "lat": 56.2019,
-    "lng": 22.6839
+    "lat": 56.189811,
+    "lng": 22.688759
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Venta",
@@ -42,11 +42,11 @@
       "uk": "Відомий театральний режисер Юозас Мілтініс (1907–1994) народився на території, яка нині належить місту Вянта."
     }
   ],
-  "highlightPhoto": "2026-08-01-photo-01-08-2026-14-40-16.jpg",
+  "highlightPhoto": "2026-08-01-photo-01-08-2026-15-01-12.jpg",
   "highlightPhotoAlt": {
-    "lt": "Per Ventos miestą tekanti Ventos upė",
-    "en": "The Venta river running through the town of Venta",
-    "uk": "Річка Вянта, що протікає через однойменне місто"
+    "lt": "Drožti mediniai stulpai sode Ventoje",
+    "en": "Wooden carved pillars in a garden in Venta",
+    "uk": "Різьблені дерев'яні стовпи в саду у Венті"
   },
   "photos": [
     "2026-08-01-photo-01-08-2026-14-23-19.jpg",
