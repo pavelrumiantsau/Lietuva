@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Šilalė",
@@ -42,7 +42,7 @@
       "uk": "Нинішня неоготична церква, збудована у 1905–1909 роках, має вежі заввишки майже 60 метрів."
     }
   ],
-  "highlightPhoto": "2026-04-18-photo-18-04-2026-15-31-40.jpg",
+  "highlightPhoto": "2026-04-18-photo-18-04-2026-15-17-08.jpg",
   "highlightPhotoAlt": {
     "lt": "Šilalės neogotikinės bažnyčios bokštai",
     "en": "The towers of Šilalė's neo-Gothic church",
