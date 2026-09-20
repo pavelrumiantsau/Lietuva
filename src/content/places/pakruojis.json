@@ -1,14 +1,14 @@
 {
   "slug": "pakruojis",
   "coordinates": {
-    "lat": 56.05,
-    "lng": 23.8667
+    "lat": 55.977709,
+    "lng": 23.84518
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Pakruojis",
@@ -42,7 +42,7 @@
       "uk": "Після того як за радянських часів тут діяла сільськогосподарська школа, маєток після 1990 року відреставрували, і нині він працює як готель і музей."
     }
   ],
-  "highlightPhoto": "2024-05-18-photo-18-05-2024-16-44-09.jpg",
+  "highlightPhoto": "2024-05-18-photo-18-05-2024-16-22-38.jpg",
   "highlightPhotoAlt": {
     "lt": "Klasicistiniai Pakruojo dvaro rūmai anapus parko tvenkinio",
     "en": "The Neoclassical palace of Pakruojis Manor across its park pond",
