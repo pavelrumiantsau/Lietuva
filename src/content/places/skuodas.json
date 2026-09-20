@@ -1,14 +1,14 @@
 {
   "slug": "skuodas",
   "coordinates": {
-    "lat": 56.2667,
-    "lng": 21.5333
+    "lat": 56.268429,
+    "lng": 21.524442
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Skuodas",
@@ -42,11 +42,11 @@
       "uk": "До війни євреї становили приблизно половину населення Скуодаса — це була одна з найстаріших громад у Литві."
     }
   ],
-  "highlightPhoto": "2023-05-20-photo-2023-05-20-16-02-28.jpg",
+  "highlightPhoto": "2023-05-20-photo-2023-05-20-15-52-42.jpg",
   "highlightPhotoAlt": {
-    "lt": "Bartuvos upė ir tiltas Skuodo mieste",
-    "en": "The Bartuva river and bridge in Skuodas",
-    "uk": "Річка Бартува та міст у Скуодасі"
+    "lt": "Balta akmeninė bažnyčia su varpine Skuode",
+    "en": "White stone church with bell tower in Skuodas",
+    "uk": "Біла кам'яна церква з дзвіницею в Скуодасі"
   },
   "photos": [
     "2023-05-20-photo-2023-05-20-15-40-33.jpg",
@@ -63,7 +63,6 @@
     "2023-05-20-photo-2023-05-20-15-54-29.jpg",
     "2023-05-20-photo-2023-05-20-15-55-28.jpg",
     "2023-05-20-photo-2023-05-20-15-56-32.jpg",
-    "2023-05-20-photo-2023-05-20-15-58-05.jpg",
     "2023-05-20-photo-2023-05-20-15-59-00.jpg",
     "2023-05-20-photo-2023-05-20-15-59-19.jpg",
     "2023-05-20-photo-2023-05-20-15-59-33.jpg",
