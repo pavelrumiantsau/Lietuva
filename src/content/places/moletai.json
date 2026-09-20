@@ -1,14 +1,14 @@
 {
   "slug": "moletai",
   "coordinates": {
-    "lat": 55.2333,
-    "lng": 25.4167
+    "lat": 55.231927,
+    "lng": 25.419315
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Molėtai",
@@ -42,11 +42,11 @@
       "uk": "Розташований поруч Литовський музей етнокосмології, відкритий 1990 року, поєднує давні народні уявлення про небо із сучасною астрономією."
     }
   ],
-  "highlightPhoto": "2024-01-20-photo-20-01-2024-13-06-25.jpg",
+  "highlightPhoto": "2024-01-20-photo-20-01-2024-13-19-16.jpg",
   "highlightPhotoAlt": {
-    "lt": "Molėtų astronomijos observatorijos kupolas prieblandoje",
-    "en": "The dome of the Molėtai Astronomical Observatory at dusk",
-    "uk": "Купол обсерваторії Молетай у сутінках"
+    "lt": "Snieguota miesto aikštė su moderna skulptūra Molėtuose",
+    "en": "Snowy town square with modern sculpture in Molėtai",
+    "uk": "Засніжена міська площа з сучасною скульптурою в Мольєтай"
   },
   "photos": [
     "2024-01-20-photo-20-01-2024-12-19-21.jpg",
