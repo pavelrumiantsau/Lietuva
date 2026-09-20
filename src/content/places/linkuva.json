@@ -1,14 +1,14 @@
 {
   "slug": "linkuva",
   "coordinates": {
-    "lat": 56.0009,
-    "lng": 23.9689
+    "lat": 56.086279,
+    "lng": 23.973682
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Linkuva",
@@ -42,7 +42,7 @@
       "uk": "Історичний центр Лінкуви є державним урбаністичним пам'ятником, а її церква вважається однією з найбагатших мистецьких святинь Литви."
     }
   ],
-  "highlightPhoto": "2024-05-18-photo-18-05-2024-15-24-59.jpg",
+  "highlightPhoto": "2024-05-18-photo-18-05-2024-15-12-55.jpg",
   "highlightPhotoAlt": {
     "lt": "Dvibokštė Linkuvos karmelitų bažnyčia",
     "en": "The twin-towered Carmelite church in Linkuva",
