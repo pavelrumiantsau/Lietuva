@@ -1,14 +1,14 @@
 {
   "slug": "skaudvile",
   "coordinates": {
-    "lat": 55.4064,
-    "lng": 22.5539
+    "lat": 55.408444,
+    "lng": 22.577692
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Skaudvilė",
@@ -42,11 +42,11 @@
       "uk": "Скаудвіле отримало міські права у 1950 році і нині належить до Таурагського районного самоврядування."
     }
   ],
-  "highlightPhoto": "2026-04-18-photo-18-04-2026-17-19-15.jpg",
+  "highlightPhoto": "2026-04-18-photo-18-04-2026-17-28-22.jpg",
   "highlightPhotoAlt": {
-    "lt": "Skaudvilės miesto aikštė ir centrinė gatvė",
-    "en": "Skaudvilė's town square and main street",
-    "uk": "Міська площа та головна вулиця Скаудвіле"
+    "lt": "Sena apleista gatvės pastatas Skaudvilėje",
+    "en": "Old weathered building on a street in Skaudvilė",
+    "uk": "Стара занедбана будівля на вулиці в Скаудвіле"
   },
   "photos": [
     "2026-04-18-photo-18-04-2026-16-53-01.jpg",
@@ -76,11 +76,8 @@
     "2026-04-18-photo-18-04-2026-17-28-22.jpg",
     "2026-04-18-photo-18-04-2026-17-29-10.jpg",
     "2026-04-18-photo-18-04-2026-17-30-10.jpg",
-    "2026-04-18-photo-18-04-2026-17-37-45.jpg",
-    "2026-04-18-photo-18-04-2026-17-38-35.jpg",
     "2026-04-18-photo-18-04-2026-17-38-39.jpg",
     "2026-04-18-photo-18-04-2026-17-43-38.jpg",
-    "2026-04-18-photo-18-04-2026-17-43-50.jpg",
     "2026-04-18-photo-18-04-2026-17-51-36.jpg"
   ]
 }
