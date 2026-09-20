@@ -1,14 +1,14 @@
 {
   "slug": "seda",
   "coordinates": {
-    "lat": 56.1667,
-    "lng": 22.0833
+    "lat": 56.16722,
+    "lng": 22.093301
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Seda",
@@ -42,11 +42,11 @@
       "uk": "Розташований поблизу ансамбль маєтку Ренавас вважається одним із найкраще збережених у Жемайтії."
     }
   ],
-  "highlightPhoto": "2026-06-20-photo-20-06-2026-15-50-09.jpg",
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-15-56-55.jpg",
   "highlightPhotoAlt": {
-    "lt": "Sedos miestelio bažnyčia prie Varduvos upės",
-    "en": "The parish church of Seda by the Varduva river",
-    "uk": "Парафіяльний костел Седи біля річки Вардува"
+    "lt": "Senas akmeninis tiltas per upę Šedoje",
+    "en": "Old stone bridge over a river in Šeda",
+    "uk": "Старий кам'яний міст через річку в Шеді"
   },
   "photos": [
     "2026-06-20-photo-20-06-2026-15-34-43.jpg",
