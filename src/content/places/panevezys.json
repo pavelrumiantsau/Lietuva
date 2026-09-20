@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Panevėžys",
@@ -42,11 +42,11 @@
       "uk": "Будівля Драматичного театру Юозаса Мільтініса, відкрита 1968 року, стала першою спеціально збудованою театральною спорудою в радянській Литві."
     }
   ],
-  "highlightPhoto": "2022-04-26-img-20220426-161551.jpg",
+  "highlightPhoto": "2022-04-26-img-20220426-165142.jpg",
   "highlightPhotoAlt": {
-    "lt": "Panevėžio senamiesčio bažnyčių bokštai prie Nevėžio upės",
-    "en": "Church towers of Panevėžys old town beside the Nevėžis river",
-    "uk": "Вежі костелів старого міста Паневежис біля річки Нявежис"
+    "lt": "Upės parkas su mediniu prieplaukos taku Panevėžyje",
+    "en": "River park with wooden pier in Panevėžys",
+    "uk": "Річковий парк з дерев'яним причалом у Паневежисі"
   },
   "photos": [
     "2022-04-26-img-20220426-214022-852.jpg",
