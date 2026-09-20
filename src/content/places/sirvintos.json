@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Širvintos",
@@ -42,11 +42,11 @@
       "uk": "У 1960-х у центрі міста на річці створили ставок площею 40 гектарів, прикрашений скульптурою «Ширвінта» 1981 року."
     }
   ],
-  "highlightPhoto": "2022-10-02-img-20221002-162714.jpg",
+  "highlightPhoto": "2022-10-02-img-20221002-161338.jpg",
   "highlightPhotoAlt": {
-    "lt": "Širvintos upės tvenkinys miesto centre",
-    "en": "The Širvinta river pond in the town centre",
-    "uk": "Ставок на річці Ширвінта в центрі міста"
+    "lt": "Statula prie ežero Širvintose",
+    "en": "Statue by the lake in Širvintos",
+    "uk": "Статуя біля озера в Ширвінтосі"
   },
   "photos": [
     "2022-10-02-img-20221002-160627.jpg",
@@ -60,7 +60,6 @@
     "2022-10-02-img-20221002-161119.jpg",
     "2022-10-02-img-20221002-161253.jpg",
     "2022-10-02-img-20221002-161338.jpg",
-    "2022-10-02-img-20221002-161340.jpg",
     "2022-10-02-img-20221002-161346.jpg",
     "2022-10-02-img-20221002-161449.jpg",
     "2022-10-02-img-20221002-161731.jpg",
