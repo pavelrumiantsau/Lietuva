@@ -1,14 +1,14 @@
 {
   "slug": "obeliai",
   "coordinates": {
-    "lat": 55.9333,
-    "lng": 25.1167
+    "lat": 55.940618,
+    "lng": 25.796292
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Obeliai",
@@ -42,11 +42,11 @@
       "uk": "На гербі містечка, наданому 1993 року, зображені і сусіднє озеро, і річка Кряуна."
     }
   ],
-  "highlightPhoto": "2026-03-21-photo-21-03-2026-14-50-00.jpg",
+  "highlightPhoto": "2026-03-21-photo-21-03-2026-14-45-26.jpg",
   "highlightPhotoAlt": {
-    "lt": "Šv. Onos bažnyčia prie ežero Obeliuose",
-    "en": "St. Anne's Church by the lake in Obeliai",
-    "uk": "Церква Святої Анни біля озера в Обяляй"
+    "lt": "Riterio statula ir memorialinis akmuo Obeliuose",
+    "en": "Knight statue and memorial stone in Obeliai",
+    "uk": "Статуя лицаря та меморіальний камінь в Обеляй"
   },
   "photos": [
     "2026-03-21-photo-21-03-2026-14-30-14.jpg",
@@ -69,7 +69,6 @@
     "2026-03-21-photo-21-03-2026-14-51-28.jpg",
     "2026-03-21-photo-21-03-2026-14-51-54.jpg",
     "2026-03-21-photo-21-03-2026-14-52-40.jpg",
-    "2026-03-21-photo-21-03-2026-14-54-49.jpg",
     "2026-03-21-photo-21-03-2026-14-56-19.jpg",
     "2026-03-21-photo-21-03-2026-14-59-36.jpg",
     "2026-03-21-photo-21-03-2026-15-00-57.jpg",
@@ -81,7 +80,6 @@
     "2026-03-21-photo-21-03-2026-15-20-45.jpg",
     "2026-03-21-photo-21-03-2026-15-25-58.jpg",
     "2026-03-21-photo-21-03-2026-15-26-04.jpg",
-    "2026-03-21-photo-21-03-2026-15-26-07.jpg",
     "2026-03-21-photo-21-03-2026-15-31-32.jpg"
   ]
 }
