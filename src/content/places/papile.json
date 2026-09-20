@@ -1,14 +1,14 @@
 {
   "slug": "papile",
   "coordinates": {
-    "lat": 56.1528,
-    "lng": 22.7842
+    "lat": 56.151256,
+    "lng": 22.792321
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Papilė",
@@ -42,11 +42,11 @@
       "uk": "Перший костел у Папіле збудували 1493 року, а 1702 року містечко отримало право проводити ярмарки."
     }
   ],
-  "highlightPhoto": "2026-08-01-photo-01-08-2026-15-33-12.jpg",
+  "highlightPhoto": "2026-08-01-photo-01-08-2026-15-21-53.jpg",
   "highlightPhotoAlt": {
-    "lt": "Ventos upės slėnis prie Papilės piliakalnių",
-    "en": "The Venta river valley by the Papilė hillforts",
-    "uk": "Долина річки Вянта біля городищ Папіле"
+    "lt": "Raudonų plytų neogotikinė bažnyčia Papilėje",
+    "en": "Red brick neo-Gothic church in Papilė",
+    "uk": "Неоготична церква з червоної цегли в Папіле"
   },
   "photos": [
     "2026-08-01-photo-01-08-2026-15-21-53.jpg",
