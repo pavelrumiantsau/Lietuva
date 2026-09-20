@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Panemunės pilis",
@@ -42,7 +42,7 @@
       "uk": "Замок іноді також називають замком Вітенай, за назвою сусіднього села, а близько 1759 року його перебудував рід Гельгудів."
     }
   ],
-  "highlightPhoto": "2024-10-19-photo-19-10-2024-17-43-30.jpg",
+  "highlightPhoto": "2024-10-19-photo-19-10-2024-17-47-26.jpg",
   "highlightPhotoAlt": {
     "lt": "Panemunės pilies renesansinis fasadas ir bokštai virš Nemuno",
     "en": "Renaissance facade and towers of Panemunė Castle above the Nemunas river",
