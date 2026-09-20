@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Šiauliai",
@@ -42,11 +42,11 @@
       "uk": "За 12 км на північ від міста розташована Гора хрестів, яку у 1993 році відвідав Папа Іван Павло II."
     }
   ],
-  "highlightPhoto": "2022-09-03-img-20220903-140803.jpg",
+  "highlightPhoto": "2022-09-03-img-20220903-134009.jpg",
   "highlightPhotoAlt": {
-    "lt": "Tūkstančiai kryžių ant Kryžių kalno netoli Šiaulių",
-    "en": "Thousands of crosses on the Hill of Crosses near Šiauliai",
-    "uk": "Тисячі хрестів на Горі хрестів поблизу Шяуляй"
+    "lt": "Metalinės lapės skulptūra prie ežero Šiauliuose",
+    "en": "Metal fox sculpture by a lake in Šiauliai",
+    "uk": "Скульптура лисиці з металу біля озера в Шяуляй"
   },
   "photos": [
     "2022-09-03-img-20220903-123012.jpg",
