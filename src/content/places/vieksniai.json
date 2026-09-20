@@ -1,14 +1,14 @@
 {
   "slug": "vieksniai",
   "coordinates": {
-    "lat": 56.2333,
-    "lng": 22.5167
+    "lat": 56.235697,
+    "lng": 22.512581
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Viekšniai",
@@ -42,11 +42,11 @@
       "uk": "Авіаційний музей Вєкшняй присвячений Александрасу Грішкявічюсу — піонеру литовської авіації."
     }
   ],
-  "highlightPhoto": "2026-06-20-photo-20-06-2026-14-32-50.jpg",
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-14-36-21.jpg",
   "highlightPhotoAlt": {
-    "lt": "Istorinė gatvė Viekšnių miestelyje",
-    "en": "A historic street in the small town of Viekšniai",
-    "uk": "Історична вулиця в містечку Вєкшняй"
+    "lt": "Muziejaus pastatas raudonu stogu Viekšniuose",
+    "en": "Museum building with red roof in Viekšniai",
+    "uk": "Будівля музею з червоним дахом у Вєкшняй"
   },
   "photos": [
     "2026-06-20-photo-20-06-2026-14-12-30.jpg",
