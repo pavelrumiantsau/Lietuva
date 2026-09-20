@@ -1,14 +1,14 @@
 {
   "slug": "gelgaudiskis",
   "coordinates": {
-    "lat": 55.0833,
-    "lng": 22.9833
+    "lat": 55.076801,
+    "lng": 22.975801
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Gelgaudiškis",
@@ -42,7 +42,7 @@
       "uk": "Парк площею 118,5 гектара навколо садиби є одним з найбільших у Литві."
     }
   ],
-  "highlightPhoto": "2023-10-07-photo-07-10-2023-14-57-26.jpg",
+  "highlightPhoto": "2023-10-07-photo-07-10-2023-14-50-15.jpg",
   "highlightPhotoAlt": {
     "lt": "Gelgaudiškio dvaro rūmai ir parkas",
     "en": "The Gelgaudiškis manor house and its park",
