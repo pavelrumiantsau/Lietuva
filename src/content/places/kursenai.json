@@ -1,14 +1,14 @@
 {
   "slug": "kursenai",
   "coordinates": {
-    "lat": 56.0089,
-    "lng": 22.9308
+    "lat": 56.003961,
+    "lng": 22.932561
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kuršėnai",
@@ -42,11 +42,11 @@
       "uk": "Завдяки якісній глині, що зустрічається в околицях, Куршенай здавна називають столицею гончарів і давніх ремесел."
     }
   ],
-  "highlightPhoto": "2026-08-01-photo-01-08-2026-16-55-32.jpg",
+  "highlightPhoto": "2026-08-01-photo-01-08-2026-17-10-06.jpg",
   "highlightPhotoAlt": {
-    "lt": "Ventos upė ties Kuršėnų miestu",
-    "en": "The Venta River as it passes through Kuršėnai",
-    "uk": "Річка Вента, що протікає через місто Куршенай"
+    "lt": "Medinis dvaro pastatas Kuršėnuose",
+    "en": "Wooden manor house in Kuršėnai",
+    "uk": "Дерев'яна садиба в Куршенай"
   },
   "photos": [
     "2026-08-01-photo-01-08-2026-16-24-28.jpg",
@@ -74,7 +74,6 @@
     "2026-08-01-photo-01-08-2026-16-59-32.jpg",
     "2026-08-01-photo-01-08-2026-17-00-14.jpg",
     "2026-08-01-photo-01-08-2026-17-00-20.jpg",
-    "2026-08-01-photo-01-08-2026-17-01-20.jpg",
     "2026-08-01-photo-01-08-2026-17-02-42.jpg",
     "2026-08-01-photo-01-08-2026-17-05-07.jpg",
     "2026-08-01-photo-01-08-2026-17-05-10.jpg",
