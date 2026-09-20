@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Telšiai",
@@ -42,11 +42,11 @@
       "uk": "З 1926 року Тельшяй є центром римо-католицької єпархії, а в місті діє Жемайтійський музей «Алка»."
     }
   ],
-  "highlightPhoto": "2025-09-06-photo-06-09-2025-15-32-24.jpg",
+  "highlightPhoto": "2025-09-06-photo-06-09-2025-14-19-39.jpg",
   "highlightPhotoAlt": {
-    "lt": "Masčio ežeras ir katedra Telšiuose",
-    "en": "Lake Mastis and the cathedral in Telšiai",
-    "uk": "Озеро Мастіс та собор у Тельшяй"
+    "lt": "Laikrodžio bokštas miesto aikštėje Telšiuose",
+    "en": "Clock tower on the town square in Telšiai",
+    "uk": "Годинникова вежа на міській площі в Тельшяй"
   },
   "photos": [
     "2025-09-06-photo-06-09-2025-13-59-11.jpg",
