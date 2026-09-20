@@ -1,14 +1,14 @@
 {
   "slug": "tytuvenai",
   "coordinates": {
-    "lat": 55.5333,
-    "lng": 23.2
+    "lat": 55.596995,
+    "lng": 23.197448
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Tytuvėnai",
@@ -42,7 +42,7 @@
       "uk": "З 2006 року ансамбль церкви та монастиря в Титувенай входить до попереднього списку Світової спадщини ЮНЕСКО від Литви."
     }
   ],
-  "highlightPhoto": "2026-03-11-photo-11-03-2026-13-56-45.jpg",
+  "highlightPhoto": "2026-03-11-photo-11-03-2026-13-41-54.jpg",
   "highlightPhotoAlt": {
     "lt": "Tytuvėnų bernardinų bažnyčios ir vienuolyno ansamblis",
     "en": "The Tytuvėnai Bernardine church and monastery ensemble",
