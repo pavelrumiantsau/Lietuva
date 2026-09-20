@@ -1,14 +1,14 @@
 {
   "slug": "nemencine",
   "coordinates": {
-    "lat": 54.8447,
-    "lng": 25.4453
+    "lat": 54.847629,
+    "lng": 25.468966
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Nemenčinė",
@@ -42,11 +42,11 @@
       "uk": "Назва містечка походить від невеликого струмка Няменчя, який саме в Няменчіне впадає в річку Няріс."
     }
   ],
-  "highlightPhoto": "2023-01-08-photo-2023-01-08-12-53-57.jpg",
+  "highlightPhoto": "2023-01-08-photo-2023-01-08-12-43-58.jpg",
   "highlightPhotoAlt": {
-    "lt": "Nemenčios upelio ir Neries santaka Nemenčinėje",
-    "en": "The confluence of the Nemenčia stream and the Neris river at Nemenčinė",
-    "uk": "Злиття струмка Няменчя з річкою Няріс у Няменчіне"
+    "lt": "Bažnyčios bokštas žiemą Nemenčinėje",
+    "en": "Church tower in winter in Nemenčinė",
+    "uk": "Церковна вежа взимку в Неменчіне"
   },
   "photos": [
     "2023-01-08-photo-2023-01-08-12-37-29.jpg",
