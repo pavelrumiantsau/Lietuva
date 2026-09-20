@@ -1,14 +1,14 @@
 {
   "slug": "seduva",
   "coordinates": {
-    "lat": 55.7508,
-    "lng": 23.6667
+    "lat": 55.757002,
+    "lng": 23.75715
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Šeduva",
@@ -42,11 +42,11 @@
       "uk": "Шедува належить до Радвілішкіського районного самоврядування Шяуляйського повіту і стоїть на річці Лявуо."
     }
   ],
-  "highlightPhoto": "2025-08-16-photo-16-08-2025-16-05-44.jpg",
+  "highlightPhoto": "2025-08-16-photo-16-08-2025-16-01-47.jpg",
   "highlightPhotoAlt": {
-    "lt": "Prarastojo štetlo muziejaus pastatas Šeduvoje",
-    "en": "The Lost Shtetl Museum building in Šeduva",
-    "uk": "Будівля музею «Втрачений штетл» у Шедуві"
+    "lt": "Miesto vardo ženklas ir paminklas 'Šeduva'",
+    "en": "'Šeduva' city name sign and monument",
+    "uk": "Напис з назвою міста та пам'ятник 'Šeduva'"
   },
   "photos": [
     "2025-08-16-photo-16-08-2025-15-50-43.jpg",
