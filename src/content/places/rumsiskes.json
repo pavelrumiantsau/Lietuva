@@ -1,14 +1,14 @@
 {
   "slug": "rumsiskes",
   "coordinates": {
-    "lat": 54.8639,
-    "lng": 24.2167
+    "lat": 54.866425,
+    "lng": 24.201171
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Rumšiškės",
@@ -42,11 +42,11 @@
       "uk": "Музей відтворює будівлі з усіх п'яти етнографічних регіонів Литви."
     }
   ],
-  "highlightPhoto": "2026-08-29-photo-29-08-2026-15-24-50.jpg",
+  "highlightPhoto": "2026-08-29-photo-29-08-2026-12-48-05.jpg",
   "highlightPhotoAlt": {
-    "lt": "Sena medinė sodyba Rumšiškių liaudies buities muziejuje",
-    "en": "A traditional wooden farmstead at the Rumšiškės open-air museum",
-    "uk": "Традиційна дерев'яна садиба в музеї просто неба Румшишкес"
+    "lt": "Muziejaus po atviru dangumi kaimo aikštė Rumšiškėse",
+    "en": "Open-air museum village square in Rumšiškės",
+    "uk": "Сільська площа музею просто неба в Румшишкес"
   },
   "photos": [
     "2026-08-29-photo-29-08-2026-12-40-49.jpg",
