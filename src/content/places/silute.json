@@ -1,14 +1,14 @@
 {
   "slug": "silute",
   "coordinates": {
-    "lat": 55.35,
-    "lng": 21.4833
+    "lat": 55.341374,
+    "lng": 21.46057
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Šilutė",
@@ -37,11 +37,11 @@
       "uk": "Після Клайпедського повстання 1923 року Шилуте стали вважати неофіційною столицею Малої Литви."
     }
   ],
-  "highlightPhoto": "2025-09-20-photo-20-09-2025-15-38-18.jpg",
+  "highlightPhoto": "2025-09-20-photo-20-09-2025-14-59-39.jpg",
   "highlightPhotoAlt": {
-    "lt": "Šilutės miesto centras prie Šyšos upės",
-    "en": "Šilutė town centre on the Šyša river",
-    "uk": "Центр Шилуте на річці Шиша"
+    "lt": "Istorinis dvaro pastatas Šilutėje",
+    "en": "Historic manor building in Šilutė",
+    "uk": "Історична садиба в Шилуте"
   },
   "photos": [
     "2025-09-20-photo-20-09-2025-14-55-03.jpg",
