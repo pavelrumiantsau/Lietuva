@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Palanga",
@@ -42,15 +42,14 @@
       "uk": "Дерев'яний морський міст Паланги, вперше збудований у 1880-х роках, і донині залишається одним із найпопулярніших місць у Литві для спостереження за заходом сонця."
     }
   ],
-  "highlightPhoto": "2022-06-24-img-20220624-133359.jpg",
+  "highlightPhoto": "2022-06-24-img-20220624-152046.jpg",
   "highlightPhotoAlt": {
-    "lt": "Palangos medinis tiltas, besidriekiantis į Baltijos jūrą saulėlydžio metu",
-    "en": "Palanga's wooden pier stretching into the Baltic Sea at sunset",
-    "uk": "Дерев'яний міст Паланги, що тягнеться в Балтійське море на заході сонця"
+    "lt": "Palangos medinis tiltas, besidriekiantis į Baltijos jūrą",
+    "en": "Palanga's wooden pier stretching into the Baltic Sea",
+    "uk": "Дерев'яний міст Паланги, що тягнеться в Балтійське море"
   },
   "photos": [
     "2022-06-24-img-20220624-182117-518.jpg",
-    "2022-06-24-img-20220624-184231-988.jpg",
     "2022-06-24-img-20220624-125002.jpg",
     "2022-06-24-img-20220624-125444.jpg",
     "2022-06-24-img-20220624-125541.jpg",
@@ -94,8 +93,6 @@
     "2022-06-24-img-20220624-140258.jpg",
     "2022-06-24-img-20220624-140528.jpg",
     "2022-06-24-img-20220624-141033.jpg",
-    "2022-06-24-img-20220624-141045.jpg",
-    "2022-06-24-img-20220624-143538.jpg",
     "2022-06-24-img-20220624-144020.jpg",
     "2022-06-24-img-20220624-144317.jpg",
     "2022-06-24-img-20220624-144742.jpg",
