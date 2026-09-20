@@ -1,14 +1,14 @@
 {
   "slug": "naujoji-akmene",
   "coordinates": {
-    "lat": 56.3167,
-    "lng": 22.9
+    "lat": 56.325351,
+    "lng": 22.879789
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Naujoji Akmenė",
@@ -42,11 +42,11 @@
       "uk": "Це окреме місто від сусіднього Акмяне, а за радянських часів його цементний завод виробляв понад чотири мільйони тонн цементу на рік."
     }
   ],
-  "highlightPhoto": "2026-06-20-photo-20-06-2026-12-37-00.jpg",
+  "highlightPhoto": "2026-06-20-photo-20-06-2026-13-03-23.jpg",
   "highlightPhotoAlt": {
-    "lt": "Simetriški sovietmečio gyvenamieji blokai ir žaluma Naujojoje Akmenėje",
-    "en": "Symmetrical Soviet-era apartment blocks and greenery in Naujoji Akmenė",
-    "uk": "Симетричні житлові будинки радянської доби та зелень у Науйої Акмяне"
+    "lt": "Miesto aikštė su ažūrine pavėsine Naujojoje Akmenėje",
+    "en": "Town square with ornate gazebo in Naujoji Akmenė",
+    "uk": "Міська площа з ажурною альтанкою в Науйойї-Акмяне"
   },
   "photos": [
     "2026-06-20-photo-20-06-2026-12-03-08.jpg",
