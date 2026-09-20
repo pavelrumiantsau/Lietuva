@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Utena",
@@ -42,11 +42,11 @@
       "uk": "Пивоварня «Utenos alus» в Утені випустила своє перше пиво у 1977 році і є одним із найвідоміших виробників пива в країні."
     }
   ],
-  "highlightPhoto": "2022-07-23-img-20220723-124048.jpg",
+  "highlightPhoto": "2022-07-23-img-20220723-124216.jpg",
   "highlightPhotoAlt": {
-    "lt": "Ežero pakrantė ir Utenos miesto panorama",
-    "en": "A lakeshore with the Utena cityscape in view",
-    "uk": "Берег озера з видом на місто Утена"
+    "lt": "Fontanas ir pastatas su laikrodžio bokštu Utenoje",
+    "en": "Fountain and clock tower building in Utena",
+    "uk": "Фонтан і будівля з годинниковою вежею в Утені"
   },
   "photos": [
     "2022-07-23-img-20220723-120134.jpg",
