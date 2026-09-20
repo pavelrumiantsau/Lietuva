@@ -1,14 +1,14 @@
 {
   "slug": "varena",
   "coordinates": {
-    "lat": 54.2172,
-    "lng": 24.5667
+    "lat": 54.212176,
+    "lng": 24.567373
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Varėna",
@@ -42,11 +42,11 @@
       "uk": "Щовересня у Варені проходить Фестиваль грибів із національним чемпіонатом зі збирання грибів."
     }
   ],
-  "highlightPhoto": "2022-08-20-img-20220820-143920.jpg",
+  "highlightPhoto": "2022-08-20-img-20220820-145147.jpg",
   "highlightPhotoAlt": {
-    "lt": "Pušynas netoli Varėnos Dzūkijos regione",
-    "en": "Pine forest near Varėna in the Dzūkija region",
-    "uk": "Сосновий ліс поблизу Варени в регіоні Дзукія"
+    "lt": "Dekoratyvus fontano baseinas Varėnoje",
+    "en": "Decorative fountain pool in Varėna",
+    "uk": "Декоративний фонтан-басейн у Варені"
   },
   "photos": [
     "2022-08-20-img-20220820-142911.jpg",
