@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Joniškis",
@@ -42,11 +42,11 @@
       "uk": "Йонішкіс вважається столицею сучасної литовської частини історичної землі Жемгали."
     }
   ],
-  "highlightPhoto": "2026-06-07-photo-07-06-2026-16-08-44.jpg",
+  "highlightPhoto": "2026-06-07-photo-07-06-2026-15-49-56.jpg",
   "highlightPhotoAlt": {
-    "lt": "Joniškio senamiesčio turgaus aikštė ir rotušė",
-    "en": "Joniškis old town market square and town hall",
-    "uk": "Торгова площа та ратуша старого міста Йонішкіс"
+    "lt": "Bažnyčios bokštas ir seni mūriniai pastatai Joniškyje",
+    "en": "Church tower and old brick buildings in Joniškis",
+    "uk": "Церковна вежа і старі цегляні будівлі у Йонішкісі"
   },
   "photos": [
     "2026-06-07-photo-07-06-2026-15-42-59.jpg",
