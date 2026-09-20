@@ -1,14 +1,14 @@
 {
   "slug": "vievis",
   "coordinates": {
-    "lat": 54.775,
-    "lng": 24.8083
+    "lat": 54.769378,
+    "lng": 24.815821
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Vievis",
@@ -42,7 +42,7 @@
       "uk": "Попри давню історію маєтку, офіційний статус міста Вєвіс отримав лише 1950 року."
     }
   ],
-  "highlightPhoto": "2023-01-28-photo-2023-01-28-14-53-08.jpg",
+  "highlightPhoto": "2023-01-28-photo-2023-01-28-14-56-41.jpg",
   "highlightPhotoAlt": {
     "lt": "Vievio ežeras su miesteliu palei krantą",
     "en": "Lake Vievis with the town along its shore",
