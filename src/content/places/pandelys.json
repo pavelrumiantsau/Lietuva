@@ -1,14 +1,14 @@
 {
   "slug": "pandelys",
   "coordinates": {
-    "lat": 56.0167,
-    "lng": 25.2167
+    "lat": 56.022745,
+    "lng": 25.226518
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Pandėlys",
@@ -42,15 +42,14 @@
       "uk": "Офіційні міські права Пандельс отримав лише у 1956 році, вже за радянських часів."
     }
   ],
-  "highlightPhoto": "2025-08-30-photo-30-08-2025-14-26-43.jpg",
+  "highlightPhoto": "2025-08-30-photo-30-08-2025-14-08-48.jpg",
   "highlightPhotoAlt": {
-    "lt": "Pandėlio miestelio bažnyčia ir centrinė gatvė",
-    "en": "Pandėlys town church and main street",
-    "uk": "Церква містечка Пандельс і головна вулиця"
+    "lt": "Pandėlio miestelio bažnyčia",
+    "en": "Pandėlys town church",
+    "uk": "Церква містечка Пандельс"
   },
   "photos": [
     "2025-08-30-photo-30-08-2025-14-08-22.jpg",
-    "2025-08-30-photo-30-08-2025-14-08-44.jpg",
     "2025-08-30-photo-30-08-2025-14-08-48.jpg",
     "2025-08-30-photo-30-08-2025-14-10-32.jpg",
     "2025-08-30-photo-30-08-2025-14-12-21.jpg",
@@ -82,7 +81,6 @@
     "2025-08-30-photo-30-08-2025-14-37-49.jpg",
     "2025-08-30-photo-30-08-2025-14-39-10.jpg",
     "2025-08-30-photo-30-08-2025-14-41-52.jpg",
-    "2025-08-30-photo-30-08-2025-14-42-02.jpg",
     "2025-08-30-photo-30-08-2025-14-43-57.jpg",
     "2025-08-30-photo-30-08-2025-14-44-59.jpg",
     "2025-08-30-photo-30-08-2025-14-47-52.jpg"
