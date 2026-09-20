@@ -1,14 +1,14 @@
 {
   "slug": "plunge",
   "coordinates": {
-    "lat": 55.9167,
-    "lng": 21.85
+    "lat": 55.913925,
+    "lng": 21.853376
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Plungė",
@@ -42,7 +42,7 @@
       "uk": "У палаці Огінських тепер розташований Жемайтійський художній музей."
     }
   ],
-  "highlightPhoto": "2026-03-28-photo-28-03-2026-11-48-54.jpg",
+  "highlightPhoto": "2026-03-28-photo-28-03-2026-10-58-37.jpg",
   "highlightPhotoAlt": {
     "lt": "Oginskių rūmų fasadas ir parkas Plungėje",
     "en": "The facade and park of the Oginski Palace in Plungė",
