@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Neringa",
@@ -42,11 +42,11 @@
       "uk": "Ніда, центр муніципалітету, була улюбленою літньою резиденцією письменника Томаса Манна, який 1930 року побудував тут будинок."
     }
   ],
-  "highlightPhoto": "2023-04-29-photo-2023-04-29-19-24-09.jpg",
+  "highlightPhoto": "2023-04-29-photo-2023-04-29-18-29-17.jpg",
   "highlightPhotoAlt": {
-    "lt": "Aukštos Kuršių nerijos smėlio kopos netoli Nidos",
-    "en": "Towering sand dunes of the Curonian Spit near Nida",
-    "uk": "Високі піщані дюни Куршської коси поблизу Ніди"
+    "lt": "Tradiciniai žvejų nameliai Neringoje",
+    "en": "Traditional fishermen's houses in Neringa",
+    "uk": "Традиційні рибальські будиночки в Нерінзі"
   },
   "photos": [
     "2023-04-29-photo-2023-04-29-17-30-15.jpg",
