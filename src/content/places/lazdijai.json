@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Lazdijai",
@@ -42,11 +42,11 @@
       "uk": "За радянських часів прилеглий кордон із Польщею був обгороджений колючим дротом як частина «залізної завіси»; його залишки можна побачити в околицях і донині."
     }
   ],
-  "highlightPhoto": "2023-09-03-photo-2023-09-03-15-12-03.jpg",
+  "highlightPhoto": "2023-09-03-photo-2023-09-03-15-05-06.jpg",
   "highlightPhotoAlt": {
-    "lt": "Banguotas ežerų apsuptas Lazdijų apylinkių kraštovaizdis Dzūkijoje",
-    "en": "Rolling lakeside countryside near Lazdijai in the Dzūkija region",
-    "uk": "Хвилястий озерний краєвид околиць Лаздіяй у регіоні Дзукія"
+    "lt": "Dviejų bokštų bažnyčia ir aikštė Lazdijuose",
+    "en": "Twin-tower church and square in Lazdijai",
+    "uk": "Церква з двома вежами і площа в Лаздіяй"
   },
   "photos": [
     "2023-09-03-photo-2023-09-03-14-47-22.jpg",
