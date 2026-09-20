@@ -1,14 +1,14 @@
 {
   "slug": "kalvarija",
   "coordinates": {
-    "lat": 54.4067,
-    "lng": 23.2214
+    "lat": 54.414386,
+    "lng": 23.227363
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kalvarija",
@@ -42,7 +42,7 @@
       "uk": "У 1791 році Кальварія отримала міські права та герб, затверджені останнім королем Речі Посполитої Станіславом Августом Понятовським."
     }
   ],
-  "highlightPhoto": "2024-08-24-photo-24-08-2024-13-54-19.jpg",
+  "highlightPhoto": "2024-08-24-photo-24-08-2024-13-32-46.jpg",
   "highlightPhotoAlt": {
     "lt": "Kalvarijos miestelio bažnyčia ir centrinė aikštė",
     "en": "The town church and central square of Kalvarija",
@@ -79,10 +79,6 @@
     "2024-08-24-photo-24-08-2024-14-09-02.jpg",
     "2024-08-24-photo-24-08-2024-14-13-05.jpg",
     "2024-08-24-photo-24-08-2024-14-14-25.jpg",
-    "2024-08-24-photo-24-08-2024-14-26-06.jpg",
-    "2024-08-24-photo-24-08-2024-14-30-24.jpg",
-    "2024-08-24-photo-24-08-2024-14-30-27.jpg",
-    "2024-08-24-photo-24-08-2024-14-30-30.jpg",
-    "2024-08-24-photo-24-08-2024-14-30-42.jpg"
+    "2024-08-24-photo-24-08-2024-14-26-06.jpg"
   ]
 }
