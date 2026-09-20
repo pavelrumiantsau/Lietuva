@@ -1,14 +1,14 @@
 {
   "slug": "salcininkai",
   "coordinates": {
-    "lat": 54.3167,
-    "lng": 25.3833
+    "lat": 54.309,
+    "lng": 25.382148
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Šalčininkai",
@@ -42,7 +42,7 @@
       "uk": "Наприкінці радянського періоду Шальчининкайський район разом із Вільнюським краєм проголосив себе самоврядною територією."
     }
   ],
-  "highlightPhoto": "2023-01-22-photo-2023-01-22-14-30-56.jpg",
+  "highlightPhoto": "2023-01-22-photo-2023-01-22-14-08-30.jpg",
   "highlightPhotoAlt": {
     "lt": "Šalčininkų miesto centras",
     "en": "The town center of Šalčininkai",
