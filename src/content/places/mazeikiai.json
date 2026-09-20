@@ -1,14 +1,14 @@
 {
   "slug": "mazeikiai",
   "coordinates": {
-    "lat": 56.3097,
-    "lng": 22.335
+    "lat": 56.311048,
+    "lng": 22.348473
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Mažeikiai",
@@ -37,11 +37,11 @@
       "uk": "Завод, який нині зветься Orlen Lietuva, належить польському концерну PKN Orlen, що став його одноосібним власником 2009 року."
     }
   ],
-  "highlightPhoto": "2024-03-16-photo-16-03-2024-15-02-53.jpg",
+  "highlightPhoto": "2024-03-16-photo-16-03-2024-14-23-16.jpg",
   "highlightPhotoAlt": {
-    "lt": "Mažeikių naftos perdirbimo gamyklos pramoniniai bokštai",
-    "en": "The industrial towers of the Mažeikiai oil refinery",
-    "uk": "Промислові вежі нафтопереробного заводу в Мажейкяй"
+    "lt": "Medžiais apsodinta gatvė su bažnyčios bokštu Mažeikiuose",
+    "en": "Tree-lined street with church tower in Mažeikiai",
+    "uk": "Обсаджена деревами вулиця з церковною вежею в Мажейкяй"
   },
   "photos": [
     "2024-03-16-photo-16-03-2024-14-23-13.jpg",
