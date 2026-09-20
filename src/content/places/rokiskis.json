@@ -1,14 +1,14 @@
 {
   "slug": "rokiskis",
   "coordinates": {
-    "lat": 55.9667,
-    "lng": 25.5833
+    "lat": 55.954024,
+    "lng": 25.591746
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Rokiškis",
@@ -42,7 +42,7 @@
       "uk": "З 1940-х років у палаці розташований Рокішкіський краєзнавчий музей."
     }
   ],
-  "highlightPhoto": "2025-08-30-photo-30-08-2025-15-49-16.jpg",
+  "highlightPhoto": "2025-08-30-photo-30-08-2025-15-50-19.jpg",
   "highlightPhotoAlt": {
     "lt": "Rokiškio dvaro rūmai ir parkas",
     "en": "The Rokiškis manor palace and its park",
