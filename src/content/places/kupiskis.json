@@ -1,14 +1,14 @@
 {
   "slug": "kupiskis",
   "coordinates": {
-    "lat": 55.8347,
-    "lng": 24.9714
+    "lat": 55.838891,
+    "lng": 24.976043
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kupiškis",
@@ -42,7 +42,7 @@
       "uk": "Людські кістки, меч і давні монети, знайдені під час копання фундаменту церкви, дали підстави припустити, що тут було давнє культове місце."
     }
   ],
-  "highlightPhoto": "2024-10-05-photo-05-10-2024-13-54-16.jpg",
+  "highlightPhoto": "2024-10-05-photo-05-10-2024-13-30-26.jpg",
   "highlightPhotoAlt": {
     "lt": "Neogotikinė bažnyčia Kupiškio centre",
     "en": "The neo-Gothic church in the centre of Kupiškis",
