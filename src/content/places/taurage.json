@@ -1,14 +1,14 @@
 {
   "slug": "taurage",
   "coordinates": {
-    "lat": 55.25,
-    "lng": 22.2833
+    "lat": 55.25336,
+    "lng": 22.29034
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Tauragė",
@@ -42,7 +42,7 @@
       "uk": "Садибно-замковий комплекс Таураге зберігся донині і нагадує про історію міста як прикордонного торгового центру."
     }
   ],
-  "highlightPhoto": "2025-05-31-photo-31-05-2025-14-45-13.jpg",
+  "highlightPhoto": "2025-05-31-photo-31-05-2025-14-48-14.jpg",
   "highlightPhotoAlt": {
     "lt": "Tauragės pilies ir dvaro kompleksas",
     "en": "The Tauragė castle and manor complex",
