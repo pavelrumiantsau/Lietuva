@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Švenčionys",
@@ -42,11 +42,11 @@
       "uk": "Місто є центром Швенчьоніського районного самоврядування поблизу кордону з Білоруссю і відрізняється від сусіднього Швенчьонеляй."
     }
   ],
-  "highlightPhoto": "2024-03-31-photo-31-03-2024-15-38-04.jpg",
+  "highlightPhoto": "2024-03-31-photo-31-03-2024-15-18-09.jpg",
   "highlightPhotoAlt": {
-    "lt": "Švenčionių senamiesčio gatvė ir bažnyčia",
-    "en": "A street in the Švenčionys old town, with its church",
-    "uk": "Вулиця старого міста Швенчьоніс із церквою"
+    "lt": "Muziejaus pastatas gatvės kampe Švenčionyse",
+    "en": "Museum building on a street corner in Švenčionys",
+    "uk": "Будівля музею на розі вулиці в Швенчьоніс"
   },
   "photos": [
     "2024-03-31-photo-31-03-2024-15-17-20.jpg",
