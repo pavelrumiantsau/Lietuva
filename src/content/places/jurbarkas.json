@@ -1,14 +1,14 @@
 {
   "slug": "jurbarkas",
   "coordinates": {
-    "lat": 55.0764,
-    "lng": 22.7714
+    "lat": 55.077708,
+    "lng": 22.764695
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Jurbarkas",
@@ -44,16 +44,15 @@
   ],
   "highlightPhoto": "2024-10-19-photo-19-10-2024-16-49-54.jpg",
   "highlightPhotoAlt": {
-    "lt": "Nemuno upės vaizdas prie Jurbarko",
-    "en": "View of the Nemunas River near Jurbarkas",
-    "uk": "Вид на річку Нямунас поблизу Юрбаркаса"
+    "lt": "Autobusų stotis ir laikrodžio bokštas Jurbarke",
+    "en": "Bus station and clock tower in Jurbarkas",
+    "uk": "Автостанція і годинникова вежа в Юрбаркасі"
   },
   "photos": [
     "2024-10-19-photo-19-10-2024-16-18-58.jpg",
     "2024-10-19-photo-19-10-2024-16-19-41.jpg",
     "2024-10-19-photo-19-10-2024-16-19-56.jpg",
     "2024-10-19-photo-19-10-2024-16-21-21.jpg",
-    "2024-10-19-photo-19-10-2024-16-22-59.jpg",
     "2024-10-19-photo-19-10-2024-16-23-02.jpg",
     "2024-10-19-photo-19-10-2024-16-23-48.jpg",
     "2024-10-19-photo-19-10-2024-16-23-57.jpg",
