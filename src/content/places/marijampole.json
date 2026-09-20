@@ -1,14 +1,14 @@
 {
   "slug": "marijampole",
   "coordinates": {
-    "lat": 54.5597,
-    "lng": 23.3546
+    "lat": 54.556254,
+    "lng": 23.350349
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Marijampolė",
@@ -42,11 +42,11 @@
       "uk": "Народжений неподалік Юргіс Матулайтіс на початку XX століття відродив тут орден маріан, а ім'ям міста названо й засновану 1918 року чернечу конгрегацію."
     }
   ],
-  "highlightPhoto": "2022-09-24-img-20220924-151408.jpg",
+  "highlightPhoto": "2022-09-24-img-20220924-153833.jpg",
   "highlightPhotoAlt": {
-    "lt": "Marijonų bazilika Marijampolės centre",
-    "en": "The Marian basilica in the center of Marijampolė",
-    "uk": "Маріанська базиліка в центрі Марьямполе"
+    "lt": "Istorinis geležinkelio stoties pastatas Marijampolėje",
+    "en": "Historic railway station building in Marijampolė",
+    "uk": "Історична будівля залізничного вокзалу в Марійямполе"
   },
   "photos": [
     "2022-09-24-img-20220924-143641.jpg",
