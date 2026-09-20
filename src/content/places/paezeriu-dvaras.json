@@ -1,14 +1,14 @@
 {
   "slug": "paezeriu-dvaras",
   "coordinates": {
-    "lat": 54.652,
-    "lng": 22.971
+    "lat": 54.639531,
+    "lng": 22.979066
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Paežerių dvaras",
@@ -42,11 +42,11 @@
       "uk": "З 2004 року в маєтку працює регіональний культурний центр-музей Судовії."
     }
   ],
-  "highlightPhoto": "2026-03-07-photo-07-03-2026-15-17-49.jpg",
+  "highlightPhoto": "2026-03-07-photo-07-03-2026-15-16-48.jpg",
   "highlightPhotoAlt": {
-    "lt": "Klasicistinis Paežerių dvaro rūmų fasadas prie ežero",
-    "en": "The Neoclassical facade of Paežeriai Manor beside its lake",
-    "uk": "Класицистичний фасад маєтку Паєжеряй біля озера"
+    "lt": "Klasicistinis dvaras su kolonomis Paežeriuose",
+    "en": "Neoclassical manor with columns in Paežeriai",
+    "uk": "Класицистична садиба з колонами в Паєжеряй"
   },
   "photos": [
     "2026-03-07-photo-07-03-2026-15-15-41.jpg",
