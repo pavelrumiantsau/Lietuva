@@ -1,14 +1,14 @@
 {
   "slug": "pabrade",
   "coordinates": {
-    "lat": 55.1,
-    "lng": 26.0033
+    "lat": 54.983114,
+    "lng": 25.766302
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Pabradė",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2023-12-16-photo-16-12-2023-14-24-00.jpg",
   "highlightPhotoAlt": {
-    "lt": "Kariniai automobiliai Pabradės poligone prie Žeimenos upės",
-    "en": "Military vehicles at the Pabradė training area near the Žeimena river",
-    "uk": "Військова техніка на полігоні в Пабраде біля річки Жеймена"
+    "lt": "Apsnigta upė ir tiltas Pabradėje",
+    "en": "Snowy river and bridge in Pabradė",
+    "uk": "Засніжена річка і міст у Пабраде"
   },
   "photos": [
     "2023-12-16-photo-16-12-2023-13-55-43.jpg",
