@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kudirkos Naumiestis",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2025-12-30-photo-30-12-2025-13-36-01.jpg",
   "highlightPhotoAlt": {
-    "lt": "Vinco Kudirkos muziejaus pastatas Kudirkos Naumiestyje",
-    "en": "The Vincas Kudirka Museum building in Kudirkos Naumiestis",
-    "uk": "Будівля музею Вінцаса Кудірки в Кудіркос Науместісі"
+    "lt": "Ženklas Kudirkos Naumiestyje",
+    "en": "Sign in Kudirkos Naumiestis",
+    "uk": "Напис у Кудіркос Наумісті"
   },
   "photos": [
     "2025-12-30-photo-30-12-2025-13-22-52.jpg",
