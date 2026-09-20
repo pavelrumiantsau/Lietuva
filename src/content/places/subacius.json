@@ -1,14 +1,14 @@
 {
   "slug": "subacius",
   "coordinates": {
-    "lat": 55.7333,
-    "lng": 24.95
+    "lat": 55.767855,
+    "lng": 24.733707
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Subačius",
@@ -42,11 +42,11 @@
       "uk": "До наших днів збереглися церква Пресвятої Трійці 1884 року та кам'яний склад, збудований близько 1856 року."
     }
   ],
-  "highlightPhoto": "2025-05-25-photo-25-05-2025-13-09-41.jpg",
+  "highlightPhoto": "2025-05-25-photo-25-05-2025-13-05-13.jpg",
   "highlightPhotoAlt": {
-    "lt": "Švč. Trejybės bažnyčia Subačiuje",
-    "en": "The Holy Trinity church in Subačius",
-    "uk": "Церква Пресвятої Трійці в Субачюсі"
+    "lt": "Senas akmeninis pastatas Subačiuje",
+    "en": "Old stone building in Subačius",
+    "uk": "Стара кам'яна будівля в Субачюсі"
   },
   "photos": [
     "2025-05-25-photo-25-05-2025-12-58-02.jpg",
