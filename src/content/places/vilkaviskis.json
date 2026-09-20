@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Vilkaviškis",
@@ -42,11 +42,11 @@
       "uk": "У Вілкавішкісі існувала численна заможна єврейська громада, знищена під час німецької окупації в роки Другої світової війни."
     }
   ],
-  "highlightPhoto": "2025-12-30-photo-30-12-2025-15-09-31.jpg",
+  "highlightPhoto": "2025-12-30-photo-30-12-2025-15-17-02.jpg",
   "highlightPhotoAlt": {
-    "lt": "Vilkaviškio katedra miesto centre",
-    "en": "Vilkaviškis Cathedral in the town center",
-    "uk": "Вілкавішкіський кафедральний собор у центрі міста"
+    "lt": "Bažnyčia prie upelio prieblandoje Vilkaviškyje",
+    "en": "Church by a stream at dusk in Vilkaviškis",
+    "uk": "Церква біля струмка в сутінках у Вількавішкісі"
   },
   "photos": [
     "2025-12-30-photo-30-12-2025-14-48-17.jpg",
