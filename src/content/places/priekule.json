@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Priekulė",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2025-11-08-photo-08-11-2025-13-00-08.jpg",
   "highlightPhotoAlt": {
-    "lt": "Priekulės evangelikų liuteronų bažnyčia prie Minijos upės",
-    "en": "The Evangelical Lutheran church of Priekulė by the Minija river",
-    "uk": "Євангелічно-лютеранський костел Прієкуле біля річки Мінія"
+    "lt": "Migloti miesto aikštė su senais pastatais Priekulėje",
+    "en": "Foggy town square with old buildings in Priekulė",
+    "uk": "Туманна міська площа зі старими будівлями в Прієкуле"
   },
   "photos": [
     "2025-11-08-photo-08-11-2025-12-31-48.jpg",
