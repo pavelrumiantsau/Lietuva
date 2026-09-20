@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Prienai",
@@ -42,11 +42,11 @@
       "uk": "На протилежному березі Нямунасу, у Пунському лісі, росте сосна заввишки близько 42 метрів, яку довгі роки вважали найвищою в Литві."
     }
   ],
-  "highlightPhoto": "2024-06-15-photo-15-06-2024-14-48-33.jpg",
+  "highlightPhoto": "2024-06-15-photo-15-06-2024-15-11-47.jpg",
   "highlightPhotoAlt": {
-    "lt": "Prienų medinė bažnyčia su dviem bokštais",
-    "en": "The twin-towered wooden church of Prienai",
-    "uk": "Дерев'яний костел Прієнай з двома вежами"
+    "lt": "Sena malūno pastatas ant šlaito Prienuose",
+    "en": "Old mill building on a hillside in Prienai",
+    "uk": "Стара будівля млина на схилі в Прієнай"
   },
   "photos": [
     "2024-06-15-photo-15-06-2024-14-04-01.jpg",
