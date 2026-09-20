@@ -1,14 +1,14 @@
 {
   "slug": "lentvaris",
   "coordinates": {
-    "lat": 54.6494,
-    "lng": 25.0553
+    "lat": 54.64287,
+    "lng": 25.050404
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Lentvaris",
@@ -42,7 +42,7 @@
       "uk": "Прокладена у XIX столітті залізниця Варшава–Санкт-Петербург перетворила Лентварис на вузлове місто, звідки й донині лічені хвилини приміським потягом до Вільнюса."
     }
   ],
-  "highlightPhoto": "2022-04-17-img-20220417-131138.jpg",
+  "highlightPhoto": "2022-04-17-img-20220417-123933.jpg",
   "highlightPhotoAlt": {
     "lt": "Lentvario Tiškevičių rūmai, atsispindintys ežere",
     "en": "The Tyszkiewicz Palace at Lentvaris reflected in the lake",
