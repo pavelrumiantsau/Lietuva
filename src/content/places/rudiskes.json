@@ -1,14 +1,14 @@
 {
   "slug": "rudiskes",
   "coordinates": {
-    "lat": 54.5167,
-    "lng": 24.8333
+    "lat": 54.52097,
+    "lng": 24.83175
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Rūdiškės",
@@ -42,11 +42,11 @@
       "uk": "Офіційний статус міста Рудішкес отримало 1958 року."
     }
   ],
-  "highlightPhoto": "2023-11-18-photo-18-11-2023-14-11-30.jpg",
+  "highlightPhoto": "2023-11-18-photo-18-11-2023-14-12-19.jpg",
   "highlightPhotoAlt": {
-    "lt": "Rūdiškių miestelio gatvė tarp pušynų",
-    "en": "A street in Rūdiškės surrounded by pine forest",
-    "uk": "Вулиця містечка Рудішкес серед соснових лісів"
+    "lt": "Istorinis geležinkelio stoties pastatas Rūdiškėse",
+    "en": "Historic railway station building in Rūdiškės",
+    "uk": "Історична будівля залізничного вокзалу в Рудішкес"
   },
   "photos": [
     "2023-11-18-photo-18-11-2023-13-50-46.jpg",
