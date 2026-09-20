@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Ramygala",
@@ -42,11 +42,11 @@
       "uk": "На відміну від більшості литовських містечок, Рамигала належала не шляхетському роду, а Вільнюській кафедрі, а згодом Вільнюському університету."
     }
   ],
-  "highlightPhoto": "2025-05-25-photo-25-05-2025-14-48-06.jpg",
+  "highlightPhoto": "2025-05-25-photo-25-05-2025-15-07-47.jpg",
   "highlightPhotoAlt": {
-    "lt": "Ramygalos bažnyčia prie Upytės upės",
-    "en": "The church of Ramygala on the banks of the Upytė river",
-    "uk": "Костел Рамигали на березі річки Упіте"
+    "lt": "Raudonų plytų bažnyčia su aukštu bokšteliu Ramygaloje",
+    "en": "Red brick church with tall spire in Ramygala",
+    "uk": "Церква з червоної цегли з високим шпилем у Рамігалі"
   },
   "photos": [
     "2025-05-25-photo-25-05-2025-14-29-33.jpg",
