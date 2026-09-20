@@ -1,14 +1,14 @@
 {
   "slug": "troskunai",
   "coordinates": {
-    "lat": 55.6167,
-    "lng": 24.85
+    "lat": 55.586543,
+    "lng": 24.871039
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Troškūnai",
