@@ -1,14 +1,14 @@
 {
   "slug": "radviliskis",
   "coordinates": {
-    "lat": 55.8,
-    "lng": 23.55
+    "lat": 55.815743,
+    "lng": 23.550577
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Radviliškis",
@@ -42,11 +42,11 @@
       "uk": "Ця перемога допомогла захистити центральну Литву під час Воєн за незалежність."
     }
   ],
-  "highlightPhoto": "2025-08-16-photo-16-08-2025-14-07-51.jpg",
+  "highlightPhoto": "2025-08-16-photo-16-08-2025-14-06-58.jpg",
   "highlightPhotoAlt": {
-    "lt": "Radviliškio geležinkelio stotis ir bėgių mazgas",
-    "en": "The railway station and track junction at Radviliškis",
-    "uk": "Залізнична станція та вузол колій у Радвілішкісі"
+    "lt": "Medinė varpinė ir bažnyčia Radviliškyje",
+    "en": "Wooden belfry tower and church in Radviliškis",
+    "uk": "Дерев'яна дзвіниця і церква в Радвіліскісі"
   },
   "photos": [
     "2025-08-16-photo-16-08-2025-13-41-12.jpg",
