@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Kretinga",
@@ -37,14 +37,13 @@
       "uk": "Наприкінці XIX століття графи Тишкевичі збудували неоренесансний палац з оранжереєю, де вирощували екзотичні рослини."
     }
   ],
-  "highlightPhoto": "2026-08-09-photo-09-08-2026-11-50-53.jpg",
+  "highlightPhoto": "2026-08-09-photo-09-08-2026-12-05-02.jpg",
   "highlightPhotoAlt": {
-    "lt": "Kretingos pranciškonų vienuolyno bažnyčia",
-    "en": "The Franciscan monastery church in Kretinga",
-    "uk": "Церква монастиря францисканців у Кретінзі"
+    "lt": "Kretingos dvaras su stikliniu žiemos sodu",
+    "en": "Kretinga manor with glass winter garden",
+    "uk": "Кретінзька садиба зі скляним зимовим садом"
   },
   "photos": [
-    "2026-08-09-photo-09-08-2026-11-11-58.jpg",
     "2026-08-09-photo-09-08-2026-11-12-28.jpg",
     "2026-08-09-photo-09-08-2026-11-16-02.jpg",
     "2026-08-09-photo-09-08-2026-11-16-05.jpg",
