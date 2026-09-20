@@ -1,14 +1,14 @@
 {
   "slug": "rietavas",
   "coordinates": {
-    "lat": 55.7272,
-    "lng": 21.9233
+    "lat": 55.722941,
+    "lng": 21.927082
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Rietavas",
@@ -42,7 +42,7 @@
       "uk": "Огінські також заснували при маєтку відому музичну школу."
     }
   ],
-  "highlightPhoto": "2026-08-08-photo-08-08-2026-14-46-53.jpg",
+  "highlightPhoto": "2026-08-08-photo-08-08-2026-14-51-06.jpg",
   "highlightPhotoAlt": {
     "lt": "Buvusio Oginskių dvaro pastatai Rietave",
     "en": "Buildings of the former Oginski estate in Rietavas",
@@ -60,8 +60,6 @@
     "2026-08-08-photo-08-08-2026-14-28-24.jpg",
     "2026-08-08-photo-08-08-2026-14-28-37.jpg",
     "2026-08-08-photo-08-08-2026-14-29-34.jpg",
-    "2026-08-08-photo-08-08-2026-14-31-16.jpg",
-    "2026-08-08-photo-08-08-2026-14-31-29.jpg",
     "2026-08-08-photo-08-08-2026-14-37-47.jpg",
     "2026-08-08-photo-08-08-2026-14-40-51.jpg",
     "2026-08-08-photo-08-08-2026-14-43-22.jpg",
