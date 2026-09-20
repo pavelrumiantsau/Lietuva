@@ -1,14 +1,14 @@
 {
   "slug": "smalininkai",
   "coordinates": {
-    "lat": 55.0833,
-    "lng": 22.5667
+    "lat": 55.073511,
+    "lng": 22.579282
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Smalininkai",
@@ -42,11 +42,11 @@
       "uk": "Зимовий порт і корабельня, збудовані у середині XIX століття, виробляли річкові судна завдовжки до 30 метрів."
     }
   ],
-  "highlightPhoto": "2024-10-19-photo-19-10-2024-15-35-40.jpg",
+  "highlightPhoto": "2024-10-19-photo-19-10-2024-15-58-54.jpg",
   "highlightPhotoAlt": {
-    "lt": "Nemuno upės vaizdas prie Smalininkų",
-    "en": "The Nemunas river at Smalininkai",
-    "uk": "Річка Німан біля Смалінінкая"
+    "lt": "Sena gatvė su istoriniais pastatais Smalininkuose",
+    "en": "Old street with historic buildings in Smalininkai",
+    "uk": "Стара вулиця з історичними будівлями в Смалінінкай"
   },
   "photos": [
     "2024-10-19-photo-19-10-2024-15-15-47.jpg",
