@@ -1,14 +1,14 @@
 {
   "slug": "vilkija",
   "coordinates": {
-    "lat": 55.05,
-    "lng": 23.5833
+    "lat": 55.039729,
+    "lng": 23.582989
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Vilkija",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2025-07-19-photo-19-07-2025-14-27-20.jpg",
   "highlightPhotoAlt": {
-    "lt": "Nemuno vingis netoli Vilkijos",
-    "en": "The Nemunas river bend near Vilkija",
-    "uk": "Вигин Немана поблизу Вількії"
+    "lt": "Vilkijos vaizdas su bažnyčios bokštais ant kalvos",
+    "en": "View of Vilkija with the church spires on a hill",
+    "uk": "Вид на Вількію з баштами костелу на пагорбі"
   },
   "photos": [
     "2025-07-19-photo-19-07-2025-14-02-02.jpg",
