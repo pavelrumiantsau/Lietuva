@@ -1,14 +1,14 @@
 {
   "slug": "zapyskis",
   "coordinates": {
-    "lat": 54.925,
-    "lng": 23.65
+    "lat": 54.926451,
+    "lng": 23.660473
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Zapyškis",
