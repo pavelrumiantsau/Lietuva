@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Zarasai",
@@ -42,11 +42,11 @@
       "uk": "Назва містечка змінювалася кілька разів: Новоалександровськ за російського панування, Ежеренай з 1919 року і Зарасай з 1929-го."
     }
   ],
-  "highlightPhoto": "2026-07-18-photo-18-07-2026-14-20-35.jpg",
+  "highlightPhoto": "2026-07-18-photo-18-07-2026-15-03-06.jpg",
   "highlightPhotoAlt": {
-    "lt": "Zarasų ežeras su miesteliu pakrantėje",
-    "en": "Lake Zarasas with the town of Zarasai on its shore",
-    "uk": "Озеро Зарасас із містечком Зарасай на березі"
+    "lt": "Modernus spiralinis takas virš žaliųjų kalnelių Zarasų centre",
+    "en": "A modern spiral walkway over green mounds in central Zarasai",
+    "uk": "Сучасна спіральна доріжка над зеленими пагорбами в центрі Зарасай"
   },
   "photos": [
     "2026-07-18-photo-18-07-2026-13-36-49.jpg",
@@ -56,7 +56,6 @@
     "2026-07-18-photo-18-07-2026-13-40-16.jpg",
     "2026-07-18-photo-18-07-2026-13-41-19.jpg",
     "2026-07-18-photo-18-07-2026-13-42-33.jpg",
-    "2026-07-18-photo-18-07-2026-13-43-59.jpg",
     "2026-07-18-photo-18-07-2026-13-44-02.jpg",
     "2026-07-18-photo-18-07-2026-13-45-19.jpg",
     "2026-07-18-photo-18-07-2026-13-52-27.jpg",
@@ -68,7 +67,6 @@
     "2026-07-18-photo-18-07-2026-14-11-02.jpg",
     "2026-07-18-photo-18-07-2026-14-20-21.jpg",
     "2026-07-18-photo-18-07-2026-14-20-35.jpg",
-    "2026-07-18-photo-18-07-2026-14-21-44.jpg",
     "2026-07-18-photo-18-07-2026-14-25-26.jpg",
     "2026-07-18-photo-18-07-2026-14-25-46.jpg",
     "2026-07-18-photo-18-07-2026-14-46-06.jpg",
