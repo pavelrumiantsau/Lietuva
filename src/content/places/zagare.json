@@ -1,14 +1,14 @@
 {
   "slug": "zagare",
   "coordinates": {
-    "lat": 56.3667,
-    "lng": 23.25
+    "lat": 56.358362,
+    "lng": 23.255118
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Žagarė",
@@ -42,11 +42,11 @@
       "uk": "Центр відвідувачів регіонального парку Жагаре розташований в історичному маєтку Жагаре."
     }
   ],
-  "highlightPhoto": "2026-06-07-photo-07-06-2026-14-15-35.jpg",
+  "highlightPhoto": "2026-06-07-photo-07-06-2026-14-10-05.jpg",
   "highlightPhotoAlt": {
-    "lt": "Žydinčios vyšnios Žagarės miestelyje",
-    "en": "Cherry blossoms in the town of Žagarė",
-    "uk": "Квітучі вишні в містечку Жагаре"
+    "lt": "Žagarės dvaro rūmai su klasicistiniu fasadu ir statulomis",
+    "en": "Žagarė Manor with its neoclassical facade and statues",
+    "uk": "Маєток Жагаре з класицистичним фасадом і статуями"
   },
   "photos": [
     "2026-06-07-photo-07-06-2026-13-45-02.jpg",
@@ -59,7 +59,6 @@
     "2026-06-07-photo-07-06-2026-13-55-49.jpg",
     "2026-06-07-photo-07-06-2026-13-58-18.jpg",
     "2026-06-07-photo-07-06-2026-13-58-31.jpg",
-    "2026-06-07-photo-07-06-2026-13-58-58.jpg",
     "2026-06-07-photo-07-06-2026-13-59-05.jpg",
     "2026-06-07-photo-07-06-2026-13-59-26.jpg",
     "2026-06-07-photo-07-06-2026-14-00-06.jpg",
