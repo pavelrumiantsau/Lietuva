@@ -1,0 +1,84 @@
+{
+  "slug": "rusne",
+  "coordinates": {
+    "lat": 55.296636,
+    "lng": 21.376105
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": true,
+    "en": true,
+    "uk": true
+  },
+  "name": {
+    "lt": "Rusnė",
+    "en": "Rusnė",
+    "uk": "Русне"
+  },
+  "shortDescription": {
+    "lt": "Miestelis Nemuno deltoje, didžiausioje Lietuvos saloje, kurioje yra ir žemiausias šalies taškas.",
+    "en": "A town in the Nemunas Delta on Lithuania's largest island, home to the country's lowest point.",
+    "uk": "Містечко в дельті Німану на найбільшому острові Литви, де розташована найнижча точка країни."
+  },
+  "longDescription": {
+    "lt": "Rusnė — miestelis Šilutės rajone, įsikūręs Nemuno deltoje, Rusnės saloje: 43,5 km² ploto didžiausioje Lietuvos saloje tarp Atmatos ir Skirvytės. Pirmą kartą Rusnė paminėta 1365 metais, kai Kryžiuočių ordinas leido čia žvejoti ir kirsti mišką; 1553 metais įsteigta lietuviška parapinė mokykla, o 1809–1827 metais pastatyta evangelikų liuteronų bažnyčia. Sala guli taip žemai, kad būtent joje yra žemiausias Lietuvos taškas — 1,3 m žemiau jūros lygio, todėl pavasario potvyniai vienintelį asfaltuotą kelią iš Šilutės užliedavo maždaug keturiasdešimt dienų per metus, kol 2019 metais atidaryta 460 m ilgio estakada užtikrino ištisus metus veikiantį susisiekimą. Miestelį supa Nemuno deltos regioninis parkas, garsėjantis paukščių stebėjimu ir žvejyba, o Skirvytė žymi sieną su Rusijos Kaliningrado sritimi.",
+    "en": "Rusnė is a small town in the Šilutė district, set in the Nemunas Delta on Rusnė Island — at 43.5 km² the largest island in Lithuania, held between the Atmata and Skirvytė branches of the river. It was first mentioned in 1365, when the Teutonic Order granted the right to fish and cut timber here; a Lithuanian parish school followed in 1553, and the Evangelical Lutheran church was built between 1809 and 1827. The island lies so low that Lithuania's lowest point, 1.3 m below sea level, is found on it, and spring floods used to close the only paved road from Šilutė for roughly forty days a year — until a 460 m viaduct opened in 2019 and made the town reachable all year round. Rusnė sits inside the Nemunas Delta Regional Park, known for its birdwatching and fishing, while the Skirvytė marks the border with Russia's Kaliningrad Region.",
+    "uk": "Русне — містечко в Шилутському районі, розташоване в дельті Німану на острові Русне: це найбільший острів Литви площею 43,5 км², затиснутий між рукавами Атмата і Скірвіте. Уперше Русне згадується 1365 року, коли Тевтонський орден дозволив тут рибалити й рубати ліс; 1553 року відкрилася литовська парафіяльна школа, а в 1809–1827 роках звели євангелицько-лютеранську церкву. Острів лежить настільки низько, що саме на ньому розташована найнижча точка Литви — 1,3 м нижче рівня моря, і весняні повені щороку приблизно на сорок днів заливали єдину асфальтовану дорогу з Шилуте, аж поки 2019 року не відкрили 460-метрову естакаду, яка забезпечила цілорічний доїзд. Містечко оточує регіональний парк дельти Німану, відомий спостереженням за птахами та риболовлею, а річка Скірвіте позначає кордон з Калінінградською областю Росії."
+  },
+  "facts": [
+    {
+      "lt": "Rusnė stovi Rusnės saloje — 43,5 km² ploto didžiausioje Lietuvos saloje tarp Atmatos ir Skirvytės.",
+      "en": "Rusnė stands on Rusnė Island, at 43.5 km² the largest island in Lithuania, between the Atmata and the Skirvytė.",
+      "uk": "Русне стоїть на острові Русне — найбільшому острові Литви площею 43,5 км², між Атматою і Скірвіте."
+    },
+    {
+      "lt": "Žemiausias Lietuvos taškas — 1,3 m žemiau jūros lygio — yra Rusnės saloje.",
+      "en": "Lithuania's lowest point, 1.3 m below sea level, lies on Rusnė Island.",
+      "uk": "Найнижча точка Литви — 1,3 м нижче рівня моря — розташована на острові Русне."
+    },
+    {
+      "lt": "Iki 2019 metų, kai buvo atidaryta 460 m ilgio estakada, vienintelį kelią į Rusnę potvyniai užliedavo maždaug 40 dienų per metus.",
+      "en": "Until a 460 m viaduct opened in 2019, the only paved road to Rusnė was flooded for about 40 days a year.",
+      "uk": "До відкриття 460-метрової естакади у 2019 році єдину асфальтовану дорогу до Русне заливало близько 40 днів на рік."
+    }
+  ],
+  "highlightPhoto": "2026-09-04-photo-04-09-2026-16-22-21.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Rusnės gatvė su senais mediniais namais ir medžių alėja",
+    "en": "A street in Rusnė lined with old wooden houses and trees",
+    "uk": "Вулиця в Русне зі старими дерев'яними будинками та деревами"
+  },
+  "photos": [
+    "2026-09-04-photo-04-09-2026-15-43-40.jpg",
+    "2026-09-04-photo-04-09-2026-15-44-11.jpg",
+    "2026-09-04-photo-04-09-2026-15-46-04.jpg",
+    "2026-09-04-photo-04-09-2026-15-46-07.jpg",
+    "2026-09-04-photo-04-09-2026-15-47-30.jpg",
+    "2026-09-04-photo-04-09-2026-15-48-02.jpg",
+    "2026-09-04-photo-04-09-2026-15-48-47.jpg",
+    "2026-09-04-photo-04-09-2026-15-51-05.jpg",
+    "2026-09-04-photo-04-09-2026-15-52-04.jpg",
+    "2026-09-04-photo-04-09-2026-15-52-19.jpg",
+    "2026-09-04-photo-04-09-2026-15-57-54.jpg",
+    "2026-09-04-photo-04-09-2026-15-59-26.jpg",
+    "2026-09-04-photo-04-09-2026-16-01-38.jpg",
+    "2026-09-04-photo-04-09-2026-16-05-42.jpg",
+    "2026-09-04-photo-04-09-2026-16-07-42.jpg",
+    "2026-09-04-photo-04-09-2026-16-08-15.jpg",
+    "2026-09-04-photo-04-09-2026-16-08-30.jpg",
+    "2026-09-04-photo-04-09-2026-16-09-58.jpg",
+    "2026-09-04-photo-04-09-2026-16-10-22.jpg",
+    "2026-09-04-photo-04-09-2026-16-10-37.jpg",
+    "2026-09-04-photo-04-09-2026-16-13-05.jpg",
+    "2026-09-04-photo-04-09-2026-16-14-22.jpg",
+    "2026-09-04-photo-04-09-2026-16-15-10.jpg",
+    "2026-09-04-photo-04-09-2026-16-16-31.jpg",
+    "2026-09-04-photo-04-09-2026-16-22-15.jpg",
+    "2026-09-04-photo-04-09-2026-16-22-21.jpg",
+    "2026-09-04-photo-04-09-2026-16-22-27.jpg",
+    "2026-09-04-photo-04-09-2026-16-23-42.jpg",
+    "2026-09-04-photo-04-09-2026-16-33-20.jpg",
+    "2026-09-04-photo-04-09-2026-16-46-27.jpg",
+    "2026-09-04-photo-04-09-2026-16-46-47.jpg"
+  ]
+}
