@@ -1,14 +1,14 @@
 {
   "slug": "zarasu-rajonas",
   "coordinates": {
-    "lat": 55.8142,
-    "lng": 25.8194
+    "lat": 55.802771,
+    "lng": 26.083486
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Zarasų rajonas",
@@ -42,11 +42,11 @@
       "uk": "Озеро Сартай традиційно було місцем зимових кінних перегонів на замерзлій поверхні — ця традиція нині триває на сусідньому іподромі."
     }
   ],
-  "highlightPhoto": "2026-07-18-photo-18-07-2026-16-22-00.jpg",
+  "highlightPhoto": "2026-07-18-photo-18-07-2026-16-51-12.jpg",
   "highlightPhotoAlt": {
-    "lt": "Ramus ežeras kaimiškoje Zarasų rajono apylinkėje",
-    "en": "A quiet lake in the rural Zarasai district countryside",
-    "uk": "Тихе озеро в сільській місцевості Зарасайського району"
+    "lt": "Skliautinė medinė koplyčia su kryžiumi Zarasų rajone",
+    "en": "An arch-shaped wooden chapel with a cross in Zarasai district",
+    "uk": "Дерев'яна каплиця у формі арки з хрестом в Зарасайському районі"
   },
   "photos": [
     "2026-07-18-photo-18-07-2026-15-55-56.jpg",
