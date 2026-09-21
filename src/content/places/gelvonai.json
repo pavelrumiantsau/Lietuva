@@ -1,0 +1,57 @@
+{
+  "slug": "gelvonai",
+  "coordinates": {
+    "lat": 55.066691,
+    "lng": 24.69223
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": true,
+    "en": true,
+    "uk": true
+  },
+  "name": {
+    "lt": "Gelvonai",
+    "en": "Gelvonai",
+    "uk": "Гелвонай"
+  },
+  "shortDescription": {
+    "lt": "Širvintų rajono miestelis su akmenų ir plytų mūro bažnyčia bei paminklu Didžiosios Kovos partizanams.",
+    "en": "A small town in the Širvintos district with a stone-and-brick church and a memorial to the Didžioji Kova partisans.",
+    "uk": "Містечко Ширвінтського району з костелом з каменю й цегли та пам'ятником партизанам «Великої Боротьби»."
+  },
+  "longDescription": {
+    "lt": "Gelvonai — miestelis Širvintų rajone, 16 km į vakarus nuo Širvintų. Pirmą kartą vietovė paminėta 1385 metais kaip Gelwen kryžiuočių kelių į Lietuvą aprašymuose. 1744 metų lapkričio 22 dieną karalius Augustas III suteikė Gelvonams miestelio privilegiją ir teisę rengti turgus. Dabartinė Švč. Mergelės Marijos Apsilankymo bažnyčia pastatyta 1897 metais pagal architekto A. Polozovo projektą: neoklasicistinė, su baroko elementais, mūryta iš tašytų akmenų ir raudonų plytų. Šventoriuje stovi XIX amžiaus Pliaterių koplyčia su mediniu vėlyvojo baroko altoriumi, o miestelis žinomas ir akmeniu su vadinamąja Švč. Mergelės Marijos pėda. Aikštėje prie bažnyčios 1998 metais atidengtas skulptoriaus Jono Jagėlos paminklas Didžiosios Kovos apygardos partizanams, jų ryšininkams ir rėmėjams. 2021 metais Gelvonuose gyveno 245 žmonės.",
+    "en": "Gelvonai is a small town in the Širvintos district, 16 km west of Širvintos. The place was first mentioned in 1385 as Gelwen, in descriptions of the Crusaders' routes into Lithuania. On 22 November 1744 King Augustus III granted it town privileges and the right to hold markets. The present Church of the Visitation of the Blessed Virgin Mary was built in 1897 to a design by the architect A. Polozovas: neoclassical with baroque touches, laid up in hewn fieldstone and red brick. In the churchyard stands the 19th-century Plater family chapel with a wooden late-baroque altar, and the town is also known for a stone bearing what is called the Virgin Mary's footprint. On the square by the church, a memorial by the sculptor Jonas Jagėla was unveiled in 1998 to the partisans of the Didžioji Kova (Great Battle) district, their messengers and their supporters. In 2021 Gelvonai had 245 residents.",
+    "uk": "Гелвонай — містечко в Ширвінтському районі, за 16 км на захід від Ширвінтоса. Уперше місцевість згадується 1385 року як Gelwen в описах хрестоносних шляхів до Литви. 22 листопада 1744 року король Август III надав Гелвонаю містечкові привілеї та право проводити ярмарки. Нинішній костел Відвідин Пресвятої Діви Марії зведено 1897 року за проєктом архітектора А. Полозова: неокласицистичний, з елементами бароко, мурований з тесаного каменю та червоної цегли. На церковному подвір'ї стоїть каплиця роду Плятерів XIX століття з дерев'яним пізньобароковим вівтарем, а містечко відоме також каменем із так званим слідом Пресвятої Діви Марії. На площі біля костелу 1998 року відкрито пам'ятник роботи скульптора Йонаса Ягели партизанам округу «Велика Боротьба», їхнім зв'язковим і помічникам. 2021 року в Гелвонаї мешкало 245 осіб."
+  },
+  "facts": [
+    {
+      "lt": "Gelvonai pirmą kartą paminėti 1385 metais kaip Gelwen kryžiuočių kelių į Lietuvą aprašymuose.",
+      "en": "Gelvonai was first mentioned in 1385 as Gelwen, in descriptions of the Crusaders' routes into Lithuania.",
+      "uk": "Гелвонай уперше згадано 1385 року як Gelwen в описах хрестоносних шляхів до Литви."
+    },
+    {
+      "lt": "1744 metais karalius Augustas III suteikė Gelvonams miestelio privilegiją ir teisę rengti turgus.",
+      "en": "In 1744 King Augustus III granted Gelvonai town privileges and the right to hold markets.",
+      "uk": "1744 року король Август III надав Гелвонаю містечкові привілеї та право проводити ярмарки."
+    },
+    {
+      "lt": "1998 metais prie bažnyčios atidengtas skulptoriaus Jono Jagėlos paminklas Didžiosios Kovos apygardos partizanams.",
+      "en": "In 1998 a memorial by the sculptor Jonas Jagėla to the partisans of the Didžioji Kova district was unveiled by the church.",
+      "uk": "1998 року біля костелу відкрито пам'ятник скульптора Йонаса Ягели партизанам округу «Велика Боротьба»."
+    }
+  ],
+  "highlightPhoto": "2026-09-19-photo-19-09-2026-13-32-29.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Raudonų plytų ir akmenų mūro Gelvonų bažnyčia, šalia — baltoji Pliaterių koplyčia",
+    "en": "The red-brick and fieldstone church at Gelvonai, with the white Plater chapel beside it",
+    "uk": "Костел у Гелвонаї з червоної цегли й каменю, поруч — біла каплиця Плятерів"
+  },
+  "photos": [
+    "2026-09-19-photo-19-09-2026-13-31-06.jpg",
+    "2026-09-19-photo-19-09-2026-13-31-50.jpg",
+    "2026-09-19-photo-19-09-2026-13-32-29.jpg",
+    "2026-09-19-photo-19-09-2026-13-33-17.jpg"
+  ]
+}

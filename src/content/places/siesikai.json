@@ -1,0 +1,68 @@
+{
+  "slug": "siesikai",
+  "coordinates": {
+    "lat": 55.293415,
+    "lng": 24.501388
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": true,
+    "en": true,
+    "uk": true
+  },
+  "name": {
+    "lt": "Siesikai",
+    "en": "Siesikai",
+    "uk": "Сесікай"
+  },
+  "shortDescription": {
+    "lt": "Ukmergės rajono miestelis prie ežero su XVI amžiaus pradžios renesansine pilimi.",
+    "en": "A lakeside town in the Ukmergė district with an early 16th-century Renaissance castle.",
+    "uk": "Містечко Укмергського району біля озера з ренесансним замком початку XVI століття."
+  },
+  "longDescription": {
+    "lt": "Siesikai — miestelis Ukmergės rajone, 17 km į šiaurės vakarus nuo Ukmergės, vakariniame Siesikų ežero krante; per miestelį teka į ežerą įtekanti Armona. Svarbiausias jo statinys — Siesikų pilis, 1493–1517 metais Daumantų didikų giminės pastatyti renesansiniai rūmai; XVI amžiaus pabaigoje prie jų prišlieti cilindriniai ir keturkampiai bokštai, o XVII–XVIII amžiais pilis apjuosta gynybiniais įrenginiais. Po 1745 metų dvaras atiteko Daugėlų giminei, todėl vietovė kartais vadinama ir Daugailiais. Miestelyje stovi Šv. apaštalo Baltramiejaus bažnyčia, perstatyta 1846 metais; joje saugomi Vilniaus meno mokyklos kūriniai ir trys XVII–XVIII amžiaus variniai varpai. 2021 metais Siesikuose gyveno 397 žmonės.",
+    "en": "Siesikai is a small town in the Ukmergė district, 17 km north-west of Ukmergė on the western shore of Lake Siesikai; the Armona runs through it into the lake. Its centrepiece is Siesikai Castle, a Renaissance residence built between 1493 and 1517 by the noble Daumantas family; cylindrical and square towers were added at the end of the 16th century, and defensive works were raised around it in the 17th and 18th centuries. After 1745 the estate passed to the Daugėla family, which is why the place is sometimes also called Daugailiai. The town's Church of St Bartholomew the Apostle was rebuilt in 1846 and holds works from the Vilnius art school along with three brass bells cast in the 17th and 18th centuries. In 2021 Siesikai had 397 residents.",
+    "uk": "Сесікай — містечко в Укмергському районі, за 17 км на північний захід від Укмерге, на західному березі озера Сесікай; через містечко тече річка Армона, що впадає в озеро. Його головна споруда — Сесікайський замок, ренесансна резиденція, збудована у 1493–1517 роках шляхетським родом Даумантасів; наприкінці XVI століття до неї прибудували циліндричні та чотирикутні вежі, а у XVII–XVIII століттях замок обнесли оборонними укріпленнями. Після 1745 року маєток перейшов до роду Даугелів, тому місцевість подекуди називають також Даугайляй. У містечку стоїть костел святого апостола Варфоломія, перебудований 1846 року; у ньому зберігаються твори Віленської художньої школи та три мідні дзвони XVII–XVIII століть. 2021 року в Сесікаї мешкало 397 осіб."
+  },
+  "facts": [
+    {
+      "lt": "Siesikų pilis — renesansiniai rūmai, 1493–1517 metais pastatyti Daumantų didikų giminės.",
+      "en": "Siesikai Castle is a Renaissance residence built between 1493 and 1517 by the noble Daumantas family.",
+      "uk": "Сесікайський замок — ренесансна резиденція, збудована у 1493–1517 роках шляхетським родом Даумантасів."
+    },
+    {
+      "lt": "Po 1745 metų dvaras atiteko Daugėlų giminei, todėl vietovė kartais vadinama Daugailiais.",
+      "en": "After 1745 the estate passed to the Daugėla family, which is why the place is sometimes called Daugailiai.",
+      "uk": "Після 1745 року маєток перейшов до роду Даугелів, тому місцевість інколи називають Даугайляй."
+    },
+    {
+      "lt": "Šv. apaštalo Baltramiejaus bažnyčioje saugomi trys XVII–XVIII amžiaus variniai varpai.",
+      "en": "The Church of St Bartholomew the Apostle holds three brass bells cast in the 17th and 18th centuries.",
+      "uk": "У костелі святого апостола Варфоломія зберігаються три мідні дзвони XVII–XVIII століть."
+    }
+  ],
+  "highlightPhoto": "2026-09-19-photo-19-09-2026-12-13-42.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Siesikų pilis iš apačios: cilindrinis kampinis bokštas su kūgišku čerpių stogu",
+    "en": "Siesikai Castle seen from below, its cylindrical corner tower topped with a conical tiled roof",
+    "uk": "Сесікайський замок знизу: циліндрична кутова вежа з конічним черепичним дахом"
+  },
+  "photos": [
+    "2026-09-19-photo-19-09-2026-12-11-47.jpg",
+    "2026-09-19-photo-19-09-2026-12-12-19.jpg",
+    "2026-09-19-photo-19-09-2026-12-13-42.jpg",
+    "2026-09-19-photo-19-09-2026-12-13-45.jpg",
+    "2026-09-19-photo-19-09-2026-12-14-04.jpg",
+    "2026-09-19-photo-19-09-2026-12-14-07.jpg",
+    "2026-09-19-photo-19-09-2026-12-16-23.jpg",
+    "2026-09-19-photo-19-09-2026-12-23-24.jpg",
+    "2026-09-19-photo-19-09-2026-12-23-28.jpg",
+    "2026-09-19-photo-19-09-2026-12-25-11.jpg",
+    "2026-09-19-photo-19-09-2026-12-25-24.jpg",
+    "2026-09-19-photo-19-09-2026-12-25-25.jpg",
+    "2026-09-19-photo-19-09-2026-12-26-10.jpg",
+    "2026-09-19-photo-19-09-2026-12-31-41.jpg",
+    "2026-09-19-photo-19-09-2026-12-31-43.jpg"
+  ]
+}

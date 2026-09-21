@@ -1,0 +1,64 @@
+{
+  "slug": "ciobiskis",
+  "coordinates": {
+    "lat": 54.954096,
+    "lng": 24.659899
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": true,
+    "en": true,
+    "uk": true
+  },
+  "name": {
+    "lt": "Čiobiškis",
+    "en": "Čiobiškis",
+    "uk": "Чобішкіс"
+  },
+  "shortDescription": {
+    "lt": "Kaimas prie Musės ir Neries santakos su klasicistine bažnyčia ir dvaro ansambliu.",
+    "en": "A village at the confluence of the Musė and the Neris, with a Classical church and a manor ensemble.",
+    "uk": "Село біля злиття Мусе і Нерис із класицистичним костелом та садибним ансамблем."
+  },
+  "longDescription": {
+    "lt": "Čiobiškis — kaimas Širvintų rajone, 22 km į pietvakarius nuo Širvintų, ten, kur Musė įteka į Nerį. XVI amžiuje tai buvo prekybinis miestelis, turėjęs Magdeburgo teises, tačiau augant aplinkiniams miestams jis sunyko. Miestelio centre stovi klasicistinė Šv. Jono Krikštytojo bažnyčia, statyta 1810–1825 metais: jos fasado nišose — XIX amžiaus skulptūros, o viduje — Vilniaus piešimo mokyklos auklėtinių tapyti paveikslai. Neries ir Musės slėnyje išlikęs vėlyvojo klasicizmo dvaro ansamblis su mezoninu ir portikais papuoštais rūmais; nuo 1923 metų juose veikė našlaičių prieglauda ir pradžios mokykla, o vaikų globos namai čia tebeveikia. 1945 metų kovo 27 dieną NKVD Čiobiškio vaikų prieglaudoje susekė ir sunaikino partizanų Didžiosios Kovos apygardos štabą. Kaimas nyksta: 1989 metais čia gyveno 367 žmonės, 2021 metais — 184.",
+    "en": "Čiobiškis is a village in the Širvintos district, 22 km south-west of Širvintos, where the Musė flows into the Neris. In the 16th century it was a trading town holding Magdeburg rights, but it faded as the towns around it grew. At its centre stands the Classical Church of St John the Baptist, built between 1810 and 1825, with 19th-century sculptures in the niches of its façade and paintings by students of the Vilnius Drawing School inside. In the valley of the Neris and the Musė a late Classical manor ensemble survives, its mansion fronted by porticoes and topped with a mezzanine; from 1923 it housed an orphanage and a primary school, and a children's home still operates there. On 27 March 1945 the NKVD tracked down and destroyed the headquarters of the Didžioji Kova (Great Battle) partisan district, which had been sheltering in the Čiobiškis children's home. The village is emptying out: 367 people lived here in 1989, and 184 in 2021.",
+    "uk": "Чобішкіс — село в Ширвінтському районі, за 22 км на південний захід від Ширвінтоса, там, де річка Мусе впадає в Нерис. У XVI столітті це було торгове містечко з Магдебурзьким правом, але воно занепало, коли навколишні міста зросли. У центрі стоїть класицистичний костел святого Івана Хрестителя, збудований у 1810–1825 роках: у нішах фасаду — скульптури XIX століття, а всередині — картини вихованців Віленської школи малювання. У долині Нерис і Мусе зберігся пізньокласицистичний садибний ансамбль із палацом з мезоніном і портиками; з 1923 року там діяли сиротинець і початкова школа, а дитячий будинок працює донині. 27 березня 1945 року НКВС виявило й знищило штаб партизанського округу «Велика Боротьба» (Didžiosios Kovos apygarda), який переховувався в чобішкіському дитячому притулку. Село порожніє: 1989 року тут жило 367 осіб, а 2021 року — 184."
+  },
+  "facts": [
+    {
+      "lt": "XVI amžiuje Čiobiškis buvo prekybinis miestelis, turėjęs Magdeburgo teises.",
+      "en": "In the 16th century Čiobiškis was a trading town that held Magdeburg rights.",
+      "uk": "У XVI столітті Чобішкіс був торговим містечком із Магдебурзьким правом."
+    },
+    {
+      "lt": "Klasicistinė Šv. Jono Krikštytojo bažnyčia pastatyta 1810–1825 metais, o jos paveikslus tapė Vilniaus piešimo mokyklos auklėtiniai.",
+      "en": "The Classical Church of St John the Baptist was built in 1810–1825, and its paintings are the work of students of the Vilnius Drawing School.",
+      "uk": "Класицистичний костел святого Івана Хрестителя збудовано у 1810–1825 роках, а його картини створили вихованці Віленської школи малювання."
+    },
+    {
+      "lt": "1945 metų kovo 27 dieną NKVD sunaikino Didžiosios Kovos apygardos partizanų štabą, veikusį Čiobiškio vaikų prieglaudoje.",
+      "en": "On 27 March 1945 the NKVD destroyed the headquarters of the Didžioji Kova partisan district, which operated from the Čiobiškis children's home.",
+      "uk": "27 березня 1945 року НКВС знищило штаб партизанського округу «Велика Боротьба», що діяв у чобішкіському дитячому притулку."
+    }
+  ],
+  "highlightPhoto": "2026-09-19-photo-19-09-2026-13-54-30.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Čiobiškio bažnyčios ansamblis: balta klasicistinė Šv. Jono Krikštytojo bažnyčia, akmenų mūro tvora, vartai ir koplyčia",
+    "en": "The Čiobiškis church ensemble: the white Classical Church of St John the Baptist behind its fieldstone wall, with the gateway and a chapel",
+    "uk": "Ансамбль костелу в Чобішкісі: білий класицистичний костел святого Івана Хрестителя за кам'яним муром, брама й каплиця"
+  },
+  "photos": [
+    "2026-09-19-photo-19-09-2026-13-49-04.jpg",
+    "2026-09-19-photo-19-09-2026-13-50-51.jpg",
+    "2026-09-19-photo-19-09-2026-13-52-53.jpg",
+    "2026-09-19-photo-19-09-2026-13-54-30.jpg",
+    "2026-09-19-photo-19-09-2026-13-54-39.jpg",
+    "2026-09-19-photo-19-09-2026-13-54-41.jpg",
+    "2026-09-19-photo-19-09-2026-13-55-30.jpg",
+    "2026-09-19-photo-19-09-2026-14-03-04.jpg",
+    "2026-09-19-photo-19-09-2026-14-05-03.jpg",
+    "2026-09-19-photo-19-09-2026-14-05-20.jpg",
+    "2026-09-19-photo-19-09-2026-14-05-24.jpg"
+  ]
+}

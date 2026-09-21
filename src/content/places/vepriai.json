@@ -1,0 +1,66 @@
+{
+  "slug": "vepriai",
+  "coordinates": {
+    "lat": 55.150653,
+    "lng": 24.574264
+  },
+  "sourceLang": "en",
+  "reviewed": {
+    "lt": true,
+    "en": true,
+    "uk": true
+  },
+  "name": {
+    "lt": "Vepriai",
+    "en": "Vepriai",
+    "uk": "Вепряй"
+  },
+  "shortDescription": {
+    "lt": "Miestelis prie Veprių ežero, garsus Kalvarijų Kryžiaus keliu ir po apylinkėmis slypinčiu meteoritiniu krateriu.",
+    "en": "A town by Lake Vepriai, known for its Calvary Way of the Cross and a meteorite crater buried beneath it.",
+    "uk": "Містечко біля озера Вепряй, відоме хресною дорогою Кальварій і метеоритним кратером під околицями."
+  },
+  "longDescription": {
+    "lt": "Vepriai — miestelis Ukmergės rajone, 15 km į pietvakarius nuo Ukmergės, šiauriniame Veprių ežero krante; pro šalį teka Šventoji. Veprių vardas (Wepren) pirmą kartą paminėtas 1384 metais, kai Vytautas su kryžiuočiais, kovodamas su Jogaila, paėmė medinę Veprių pilį. Miestelio centre stovi neogotikinė Švč. Mergelės Marijos Rožinio Karalienės bažnyčia, pastatyta 1910 metais, su XVIII amžiaus paveikslais ir XIX amžiaus skulptūromis; netoliese — 1772 metų barokinė konfederatų koplyčia. Labiausiai Vepriai žinomi Kalvarijomis: 1846 metais įrengtas Kryžiaus kelias su 35 stotimis, kurių koplyčias sovietmečiu, 1962–1963 metais, nugriovė, o 1989–1990 metais tikinčiųjų aukomis atstatė. Po apylinkėmis slypi ir Veprių meteoritinis krateris — 8 km skersmens astroblema, 1967 metais atsitiktinai aptikta vykdant geologinį kartografavimą ir datuojama 160–165 milijonų metų. 2021 metais miestelyje gyveno 458 žmonės.",
+    "en": "Vepriai is a small town in the Ukmergė district, 15 km south-west of Ukmergė on the northern shore of Lake Vepriai, with the Šventoji river running past. The name (Wepren) is first recorded in 1384, when Vytautas, fighting Jogaila alongside the crusaders, took the wooden castle at Vepriai. The neo-Gothic Church of Our Lady Queen of the Rosary at its centre was built in 1910 and holds 18th-century paintings and 19th-century sculptures; a baroque confederates' chapel of 1772 stands nearby. Vepriai is best known for its Calvary: a Way of the Cross with 35 stations laid out in 1846, whose chapels were pulled down under Soviet rule in 1962–1963 and rebuilt in 1989–1990 with donations from the faithful. Buried beneath the surrounding country is the Vepriai meteorite crater, an astrobleme 8 km across, found by chance in 1967 during geological mapping and dated to 160–165 million years old. In 2021 the town had 458 residents.",
+    "uk": "Вепряй — містечко в Укмергському районі, за 15 км на південний захід від Укмерге, на північному березі озера Вепряй; поряд тече річка Швянтойі. Назва (Wepren) уперше згадується 1384 року, коли Вітовт разом із хрестоносцями, воюючи з Ягайлом, здобув дерев'яний замок у Вепряй. У центрі стоїть неоготичний костел Пресвятої Діви Марії Королеви Розарію, зведений 1910 року, з картинами XVIII століття та скульптурами XIX століття; поруч — барокова каплиця конфедератів 1772 року. Найбільше Вепряй відомі своїми Кальваріями: хресну дорогу з 35 стаціями облаштували 1846 року, за радянської влади каплиці знесли у 1962–1963 роках, а в 1989–1990 роках відбудували на пожертви вірян. Під навколишньою місцевістю залягає Вепряйський метеоритний кратер — астроблема діаметром 8 км, випадково виявлена 1967 року під час геологічного картографування й датована 160–165 мільйонами років. 2021 року в містечку мешкало 458 осіб."
+  },
+  "facts": [
+    {
+      "lt": "Veprių vardas pirmą kartą paminėtas 1384 metais, kai Vytautas su kryžiuočiais paėmė medinę Veprių pilį.",
+      "en": "Vepriai is first recorded in 1384, when Vytautas and the crusaders took the wooden castle there.",
+      "uk": "Вепряй уперше згадано 1384 року, коли Вітовт із хрестоносцями здобув тут дерев'яний замок."
+    },
+    {
+      "lt": "1846 metais įrengtas Veprių Kalvarijų Kryžiaus kelias su 35 stotimis; jų koplyčios 1962–1963 metais nugriautos, o 1989–1990 metais atstatytos tikinčiųjų aukomis.",
+      "en": "The Vepriai Calvary Way of the Cross, with 35 stations, was laid out in 1846; its chapels were demolished in 1962–1963 and rebuilt in 1989–1990 with donations from the faithful.",
+      "uk": "Хресну дорогу Вепряйських Кальварій із 35 стаціями облаштували 1846 року; її каплиці знесли у 1962–1963 роках і відбудували в 1989–1990 роках на пожертви вірян."
+    },
+    {
+      "lt": "Po Veprių apylinkėmis slypi 8 km skersmens meteoritinis krateris, 1967 metais atsitiktinai aptiktas ir datuojamas 160–165 milijonų metų.",
+      "en": "An 8 km wide meteorite crater lies buried beneath the Vepriai area, found by chance in 1967 and dated to 160–165 million years old.",
+      "uk": "Під околицями Вепряй залягає метеоритний кратер діаметром 8 км, випадково виявлений 1967 року й датований 160–165 мільйонами років."
+    }
+  ],
+  "highlightPhoto": "2026-09-19-photo-19-09-2026-13-16-03.jpg",
+  "highlightPhotoAlt": {
+    "lt": "Neogotikinė Veprių Švč. Mergelės Marijos Rožinio Karalienės bažnyčia su bokštu ir akmenų mūro tvora",
+    "en": "The neo-Gothic brick church of Our Lady Queen of the Rosary at Vepriai, with its tower and fieldstone wall",
+    "uk": "Неоготичний цегляний костел Пресвятої Діви Марії Королеви Розарію у Вепряй з вежею та кам'яним муром"
+  },
+  "photos": [
+    "2026-09-19-photo-19-09-2026-12-54-40.jpg",
+    "2026-09-19-photo-19-09-2026-12-56-21.jpg",
+    "2026-09-19-photo-19-09-2026-12-58-48.jpg",
+    "2026-09-19-photo-19-09-2026-13-00-32.jpg",
+    "2026-09-19-photo-19-09-2026-13-02-15.jpg",
+    "2026-09-19-photo-19-09-2026-13-02-28.jpg",
+    "2026-09-19-photo-19-09-2026-13-05-19.jpg",
+    "2026-09-19-photo-19-09-2026-13-08-11.jpg",
+    "2026-09-19-photo-19-09-2026-13-09-03.jpg",
+    "2026-09-19-photo-19-09-2026-13-11-32.jpg",
+    "2026-09-19-photo-19-09-2026-13-14-04.jpg",
+    "2026-09-19-photo-19-09-2026-13-14-08.jpg",
+    "2026-09-19-photo-19-09-2026-13-16-03.jpg"
+  ]
+}
