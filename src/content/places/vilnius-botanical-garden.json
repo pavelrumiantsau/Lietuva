@@ -1,52 +1,52 @@
 {
-  "slug": "vilnius-botanical-garden",
+  "slug": "vilnius-botanical-garden-vingis",
   "coordinates": {
-    "lat": 54.7358,
-    "lng": 25.4028
+    "lat": 54.683172,
+    "lng": 25.231893
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
-    "lt": "Vilniaus universiteto botanikos sodas",
-    "en": "Vilnius University Botanical Garden",
-    "uk": "Ботанічний сад Вільнюського університету"
+    "lt": "Vilniaus universiteto botanikos sodas (Vingio skyrius)",
+    "en": "Vilnius University Botanical Garden (Vingis section)",
+    "uk": "Ботанічний сад Вільнюського університету (Секція парку Вінгіс)"
   },
   "shortDescription": {
-    "lt": "Didžiausias Lietuvos botanikos sodas, įsikūręs buvusiame dvaro parke į rytus nuo Vilniaus.",
-    "en": "The largest botanical garden in Lithuania, spread across a former manor estate east of Vilnius.",
-    "uk": "Найбільший ботанічний сад Литви, розташований на території колишнього маєтку на схід від Вільнюса."
+    "lt": "Seniausias Vilniaus universiteto botanikos sodo skyrius, įsikūręs Vingio parke, buvusio jėzuitų dvaro teritorijoje.",
+    "en": "The original, historic section of Vilnius University Botanical Garden, tucked into Vingis Park on the site of a former Jesuit estate.",
+    "uk": "Історична, найстаріша частина Ботанічного саду Вільнюського університету, розташована в парку Вінгіс на території колишнього єзуїтського маєтку."
   },
   "longDescription": {
-    "lt": "Vilniaus universiteto botanikos sodo istorija prasidėjo 1781 metais, kai profesorius Jeanas Emmanuelis Gilibertas įkūrė sodą prie universiteto — tai vienas seniausių tokio pobūdžio institutų regione. Uždarytas kartu su universitetu 1832 metais ir vėliau atkurtas Vingio parke 1919-aisiais, sodo pagrindinės kolekcijos 1974 metais persikėlė į naują 148 hektarų sklypą Kairėnuose, apimantį buvusio Kairėnų dvaro teritoriją ir apleistus dvaro rūmus. Šiandien bendra sodo teritorija siekia beveik 200 hektarų, o jame auginama apie 11 000 augalų taksonų iš 220 šeimų — tai gerokai didžiausias botanikos sodas Lietuvoje.",
-    "en": "The Vilnius University Botanical Garden traces its origins to 1781, when professor Jean-Emmanuel Gilibert founded a garden at the university, making it one of the oldest institutions of its kind in the region. Closed along with the university in 1832 and later reestablished in Vingis Park in 1919, the garden's main collections moved in 1974 to a new 148-hectare site in Kairėnai, incorporating the grounds and dilapidated manor house of the former Kairėnai estate. Today the garden's combined territory covers nearly 200 hectares and holds roughly 11,000 plant taxa across 220 families, making it by far the largest botanical garden in Lithuania.",
-    "uk": "Історія Ботанічного саду Вільнюського університету починається 1781 року, коли професор Жан-Емманюель Жилібер заснував сад при університеті — один із найстаріших закладів такого типу в регіоні. Закритий разом з університетом 1832 року і згодом відновлений у парку Вінгіс 1919-го, основні колекції саду 1974 року переїхали на нову ділянку площею 148 гектарів у Кайренай, що включила територію колишнього маєтку Кайренай і занедбаний садибний будинок. Сьогодні загальна територія саду сягає майже 200 гектарів, а в ньому вирощується близько 11 000 таксонів рослин із 220 родин — це найбільший ботанічний сад Литви."
+    "lt": "Po Pirmojo pasaulinio karo atkūrus Vilniaus universitetą, botanikos sodas 1919–1920 metais buvo įkurtas nedideliame sklype Vingio parke, žemutinėje Neries terasoje — teritorijoje, nuo XVI amžiaus pabaigos priklausiusioje jėzuitams ir jau 1646 metais minimoje kaip vaistažolių daržas. 1974 metais pagrindinėms sodo kolekcijoms persikėlus į naują sklypą Kairėnuose, Vingio teritorija tapo atskiru skyriumi, dešimtmečiais vadintu Sistematikos ir geografijos skyriumi. Šiandien čia išlikę tokie istoriniai objektai kaip 1714 metų plytų mūro tvora, 1926–1929 metais pastatyti šiltnamiai ir šimtametė liepų alėja, o kolekcijas sudaro rožynas, alpinariumas, atkurtas jėzuitų vaistažolių daržas ir daugiau nei 300 veislių tulpių kolekcija, kiekvieną pavasarį per Tulpių šventę pritraukianti minias lankytojų.",
+    "en": "After Vilnius University reopened following the First World War, the botanical garden was reestablished in 1919–1920 on a small plot in Vingis Park, on the lower terrace of the Neris River — an area that had belonged to the Jesuits since the late 16th century and held a medicinal herb garden recorded as early as 1646. When the garden's main collections moved to the new Kairėnai site in 1974, the Vingis plot continued as a separate section, known for decades as the Systematic Plants and Geography Section. Today it preserves historic structures such as a 1714 brick estate wall, greenhouses built in 1926–1929, and a centuries-old linden alley, alongside collections including a rose garden, an alpine garden, a reconstructed Jesuit herb garden, and a tulip collection of over 300 varieties that draws crowds each spring during the Tulip Festival.",
+    "uk": "Після відновлення діяльності Вільнюського університету по завершенні Першої світової війни ботанічний сад 1919–1920 років було відновлено на невеликій ділянці в парку Вінгіс, на нижній терасі Нярісу — території, що з кінця XVI століття належала єзуїтам і вже 1646 року згадувалася як город лікарських трав. Коли 1974 року основні колекції саду переїхали на нову ділянку в Кайренай, територія у Вінгісі стала окремим відділом, який десятиліттями називався Відділом систематики рослин і географії. Сьогодні тут збереглися такі історичні об'єкти, як цегляна огорожа маєтку 1714 року, теплиці, збудовані 1926–1929 років, і вікова липова алея, а колекції включають трояндовий сад, альпінарій, відтворений єзуїтський город лікарських трав та колекцію тюльпанів понад 300 сортів, яка щовесни під час Свята тюльпанів приваблює натовпи відвідувачів."
   },
   "facts": [
     {
-      "lt": "Sodą 1781 metais įkūrė profesorius Jeanas Emmanuelis Gilibertas — tai vienas seniausių botanikos sodų regione.",
-      "en": "The garden was founded in 1781 by professor Jean-Emmanuel Gilibert, making it one of the oldest botanical gardens in the region.",
-      "uk": "Сад заснував 1781 року професор Жан-Емманюель Жилібер — це один із найстаріших ботанічних садів регіону."
+      "lt": "Sodo pradžia čia siekia 1919–1920 metus, tačiau atskiru skyriumi ši teritorija tapo tik 1974 metais, kai pagrindinės kolekcijos persikėlė į Kairėnus.",
+      "en": "The garden's origins here date to 1919–1920, but it only became a distinct section in 1974, when the main collections relocated to Kairėnai.",
+      "uk": "Початки саду тут сягають 1919–1920 років, проте окремим відділом ця територія стала лише 1974 року, коли основні колекції переїхали в Кайренай."
     },
     {
-      "lt": "1974 metais pagrindinė sodo teritorija persikėlė į Kairėnus, perimdama buvusio dvaro sklypą.",
-      "en": "In 1974, the garden's main site moved to Kairėnai, absorbing the grounds of a former manor estate.",
-      "uk": "1974 року основна територія саду переїхала в Кайренай, увібравши в себе територію колишнього маєтку."
+      "lt": "Teritorija nuo XVI amžiaus pabaigos priklausė jėzuitams — čia dar 1646 metais minimas vaistažolių daržas, o 1714 metais pastatyta plytų mūro tvora.",
+      "en": "The site was a Jesuit estate from the late 16th century, with a medicinal herb garden documented here as early as 1646 and a brick boundary wall dating to 1714.",
+      "uk": "Територія з кінця XVI століття належала єзуїтам — тут ще 1646 року згадується город лікарських трав, а 1714 року зведено цегляну огорожу."
     },
     {
-      "lt": "Sodo kolekcijose auginama apie 11 000 augalų taksonų iš 220 šeimų — tai didžiausia tokia kolekcija Lietuvoje.",
-      "en": "The garden's collections hold roughly 11,000 plant taxa across 220 families, the largest such collection in Lithuania.",
-      "uk": "У колекціях саду вирощують близько 11 000 таксонів рослин із 220 родин — найбільшу таку колекцію в Литві."
+      "lt": "Tulpių kolekciją sudaro daugiau nei 300 rūšių ir veislių — kasmet pavasarį vykstanti Tulpių šventė pritraukia tūkstančius lankytojų.",
+      "en": "The tulip collection numbers over 300 species and varieties, drawing thousands of visitors to the annual spring Tulip Festival.",
+      "uk": "Колекція тюльпанів налічує понад 300 видів і сортів — щорічне весняне Свято тюльпанів приваблює тисячі відвідувачів."
     }
   ],
-  "highlightPhoto": "2022-08-21-img-20220821-163706.jpg",
+  "highlightPhoto": "2022-08-21-img-20220821-161953.jpg",
   "highlightPhotoAlt": {
-    "lt": "Žydintys augalų ploteliai Vilniaus universiteto botanikos sode Kairėnuose",
-    "en": "Flowering plant beds in the Vilnius University Botanical Garden at Kairėnai",
-    "uk": "Квітучі клумби у Ботанічному саду Вільнюського університету в Кайренай"
+    "lt": "Žydintys augalų ploteliai Vilniaus universiteto botanikos sode",
+    "en": "Flowering plant beds in the Vilnius University Botanical Garden",
+    "uk": "Квітучі клумби у Ботанічному саду Вільнюського університету"
   },
   "photos": [
     "2022-08-21-img-20220821-161648.jpg",
