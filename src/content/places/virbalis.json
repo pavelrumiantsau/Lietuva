@@ -1,14 +1,14 @@
 {
   "slug": "virbalis",
   "coordinates": {
-    "lat": 54.6333,
-    "lng": 22.8167
+    "lat": 54.625923,
+    "lng": 22.824136
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Virbalis",
@@ -44,9 +44,9 @@
   ],
   "highlightPhoto": "2026-03-07-photo-07-03-2026-14-49-53.jpg",
   "highlightPhotoAlt": {
-    "lt": "Istorinė gatvė buvusiame pasienio miestelyje Virbalyje",
-    "en": "A historic street in the former border town of Virbalis",
-    "uk": "Історична вулиця у колишньому прикордонному містечку Вірбаліс"
+    "lt": "Raudonų plytų pastatas Virbalyje su Lietuvos vėliava",
+    "en": "Red-brick public building in Virbalis with a Lithuanian flag",
+    "uk": "Цегляна будівля у Вірбалісі з литовським прапором"
   },
   "photos": [
     "2026-03-07-photo-07-03-2026-14-34-13.jpg",
