@@ -6,9 +6,9 @@
   },
   "sourceLang": "en",
   "reviewed": {
-    "lt": false,
-    "en": false,
-    "uk": false
+    "lt": true,
+    "en": true,
+    "uk": true
   },
   "name": {
     "lt": "Visaginas",
@@ -42,11 +42,11 @@
       "uk": "Сусідню Ігналінську АЕС, яка колись забезпечувала 70 відсотків електроенергії Литви, зупинили 31 грудня 2009 року як умову вступу до ЄС."
     }
   ],
-  "highlightPhoto": "2022-09-17-img-20220917-150121.jpg",
+  "highlightPhoto": "2022-09-17-img-20220917-150249.jpg",
   "highlightPhotoAlt": {
-    "lt": "Sovietinio modernizmo gyvenamieji namai Visagine",
-    "en": "Soviet-era modernist apartment blocks in Visaginas",
-    "uk": "Житлові будинки радянського модернізму у Вісагінасі"
+    "lt": "Visagino miesto ženklas prie pėsčiųjų tako, apsupto pušų",
+    "en": "The Visaginas town sign along a pine-lined pedestrian walkway",
+    "uk": "Напис «Visaginas» біля пішохідної доріжки серед сосон"
   },
   "photos": [
     "2022-09-17-img-20220917-143442.jpg",
